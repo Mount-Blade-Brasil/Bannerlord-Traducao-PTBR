@@ -16,7 +16,7 @@
     <string id="2mb88jLa" text="Adolescente de aserai" />
     <string id="2U2Hy2Su" text="Fairhair" />
     <string id="37NYZMtc" text="Criança de battania" />
-    <string id="3F8NEunR" text="{FIRSTNAME}, o Dyer" />
+    <string id="3F8NEunR" text="{FIRSTNAME}, o Tintureiro" />
     <string id="3PjtHgT6" text="Artesão Vlandiano" />
     <string id="3uBqZwN3" text="Adolescente nobre da battania" />
     <string id="3wzexaA7" text="A loba" />
@@ -29,15 +29,15 @@
     <string id="58vdP9Ef" text="{FIRSTNAME}, o Acumulador" />
     <string id="5nthUXyw" text="Comandante notável esturiano" />
     <string id="5p8KHxxC" text="Fora da lei da Battania" />
-    <string id="5SEtj5Nl" text="Fora da lei do império" />
+    <string id="5SEtj5Nl" text="Fora da lei do Império" />
     <string id="5sgfnS5M" text="Adolescente aldeão de sturgia" />
     <string id="5vCmUC9b" text="Fora da lei do império" />
     <string id="61bJ4Aat" text="Adolescente nobre de aserai" />
-    <string id="6CAbkgS4" text=", o Wainwright" />
+    <string id="6CAbkgS4" text=" Wainwright" />
     <string id="7apnGFz7" text=", o Preto" />
     <string id="7hrmlfxh" text="da Legião" />
     <string id="7kMLQcAd" text="{FIRSTNAME}, o Vendedor" />
-    <string id="7lg12a57" text=", o corajoso" />
+    <string id="7lg12a57" text=", o Corajoso" />
     <string id="8AiL0OHC" text="Menina da sturgia" />
     <string id="8mCL2HhJ" text="{FIRSTNAME}, o Comerciante de cobre" />
     <string id="8o5SDCCJ" text=", o Tubarão" />
@@ -93,13 +93,13 @@
     <string id="ECjabnlK" text="Fora da lei khuzait" />
     <string id="EFrbyeN5" text="Líder de trabalho do império" />
     <string id="Emz7apGQ" text="equipmento de artesão" />
-    <string id="eobXmmLg" text="da empresa" />
+    <string id="eobXmmLg" text="da companhia" />
     <string id="Eou5itzp" text="Pastor puritano" />
     <string id="EsKrdS5b" text="Líder de gangue" />
     <string id="f6nE1Qx2" text="Comerciante desonesto do império" />
     <string id="fHafdaTP" text="Adolecente nobre do império" />
     <string id="fJmGKlaO" text="Cavaleiro" />
-    <string id="FtpxQYf0" text="{FIRSTNAME} o Rápido" />
+    <string id="FtpxQYf0" text="{FIRSTNAME}, o Rápido" />
     <string id="fx7Pve2q" text="Equipamento de comerciante" />
     <string id="G8mawcBV" text="o curandeiro" />
     <string id="GaakYUTl" text="Líder de gangue do império" />
@@ -149,8 +149,8 @@
     <string id="KkStFl12" text="dos Peles de lobo" />
     <string id="KnTl4ESh" text="Ladrão de vaca" />
     <string id="KphYbafC" text="Contendor" />
-    <string id="KTObbG71" text="o Errante" />
-    <string id="KY2zbWkj" text="o Rápido" />
+    <string id="KTObbG71" text=", o Errante" />
+    <string id="KY2zbWkj" text=", o Rápido" />
     <string id="LaDppi2W" text="Battaniano orgulhoso" />
     <string id="lbIgOHea" text="Vendedor esturiano honrado" />
     <string id="ldArPXQE" text="Mística sturgiana" />
@@ -185,22 +185,22 @@
     <string id="PSz6SqsS" text="Criança nobre da battania" />
     <string id="pTuZB1Hj" text="Barriga de ferro" />
     <string id="pywrXN0I" text="Menina do império" />
-    <string id="pZSAdyC0" text="o açougueiro" />
-    <string id="q5QjQyde" text="o louco" />
+    <string id="pZSAdyC0" text="o Açougueiro" />
+    <string id="q5QjQyde" text="o Louco" />
     <string id="qeNv4ftk" text="{FIRSTNAME}, o Quebrado" />
     <string id="QGcgQDqK" text="da Irmandade" />
     <string id="QguTscz7" text="artesão rebelde da battania" />
     <string id="qHK7IZ1Q" text="Chefe desonesto khuzait" />
     <string id="Qm5cstq3" text="Ulyk" />
-    <string id="qP11ARtb" text="{FIRSTNAME}, o órfão" />
-    <string id="qslA0bVb" text="o vermelho" />
+    <string id="qP11ARtb" text="{FIRSTNAME}, o Órfão" />
+    <string id="qslA0bVb" text=", o Vermelho" />
     <string id="QWbgE4bw" text="olho de ferro" />
-    <string id="QyQPJJ9B" text="o amaldiçoado" />
+    <string id="QyQPJJ9B" text=", o amaldiçoado" />
     <string id="qzpdvbhm" text="{FIRSTNAME}, o Vendedor de seda" />
     <string id="qzuAtcoI" text="Artesão conservador khuzait" />
     <string id="R0NM6lfm" text="Raekel" />
     <string id="reXz8NlZ" text="Mercador do império" />
-    <string id="rgdi5Sxa" text="o príncipe" />
+    <string id="rgdi5Sxa" text=", o Príncipe" />
     <string id="rhKSDQbR" text="Adolescente de vlandia" />
     <string id="rHp3tOCo" text="Menino de aserai" />
     <string id="RJ3WezQ9" text="Artesão esturgiano" />
@@ -241,7 +241,7 @@
     <string id="vtXRptVa" text="o Precioso" />
     <string id="VWwDT1hV" text="Artesão rebelde khuzait" />
     <string id="W0lWJ8k3" text="Equipamento de Caracterização" />
-    <string id="W7aa22Yl" text="Crânio quebrado" />
+    <string id="W7aa22Yl" text=", Crânio quebrado" />
     <string id="w85UE1ki" text="Fergus da Battania" />
     <string id="waA4ph2S" text="{FIRSTNAME}, o Salgado" />
     <string id="wc9LrDL8" text="Criança khuzait" />
@@ -252,9 +252,9 @@
     <string id="WvwWX4me" text="Barrelchest" />
     <string id="wXOz68g0" text="Nobre notável do império" />
     <string id="X2TtXlAq" text="Pericleia" />
-    <string id="x95hX9Qv" text="{FIRSTNAME} o Surdo" />
+    <string id="x95hX9Qv" text="{FIRSTNAME}, o Surdo" />
     <string id="Xa2WYyjx" text="Líder de trabalho do império" />
-    <string id="XBJtv4mD" text="o Vendedor de especiarias" />
+    <string id="XBJtv4mD" text=", o Vendedor de especiarias" />
     <string id="XPwQab9R" text="Mercador honesto esturiano" />
     <string id="XSI7xub4" text="Umda notável de aserai" />
     <string id="xTQPfmS9" text=", o Touro" />
@@ -270,15 +270,15 @@
     <string id="yr5pa0hs" text="Casca de salgueiro" />
     <string id="YTe7J6bY" text="Fora da lei de vlandia" />
     <string id="ZAa9OSfV" text="Mercador ousada de vlandia" />
-    <string id="ZCc3VFat" text="o Grisalho" />
+    <string id="ZCc3VFat" text=", o Grisalho" />
     <string id="zCCuv0Bv" text="Chefe rebelde da battania" />
     <string id="zChW5bUM" text="Pregador rebelde Aserai" />
     <string id="ZFb9a3Rc" text="Artesão desonesto do battania" />
     <string id="zkoc5QaI" text="Comerciante herdeiro do império" />
     <string id="zQbIvOFI" text="Adolescente de vlandia" />
     <string id="ZrJA3BVo" text="Comerciante baixo de vlandia" />
-    <string id="Zu3RUIrG" text="Adolescente battania" />
-    <string id="zXiMWnbX" text="{FIRSTNAME} a herdeira" />
+    <string id="Zu3RUIrG" text="Adolescente battaniano" />
+    <string id="zXiMWnbX" text="{FIRSTNAME}, a herdeira" />
     <string id="zXjdb1zT" text="Barba de geada" />
     <string id="zYQCc3Ma" text="Criança do império" />
   </strings>

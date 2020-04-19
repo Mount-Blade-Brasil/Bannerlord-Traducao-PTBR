@@ -4,7 +4,7 @@
     <tag language="Português Brasileiro" />
   </tags>
   <strings>
-    <string id="05fdfc6e238429753ef282f2ce97c1f8" text="Quantidade de Pilahagem:" />
+    <string id="05fdfc6e238429753ef282f2ce97c1f8" text="Quantidade de Pilhagem:" />
     <string id="08abd5af7774d311cadc3ed900b47754" text="Tipo:" />
     <string id="0Q4Xo2BQ" text="Selecionar o líder do novo grupo" />
     <string id="0rBsbw1T" text="Sem efeito" />
@@ -12,26 +12,25 @@
     <string id="154a34f8caccfc833238cc89d38861e8" text="Requerimentos:" />
     <string id="1CXlqb2U" text="Escolher:" />
     <string id="1oeak0OC" text="Forjar" />
-    <string id="29kdPaeK" text="Este herói está ocupado" />
     <string id="2abtb4xu" text="Independente" />
     <string id="2ckyCKR7" text="Reservar" />
     <string id="2Cq3tViJ" text="Limite do tamanho da tropa" />
-    <string id="2GWR9Cba" text="Hearth" />
+    <string id="2GWR9Cba" text="Lareira" />
     <string id="2nN1QuxZ" text="Essa missão falhará, a menos que concluída neste momento." />
     <string id="3025020b83b218707499f0de3135ed0a" text="Manobra:" />
     <string id="305cf7f98458b22e9af72b60a131714f" text="Armadura Equestre:" />
     <string id="345a87fcc69f626ae3916939ef2fc135" text="Velocidade Corte:" />
-    <string id="3ab000d582d2f304e8bed9109ff147a2" text="Consumível" />
     <string id="3CpNUnVl" text="Cancelar" />
     <string id="3F0y3ugx" text="Êxito!" />
     <string id="3ORSs1nN" text="Bônus atual: {BONUS}" />
     <string id="3sxtCWPe" text="Deixando o Reino" />
-    <string id="43HYUImy" text="{SETTLEMENT}'s Cerco" />
+    <string id="43HYUImy" text="Cerco à {SETTLEMENT}" />
     <string id="4cU98rkg" text="Fundição" />
+    <string id="4Dd2xgPm" text="Peso" />
     <string id="4U9EnZt5" text="Sucesso crítico!" />
     <string id="4uMWNDoi" text="Velocidade de estocada" />
     <string id="51ZgFP8d" text="Correndo de {TARGET_PARTY}." />
-    <string id="5bzk75Ql" text="Envolvendo {TARGET_PARTY}." />
+    <string id="5bzk75Ql" text="Perseguindo {TARGET_PARTY}." />
     <string id="5dCR9ixM" text="Você pode vender este negócio por {AMOUNT} denares." />
     <string id="5dec16fa0be433ade3c4cb0074ef366d" text="Precisão:" />
     <string id="5fa36d2798479803b4518a64beb4d732" text="Comprimento de arma:" />
@@ -39,10 +38,12 @@
     <string id="63Ic1Ahe" text="Custo: {UPGRADE_COST} (você não possui)" />
     <string id="68IlDbA2" text="Você precisa do {PERK_NAME} para atualizar uma tropa de bandidos para uma tropa normal." />
     <string id="6adabc1f82216992571c3e22abc164d7" text="Limite de munição:" />
+    <string id="6GSXsdeX" text="Velocidade" />
     <string id="74dc1908cb0b990e80fb977b5a0ef10d" text="Velocidade:" />
     <string id="7h6cXdW7" text="Engenheiro" />
     <string id="7tBOCHm6" text="Cor do brasão:" />
     <string id="7Xynf4IA" text="Manoplas" />
+    <string id="8BlMRMiR" text="Nível do cavalo" />
     <string id="8cad4a279770f269c4bb0dc7a357ee1e" text="Classe:" />
     <string id="8SOh9bah" text="Selecionar produção" />
     <string id="92M0Pb5T" text="Olheiro" />
@@ -60,8 +61,9 @@
     <string id="aROohsat" text="Já está em outro exército." />
     <string id="aTdrjrEh" text="{SWING_DAMAGE_FACTOR}" />
     <string id="aVH7pKnK" text="Próximo bônus: {BONUS}" />
-    <string id="AxRxT2Xj" text="Uma vez que um exército for dissolvido, ele se une a um grupo do clã próximo ou vai para o assentamento da facção mais próximo e se junta à guarnição.\nVocê não poderá desfazer/cancelar esta ação.\nTem certeza?" />
+    <string id="AxRxT2Xj" text="Uma vez que um exército for dissolvido, ele se une a um grupo do clã próximo ou vai para o assentamento da facção mais próximo e se junta à guarnição. Você não poderá desfazer/cancelar esta ação. Tem certeza?" />
     <string id="B0pFBs5P" text="Em execução a partir de {TARGET_PARTY}" />
+    <string id="bAqDnkaT" text="Velocidade dos disparos " />
     <string id="bd7oAQq6" text="Diário" />
     <string id="bdp65LWd" text="Função do clã" />
     <string id="bfQLwMUp" text="Clãs" />
@@ -80,6 +82,7 @@
     <string id="cbbUzYX3" text="Dificuldade: {DIFFICULTY}" />
     <string id="CExQ40Ux" text="{PARTY_1S_MEMBERS}" />
     <string id="cf61cce254c7dca65be9bebac7fb9bf5" text="Proteção de braços:" />
+    <string id="cnmRwV4s" text="Limite de munição" />
     <string id="CnsIzaWo" text="Campo de batalha" />
     <string id="cUUI8u2G" text="Força para forjar" />
     <string id="d2K6gMsZ" text="Deixar membros. Precisa de pelo menos 1 companheiro." />
@@ -88,10 +91,13 @@
     <string id="DNq9bdvV" text="{THRUST_DAMAGE_FACTOR}" />
     <string id="dO95yR9b" text="Dano de estocada" />
     <string id="Dqydb21E" text="{PARTY_SIZE}" />
+    <string id="dWYm9GsC" text="Requires" />
     <string id="DzviXC3W" text="Nível:" />
     <string id="e8390c3480028e34c370c7b60ebc41e2" text="Tipo de cavalo:" />
     <string id="ebbyLN2i" text="Cidades" />
+    <string id="eHVq6yDa" text="Propriedade do item" />
     <string id="eikN2SUN" text="Última execução {DAYS} dias atrás." />
+    <string id="eIws123Z" text="Proteção de pernas" />
     <string id="EQHq3bHM" text="Viajando para {TARGET_PARTY}" />
     <string id="ErnykQEH" text="Saídas" />
     <string id="eTw2aNV5" text="+" />
@@ -118,17 +124,19 @@
     <string id="HFZdseH9" text="Somente o governante do reino pode mudar o nome." />
     <string id="HHTQVp52" text="Taxa de cura de heróis" />
     <string id="hJypvWMR" text="Refinar" />
+    <string id="HkfY3Ds5" text="Blindagem corporal" />
+    <string id="hn9TPqhK" text="Nível da arma" />
     <string id="horseTier" text="Nível do cavalo:" />
     <string id="hr4MuPnt" text="Materiais necessários" />
     <string id="hTzTMLsf" text="Visualizar distância" />
     <string id="hylxyNtU" text="Você não tem o suficiente." />
     <string id="Hz8XO8wk" text="Os governadores não podem liderar um grupo móvel e liderar ao mesmo tempo" />
     <string id="IagYTD5O" text="Prosperidade" />
-    <string id="IcgVKFxZ" text="Regra" />
+    <string id="IcgVKFxZ" text="Regente" />
     <string id="idRXFzQ6" text="Já foi adicionado ao exército." />
     <string id="IJdjwXvn" text="Nível atual:" />
     <string id="Ioiqzz4E" text="Você precisa estar em um exército para aumentar a coesão" />
-    <string id="ipLqVv1f" text="Você não pode convidar o partido do governante para o seu exército." />
+    <string id="ipLqVv1f" text="Você não pode convidar o grupo do governante para o seu exército." />
     <string id="it8oPzb1" text="Classificação Criminal" />
     <string id="iXXTONWb" text="({PARTY_SIZE})" />
     <string id="iZ3w6opW" text="Coesão" />
@@ -137,16 +145,17 @@
     <string id="j4F7tTzy" text="Clã" />
     <string id="J8ddrAOf" text="Efeitos do Governador" />
     <string id="j8uZBakZ" text="{PROPERTIES}" />
-    <string id="JIr3Jc7b" text="Abandonar todas as explorações" />
+    <string id="JIr3Jc7b" text="Renunciar a todas as propriedades" />
     <string id="jlgjLDo7" text="Guarnição" />
     <string id="JOELdSab" text="O negócio não tem capital suficiente para a atualização. Precisa de pelo menos {AMOUNT} denares." />
     <string id="jPBhgu7a" text="Acampamento" />
-    <string id="jQdBl4hf" text="Governador de " />
+    <string id="jQdBl4hf" text="Governador de" />
     <string id="JTxI3sW2" text="Sitiando {TARGET_SETTLEMENT}" />
     <string id="Jyfkahka" text="{VALUE} ({?POSITIVO}+{?}{\?}{DELTA_VALUE})" />
     <string id="JYOcl7Ox" text="Ineficaz!" />
     <string id="JzrodcIR" text="Não há ninguém disponível no seu clã que possa governar este assentamento agora." />
     <string id="k1E9DuKi" text="Selecionar tudo" />
+    <string id="kftE5nvv" text="Armadura de cavalo" />
     <string id="knwId8DG" text="Você não pode atribuir um prisioneiro como governador de um assentamento" />
     <string id="koX9okuG" text="Nenhum" />
     <string id="kqeA8rjL" text="Tem certeza de que deseja desbandar seu exército?" />
@@ -154,9 +163,11 @@
     <string id="KTKBKmvp" text="Fator de dano de estocada" />
     <string id="KTTyBbsp" text="HP máximo" />
     <string id="kWVbHPtT" text="Total" />
+    <string id="kx7q8ybD" text="Armadura de armadura" />
     <string id="LBNzsqyb" text="Feudos" />
     <string id="lc9s4rLZ" text="Criar exército" />
     <string id="LEiZWuZm" text="{SKILL_NAME}: {SKILL_VALUE}" />
+    <string id="lGWb26Lj" text="Este herói está ocupado com uma missão." />
     <string id="LpsoPtOo" text="Projetos" />
     <string id="LsZEdD2z" text="Paredes" />
     <string id="LVmkE2Ow" text="Tropas prontas para a batalha" />
@@ -164,10 +175,12 @@
     <string id="lxwGbRwu" text="x {SHOP_DIFFERENCE_COUNT}" />
     <string id="McJjNM50" text="Custo: {UPGRADE_COST}" />
     <string id="mDFhzEMC" text="Pontos de Vida Max." />
+    <string id="Mfbc4rQR" text="Dano de carga" />
     <string id="mg7id9om" text="Quantidade de mantimentos" />
     <string id="mGUSMpTX" text="Cofre" />
     <string id="mp68RYnD" text="Tamanho Limite do Exército" />
     <string id="MqCH7R4A" text="Segurança" />
+    <string id="myMbtwXi" text="Morale Bonus" />
     <string id="N63XYX2r" text="Suporte" />
     <string id="N6QTvjMf" text="Prisioneiros" />
     <string id="NAA4pajB" text="Você precisa deixar seu exército atual para criar um novo." />
@@ -176,6 +189,7 @@
     <string id="nMcvafHY" text="Ativo" />
     <string id="NRpbagbZ" text="Correndo para {TARGET_PARTY}" />
     <string id="nYYUQQm0" text="Fator de dano por velocidade" />
+    <string id="O3dhjtOS" text="Armadura da Cabeça" />
     <string id="oBbiVeKE" text="Pontos de vida" />
     <string id="ocSW4WA2" text="Falha crítica!" />
     <string id="oibdTnXP" text="Manuseio" />
@@ -198,8 +212,8 @@
     <string id="PRE5RKpp" text="Você deve descansar antes de poder executar esta ação." />
     <string id="PS02CqPu" text="{PARTY_MEMBER.LINK} (Saúde: {MEMBER_HEALTH}%)" />
     <string id="Pvx4TU66" text="Transferir todas as tropas principais" />
-    <string id="pWfadZg9" text="Partidos no exército" />
-    <string id="pWObBhj5" text="Você não pode atribuir um líder do partido como novo governador de um assentamento" />
+    <string id="pWfadZg9" text="Grupos no exército" />
+    <string id="pWObBhj5" text="Você não pode atribuir um líder do grupo como novo governador de um assentamento" />
     <string id="PXT6aA4J" text="Opções de Campanha" />
     <string id="q1J4a8rr" text="Taxa de aprendizagem" />
     <string id="QBPrRdQJ" text="Cirurgião" />
@@ -212,22 +226,27 @@
     <string id="qSi4DlT4" text="Comida" />
     <string id="QXBf26Rv" text="Comportamento desconhecido" />
     <string id="QyVbwGLp" text="{PARTY_SIZE}" />
-    <string id="qZvNIVGV" text="Não há ninguém disponível no seu clã que possa liderar uma festa agora." />
+    <string id="qZvNIVGV" text="Não há ninguém disponível no seu clã que possa liderar um grupo agora." />
     <string id="R2AaCaPJ" text="Alteração esperada" />
     <string id="Ra17aK4e" text="Capital:" />
     <string id="Raa4j4rF" text="Necessário: {UPGRADE_ITEM}" />
     <string id="RClxLG6N" text="Esperando" />
     <string id="redwEIlW" text="Quartel-mestre" />
+    <string id="rg7OuWS2" text="Manobra" />
     <string id="rgqA29b8" text="Você não tem habilidade suficiente em {SKILL_NAME} para equipar este item" />
     <string id="rGy8vjOv" text="Defendendo {TARGET_SETTLEMENT}." />
     <string id="Rkh2k1OA" text="Conclusão:" />
     <string id="rsHPaaYZ" text="A coesão precisa ser menor que {MINAMOUNT} para aumentar" />
     <string id="rThSy9ed" text="Obrigatório: {UPGRADE_ITEM} (você não possui nenhum)" />
     <string id="RVPidk5a" text="Influência" />
+    <string id="s31DnnAf" text="Dano" />
     <string id="s5b77f0H" text="Adicione + {BOOSTAMOUNT} coesão ao seu exército" />
     <string id="s6koeapc" text="{MAP_FACTION}" />
+    <string id="S9tmCkHz" text="Este herói está limpando uma área comum" />
+    <string id="sa2TQu1G" text="Este herói está ocupado com um problema." />
     <string id="Sls0KQVn" text="Eleições" />
     <string id="slzfQzl3" text="Este herói está perdido" />
+    <string id="sqdzHOPe" text="Classe" />
     <string id="Srr4rOSq" text="Transferir todos os outros prisioneiros" />
     <string id="SVJlOYCB" text="O grupo tem menos homens que 40% do seu limite de tamanho." />
     <string id="sVsaWZjg" text="Transferir todas as outras tropas" />
@@ -243,18 +262,20 @@
     <string id="Te4xxzzK" text="Denars" />
     <string id="tf7301NC" text="Taxa de recuperação" />
     <string id="tFGM0yav" text="Esta parte está se dissolvendo." />
+    <string id="twtbH1zv" text="Quantidade da pilha" />
     <string id="TzLtVzdg" text="Tropas Feridas" />
     <string id="UbZL2BJQ" text="Pontos de vida" />
     <string id="UHLcmf9A" text="Limite de tamanho de prisioneiros" />
     <string id="uJro3Bua" text="Acima do limite" />
     <string id="uoDuiBZR" text="Você não pode se atribuir como governador" />
+    <string id="US7UmBbt" text="Nível da armadura" />
     <string id="UxAl9iyi" text="Pessoal" />
-    <string id="v3OF6vBg" text="Yield" />
+    <string id="v3OF6vBg" text="Produção" />
     <string id="Ve5jkJqf" text="Oferta Automática" />
     <string id="ViYdZUbQ" text="Exército Desperso" />
     <string id="vLaBJFGy" text="{PARTY_MEMBER.LINK} ({PARTY_SIZE})" />
     <string id="Voa0sinH" text="Necessário: {NEEDED_EXP_AMOUNT} xp (você possui {CURRENT_EXP_AMOUNT})" />
-    <string id="vOojEcIf" text="Você não pode atribuir um membro preso como novo líder do partido" />
+    <string id="vOojEcIf" text="Você não pode atribuir um membro preso como novo líder do grupo" />
     <string id="Vq8yavES" text="Já está no exército." />
     <string id="VtWa9Pmh" text="Invadindo {TARGET_SETTLEMENT}." />
     <string id="VZjxs5Dt" text="Proprietário de" />
@@ -277,15 +298,18 @@
     <string id="xwRWjlar" text="Cor do plano de fundo:" />
     <string id="xXSFaGW8" text="Desbandar" />
     <string id="XYAVu2f0" text="Perseguindo {TARGET_PARTY}." />
+    <string id="XzggyCPW" text="Este herói está ocupado." />
     <string id="YbGu9rSH" text="Este personagem já é o governador de {SETTLEMENT_NAME}" />
     <string id="ybLA7ZXp" text="Já está no máximo" />
     <string id="YifFZaG7" text="Proprietário do Grupo" />
     <string id="YO0x7ZAo" text="Lealdade" />
     <string id="YT9giTet" text="Limite de aprendizado" />
     <string id="yUVv3z5V" text="Patrulhando em torno de {TARGET_SETTLEMENT}." />
-    <string id="z8h0BRAb" text="Manter todos esperando" />
+    <string id="z8h0BRAb" text="Mantenha todas as propriedades" />
     <string id="zawBaxl5" text="Distância: {DISTANCE}" />
+    <string id="ZcybPatO" text="Comprimento da arma" />
     <string id="zMMqgxb1" text="Tipo" />
+    <string id="ZUgoQ1Ws" text="Tipo do Cavalo" />
     <string id="zWaCtOJU" text="{SETTLEMENTS}" />
     <string id="zWaVxD6T" text="Velocidade do grupo" />
     <string id="zZlWRZjO" text="Guerras" />

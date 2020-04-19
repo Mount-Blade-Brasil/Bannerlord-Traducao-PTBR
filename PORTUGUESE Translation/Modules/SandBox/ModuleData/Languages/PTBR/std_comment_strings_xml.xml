@@ -36,7 +36,7 @@
     <string id="9ZHhYooG" text="Lembre-se de como eu venci você, cara a cara? Você voltou para mais?" />
     <string id="a55SAS18" text="Temos a vantagem de você. Rendimento e você será bem tratado.[ib:warrior][if:idle_angry]" />
     <string id="a5LChqbr" text="O povo comum dessas terras precisa de alguém que cuide deles. É aí que entra nossa Irmandade. Você nos ouvirá chamados bandidos ou ladrões. Não acredite em uma palavra." />
-    <string id="a8584KD0" text="Eu sou {CONVERSATION_CHARACTER.LINK}, do {CLAN_NAME}. Tenho certeza de que você ouviu o nome do nosso clã nos épicos da estepe. Nós carregamos o nome de um os dez filhos da grande loba, mãe dos Khuzaits." />
+    <string id="a8584KD0" text="Sou {CONVERSATION_CHARACTER.LINK}, do {CLAN_NAME}. Tenho certeza de que você ouviu o nome do nosso clã nas epopeias da estepe. Nós carregamos o nome de um dos dez filhos da grande loba, mãe dos Khuzaits." />
     <string id="aaadHoIb" text="{?GENDER}Ela{?}Ele{\?} esmagou todos os {?GENDER}seus{?}seus{\?} inimigos!" />
     <string id="aagGt8pX" text="Seu senhorio" />
     <string id="aFbkjgVe" text="Então, você não conseguiu concluir essa tarefa... Bem, às vezes essas coisas estão fora do nosso alcance. mãos... e às vezes não. Mas não vamos insistir nisso." />
@@ -65,7 +65,7 @@
     <string id="CUfZXlOd" text="Eu lembrarei do seu nome." />
     <string id="d2QGFdRJ" text="Você não tem chance. Renda-se ou estriparei como um peixe.[ib:warrior][if:idle_angry]" />
     <string id="dC8acIya" text="Eu sou {CONVERSATION_CHARACTER.LINK}, um chefe dos sturgianos." />
-    <string id="dD93WVhO" text="A única coisa que você deve saber sobre mim é que faço um amigo muito bom e você absolutamente não me quer como um inimigo." />
+    <string id="dD93WVhO" text="A única coisa que você deve saber sobre mim é que sou um bom amigo e você absolutamente não vai me querer como inimigo." />
     <string id="DIjtFVu8" text="Sua última gota de sangue? Acho que vou ter que derramar, então." />
     <string id="dKmAktt7" text="Você não pode me derrotar, e eu ensinarei uma lição dolorosa se você tentar. Rendimento! [ib:warrior][if:idle_angry]" />
     <string id="dLHsoh3f" text="Eu ouvi falar de você. Seu nome causa medo no coração dos homens. Esse é o melhor tipo de reputação que se tem. Talvez possamos ter interesses em comum." />
@@ -156,7 +156,7 @@
     <string id="pZj9C1yA" text="Os céus vão será feito. Mas aqueles que suavizarem o caminho serão recompensados." />
     <string id="q5nQGimE" text="Eu sou {CONVERSATION_CHARACTER.LINK}, da casa de {CLAN_NAME}. Embora não devamos nos orgulhar muito da linhagem, fico feliz em dizer que sempre levamos a sério nosso dever de proteger o povo comum do Império" />
     <string id="qB3wfM1f" text="Estou feliz que você e eu pudemos chegar a um acordo antes." />
-    <string id="Qb4tlTEj" text="Mas chega de conversa. Rendimento ou luta! [ib:warrior][if:idle_angry]" />
+    <string id="Qb4tlTEj" text="Mas chega de conversa. Renda-se ou lute! [ib:warrior][if:idle_angry]" />
     <string id="QhkM71ap" text="É uma honra conhecê-lo, bom Senhor." />
     <string id="QpBmbygb" text="Você já deve ter ouvido falar de nós - os Eleftheroi. Nossos pais eram ladrões, fugitivos e criadores de problemas - não vamos negar. Viemos aqui porque não nos queriam em nenhum outro lugar Mas vou lhe dizer uma coisa: se o império sobreviver, será graças a homens como nós, fazendo o trabalho duro e sangrento aqui nos campos selvagens, e não àqueles que dormem confortavelmente em suas camas." />
     <string id="qSF2z6Wa" text="Eu não ouvi falar de você, mas você tem a aparência de uma {?PLAYER.GENDER}mulher{?}homem{\?} que pode fazer algo com {?PLAYER.GENDER}ela mesma{?}ele mesmo{\?}, Algum dia." />
@@ -172,7 +172,7 @@
     <string id="ry1ycxNY" text="Eu gostaria que não tivesse chegado a isso." />
     <string id="s1FVPS5D" text="Eu sou {CONVERSATION_CHARACTER.LINK}, da casa de {CLAN_NAME}. Nossa família serviu o Império por gerações." />
     <string id="S1vGzr8z" text="Eu sou {CONVERSATION_CHARACTER.LINK}, do {CLAN_NAME}, um clã dos Aserai." />
-    <string id="sax2tF9L" text="Você é realmente {?PLAYER.GENDER}uma mulher{?}um homem{\?} de honra, {?PLAYER.GENDER}madame{?}senhor{\?}. Não esquecerei isso! [If:happy][rb:very_positive]" />
+    <string id="sax2tF9L" text="Você é realmente {?PLAYER.GENDER}uma mulher{?}um homem{\?} de honra, {?PLAYER.GENDER}senhora{?}senhor{\?}. Não esquecerei disso! [If:happy][rb:very_positive]" />
     <string id="SJ3bpDxC" text="Não reconheço seu estandarte, mas claramente você é uma dama de classificação. Por favor, considere-me o seu máximo criado humilde." />
     <string id="sJNrVlXa" text="Ouvi dizer que você se mexe bastante... Então... Conte-me um pouco sobre suas viagens, então." />
     <string id="SSuL62NZ" text="Sou leal a {FIRST_NAME}. É melhor ninguém dizer o contrário." />
@@ -184,23 +184,23 @@
     <string id="tUa5WBpp" text="imperatriz legítima dos calradianos" />
     <string id="TUwY7IKc" text="Então... Você realmente me derrotou. Não tenho certeza de que temos muito o que falar agora, depois disso." />
     <string id="Tvy4UvJC" text="rainha dos Vlandians" />
-    <string id="TzPC5L5X" text="Estou sempre procurando bons lutadores. Se você perguntar sobre mim, suspeito que você estará disse que eu cuido bem dos meus homens." />
+    <string id="TzPC5L5X" text="Estou sempre procurando bons guerreiros. Se você perguntar sobre mim, suspeito que escutará que cuido bem dos meus homens." />
     <string id="U4p70l9B" text="Eu sou {CONVERSATION_CHARACTER.LINK}, um chefe dos Khuzaits." />
     <string id="U770Bvy8" text="Eu sou {CONVERSATION_CHARACTER.LINK}, do {CLAN_NAME}. A fama da nossa família é inigualável nas músicas dos battanianos." />
-    <string id="U9u8Qeu4" text="Talvez você já tenha ouvido falar dos Wolfskins, viajante. Somos bestas. Saiba que, desde que não comamos carne cozida, não usemos tecido e durmamos sob o teto, não pode ser tocado pelas leis dos homens. Portanto, pise com cuidado conosco." />
+    <string id="U9u8Qeu4" text="Talvez você já tenha ouvido falar dos Peles de Lobo, viajante. Somos bestas. Saiba que não comemos carne cozida, não usamos tecido e deitamos para dormir sob um teto, não somos regidos pelas leis dos homens. Portanto, seja cuidadoso conosco." />
     <string id="Ua0T0A7t" text="Eu sou {CONVERSATION_CHARACTER.LINK}, do {CLAN_NAME}, uma das linhagens antigas dos Battanianos." />
     <string id="UB4sqrWx" text="Mãe" />
-    <string id="ufa20b2l" text="Vou lidar com aqueles que mantêm seus juramentos. Se você é um daqueles que não valoriza seus palavra, não perca meu tempo." />
-    <string id="Ufn3916B" text="Eu ouvi falar de você. Então, agora nos encontramos. Eu não sou de conversar, então se você tem algo a me dizer, diga." />
-    <string id="v4nyY62z" text="rainha dos Sturgians" />
+    <string id="ufa20b2l" text="Vou lidar com aqueles que mantêm seus juramentos. Se você é um daqueles que não valoriza sua palavra, não perca seu tempo comigo." />
+    <string id="Ufn3916B" text="Ouvi falar de você. Então, agora nos encontramos. Não sou de conversar, então se você tem algo a me dizer, diga." />
+    <string id="v4nyY62z" text="rainha dos Sturgianos" />
     <string id="vN4spwD1" text="Saiba que, caso cruze comigo novamente, acabará como alimento para os chacais." />
-    <string id="vNnMHR84" text="Você acredita, {?PLAYER.GENDER}senhora{?}senhor{\?}. Não esquecerei isso.[if:happy][rb:very_positive]" />
-    <string id="VOExVZtX" text="Sinto muito. Não gosto de derramamento de sangue, mas não posso deixar você ir livremente." />
-    <string id="VUn8mQ5n" text="rei supremo dos battanianos" />
+    <string id="vNnMHR84" text="Você acredita, {?PLAYER.GENDER}senhora?{?}senhor?{\?}. Não esquecerei nunca![if:happy][rb:very_positive]" />
+    <string id="VOExVZtX" text="Sinto muito. Não gosto de derramamento de sangue, mas não posso deixar você se sair livremente." />
+    <string id="VUn8mQ5n" text="rei supremo dos Battanianos" />
     <string id="w7EY8rbd" text="Vamos mudar de assunto." />
     <string id="WbAAkcbw" text="É uma honra conhecê-la, minha senhora." />
     <string id="WFwoWAic" text="Desisto! Desisto! Chame de volta seus cães![rf:bravo][rb:trivial]" />
-    <string id="WH8P3Y5F" text="Estou {CONVERSATION_CHARACTER.LINK}, um vassalo leal de {LIEGE_TITLE}." />
+    <string id="WH8P3Y5F" text="Sou {CONVERSATION_CHARACTER.LINK}, um vassalo leal de {LIEGE_TITLE}." />
     <string id="wrIYDx9V" text="Estou livre? Bem... Adeus, então.[if:happy][rb:very_positive]" />
     <string id="Wt4iJPcd" text="Eu já ouvi falar de você! É  bom finalmente conhecê-lo." />
     <string id="WVeS3Lsb" text="Não procure as coisas deste mundo, mas tenha sede da verdade divina." />
@@ -208,7 +208,7 @@
     <string id="XBbdhx4M" text="Novamente, fico feliz em ter sua ajuda." />
     <string id="xH4KJEBP" text="Juro que {?GENDER}ela{?}seu serviço{\?}. Isso é tudo o que há para dizer." />
     <string id="xHjVl9gR" text="Eu ouvi falar de você. Finalmente nos encontramos. Você parece  {?PLAYER.GENDER} uma boa mulher{?} um bom homem{\?}, sabe. Vamos nos falando, de tempos em tempos. Podemos encontrar oportunidades que beneficiem a nós dois" />
-    <string id="xJ1LJ3mH" text="Estou à sua mercê.[rf:bravo][rb:trivial]" />
+    <string id="xJ1LJ3mH" text="Estou à sua mercê.[rf:angry][rb:trivial]" />
     <string id="Xk2rNuxQ" text="sultão dos Aserai" />
     <string id="Xl25HtPL" text="É bom saber seu nome. Se eu te encontre em um banquete, poderei cumprimentá-lo, e se eu te ver em uma parede de escudos, saberei quem irei matar." />
     <string id="xnR3sXJP" text="{PLAYER.NAME}" />

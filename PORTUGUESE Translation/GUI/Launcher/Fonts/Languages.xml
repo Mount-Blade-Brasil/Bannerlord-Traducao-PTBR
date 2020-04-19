@@ -22,6 +22,6 @@
 
   <!-- Brazilian Portuguese -->
   <Language id="Português Brasileiro" DefaultFont="FiraSansExtraCondensed-Regular">
-  <Map From="FiraSansExtraCondensed-Regular" To="FiraSansExtraCondensed-Regular"/>
+    <Map From="FiraSansExtraCondensed-Regular" To="FiraSansExtraCondensed-Regular"/>
   </Language>
 </Languages>

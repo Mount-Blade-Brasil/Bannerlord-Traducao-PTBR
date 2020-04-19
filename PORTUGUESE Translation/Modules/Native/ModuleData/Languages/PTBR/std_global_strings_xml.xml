@@ -15,7 +15,8 @@
     <string id="0WrKbmfz" text="SMAA x2" />
     <string id="0x44y8fb" text="Grupo 2 ouve DESC" />
     <string id="0YV6wbsq" text="Pausar o tempo no mapa." />
-    <string id="1awQTVqN" text="Número de corpos" />
+    <string id="16EUzfcH" text="Ajuste o nível de exposição de acordo com sua preferência usando o controle deslizante." />
+    <string id="1awQTVqN" text="Número de bonecos de pano" />
     <string id="1dQFNvhQ" text="Numpad +" />
     <string id="1ebaa1Wf" text="Alternar modo de caminhada/corrida" />
     <string id="1uCaibsd" text="Completo" />
@@ -43,7 +44,7 @@
     <string id="3YwMXbAT" text="Avançar tempo rapidamente no mapa." />
     <string id="3zk3mzG4" text="Sair DESC" />
     <string id="41Na9Lg1" text="Esquerda" />
-    <string id="44akzqlm" text="Ir para a direita" />
+    <string id="44akzqlm" text="Seta para a direita" />
     <string id="45yEpDdE" text="Escala de resolução" />
     <string id="46vWdakp" text="Y" />
     <string id="4aAvY4yO" text="Baixa" />
@@ -52,6 +53,7 @@
     <string id="4Gdng2Tt" text="Manter pressionado para deslizar a câmera mais rapidamente no mapa." />
     <string id="4NaOKslb" text="-" />
     <string id="4Nw1hF2R" text="Chute seus inimigos para quebrar a guarda quando não estiverem defendendo. Empurre seus inimigos com seu escudo enquanto defende-se." />
+    <string id="4Q9pzbqM" text="Habilite o efeito de vibração do controle." />
     <string id="4R4shVxp" text="Aumentar quantidade" />
     <string id="4SeC2VOQ" text="direcional direito" />
     <string id="4spC1rcN" text="Selecionar Ordem 7 DESC" />
@@ -70,11 +72,13 @@
     <string id="6auWfPnA" text="Selecionar Ordem 6 DESC" />
     <string id="6CeL6iOp" text="Selecionar grupo 1" />
     <string id="6g0y182U" text="Detalhes do ambiente" />
-    <string id="6QiPm27r" text="Mover sua hoste para cima no mapa." />
+    <string id="6HJxnF3G" text="Save Failed!" />
+    <string id="6QiPm27r" text="Mover seu grupo para cima." />
     <string id="6sIFj7K9" text="Tempo de avanço rápido" />
     <string id="6Uh76bYG" text="Tempo do mapa parado" />
     <string id="6uNvJbdx" text="Selecionar grupo 4" />
     <string id="7MU008BT" text="F11" />
+    <string id="7pBx0s07" text="Habilite a vibração do controle." />
     <string id="7phVPcDc" text="Definir a qualidade dos shaders. Um valor mais alto significa melhores efeitos gráficos." />
     <string id="7QKjVON8" text="Pular" />
     <string id="7RV38Hoy" text="Grupo 7:Escutem DESC" />
@@ -83,7 +87,7 @@
     <string id="7tYiV9Vw" text="8X anisotrópico" />
     <string id="7vl1ebVZ" text="Controle esquerdo" />
     <string id="7X6fZ5kQ" text="Ativa os reflexões dos espaços na tela." />
-    <string id="7XmaJYuh" text="Mover sua hoste para a direita no mapa." />
+    <string id="7XmaJYuh" text="Mover seu grupo para a direita no mapa." />
     <string id="7zUWqY3O" text="Esquerda" />
     <string id="8AiDqTFB" text="mover o mapa para trás" />
     <string id="8b45xcyL" text="Definir qualidade das árvores e grama." />
@@ -112,15 +116,17 @@
     <string id="aAaF9FWC" text="Controle direito" />
     <string id="accbLVWL" text="Suavização de serrilhado." />
     <string id="acqAYxhr" text="," />
-    <string id="Ad8NUgpY" text="Grupo 5:Escutem DESC" />
+    <string id="Ad8NUgpY" text="Grupo 5: Escutem DESC" />
     <string id="aFPK4kIi" text="Mover para esquerda no mapa DESC" />
     <string id="AhrWBKx9" text="Equipar Item 1" />
     <string id="AiYklNiQ" text="UI  mover para a direita" />
+    <string id="AJFpx99v" text="Ajuste de Exposição" />
     <string id="aJxmDbur" text="Mantenha pressionado para deixar a área." />
     <string id="aKghgqEl" text="Selecionar Ordem 1 DESC" />
     <string id="aky3YmaT" text="Esperar no mapa DESC" />
     <string id="amdYLZ6o" text="Janela de Missões" />
     <string id="aNs2hcVi" text="Interface do usuário para baixo" />
+    <string id="aombIn07" text="Defina a quantidade de exposição." />
     <string id="ap1wEfdW" text="V" />
     <string id="aqcFXbir" text="Suporte direito" />
     <string id="ar2Y8Xs9" text="{LEFT}:" />
@@ -134,7 +140,7 @@
     <string id="Az084VJK" text="Defender" />
     <string id="b1OtYhnF" text="Filtragem de textura" />
     <string id="b9rDOY21" text="Selecionar Ordem 2" />
-    <string id="bdJv9dcm" text="Ampliação de caracteres" />
+    <string id="bdJv9dcm" text="Zoom do personagem" />
     <string id="BDSEgN41" text="Definir qualidade dos gráficos padrão." />
     <string id="bEJsGiBK" text="Qualidade da folhagem" />
     <string id="bFSxl4Vl" text="Interface do usuário para cima DESC" />
@@ -143,6 +149,7 @@
     <string id="bgwA4Pd8" text="2" />
     <string id="BJJl0qam" text="Mais rápido" />
     <string id="bJRFVONJ" text="Botão X" />
+    <string id="Bl8cKwhL" text="Calibragem da tela" />
     <string id="bmpagYCb" text="Equipe seu escudo ou mude para o próximo." />
     <string id="BmSzvXlZ" text="Para cima" />
     <string id="bNWx8Zqb" text="Janela de faixa DESC" />
@@ -154,11 +161,12 @@
     <string id="bW2urPqE" text="Selecionar Ordem 6" />
     <string id="bWV5BOyc" text="direcional para baixo" />
     <string id="bYwwY9qh" text="Numpad 5" />
+    <string id="c49AY7yF" text="Baixo (128)" />
     <string id="C7zwur4k" text="Fugir" />
     <string id="cAkgnVr5" text="Bloqueio numérico" />
     <string id="CbwmI1JY" text="Ativa a profundidade de campo." />
     <string id="cdaUUBFQ" text="Interface do usuário, subir." />
-    <string id="CnJQpaiK" text="Janela da hoste DESC" />
+    <string id="CnJQpaiK" text="Janela do grupo DESC" />
     <string id="combatkick" text="Chutar/Empurrar" />
     <string id="cOuaMvNR" text="Temporal SMAA x2" />
     <string id="cp80Mq2W" text="" />
@@ -172,6 +180,7 @@
     <string id="cWRA5VVr" text="Alt esquerdo" />
     <string id="czYbd1vo" text="H" />
     <string id="D008gyKC" text="Selecionar Ordem 1" />
+    <string id="d5a3QdBR" text="Não é possível acessar a pasta de salvamento." />
     <string id="d6DkPU2b" text="Geral" />
     <string id="d75b5uSL" text="Bilinear" />
     <string id="dB6cFDmz" text="/" />
@@ -185,7 +194,7 @@
     <string id="dkLG4JC4" text="Entrar" />
     <string id="DqFxOjTp" text="Resolução da tela" />
     <string id="drbgOAqx" text="Ative relatórios para ganho de experiência." />
-    <string id="drG1OL8d" text="Rolagem do mouse para cima" />
+    <string id="drG1OL8d" text="Rolar o scroll para cima" />
     <string id="dRx9qWRO" text="Menu de contexto do mapa DESC" />
     <string id="DTSHoHbu" text="Janela de inventário" />
     <string id="Dw58UUua" text="Dispersão do subsolo" />
@@ -193,7 +202,6 @@
     <string id="E5xbXlLB" text="Ativa os raios de sol." />
     <string id="ea8kNj32" text="Seu dispositivo de saída de som preferido." />
     <string id="EaOcWkH3" text="Abrir enciclopédia." />
-    <string id="efBaDf0A" text="Brilho" />
     <string id="EkzORIiZ" text="Abrir todo o bate-papo." />
     <string id="evc8yBIy" text="M" />
     <string id="EvOLbiqM" text="Selecionar grupo 3" />
@@ -209,7 +217,7 @@
     <string id="fJnqJx8m" text="Janela de personagem" />
     <string id="FLLnblfP" text="Reportar casualidades" />
     <string id="FqvJUBRn" text="Muito baixo" />
-    <string id="fsI2wuHa" text="Grupo 2:Escutem" />
+    <string id="fsI2wuHa" text="Grupo 2: Escutem" />
     <string id="fXKtZqmW" text="Mover a câmera para baixo" />
     <string id="G2e8xucc" text="Se os padrões quadriculados não estiverem visíveis dentro dos quadros, tente mover os controles deslizantes. {newline} Ajuste os controles deslizantes para o ponto em que os padrões são quase visíveis." />
     <string id="g4Iq82iw" text="Abrir bate-papo em equipe." />
@@ -249,14 +257,14 @@
     <string id="HyDC937R" text="Avanço rápido do tempo do mapa DESC" />
     <string id="hZEAeoCk" text="Mova sua equipe para a esquerda no mapa." />
     <string id="I3eooo5c" text="Definir a qualidade do terreno." />
-    <string id="I3rTzBae" text="Detalhes dos caracteres" />
+    <string id="I3rTzBae" text="Detalhes dos personagens" />
     <string id="i5xbEcE3" text="Reiniciar ou pausar o tempo no mapa da campanha." />
     <string id="I6OJtaMT" text="Nunca" />
     <string id="i6rQFv6i" text="Mover mapa para frenteDESC" />
     <string id="I9PN1qny" text="Numpad Enter" />
     <string id="IahiWHHW" text="K" />
     <string id="IaoVYeZi" text="Ativa mosaico." />
-    <string id="IBEJPlEj" text="Página inicial" />
+    <string id="IBEJPlEj" text="Casa" />
     <string id="Ibl4avht" text="Lotação correta" />
     <string id="iblHebbT" text="F1" />
     <string id="IcEPmXxM" text="Definir a técnica de oclusão do ambiente." />
@@ -264,20 +272,22 @@
     <string id="ID9lG6xg" text="Ver pedidos" />
     <string id="IDKbw4Sw" text="UI Deixar DESC" />
     <string id="igGLkaf6" text="Equipar item 2" />
-    <string id="iGi5HsGS" text="Deslocamento para a esquerda" />
+    <string id="iGi5HsGS" text="Shift Esquerdo" />
     <string id="IiioTamH" text="TSAO" />
     <string id="IjhCSwNn" text="Afastar a câmera do seu personagem em terceira pessoa." />
-    <string id="IjRHUbbN" text="Tesselation" />
+    <string id="IjRHUbbN" text="Mosaico" />
     <string id="IKjxVh2N" text="Desfoque de movimento" />
     <string id="ikoUJQyl" text="Ativa o efeito de floração." />
     <string id="IOZ4aWVp" text="Selecione o grupo 8" />
     <string id="IPbh2TvZ" text="Iniciar bate-papo em equipe" />
+    <string id="iPx4jep6" text="Exposição" />
     <string id="Irhxad7u" text="Qualidade da água" />
     <string id="iTau5cxh" text="Média" />
+    <string id="iUFgqwkA" text="Medium (256)" />
     <string id="iwO3g6Rz" text="Selecione o quão desafiadora será a IA de combate." />
     <string id="IYLn67Xm" text="X" />
-    <string id="Iz2vu6xM" text="Rolar o scroll para baixo" />
-    <string id="iZq6c4bd" text="Interface do usuário:mover para a esquerda DESC" />
+    <string id="Iz2vu6xM" text="Rolagem do mouse para baixo" />
+    <string id="iZq6c4bd" text="Interface do usuário: mover para a esquerda DESC" />
     <string id="izZCwYNb" text="SMAA" />
     <string id="j2g8BSOF" text="Estático e dinâmico" />
     <string id="J2pcA6KR" text="Visualizar personagem" />
@@ -298,7 +308,6 @@
     <string id="Js1lhJkk" text="Idioma" />
     <string id="Ju6btXsv" text="Controlar a direção do ataque" />
     <string id="jvOYgHOe" text="Personalizado" />
-    <string id="jwNpDFOh" text="128 (Baixo)" />
     <string id="JXdwIX8Q" text="Definir dificuldade de acerto de armas de longo alcance." />
     <string id="jZs8I1Uq" text="Ativa granulação de imagem." />
     <string id="JZYQGUF3" text="Pressione duas vezes para baixo:quebra repentina" />
@@ -321,6 +330,7 @@
     <string id="koX9okuG" text="Nenhum" />
     <string id="KtYtBnvP" text="Define o limitador de quadros." />
     <string id="KUEHAD4U" text="Missões" />
+    <string id="KUGomrhD" text="Não mostrar novamente" />
     <string id="KwNTg7BT" text="Modo de exibição" />
     <string id="lC5xsoSh" text="Ilimitado" />
     <string id="lCucoVwJ" text="Uso estimado de memória da GPU" />
@@ -334,7 +344,7 @@
     <string id="Lp0byzGQ" text="I" />
     <string id="LsX8rTwl" text="Tela de desenvolvimento de personagens aberta." />
     <string id="lsxqkhy6" text="O" />
-    <string id="lxIeKgXe" text="Bainha de revestimento" />
+    <string id="lxIeKgXe" text="Embainhar a espada" />
     <string id="LYAeYPlT" text="Bainha de Arma DESC" />
     <string id="m1PinhQd" text="Abrir tela da equipe." />
     <string id="M1ZFZR5I" text="Qualidade do terreno" />
@@ -343,6 +353,7 @@
     <string id="Mf5qVgAv" text="Item de equipamento 3" />
     <string id="MFbBFDqx" text="Movimento rápido no mapa" />
     <string id="MfsNAPh6" text="Ativa a dispersão da subsuperfície." />
+    <string id="MfunBOxF" text="Calibre os níveis de contraste." />
     <string id="mG4rCrfE" text="0" />
     <string id="MkKL3Y4P" text="Numpad 7" />
     <string id="mLtHlKzD" text="Alt direito" />
@@ -364,7 +375,6 @@
     <string id="nNBb8a9A" text="UI Enter DESC" />
     <string id="NPBaJKwW" text="Mover para frente DESC" />
     <string id="nsM4izfn" text="Agachar DESC" />
-    <string id="nzElFOoI" text="256 (Mid)" />
     <string id="o0QPZODk" text="Mova as tropas para a esquerda" />
     <string id="o8WjGqS4" text="Z" />
     <string id="ocNVbyPJ" text="Tela cheia com bordas" />
@@ -396,7 +406,7 @@
     <string id="Pkw17hO0" text="Velocidade de combate" />
     <string id="pLCcV4GU" text="Mudar a interface do usuário para a guia esquerda DESC" />
     <string id="pMRw0fvV" text="Mapear movimento rápido DESC" />
-    <string id="pnEeRPAk" text="Grupo 7:Escutem" />
+    <string id="pnEeRPAk" text="Grupo 7: Escutem" />
     <string id="pNocZkrx" text="Ativar notificação de danos causados" />
     <string id="PPFFxlsX" text="Escolha como executar blocos." />
     <string id="pQVSwtfn" text="Mova a câmera para mais perto do seu personagem na visualização em terceira pessoa." />
@@ -423,7 +433,7 @@
     <string id="qsrqjK0B" text="Define o nível de detalhe das propriedades do ambiente." />
     <string id="qtgBKzY8" text="Define o número de cadáveres visíveis." />
     <string id="qvaJYO9c" text="Anisotrópico 16X" />
-    <string id="qW1FWX0C" text="Flecha para baixo" />
+    <string id="qW1FWX0C" text="Seta para baixo" />
     <string id="qYTo5C4x" text="Auto-save DESC" />
     <string id="r0tu2Y57" text="Baixo" />
     <string id="R9cQCadq" text="Escolha como executar ataques." />
@@ -439,6 +449,7 @@
     <string id="ro0NhUnJ" text="Definir o campo de visão da câmera em primeira pessoa." />
     <string id="roJLc9oH" text="Metade" />
     <string id="rP058aIm" text="Equipar o item do primeiro slot." />
+    <string id="rs0wImmD" text="Cannot create save data." />
     <string id="RSmsn6mb" text="Continuar / Pausar tempo" />
     <string id="rwE0VVQX" text="Mapear modo de acompanhamento de câmera DESC" />
     <string id="RX76Kfa8" text="Alternância da câmera" />
@@ -470,7 +481,6 @@
     <string id="tbGol5PT" text="F4" />
     <string id="tbwhjsqS" text="Botão direito do mouse" />
     <string id="Tdf5AbRp" text="Abrir tela do clã." />
-    <string id="teuLiI9S" text="Definir o nível de brilho." />
     <string id="TEuOMadV" text="TAB" />
     <string id="tewykKdc" text="Direção do bloco de controle" />
     <string id="TgIAHPHs" text="Selecionar Ordem 4" />
@@ -486,6 +496,7 @@
     <string id="TvGJqPGp" text="Ative relatórios para mortes e nocautes." />
     <string id="TVXacQUJ" text="Todos os bate-papos" />
     <string id="tw5Wxv3b" text="Numpad." />
+    <string id="TybJcG0A" text="Muito baixo (64)" />
     <string id="u2dQaVY2" text="Equipe o item no seu terceiro slot." />
     <string id="u5aqR1ys" text="SMAA temporal" />
     <string id="U5xKAHGi" text="Bloom" />
@@ -503,7 +514,8 @@
     <string id="Uojm77jP" text="Qualidade da iluminação" />
     <string id="UoxjMhfJ" text="Selecionar Ordem 1" />
     <string id="UqB9zKfE" text="Equipar arma principal" />
-    <string id="uQfDuGem" text="Diminuição de caracteres" />
+    <string id="uQfDuGem" text="Afastar zoom do personagem" />
+    <string id="urbLiiQJ" text="Configure Exposure" />
     <string id="urSa4wQG" text="Mostrar faixas em tropas amigáveis" />
     <string id="uRXlSUVh" text="N" />
     <string id="uSGPBRFS" text="Zoom" />
@@ -522,13 +534,12 @@
     <string id="Vb2KV9q1" text="Braço direito esquerdo" />
     <string id="Ve99pCSo" text="Simulação de tecido" />
     <string id="VE9TavSl" text="Definir a qualidade do decalque." />
-    <string id="vIWlbrvQ" text="Calibração de brilho" />
     <string id="Vn4uzMUH" text="Grupo 6:Escutem DESC" />
     <string id="Vo5lBwQA" text="Equipar arma 3 DESC" />
     <string id="Vpy2qEcN" text="Por teclas de movimento" />
     <string id="vT3yIxmO" text="Numpad 4" />
     <string id="vXvmeGhm" text="Tipo de sombra" />
-    <string id="VzSerzva" text="Deslocamento para a direita" />
+    <string id="VzSerzva" text="Shift Direito" />
     <string id="w4l8xA2Q" text="Mapa mova para a esquerda" />
     <string id="waNCurZY" text="Ativa o desfoque de movimento." />
     <string id="wb84GjZw" text="Filtragem de sombra" />
@@ -554,15 +565,14 @@
     <string id="x7qfk550" text="Q" />
     <string id="XdCZzFrV" text="Parar no tempo do mapa DESC" />
     <string id="xEquRfRF" text="10" />
-    <string id="xhdIdzWK" text="Janela de caracteres DESC" />
-    <string id="xIXcsiRt" text="512 (Alto)" />
+    <string id="xhdIdzWK" text="Janela de personagens DESC" />
     <string id="xnGGas4h" text="Inverta o eixo y do mouse para controle da câmera." />
-    <string id="XnhBdHnS" text="Cercar" />
+    <string id="XnhBdHnS" text="Som digital" />
     <string id="XnoL375p" text="Saltar DESC" />
     <string id="xNprkuJl" text="Soltar a arma" />
     <string id="xnulLUFX" text="Salve seu jogo rapidamente com um atalho." />
     <string id="XoQ13rWc" text="UI mover para baixo DESC" />
-    <string id="xRbpqS2U" text="Grupo 3:Escutem DESC" />
+    <string id="xRbpqS2U" text="Grupo 3: Escutem DESC" />
     <string id="XrUGC7H4" text="Backspace" />
     <string id="xtFZDect" text="(Toque duplo) Virar repentinamente para a esquerda" />
     <string id="xuOz73hl" text="Ativar sangue visível nas batalhas." />
@@ -571,7 +581,7 @@
     <string id="xZ84ujuu" text="Quantos sons podem ser reproduzidos ao mesmo tempo. Valores mais baixos diminuirão o uso da CPU, enquanto valores mais altos fornecerão uma atmosfera melhor." />
     <string id="y4fZ1Gn7" text="Defina o multiplicador de movimento vertical do mouse em comparação com o movimento horizontal." />
     <string id="y7dx24ih" text="Vire a câmera enquanto muda de direção em um cavalo na visão de primeira pessoa." />
-    <string id="Y9Xqe21r" text="lotação completa ***" />
+    <string id="Y9Xqe21r" text="Botão esquerdo" />
     <string id="YAHs7wBa" text="Selecionar ordem 8" />
     <string id="ybHmTTyI" text="Esquerda para cima" />
     <string id="YDccwh2x" text="Volume principal" />
@@ -594,7 +604,7 @@
     <string id="Zgs47DHB" text="Caps Lock" />
     <string id="ZIKuUbUG" text="Define o número de simulações simultâneas de cadáveres." />
     <string id="znSZmZvV" text="Mover mapa para a direita" />
-    <string id="Zo2ngsUk" text="Abrir geração de rosto." />
+    <string id="Zo2ngsUk" text="Abrir editor do personagem" />
     <string id="zofULNb8" text="Equipar arma secundária" />
     <string id="ZP1tLaa1" text="Numpad 9" />
     <string id="ZtDJrNz9" text="Imagem granulado" />
@@ -603,8 +613,9 @@
     <string id="zUXxshZK" text="F12" />
     <string id="zvD48rVQ" text="Salvamento rápido" />
     <string id="ZVLr4CMO" text="Botão do mouse X1" />
-    <string id="ZvtKqPt3" text="Pressione duas vezes:Virar para esquerda rapidamente" />
+    <string id="ZvtKqPt3" text="Pressione duas vezes: Virar para esquerda rapidamente" />
     <string id="zwL5NFAr" text="Inserir" />
     <string id="zxMOqlhs" text="Atacar!" />
+    <string id="zzonsjpL" text="Alto (512)" />
   </strings>
 </base>

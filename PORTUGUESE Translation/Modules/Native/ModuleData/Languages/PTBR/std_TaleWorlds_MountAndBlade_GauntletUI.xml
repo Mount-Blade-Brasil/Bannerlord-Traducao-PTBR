@@ -16,22 +16,22 @@
     <string id="hvaDkG4w" text="Pressione qualquer tecla." />
     <string id="InGwtrWt" text="Sair" />
     <string id="ivKntfNA" text="Já solicitado para ingressar, aguardando resposta do servidor" />
-    <string id="IzJ7f5SQ" text="A capacidade do servidor está cheia" />
-    <string id="JluTW3Qw" text="Jogo encerrado" />
-    <string id="JQVixeQs" text="Não foi possível acessar o servidor do jogo" />
-    <string id="KRNdlbkq" text="O jogo personalizado está terminando" />
+    <string id="IzJ7f5SQ" text="O servidor não possui mais vagas" />
+    <string id="JluTW3Qw" text="Partida encerrada" />
+    <string id="JQVixeQs" text="Não foi possível acessar o servidor da partida" />
+    <string id="KRNdlbkq" text="A partidade personalizada está terminando" />
     <string id="Mm1Kb1bS" text="Senha incorreta" />
-    <string id="mO9bh5sy" text="Não foi possível entrar no jogo personalizado" />
+    <string id="mO9bh5sy" text="Não foi possível entrar na partida personalizada" />
     <string id="n4UUrd1p" text="Já está em uso" />
     <string id="NqarFr4P" text="Opções" />
-    <string id="OhF7NqSb" text="Você foi banido do jogo por enquete" />
+    <string id="OhF7NqSb" text="Você foi banido da partida por votação" />
     <string id="RamV6yLM" text="Sair para o menu principal" />
-    <string id="RGzyUTzm" text="Arranjo de formação mudando para {ARRANGEMENT_ORDER}" />
+    <string id="RGzyUTzm" text="Formação de batalha mudando para {ARRANGEMENT_ORDER}" />
     <string id="srAJw3Tg" text="O jogador foi banido do servidor" />
     <string id="T8IniCKU" text="O servidor de jogos não está disponível" />
     <string id="tKSxGy5p" text="O servidor não está respondendo" />
     <string id="vkpMgobZ" text="Erro no servidor de jogos" />
-    <string id="wbFB3N72" text="Você é expulso do jogo pela enquete" />
+    <string id="wbFB3N72" text="Você é expulso da partida pela votação" />
     <string id="wLpJEkKY" text="Servidor de batalha travou" />
     <string id="WvGviFgt" text="Sua conexão com o servidor atingiu o tempo limite" />
     <string id="XnsAbUE3" text="Dispensar" />
