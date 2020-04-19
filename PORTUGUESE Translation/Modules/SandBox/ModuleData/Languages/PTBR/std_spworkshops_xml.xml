@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Português Brasileiro" />
+  </tags>
+  <strings>
+    <string id="6g08hTX5" text="O grão é colhido e fermentado em barris até se tornar uma cerveja encorpada. Poucas coisas mantêm o povo e as tropas comuns tão felizes quanto uma boa cerveja." />
+    <string id="7hx2Nlmd" text="Curtume" />
+    <string id="8MwqyFfS" text="Artesãos e Ferrageiro" />
+    <string id="AfiEQPky" text="Toda cidade tem poucos artesãos bons, aqueles que possuem especialização baixa são chamados de ferrageiros. Alguém precisa fazer coisas do cotidiano para as pessoas comuns." />
+    <string id="aIUXMvjS" text="A vinícola compra uvas no mercado e produz vinho que está sempre em demanda em toda a Calradia." />
+    <string id="boupIGPX" text="Prensa de Oliva" />
+    <string id="bZeZCHoa" text="Tosquia de Lã" />
+    <string id="cabJ2jXP" text="Oficinas de cerâmica transformam argila em cerâmica. Não há famílias ricas ou pobres que possam viver um dia sem cerâmica." />
+    <string id="cxrsASao" text="O minério de prata é fundido e transformado em joias, pratarias ou barras. As boas joias são as melhores de todas as mercadorias de comércio." />
+    <string id="EBCKXbTa" text="Tecelagem de Veludo" />
+    <string id="eS6nGak1" text="Tecelão de Lã" />
+    <string id="EVSoHzAQ" text="Esta linha de produção cria roupas de lã de ovelha. As roupas estão sempre em demanda." />
+    <string id="GsaLzLfl" text="Cervejaria" />
+    <string id="gZArIwNi" text="Joialheiro" />
+    <string id="HXuAkbcU" text="Tecelão de Veludo" />
+    <string id="IO7Jgato" text="Carpinteiro" />
+    <string id="IwFxZ6ab" text="O linho grosso é tecido em linho útil nessa linha de produção. Muitas pessoas o compram para uso geral. Também é essencial para fazer roupas e armaduras em outras oficinas." />
+    <string id="J2Ioper5" text="Os ferreiros são o coração de todos os militares. O minério de ferro é forjado em armas e armaduras em uma ferraria." />
+    <string id="KcDJ5HXC" text="Madeira bruta tem muitos usos. Todas as linhas de produção precisa, de madeira, do artesão que faz flechas e aos ferreiros que criam escudos contra elas." />
+    <string id="Kqt8RHh7" text="Ferraria" />
+    <string id="LC0mHXge" text="As azeitonas são prensadas no óleo suave na prensa de azeitona. E o óleo sempre busca um bom preço no mercado." />
+    <string id="NbhGCck5" text="Couro cru não serve para nada. Mas em um curtume nós os transformamos em couro e armaduras leves." />
+    <string id="ousGnzju" text="Curtume" />
+    <string id="PdvjpThP" text="Vinicula" />
+    <string id="pVjxlT1f" text="Cervejeiro" />
+    <string id="QChaCM2g" text="Algodão fino é tecido em veludo ainda mais fino nesta oficina. O veludo é um dos bens mais luxuosos de Calradia." />
+    <string id="qfzkMuLj" text="Artesão" />
+    <string id="RLz2b53X" text="Rouparia" />
+    <string id="Tj7ErPfn" text="Oficina de Cerâmica" />
+    <string id="tK4IiP3J" text="Tecelagem de Linho" />
+    <string id="UiSes6XY" text="Oficina de Madeira" />
+    <string id="uy2mSmw3" text="Prensa de Uvas" />
+    <string id="VHLUHBaT" text="Artesãos" />
+    <string id="wCuAxt4m" text="Prensa de olivas" />
+    <string id="wLTQpbIM" text="Curador de Azeite" />
+  </strings>
+</base>

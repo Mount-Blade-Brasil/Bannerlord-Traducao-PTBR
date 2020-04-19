@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Português Brasileiro" />
+  </tags>
+  <strings>
+    <string id="16hLiz40" text="Beta Teste" />
+    <string id="1CxYPryo" text="Este emblema foi concedido aos jogadores que venceram 50 partidas no Teste Beta" />
+    <string id="21oH4CWa" text="Caçador de erros" />
+    <string id="5IANKz8a" text="Alpha Teste" />
+    <string id="5ZwXUBV5" text="Este emblema foi concedido aos jogadores que venceram 500 partidas no Acesso Antecipado." />
+    <string id="9C9Nbgbt" text="VIP" />
+    <string id="aNsV4LOg" text="Participante da EA" />
+    <string id="aubhe8Hk" text="Desenvolvedor TaleWorlds" />
+    <string id="BCWVcO6k" text="Este emblema foi concedido aos jogadores que participaram do Teste Beta Multiplayer." />
+    <string id="bKmVrmzG" text="Este emblema foi concedido aos jogadores que venceram 100 partidas no Teste Beta" />
+    <string id="Cbf52UqN" text="Este emblema foi concedido aos jogadores que venceram 50 partidas no Acesso Antecipado." />
+    <string id="DJY6qD0b" text="Vitórias atuais" />
+    <string id="DKAH6hMC" text="EA 20 vitórias" />
+    <string id="dSWtiVLz" text="Este selo foi concedido aos membros da comunidade que contribuíram para o jogo e a comunidade." />
+    <string id="DWb2zRsZ" text="Beta 100 vitórias" />
+    <string id="ESOkYFiD" text="Este emblema foi concedido aos jogadores que venceram 750 partidas no Acesso Antecipado." />
+    <string id="fAaorpa8" text="EA 50 vitórias" />
+    <string id="FDvwGjni" text="Beta 50 vitórias" />
+    <string id="gNiQcEa9" text="Este selo foi concedido aos membros da comunidade que nos ajudaram significativamente a encontrar os bugs e problemas que enfrentamos durante o período alfa e beta multiplayer." />
+    <string id="GTmPMoYe" text="Empregado da TaleWorlds" />
+    <string id="H4Zlsiu1" text="Beta 250 vitórias" />
+    <string id="IcPNgbtl" text="Este emblema foi concedido aos jogadores que venceram 100 partidas no Acesso Antecipado." />
+    <string id="iGTJ4aQq" text="EA 250 vitórias" />
+    <string id="KcPkbnu2" text="Vitórias no Beta 20" />
+    <string id="medMGVme" text="Este emblema foi concedido aos jogadores que venceram 250 partidas no Acesso Antecipado." />
+    <string id="OasvPXuW" text="Este emblema foi concedido aos jogadores que venceram 20 partidas no Acesso Antecipado." />
+    <string id="OGsa2aC1" text="Este emblema foi concedido aos jogadores que participaram do Acesso Antecipado." />
+    <string id="qLpxrsFX" text="Este selo foi concedido aos jogadores que participaram do Teste Alfa para Multijogador." />
+    <string id="qvYJuD83" text="EA 100 vitórias" />
+    <string id="sli6QNV6" text="Este emblema foi concedido aos jogadores que venceram 250 partidas no Teste Beta." />
+    <string id="tI5cj3Qz" text="Este emblema foi concedido aos jogadores que venceram 20 partidas no Teste Beta" />
+    <string id="Xws44eDL" text="EA 500 vitórias" />
+    <string id="ZodCgSL5" text="EA 750 vitórias" />
+  </strings>
+</base>

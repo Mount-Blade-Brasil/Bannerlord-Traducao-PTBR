@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Português Brasileiro" />
+  </tags>
+  <strings>
+    <string id="1CCSLaXG" text="honorável" />
+    <string id="2LhoHBb4" text="indiferente" />
+    <string id="2oLzxPGu" text="agressivo" />
+    <string id="3ojhI49j" text="frio" />
+    <string id="4Kb43rdf" text="fiel" />
+    <string id="5L4ox55u" text="Sempre foi{?NOTABLE.GENDER}a primeira{?}o primeiro{\?} a colocar o pesço na corda para defender suas causas." />
+    <string id="5ogR7oUW" text="nobre e generoso" />
+    <string id="6okDQlyn" text="cauteloso" />
+    <string id="6tOrCXWu" text="Procura por aqueles que {?NOTABLE.GENDER}a{?}o{\?} serviram bem." />
+    <string id="8aAbnMIo" text="distante" />
+    <string id="8D5Lx2LY" text="amável" />
+    <string id="9bUlUrVI" text="feroz e cruel" />
+    <string id="A27HuUiz" text="ousado" />
+    <string id="aDkmS7iN" text="o tipo que age sem pensar" />
+    <string id="AgE2Wffg" text="um bom amigo, mas um inimigo perigoso" />
+    <string id="bSQF8nac" text="ambicioso" />
+    <string id="bYa051Bs" text="desonesto, agressivo e ambicioso" />
+    <string id="CaSahkj4" text="desonroso em todos os sentidos" />
+    <string id="CUR5ZZtd" text="impiedoso" />
+    <string id="Dkmja15D" text="Não é confiável." />
+    <string id="Dz3kGpkM" text="louco, ruim e perigoso" />
+    <string id="dZ7OtsDv" text="cauteloso, mas confiável" />
+    <string id="etdkWOLn" text="desviante" />
+    <string id="euinlzab" text="tímido" />
+    <string id="fgkQSbUE" text="um pouco desonesto, mas com um coração de ouro" />
+    <string id="FNzGHbvb" text="propenso a fúria perigosa" />
+    <string id="GMMg8AwD" text="impiedoso" />
+    <string id="gZMm5J4u" text="Nunca age com pressa... Sempre cauteloso." />
+    <string id="hFtm7jZT" text="cordial" />
+    <string id="HNoD0Xcw" text="corajoso, mas facilmente enfurecido e implacável" />
+    <string id="HTBQ3E3Q" text="generoso para os amigos" />
+    <string id="isnEHNXl" text="Defende o que {?NOTABLE.GENDER}ela{?}ele{\?} acredita." />
+    <string id="jFLPNGdH" text="corajoso e honrado" />
+    <string id="jqiKsw34" text="desonesto, mas de coração mole" />
+    <string id="JWTKNySw" text="apertado" />
+    <string id="KFvms0sR" text="um homem que gosta de correr riscos calculados." />
+    <string id="kKFLfWbJ" text="moralista" />
+    <string id="Ks88a8lp" text="um pouco mais" />
+    <string id="KxjSILpL" text="o tipo que aproveita todas as vantagens" />
+    <string id="L3b9ZsLs" text="desonesto" />
+    <string id="LCs7NMyz" text="Você não encontrará aquele correndo em perigo." />
+    <string id="LfmWyPEk" text="convencional" />
+    <string id="LtBwSe0J" text="gentil e atencioso - embora alguns possam dizer de coração mole" />
+    <string id="mH8FHX9r" text="cauteloso, mas perigoso" />
+    <string id="MoQbaOOk" text="cruel e desonesto" />
+    <string id="MVnA7tkN" text="honrado, irritado e cruel, incapaz de quebrar um juramento ou perdoar um leve" />
+    <string id="mWkCWB6j" text="gentil, mas cauteloso" />
+    <string id="nnDG8Ryc" text="corajoso, mas teimoso" />
+    <string id="NOEYSbeR" text="honroso, mas de cabeça dura e cruel" />
+    <string id="nYHM3bmc" text="corajoso, mas misericordioso" />
+    <string id="OuXZbyeS" text="atencioso, cuidadoso em recompensar seguidores fiéis" />
+    <string id="OwOdbwc5" text="Às vezes age sem pensar," />
+    <string id="peI78GmJ" text="Não tenho certeza do que pensar sobre esse..." />
+    <string id="ppTLY8tm" text="justo e honesto, mas ingrato" />
+    <string id="PW3Ya1AQ" text="mal-humorado" />
+    <string id="Q3TaYO39" text="o tipo que se esforça para ser justo e justo" />
+    <string id="QtcN7aEk" text="ousado e ambicioso" />
+    <string id="qXwYcJHa" text="decente e gentil" />
+    <string id="QzNHs8Ch" text="apaixonado e corajoso, embora às vezes sem pensar nas coisas." />
+    <string id="RaecCLdK" text="corajoso e generoso, um bom amigo para ter" />
+    <string id="Raq3TcUa" text="atencioso com os outros" />
+    <string id="raQIsPly" text="poupando inimigos, mas sem amigos" />
+    <string id="rarG5Bqa" text="útil" />
+    <string id="S6XcP7Wz" text="não é um bom amigo" />
+    <string id="tc1PuNa8" text="leal aos amigos, mas também cruel e manipulador" />
+    <string id="TGQD4r5Z" text="galante" />
+    <string id="UoYPTOPV" text="traiçoeira, mas pelo menos não cruel" />
+    <string id="URWSOAfG" text="sádico" />
+    <string id="Vis2eo0Y" text="Tem um traço cruel, não há como negar." />
+    <string id="VnaT2Ipq" text="natureza" />
+    <string id="VujjcI1C" text="Essa pessoa tem um bom coração, não há como negar." />
+    <string id="WAzdB4DL" text="inteligente e trapaceiro" />
+    <string id="WbyybDP6" text="Nem sempre se lembra daqueles que fizeram um bom serviço {?NOTABLE.GENDER}para ela{?}para ele{\?}." />
+    <string id="wVfZh5eN" text="possuidor de um temperamento feroz e perigoso" />
+    <string id="XPU5mqSi" text="astúcia" />
+    <string id="xSbcea2l" text="não confiável" />
+    <string id="Y8WpovVO" text="decente, mas cauteloso" />
+    <string id="YeK2rAWJ" text="cruel" />
+    <string id="Yyw81AGG" text="amigável, mas manipulador" />
+    <string id="znOeRtlb" text="um planejador" />
+  </strings>
+</base>

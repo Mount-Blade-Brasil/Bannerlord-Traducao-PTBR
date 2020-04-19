@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Português Brasileiro" />
+  </tags>
+  <strings>
+    <string id="3CpNUnVl" text="Cancelar" />
+    <string id="5zeL8sa9" text="Você ganhou {A0} de influência." />
+    <string id="6qYaQkDD" text="{COUNT} + {PRISONER_COUNT}p" />
+    <string id="7WdWK2Dt" text="Salvar jogo" />
+    <string id="8OkPHu4f" text="Não" />
+    <string id="9NuttOBC" text="Carregar" />
+    <string id="aeouhelq" text="Sim" />
+    <string id="Ahy035gM" text="Custo de construção" />
+    <string id="azJulvrp" text="{?IS_BETTING} Você perderá {BET_AMOUNT}{GOLD_ICON} se perder.{newline}{?}{\?}Deseja realmente perder?" />
+    <string id="bV75iwKa" text="Salvar" />
+    <string id="CiIWjF3f" text="+ {PRISONERAMOUNT}p" />
+    <string id="eiWQoW9j" text="Você ganhou {A0} de renome." />
+    <string id="eL8nhkhQ" text="Criar novo slot de salvamento" />
+    <string id="eTw2aNV5" text="+" />
+    <string id="GAWxyVgq" text="Excluir" />
+    <string id="GZWPHmAw" text="Dia: {DAY}" />
+    <string id="HH2mZq8J" text="Tem certeza de que deseja excluir este jogo salvo?" />
+    <string id="hiCxFj4E" text="Campanhas salvas" />
+    <string id="hYL3CFHX" text="Deseja substituir este jogo salvo?" />
+    <string id="IwhpeT8C" text="Nível: {PLAYER_LEVEL}" />
+    <string id="IXwOaa98" text="Tamanho do Grupo" />
+    <string id="JAFIo7cM" text=":" />
+    <string id="kJtNMYum" text="Incompatibilidade de módulo" />
+    <string id="L9GnQvsq" text="Participação: {BETTED_DENARS}" />
+    <string id="LBNzsqyb" text="Feudos" />
+    <string id="lh0so0uX" text="Deseja carregar o jogo salvo com diferentes módulos?" />
+    <string id="lPMYSSAa" text="Ferramentas necessárias" />
+    <string id="mDFhzEMC" text="Pontos de Vida Max." />
+    <string id="nvemmBZz" text="Você ganhou {AMOUNT}% dos itens e prisioneiros" />
+    <string id="O9nwLrYp" text="+ {WOUNDEDAMOUNT}w" />
+    <string id="oBbiVeKE" text="Pontos de vida" />
+    <string id="oHaWR73d" text="Ok" />
+    <string id="Q1HIlJxe" text="Substituir" />
+    <string id="QHV8aeEg" text="Excluir campanha" />
+    <string id="qIeDZoSx" text="Comprado" />
+    <string id="qSi4DlT4" text="Comida" />
+    <string id="R2AaCaPJ" text="Alteração esperada" />
+    <string id="raD9MK3O" text="Dificuldade" />
+    <string id="RVPidk5a" text="Influência" />
+    <string id="UwuYCgIU" text="Cuidado" />
+    <string id="V4iU0wRv" text="Ouro" />
+    <string id="WAKz9xX8" text="Você ganhou moral {A0}." />
+    <string id="WDlVhNuq" text="Nomeie seu arquivo salvo" />
+    <string id="WiNRdfsm" text="Feito" />
+    <string id="xu5NA6AW" text="Você ganhou {A0}% de saque." />
+    <string id="xzzSaN4b" text="Esperado: {OVERALL_EXPECTED_DENARS}" />
+    <string id="yF5fpwNE" text="Total: {TOTAL}" />
+    <string id="YgyHVu8S" text="Vendido" />
+    <string id="YXgNatqF" text="A versão deste salvamento não corresponde à versão atual do jogo. Prossiga com cuidado." />
+  </strings>
+</base>

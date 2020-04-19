@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Português Brasileiro" />
+  </tags>
+  <strings>
+    <string id="05P003ev" text="Quando eu era menina, escolhi ser uma dama de escudo e acompanhei meus irmãos em suas incursões. Quando cheguei à idade, fui perseguido por um dos melhores guerreiros de nosso vale. Todas as meninas sonhavam em se casar com ele. Concordei em me casar com ele, com a condição de que ele nunca tentasse me impedir de ir à guerra, e essa promessa que ele fez." />
+    <string id="08SDOFly" text="Você está saindo da cidade? Estou aqui há três dias esperando meu contato aparecer, mas acho que ele não aparecerá. Suspeito que eu possa ter chamado um pouco de atenção para mim mesma." />
+    <string id="0b8vP1ba" text="Você sujou a tradição sagrada do casamento! Sujou-a com sangue!" />
+    <string id="1af4enJo" text="Hum... eu concordo com os senhores que não gostam de mexer com o Outro Mundo." />
+    <string id="1EKWnCBa" text="Então, com o tempo, fiz contatos em cidades na parte oeste e oeste da Calradia. Às vezes, é um guarda que não é avesso a um dinheiro extra. Às vezes, há uma lavadeira que ' deixarei cair uma corda sobre os muros à noite. Esse conhecimento é útil para você?" />
+    <string id="1KFSnLeb" text="Três anos sozinho? Você deve ter aprendido bastante madeira. Talvez eu precise de um olheiro." />
+    <string id="22Wl39Zg" text="Eu apenas pretendia brindar sua saúde. Como os estrangeiros às vezes fazem nas tabernas, sem causar nenhum dano." />
+    <string id="2fa1Ai55" text="Bem, houve um tempo em que eu era menos cautelosa com estranhos, mas aprendi desde então que muitos daqueles que se aproximam de mim em uma pousada ou na estrada têm motivos indignos. É um pouco de história, mas vou lhe dizer se você estiver interessado." />
+    <string id="2JwZXgOZ" text="Isso é razoável. Aqui está {NPCPAYMENT}{GOLD_ICON} para você. Prepare-se." />
+    <string id="2MJElaJi" text="Bem, o mestre de artilharia aqui pegou o contrapeso bem no crânio. Era uma bola de 1,5 quilo, então o contrapeso pesava tanto quanto um cavalo pequeno. Você pode imaginar como era isso. Então eles não vão me pagar - mesmo que a bola, tenho orgulho de dizer, tenha disparado mais de 500 passos. Mesmo com um pouco de sujeira nela" />
+    <string id="2oniHsNe" text="Meu falecido marido, os céus abençoam sua memória, criou uma força própria para ajudar a proteger a fronteira. Ele garantiu que seus homens exibissem um senso adequado de disciplina, dever, higiene pessoal básica e respeito por nossas tradições morais. Infelizmente, sua carreira foi interrompida por um dardo Aserai, mas pretendo continuar seguindo seus passos." />
+    <string id="2pv2fc22" text="Se você quiser saber mais sobre mim , Vou lhe dizer: eu venho do norte daqui, vim aqui para fazer meu nome e lutar, lutei um pouco pelo skolderbrotva, mas me cansei deles, porque eles lutam mais do que a maioria mas eles não lutam o suficiente por mim." />
+    <string id="30PC7qqc" text="Acho uma boa maneira de obter informações úteis." />
+    <string id="36X0Ptyo" text="Que fascinante. Diga-me mais." />
+    <string id="37gFwKgg" text="Eu tenho um bando de lutadores e poderia usar um homem com alguma experiência." />
+    <string id="3tsuUf0H" text="E ele estava certo ao dizer isso! Bom dia. senhor." />
+    <string id="3Yax10rQ" text="Bem, talvez haja algo nessas lendas, porque eu me saí muito bem e tornei meu mestre muito rico. A lei imperial agora decreta que os homens não podem matar no arena, mas ninguém se interessa pelo que acontece nos entretenimentos particulares dos ricos, e mais de uma dúzia de meus companheiros escravos deve ter sentido minha lâmina em seu peito" />
+    <string id="4dJ0KhjB" text="Mas talvez seja o melhor. Quem vencer esta guerra será pelo menos um líder digno de homens... Você está procurando espadas para contratar? Estou entediado e estou pronto para entrar no jogo novamente e duvido que minha esposa sinta muita falta de mim." />
+    <string id="4m5w7HIP" text="Se você tem uma companhia de armas e promete honrar sua palavra e suas dívidas, estou disposto a servir nela." />
+    <string id="5A0dXh2j" text="Não tenho trabalho assim, se é isso que você está perguntando." />
+    <string id="5E6L8WcA" text="Talvez eu consiga contratar alguém assim." />
+    <string id="5Y5mxebR" text="Bem, parece que você pode lutar, pelo menos. Você precisa de emprego?" />
+    <string id="6EeM0jbm" text="Eu posso estar. O que você tem a oferecer?" />
+    <string id="6Rqc8OOc" text="Os céus nos protegem do mal! Vá embora! Vá embora!" />
+    <string id="6Yy1KWgT" text="Cuide da sua vida, companheiro." />
+    <string id="77kuaIpz" text="Quando eu era bebê, uma mulher veio ao salão de meu pai, uma mulher que se dizia capaz de falar com o Outro Mundo. Quando ela me viu, ela disse a ele que ela viu a marca das fadas em mim.Ela fez uma adivinhação e disse que tinha aprendido que eu seria uma brincadeira feita com a humanidade: eu cresceria para ser uma grande beleza, mas que qualquer homem que resolvesse se casar comigo morrerá." />
+    <string id="7BMEqR9P" text="Bom. Gostaria apenas de pedir a você um adiantamento de {NPCPAYMENT}{GOLD_ICON} para resolver todos os assuntos e me juntarei a você." />
+    <string id="7cVb7eda" text="É difícil encontrar um senhor que me leve em seu séquito, pois os homens tendem a me temer. Portanto, as oportunidades de trabalho são poucas e distantes." />
+    <string id="7qfZbVii" text="Acho que poderia usar um homem como você." />
+    <string id="7WrfCwuL" text="Bom. Vou querer de você {NPCPAYMENT}{GOLD_ICON} na frente. Como eu disse, sou um homem com sede." />
+    <string id="8HKl3HNH" text="A única coisa que pergunto - além de comida, abrigo e alguns denários de despesas de bolso, é claro - é que não sou parte de pilhagem e captura de escravos." />
+    <string id="8O8jU9Jp" text="E para sua saúde, tanto física quanto espiritual! E lembre-se sempre - a saúde espiritual vem apenas do arrependimento, e para isso você precisa de algo para se arrepender." />
+    <string id="8ya4JQyc" text="Saudações. Você deve ser um estranho aqui, pois poucos nascidos aqui falariam comigo." />
+    <string id="9HTt6P0U" text="Essa é uma solução para um casamento ruim. Você seguiu esse plano?" />
+    <string id="9vcC9WNE" text="Ah, sim, acho que sim. Bem, se isso lhe interessa, meu nome é Haldaea e resolvi me tornar um guerreiro." />
+    <string id="9w5W46E9" text="Saudações. Estou procurando por guerreiros e parece que você pode servir." />
+    <string id="9yWwSi7g" text="Você parece um problema, senhor. Bom dia." />
+    <string id="a1qmkOxD" text="Quem é você? O que você quer?" />
+    <string id="a2rWCsZS" text="Espero que você não se importe com um pouco de falta de recato. Se você está construindo, sou um dos melhores que você pode disparar. Eu posso construir qualquer arco, qualquer torre, qualquer cúpula que você pode querer. Toda cidade por aqui tem exemplos de minha arte." />
+    <string id="a4yeaMZq" text="Sim. Continue." />
+    <string id="a6Yqb6nY" text="Eu sou." />
+    <string id="A7ToDPfN" text="Esplêndido. Esse é o espírito. Reúna seus pertences." />
+    <string id="Ac8dPtH8" text="Eu não sei, nem me importo." />
+    <string id="AGBkVF4G" text="Não há mal nisso, suponho. Então, conte-me sobre você." />
+    <string id="aGRXxufp" text="Como você pode imaginar, sou contrabandista. E bom nisso." />
+    <string id="APKQ8HuA" text="Não, não estou, estou com medo. Tenha um bom dia!" />
+    <string id="Auq79Hap" text="É um ditado educado entre o meu povo, mas também é verdade. O mundo seria um lugar melhor se os homens pudessem viajar à vontade, trazendo sabedoria e riqueza de um lugar distante para o outro. outro." />
+    <string id="awCIaqxG" text="Lá. Você se juntará a mim em uma xícara de cerveja?" />
+    <string id="AXy281gD" text="Que tipo de maldição?" />
+    <string id="BIXQz5yS" text="Se esse é seu último 'último pedido', suponho que sim. Aqui está {NPCPAYMENT}{GOLD_ICON}." />
+    <string id="bKFWqaxQ" text="Não sei se posso pagar como ele pagou..." />
+    <string id="blY5YhSL" text="Muito bem. Acho que você pode ser últil. Eu lhe ofereço um lugar no meu grupo." />
+    <string id="bmdw47FV" text="Cada morte venceu meu mestre com um baú de prata. Não sinto culpa - meus oponentes estavam tentando me matar, e alguns chegaram muito perto. Você tem algo a dizer sobre isso?" />
+    <string id="BMKqMpQ7" text="Estou mais interessado na virtude bárbara de enfiar machados nos crânios. Você não parece do tipo." />
+    <string id="bRRi5GiL" text="Aqui estão minhas condições: espero ser bem pago e não mato homens que não revidam." />
+    <string id="bsnUJ7Br" text="Essas são habilidades úteis. Você está procurando trabalho?" />
+    <string id="bUZATRQM" text="Fadas? Não tenho tempo para essas histórias." />
+    <string id="bwb4nB4m" text="Você investiu toda a sua fortuna em uma única carga de pimenta?" />
+    <string id="bx0dzZTU" text="Ah. Sinto muito. Faz muito tempo que não falei com outros homens. E estou um pouco bêbado... Olha, deixe-me contar a minha história." />
+    <string id="bXfBBvzl" text="Sou do fen Dairl. Não somos um dos maiores clãs da Battania, mas somos bons lutadores. Quando cheguei à idade, deixei a casa de meu pai por alguns anos, viver na floresta, como uma pele de lobo.É um costume que os jovens corram como pele de lobo.Eles não comem comida cozida, nem vivem em casas, nem usam tecidos fiados, e por sua vez não são responsáveis por as leis dos homens." />
+    <string id="c1vQQwKv" text="Claro. Suponho que sim." />
+    <string id="C6GmacOA" text="Estou ocupado, senhor." />
+    <string id="cI8YERnL" text="Se você fizer isso, prometo estar sempre na linha de frente da sua linha de batalha, para nunca fugir do dever, mesmo diante da morte." />
+    <string id="CKgC2JXg" text="Você não me inspira com confiança." />
+    <string id="clatEXV2" text="Estou me afastando agora, senhora. Tenha um bom dia." />
+    <string id="cXKvmJGb" text="Tenho certeza de que não escapou de você que este nosso império está em um estado terrível. Os homens perderam todo o senso de dever e auto-respeito e regularmente dão as costas. o rosto de rebeldes, bárbaros e outras pessoas assim." />
+    <string id="d0K0iKV2" text="Quando eu era criança, fui levado de minha casa nas estepes profundas como refém do Império, e embora fosse amargo deixar minha família, considero que os mais sortudos coisa que já aconteceu comigo." />
+    <string id="D33fIGQe" text="Esqueça." />
+    <string id="D9hP21YA" text="Hum, eu posso estar. Você tem alguma experiência relevante?" />
+    <string id="dagVYLDb" text="Passei muito tempo no quartel e aprendi muito do conhecimento que a mulher de um soldado deveria saber. Mas fui tolo ao pensar que Aldric nunca aprenderia sobre nossos contatos. Ele achou que era uma desgraça para sua família, e talvez estivesse com ciúmes do meu amante, pois eu já tinha visto Aldric me encarar, acusando-o de roubo, enforcado e mergulhado em alcatrão. Acordo de um sonho em que vejo o corpo do meu amante negro e se contorcendo ao vento enquanto paira no portão." />
+    <string id="Db8cb8w6" text="Bem, você tem a atitude certa. Eu posso aceitar você." />
+    <string id="dDt6c7kr" text="Oh, não tenha medo. Não golpeio exércitos como moscas, mas provavelmente posso derrubá-los um ou dois vilões de cada vez, se necessário. , uma pequena questão de pedir a você - {NPCPAYMENT}{GOLD_ICON}. Encontrei um pouco de tab nesta taberna e talvez seja necessário usá-la novamente em algum momento." />
+    <string id="DdYimYLm" text="Eu tive um pouco de educação protegida, você vê. Eu sou sobrinha sobrinha de Aldric, senhor de Sarghert. Meu pai morreu em suas guerras, mas fui considerado um membro de sua casa, e eu me casaria com um cavaleiro em seu séquito.Desde que me apaixonei por um dos soldados comuns.Ele era alto, bonito - o tipo de garoto que imaginava que os males deste mundo poderiam nunca toque nele." />
+    <string id="DLcjTWn7" text="Sim?" />
+    <string id="Dr6ZjtKR" text="Saudações, viajante. Posso saber de onde você é?" />
+    <string id="dU3II3Lv" text="Ora, na outra noite eu estava participando de uma festa nesta mesma cidade, e o anfitrião me disse que eu era realmente um ornamento entre os convidados, que trouxe mais luz para sua festa do que cem lanternas, mais música do que cem alaúdes. Foi com muita tristeza, disse ele, que ele deveria chamar seus guardas para mim, porque, por alguma supervisão, eu não havia sido convidado e, portanto, ao comer sua comida, fui, por um advogado. tecnicidade, um ladrão" />
+    <string id="dZFO1esU" text="Eles devem saber algo que eu não sei. Bom dia, minha senhora." />
+    <string id="EfbhgTy0" text="Eu bebo quando estou com sede, e não quando algum lout força um copo na minha mão." />
+    <string id="EFVmhsMC" text="" />
+    <string id="EGchHvKa" text="Estive em corredores, galerias e tendas coletando algumas contas fascinantes. Mas eu ainda estaria interessado em acompanhá-lo, se você me quiser." />
+    <string id="EmTojvwy" text="Você sabe quem eu sou, viajante?" />
+    <string id="EPj9FwBy" text="Olha, sinto muito incomodá-lo, mas - percebo que você parece ser um andarilho. Um lutador, como - um mercenário ou algo assim. Gostaria de participar vocês." />
+    <string id="EQSc8FxA" text="Esplêndido - sobre o dinheiro. Vamos dizer um adiantamento de {NPCPAYMENT}{GOLD_ICON}? Isso é o suficiente para eu saber que você está falando sério." />
+    <string id="eUkVaqJN" text="Uma vida colorida, suponho, mas de pouco interesse para mim. Bom dia para você." />
+    <string id="ff0uDowD" text="Logo em nosso casamento, ele perdeu o ardor por mim e começou a se arrepender de sua promessa. Quando tentei invadir, ele fez uma careta e exigiu que eu ficasse em casa e lhe desse filhos. Ele ficou com ciúmes.Quando eu o amaldiçoei, ele me golpeou com a ponta da espada.Um dia, no mercado, diante de todas as pessoas da nossa aldeia, ele me acusou de mentir com alguém que cruzasse meu caminho, homem ou mulher Pelas leis do nosso povo, ele não me deu nenhum fundamento para o divórcio, por isso exigi uma luta até a morte." />
+    <string id="FkhUMTpJ" text="Eu acho que tinha um presente para um sermão. Nós vagávamos em uma vila e eu me soltava com um discurso que faria os moradores venderem suas terras e se juntarem a nós em nossa peregrinação interminável. Mas você sabe, acho que o Perfeito ficou com ciúmes, começou a me acusar de erro mortal aqui e do pecado do orgulho ali..." />
+    <string id="FKMaPDMy" text="Você deve me receber confundido com outra pessoa." />
+    <string id="fpQnbafH" text="Essa conversa ficou bastante perigosa rapidamente." />
+    <string id="fV5Icuc4" text="Isso é útil. Você também pode lutar?" />
+    <string id="fY7gnK3p" text="Saudações - olá - se você não se importa... - tem um minuto?" />
+    <string id="g4cOvMnT" text="Apenas certifique-se de dizer a seus homens a maldição sobre mim, pois eu não gostaria de tirar a vida de mais ninguém, se puder ser evitado." />
+    <string id="Gepa1szA" text="Meu pai era comerciante. Quando ele morreu, ele deixou uma pequena herança para seus filhos. A maioria foi para meus irmãos. Eles foram para o leste, para as terras de Padishah, deixando-me encarregado de nossos interesses em Calradia. Para eu entrar no lugar de meu pai e ser tratado como igual por outros comerciantes, eu sabia que tinha que ganhar muito dinheiro em pouco tempo ou eles me tirariam do mercado." />
+    <string id="GhmTenPP" text="Ora, perambulo pelo deserto. Aprendo seus caminhos secretos, seus dons ocultos, como um amante aprende os segredos e dons de sua amada." />
+    <string id="gI4xkaaR" text="Concordo que isso seja um pouco herético ao sacerdócio imperial, mas depois fui criado como herege. Talvez você já tenha ouvido falar das brasas da chama? Bem, Nasci no séquito de um Perfeito, quando as brasas estavam em chamas e vagamos pelo campo pregando fé e rebelião." />
+    <string id="gkOfyxfd" text="Talvez em uma data posterior." />
+    <string id="gMXTUU1O" text="Muito bem, posso lhe oferecer um lugar no meu grupo." />
+    <string id="gQa9XZfG" text="Posso oferecer a você meu conhecimento das ancestrais dos senhores, chefes, noyans e outras nobres de Calradia, civilizadas e selvagens. Você descobrirá que isso poderá agradá-las se você afirmam reconhecer, ao conhecê-lo pela primeira vez, o nome de seu clã e se eles são chamados de 'Os Desossados', 'Barbárvore', 'O Scratcher' ou algum outro apelido encantador" />
+    <string id="Gyslal3Y" text="Esplêndido! Ah, mas antes de assinar... Algumas das garotas que trabalham nesta taberna... Bem, por acaso, deixei uma ou duas deles com criança, devo deixar um pouco de moeda com eles antes de ir. {NPCPAYMENT}{GOLD_ICON} deve cobri-lo. Você pode me adiantar isso?" />
+    <string id="gzs2h4eS" text="Bem, eles Achei isso muito engraçado, mas eles não riram muito quando bati no noivo e peguei seu melhor cavalo, um cavalo de linho. Concluí que aqueles que possuem os melhores cavalos são aqueles que mais merecem se separar deles." />
+    <string id="H1BjisqL" text="Bom. Eu posso concordar com isso." />
+    <string id="H4fGpzOV" text="Isso é fascinante, mas estou um pouco pressionado pelo tempo. Bom dia por enquanto." />
+    <string id="h4QlH7wG" text="Se o fizesse, estaria inclinado a procurar os serviços de alguém menos mal-humorado." />
+    <string id="h4rt3qUq" text="Eles me pediram para montar um trebuchet de contrapeso em uma das torres. E é elementar, certo? 'Contrapeso' - isso significa que o braço de arremesso sobe, algo mais precisa desça, certo? Então, se você está parado em volta do trabuco assistindo, você deve prestar atenção em onde está quando eu puxo a corda, certo?" />
+    <string id="H7Y4lTjl" text="Acho que ouvi falar desse costume. Os battanianos não dizem que os ensina os caminhos da floresta?" />
+    <string id="hcMJen3F" text="Não, não posso dizer que sim. Então, quem é você?" />
+    <string id="Ho8MFOOi" text="Vou garantir que seus homens temam mais meu desprezo do que as lanças do inimigo." />
+    <string id="hR7mKQPs" text="O desprezo por si só não torna os homens corajosos, madame. Acho melhor você encontrar outro capitão." />
+    <string id="hyhYcrFp" text="Muito bem. Considere-se contratado." />
+    <string id="i53bBgar" text="Então, então... eu tive trabalhos estranhos nos últimos anos. Principalmente, fico em mercados gritando as virtudes das selas ou dos melões dessa pessoa..." />
+    <string id="iBHDCIwV" text="Não aceito recrutas que me imponham condições. Tenha um bom dia!" />
+    <string id="iBoVz4wv" text="Eu sou Lath, príncipe das terras desertas, senhor da solidão, mestre do vazio. Se você deseja conhecer meus outros nomes, pode perguntar aos meus parentes, leopardo, hiena e a gazela" />
+    <string id="IcBPLx2R" text="Muito bem, aqui está {NPCPAYMENT}{GOLD_ICON}." />
+    <string id="IcD7bMKe" text="Nasci nas estepes, mas os escravos imperiais me pegaram quando eu era menina. O Império tinha lendas de mulheres guerreiras nas profundezas das estepes e quando fui vendido , eles alegaram que eu era um deles - entretê-los, tornando suas lendas realidade. Eles ensinaram a usar uma espada, e eu aprendi bem." />
+    <string id="IEO3gvnz" text="...." />
+    <string id="igGhbdFj" text="Os Céus nos levam aonde quiserem. E como você ganha a vida?" />
+    <string id="IszNoAcX" text="Por que, poucas horas atrás, eu roubei meu centésimo cavalo! E como era um cavalo. Vi-o no trem de uma caravana que entra na cidade. embora os Céus dissessem aos quatro ventos: 'Se juntem e formem tendões e ossos, e tornem sua pelagem cinza brilhante e uma chama branca em seu nariz! Infelizmente, era um animal indigno. Ele me jogou e voltou ao seu dono.' Mas ainda assim, um dia que vale a pena lembrar, não é?" />
+    <string id="iVXlb8Lv" text="Não, não. Continue." />
+    <string id="iwxJWG81" text="Não posso deixar passar uma barganha assim. Gostaria de contratar você." />
+    <string id="j2auwAej" text="Acima de tudo, um engenheiro deve ser cauteloso. Bom dia, senhor." />
+    <string id="j4MeTe5O" text="Eu sei o que uma lâmina contratada faz e não espero mais pagamento do que qualquer outra pessoa em sua empresa. Mas solicito uma pequena taxa com antecedência para garantir que você não pensando em me enganar. Vamos dizer {NPCPAYMENT}{GOLD_ICON} denars?" />
+    <string id="jaLG4P9R" text="Eu devo. O que é isso?" />
+    <string id="jb3TXFa9" text="Um conto triste, minha querida, mas Calradia está cheia deles. Bom dia." />
+    <string id="jEtASKar" text="Se você carrega muitos suprimentos, posso prometer a você - tanto quanto qualquer pessoa pode prometer qualquer coisa, neste mundo incerto - que pagarei meu salário muitas vezes." />
+    <string id="jIC9xW8W" text="É bom ouvir isso. Naturalmente, espero ser compensado em prata pelo meu sangue e suor." />
+    <string id="JIl4An61" text="Muito mais do que um ladrão de cavalos, meu bom homem. Eu sou o príncipe dos ladrões de cavalos! Eu roubei éguas Aserai de entre as tendas e montei-as nos planos do deserto sob a lua. tiraram garanhões vlandianos de seus piquetes, os robustos pôneis dos Khuzaits e os cascos firmes dos lanceiros imperiais. Existe um bardo na casa? Você está entendendo tudo isso, ou devo começar de novo?" />
+    <string id="Jk83lyZl" text="Fugi de Sarghert. Em uma taberna em Bostrum, encontrei um cirurgião que concordou em me aceitar como aprendiz. Segui os exércitos do império e descobri que meu conhecimento aprendia em o quartel de Sarghert era útil. Tornei-me aprendiz de cirurgião, removendo flechas das costelas ou atravessando uma caveira." />
+    <string id="JrHYSBL1" text="Então, aqui estou eu, procurando ganhar a vida com os únicos meios que conheço - derramando o sangue de outras pessoas." />
+    <string id="jW6UlCAi" text="Conversando com espíritos, não é? Não vou interromper sua conversa." />
+    <string id="jxZSkF76" text="Você duelou com seu marido? Os céus evitam todo o mal. Já ouvi o suficiente." />
+    <string id="JZU9vtFg" text="Se você deseja passar rapidamente pelo deserto, encontrar abrigos para se esconder de seus inimigos, encontrar água onde outros encontram apenas poeira e morte, então eu sou o seu homem." />
+    <string id="K0Eh3eYs" text="Esplêndido. Preciso de uma pequena quantia de dinheiro adiantado - {NPCPAYMENT}{GOLD_ICON}. Tenho vários funcionários, que estão na nossa família há anos, que não podem me acompanhar A honra e a humanidade básica exigem que eu lhes dê uma pequena quantia de dinheiro para que elas se levantem." />
+    <string id="k767XKYO" text="Minha família me implorou que não. O mesmo aconteceu com a maioria dos outros. Mas os anciãos. disse que, embora não houvesse precedente para o marido e a esposa duelarem, não havia nada na lei para detê-lo. Eu senti tanta raiva. Era como se houvesse outra pessoa, um demônio, habitando meu corpo em meu lugar. todas as ofertas de mediação e exigiu que a luta avançasse." />
+    <string id="kcQQS5OF" text="Depois que meu pai morreu - de luto, acredito -, resolvi assumir a profissão de armas, para que todos os homens soubessem que eu não sou do tipo que se casa. E digo a todos os outros da maldição sobre mim, assim que eu os encontrar." />
+    <string id="kn76Y4yi" text="Não tenho pratos dourados para você jantar. Duvido que você dure muito tempo conosco. Tenho um bom dia!" />
+    <string id="KoetJ3P0" text="Confesso que acho os bárbaros particularmente interessantes, pois eles têm muitas virtudes que nós no Império perdemos - uma certa honestidade de espírito, devo dizer, não nosso ensopado grosso de civilizados intrigas" />
+    <string id="kpD07Ib2" text="Há apenas uma coisa que eu quero ouvir de alguém agora: que as notícias que ouvi são falsas. Que o armazém em Makeb onde eu guardei minha pimenta não pegou fogo e que não perdi minha fortuna" />
+    <string id="KU1nXWTK" text="A planície de cascalho me conhece, assim como as areias ondulantes e o desfiladeiro sombreado. Eu enfrentei a tempestade de areia abrasadora, a enchente, o calor mortal do meio-dia, e todas me disse: 'Passe com segurança, irmão.'" />
+    <string id="KUKuUJaL" text="Você se esforça demais para se vender. Acho que vou ter que dizer 'não'." />
+    <string id="KYPP1pKE" text="Isso é ótimo. Isso é muito generoso. Mas espero que você me perdoe se, dadas as duras lições que aprendi no passado, se pedir um pequeno avanço - { NPCPAYMENT}{GOLD_ICON}, se você não se importa." />
+    <string id="LcihqCpu" text="Minhas desculpas, mas isso não é do meu interesse." />
+    <string id="lDVo9y0g" text="E por que é isso? Qual é a sua história?" />
+    <string id="lJkybj3d" text="Olá, viajante. Gostaria de se juntar a mim para tomar um copo de vinho?" />
+    <string id="LnHkGgsd" text="É gentil da sua parte dizer." />
+    <string id="M5mMHrDL" text="Olá, estranho! Tome um drinque comigo, pois em um dia como o de hoje, não é adequado que alguém fique triste e sóbrio em minha presença!" />
+    <string id="m7KEC7wT" text="Bom. Você pode .. Você pode me dar {NPCPAYMENT}{GOLD_ICON} com antecedência? Preciso de botas melhores." />
+    <string id="MigoHjvo" text="Nosso mundo e o Outro mundo são sombras um do outro, você vê. Toda vez que vejo os espíritos, eles me dizem para seguir alguém - uma caravana, uma festa de invasão, um grupo de mercenários. Entro nessa festa e isso me leva a outra. Dessa forma, atravessei Calradia e a atravessei novamente. Agora eles estão me dizendo para segui-lo." />
+    <string id="mjiaqseL" text="Ouvi dizer que a má sorte é contagiosa. Adeus." />
+    <string id="MjSlFqAl" text="Sim? Quero que você saiba, normalmente não tenho o hábito de conversar com estranhos em tabernas." />
+    <string id="mk0l1BfB" text="Você pode dizer isso. Eu servi nas legiões do império há duas décadas. Era uma vez dignos de serem chamados de 'legiões'. Servimos juntos por anos, o mesmo grupo de homens sob um único padrão, e morreríamos em vez de ver esses padrões vacilarem ou caírem.Mas Drosios Neretzes levou a última das legiões reais a emboscar na floresta battaniana. já ouvi essa história" />
+    <string id="MlzMSNkQ" text="Além disso, como eu lhe disse, a partir desta tarde eu sou um ladrão de cavalos reformado. Você não encontrará um juiz de cavalos melhor do que eu." />
+    <string id="n3IEXAGH" text="Em troca disso, prometo fazer o possível para chicotar qualquer ralé que você recrutar para soldados. Não me importo com cavaleiros e nem com arqueiros. Mas dê-me lacaios com um pouco de coragem, e eu os ensinarei a ficar juntos em uma formação sólida como uma rocha que quebrará qualquer acusação que você queira jogar nela." />
+    <string id="n5y4faSu" text="Esplêndido! No entanto, devo pedir um pequeno pagamento inicial de {NPCPAYMENT}{GOLD_ICON}. Tenho uma dívida que esperava pagar com alguns talheres, mas encontrei algumas dificuldades com isso" />
+    <string id="N91Wnhht" text="Há apenas uma coisa que devo perguntar. Gostaria de deixar esta cidade com livros de balanço limpo. Gostaria de liquidar todas as minhas dívidas. Um adiantamento de {NPCPAYMENT}{GOLD_ICON } deve ser suficiente." />
+    <string id="nagec3c3" text="Oh... Hm... Olha, os guerreiros podem ser um pouco crédulos... Talvez devêssemos dar um passe nisso" />
+    <string id="nbbn0HaV" text="Por quê? Vou lhe dizer o porquê." />
+    <string id="nEHOUdf8" text="Confesso que esta não é a primeira vez que algo assim acontece comigo. Os hosts podem ser tão exigentes em suas listas de convidados. Mas isso me deixou um pouco impasse , como eu provavelmente deveria sair desta cidade mais cedo ou mais tarde" />
+    <string id="NLLnv7WH" text="Eu já estive por aí. Ainda estou entediado. Ainda estou bebendo mais do que deveria." />
+    <string id="NMTS37x2" text="I tive a oportunidade de comprar pimenta de outro comerciante que vendia com desconto e precisava de dinheiro. É claro que inspecionei a pimenta e seu armazenamento. Entrevistei os vigias do armazém. Você pode confiar em nós, madame ', disseram eles. garantiu que sua pimenta está em boas mãos. Mas um deles mantinha um braseiro aceso à noite, pelo calor, e um camelo o chutou em uma cama de palha quando ele estava se aliviando. Quando ele voltou, o armazém estava em chamas." />
+    <string id="nNFSLJ2A" text="Essa é uma habilidade muito especializada, minha senhora. Adeus." />
+    <string id="nYAU0zNC" text="Um rei sábio disse uma vez: peço apenas aos meus generais que tenham sorte. Bom dia." />
+    <string id="o7gJN0Kk" text="Você não vai se arrepender de sua decisão. Uma coisa que devo perguntar - antes de sair, preciso de um novo freio e sela. Um avanço de {NPCPAYMENT}{GOLD_ICON} deve ser suficiente." />
+    <string id="odwyvxY1" text="Esplêndido. Confio em você." />
+    <string id="OGNIl4xM" text="Não tenho interesse nos seus serviços." />
+    <string id="OGqp7v0p" text="Entendo. O que aconteceu aqui?" />
+    <string id="on8y3fa6" text="Mas suponha que encontrei um jovem capitão ambicioso - talvez alguém como você, alguém que precisava atrair uma multidão ou inspirar soldados em algum momento. Acho que poderia viajar com aquele capitão. - compartilhando todas as batalhas e dificuldades da estrada, é claro - e talvez ensine a eles um pouco do que eu sei." />
+    <string id="ovC1Sdix" text="Muito bem. Uma coisa que posso prometer é muita luta." />
+    <string id="OVCdGjpT" text="Talvez. Quais habilidades você tem para oferecer?" />
+    <string id="oxNAJ1Ha" text="Nesse caso, irei incomodar outra pessoa." />
+    <string id="peDtXrrt" text="Perdoe-me por isso. Vejo coisas que outros não. Espíritos do Outro Mundo, que cruzam nosso mundo por um breve lampejo de tempo. Sinto muito - sei que é perturbador para os que estão à minha volta. Mas devo prestar atenção a eles." />
+    <string id="PeWH4UqF" text="Se eu puder me conectar a um grupo, como o seu, provavelmente não haverá problemas. Não tenho nada com o que pagar, mas se você me deixar quitar qualquer dívida, eu apreciaria isso." />
+    <string id="pgoFlK3o" text="De qualquer forma, saí de lá quando eles ainda estavam brincando com um balde e esfregão. Mas se houver uma pergunta e as pessoas começarem a procurar alguém para culpar, bem, eles provavelmente decidirei apontar o dedo para o contratante externo. Portanto, não me importaria de sair da cidade." />
+    <string id="PktncYtr" text="Eu conheci alguns que não são, aqueles que queimam sua vila. Seu tipo, pela sua aparência." />
+    <string id="plzerw4U" text="Se você está derrubando, eu não sou apenas um dos melhores - eu sou o melhor. Eu faço carneiros, minas e, claro, catapultas. Torção e contrapeso. Você pode perguntar a qualquer castelão em qualquer cidade de Calradia... Bem, talvez seja melhor não perguntar nesta cidade, mas em qualquer outra cidade de Calradia." />
+    <string id="pQfiRC55" text="Vou levar alguém, marcado com fada ou não, se eles puderem manter um lugar em uma linha de batalha." />
+    <string id="pVSiRbni" text="Sinto muito. Faz muito tempo que não falo tanto com ninguém. Acho que é o vinho. Ele passou pela minha cabeça. Faz três anos que eu vivi na floresta, com apenas os lobos como companheiros" />
+    <string id="pyz3ruTU" text="Bem, você foi sincero ao me dizer isso. Que habilidades você traria para o meu grupo?" />
+    <string id="pZhCmnEO" text="Meu pai era servo do fen Uvain. Aos 15 anos, ficou claro que, como treinador de cavalos, eu não tinha igual. Melidir fen Uvain me fez uma oferta No final do terceiro ano, quando eu deveria reivindicar minha recompensa, o capitão do estábulo de Melidir me disse que ele havia acabado de dar todos os cavalos do seu rebanho. como um presente para o filho. Se eu quisesse, poderia ter uma cabra." />
+    <string id="QAuX5fN4" text="Aceite-me agora e você pode ter meus serviços por uma fração do que valem a pena. Acredite, em sua linha de trabalho, não há despesa maior do que um longo cerco A menos que você goste de beber água suja e se agachar em valas lamacentas, me contratar é uma oportunidade que você não pode perder." />
+    <string id="qCdrnUWP" text="Bem, fui forçado a puxar minha espada e cortar seus homens um pouco antes de desaparecer por cima de um muro. Mas deixei seus convidados com um entretenimento verdadeiramente memorável à noite e ele com uma história que, sem dúvida, fará dele o brinde de muitos saraus por vir." />
+    <string id="qEsEzBME" text="Hmm. Eu poderia estar interessado. O que você pode me oferecer?" />
+    <string id="QNVJgFbF" text="Ficou cansativo, posso dizer, ser acusado de heresia por um herege enquanto vivia de doações durante o dia e escondido nas sebes à noite, para que a nobreza local não se cansasse de persuadir os inquilinos deles na santa pobreza. Eu disse ao Perfect que queria levar nossa mensagem para as cidades, e ele me deu permissão para vir aqui, mas acho que me perdi um pouco." />
+    <string id="QQN2906x" text="Deixe-me pensar um pouco sobre isso." />
+    <string id="qrfeidLk" text="Muito bem. Aqui está a sua saúde." />
+    <string id="R0oKayMF" text="Se você é um andarilho, como você diz, talvez seja a minha vantagem acompanhá-lo, colecionar as histórias que eu puder. você de alguma forma." />
+    <string id="r7P5d97H" text="Saudações, viajante. Procurando alguém para derramar sangue por você?" />
+    <string id="rmX5ufHr" text="Eu posso estar saindo da cidade. Conte-me um pouco mais sobre você." />
+    <string id="rNkwrwo4" text="Eu culpo Arenicos e suas chamadas reformas. Isso o salvou de prata, mas agora nossos exércitos são apenas restos de senhores explodidos - toadies, agricultores que não têm negócios no campo de batalha , alguns homens bons, mas não o suficiente. Não há orgulho nem disciplina. Não é à toa que estamos brigando entre nós hoje em dia, sendo ridicularizados pelos bárbaros que costumávamos governar." />
+    <string id="RsCPQ167" text="Meus pais se mudaram para Baravenus como refugiados de ataques sturgianos, e eu comecei a fazer recados para os comerciantes. Alguns deles gostam de receber mercadorias dentro ou fora da cidade sem passar pelo portão - eles não se importam em pagar tarifas, talvez, ou talvez o proprietário original do item esteja procurando por ele" />
+    <string id="RTNL9zYa" text="Pensando bem, você passou um tempo sozinha. Talvez você não deva ingressar em uma empresa ainda." />
+    <string id="RUu7rzvX" text="Bem. Um homem que conhece cavalos é sempre bem-vindo. Eu pago toda semana, não depois de três em três anos." />
+    <string id="RZZXKFvd" text="Na verdade, estou mais interessado em skirmishers." />
+    <string id="s0TgECe7" text="Olá. Chegue mais perto e vou enfiar uma faca na sua barriga, mas se você permanecer onde está, não vejo razão para não ter uma conversa agradável." />
+    <string id="s0Yanm4a" text="Muito bom. Eu pediria {NPCPAYMENT}{GOLD_ICON} logo no início. Eu mato quem me engana e depois pode ser difícil receber o pagamento." />
+    <string id="s1cAUzB7" text="Infelizmente, tive mais sorte em pegar cavalos do que em mantê-los. E, mais cedo ou mais tarde, se eu continuar com isso, suponho que devo terminar em um nó. Cem cavalos são um ponto suficientemente bom para parar, não é? Preciso procurar um trabalho honesto. Suponho que você não tem nenhum trabalho a oferecer?" />
+    <string id="scmsbgrX" text="Espere! Silêncio! Você vai assustá-lo! Ah... Não importa. Ele se foi." />
+    <string id="SjQiHp6W" text="Não tenho certeza de que você é exatamente o que estou procurando..." />
+    <string id="SPp4OsPO" text="Está bem, Lath. Não há necessidade de falar com as hienas. O que você faz?" />
+    <string id="sQgZR0dA" text="Meu amigo, por que um homem não deve comer os melhores pratos de pratos de ouro, se ele tem coragem de fazê-lo? Embora eu confesse que estou ficando um pouco cansado de tudo , e talvez tenha uma mudança de ritmo" />
+    <string id="sRxN3IyF" text="Saiba antes de falar comigo que estou amaldiçoado." />
+    <string id="SVOylcqx" text="Se você conhece as caravanas, posso ter algum trabalho para você." />
+    <string id="swaLbjD1" text="Mais importante, eu realmente deveria seguir em frente. Suponho que você não esteja no mercado por meus talentos e conhecimentos? Conheço uma porta dos fundos para todas as cidades do leste metade de Calradia, ou a guarda certa para subornar" />
+    <string id="T8egZl6T" text="Sim. Por favor, continue." />
+    <string id="TaDaCPb8" text="Não pedi para ouvir sua história. Tenho outros assuntos." />
+    <string id="teLnMBXG" text="Gosto de meus homens serem agressivos, mas há limites. Bom dia, senhor." />
+    <string id="tEw3TwnM" text="Como é franco da parte dele! O que aconteceu depois?" />
+    <string id="TGYJUUn0" text="Continue." />
+    <string id="TMLpc1mq" text="Então, você vive entrando nos jantares de outros homens, pelo que entendi. Mas parece que você tem um conjunto de habilidades úteis." />
+    <string id="TnVIWrof" text="Você parece ter a atitude certa. Conte-me mais sobre você." />
+    <string id="u8N37fgb" text="Uma história trágica, minha senhora. Por favor, continue." />
+    <string id="UhEt737M" text="Sim. Bem, era um risco - mas calculado. Se você estiver disposto a ouvir minha história, eu gostaria de ter a chance de aliviar minhas mágoas." />
+    <string id="UlsvDHLV" text="Ah, que pena. Se você era natural de Calradia, eu ficaria muito interessado em saber sobre seus ancestrais e alguns detalhes do seu local de nascimento. Estou coletando notas sobre o linhagens desta terra, tanto das grandes famílias imperiais quanto de nossos irmãos bárbaros" />
+    <string id="unbf7266" text="Estou aqui para beber, não para falar, então, o que quer que você tenha a dizer, eu o aconselho a dizê-lo a outra pessoa. A menos que você tenha uma luta que precisa de luta." />
+    <string id="UpEItRrJ" text="Olá? Olá? Você parece estar olhando através de mim." />
+    <string id="Upr8OV6G" text="Sinto muito, senhora. Por favor, continue." />
+    <string id="UYmAp92Q" text="Em troca, prometo que serei o primeiro em todas as batalhas. Também grito muito. Você verá que isso incentiva os outros. Temos um acordo?" />
+    <string id="v2664Qeo" text="..." />
+    <string id="v86ZaoFv" text="Acho que você está desperdiçando seu tempo, senhora. Tenha um bom dia!" />
+    <string id="VC5CkkUD" text="Isso é muito impressionante! Do ponto de vista técnico, é isso." />
+    <string id="VDssJwd4" text="Boa tentativa, estranho. Essa não é a outra metade da palavra de ordem. Mas você não se parece com o vigia da cidade, então vou correr um pequeno risco aqui e perguntar você alguma coisa." />
+    <string id="vGokzhrp" text="Ah, sim. Sim, sim." />
+    <string id="vl7wgzIg" text="Eu sou Tabur, filho de Alqan. Você não reconhece o nome? Bem, talvez nos movamos em círculos diferentes. Qualquer conhecedor de jantares, vinho, cortesãs e poesia sem dúvida teria ouviu falar de mim." />
+    <string id="vm7V0Il5" text="Bem, ele não acreditava nessas coisas, então ele riu, jogou algumas moedas para ela e a mandou seguir em frente. Eu cresci. Quando meu primeiro pretendente foi espetado por sofri uma lança na batalha, mas pensei pouco. Quando meu segundo pretendente passou de febre, fiquei nervoso. Quando meu terceiro pretendente foi jogado do cavalo em uma caçada, sabia que precisava fazer alguma coisa." />
+    <string id="vp24haLz" text="Considere-se sortudo, eu não ligaria para o tempo agora. Bom dia para você." />
+    <string id="vqC3imQv" text="Rabble? Bárbaros? Estes são meus amigos que você está falando!" />
+    <string id="vT1fdgss" text="Mestre em conversas vazias. Bom dia, senhor." />
+    <string id="vuiCGQpZ" text="Não há muito mais a dizer. Meu mestre era um animal debochado, mas ele me deixou manter uma pequena parte dos meus ganhos e, eventualmente, comprar minha liberdade. Acho que ele também pode ter percebido que eventualmente, se ele me mantivesse contra a minha vontade, acabaria com uma veia do pescoço cortada" />
+    <string id="vXvsnePq" text="Vejo você, espírito! O que você veio me dizer desta vez?" />
+    <string id="vYY87DK9" text="Fah. Os Wolfskins são crianças selvagens e ricas, brincando de animais. Havia um na minha banda, Deimul fen Gruffendoc, primo do rei. Ele tinha uma língua rápida. zombou de mim, todas as chances que ele tinha.Eu era lento e nunca conseguia pensar em como responder.Uma noite eu não aguentava mais.Eu puxei minha faca e brigamos.Eu esfaqueei na coxa e ninguém sabia como para estancar o sangramento e sangrar até a morte" />
+    <string id="vzfZyIfy" text="Certamente. Uma precaução muito sensata." />
+    <string id="wd4BBrTY" text="Porque eu passei por toda a prata no meu bolso e estou com sede de novo. Porque já faz muito tempo desde que eu balancei uma espada e meu braço está coceira. Porque se você não mata um homem a cada poucas semanas, as pessoas esquecem do que você trata. Aí. Você precisa de apenas um motivo, e eu só dou três." />
+    <string id="Wnt5Ngzr" text="Saudação, {?PLAYER.GENDER}senhora{?}senhor{\?}. Você tem alguma chance no mercado de um engenheiro?" />
+    <string id="WQCAanal" text="Ah, nos velhos tempos. E, sem dúvida, naquela época eles reclamaram dos velhos tempos. Já ouvi o suficiente." />
+    <string id="WYri5sav" text="Olá, estranho. 'O gato anda sobre patas silenciosas.'" />
+    <string id="WzyHzNW3" text="Esplêndido, {?PLAYER.GENDER}senhora{?}senhor{\?}! Há outro pequeno favor. Eu tenho algumas dívidas nesta cidade, principalmente devido ao derramamento de vinho nos livros. Eu pediria um adiantamento de {NPCPAYMENT} no meu pagamento." />
+    <string id="XAbqJNk5" text="O imperador Arenicos foi muito aberto às minhas idéias e me deu permissão para acompanhar seus exércitos. Mas desde que essa guerra civil começou, os comandantes ficaram muito cautelosos - com medo de que eu seja um espie de um lado ou de outro. Tive que passar meu tempo na biblioteca e não no campo, o que é muito desanimador para mim" />
+    <string id="XHCxDciV" text="Espero que tenha deixado claro para você o que estou falando." />
+    <string id="Xi0A9Bb8" text="No entanto, embora o deserto seja abundante, cavalos e o aço deve ser comprado com prata. Desejo informar que meus serviços são contratados" />
+    <string id="XJZ9XV1U" text="Atualmente não, senhora. Bom dia para você." />
+    <string id="xlJEkqH9" text="Pretendo encontrar o capitão de uma empresa que me contratará como aprendiz. Depois domino as artes da guerra, e criarei uma empresa por minha conta e, portanto, vergonha os machos do império a recuperar sua masculinidade perdida" />
+    <string id="xpGLd7Co" text="Receio que não, minha senhora. É melhor você sair agora." />
+    <string id="XUqko0Fo" text="[o que ele não fará]" />
+    <string id="xxaOegyt" text="Uh, 'mas carrega um pássaro grande na boca'?" />
+    <string id="Xxmiytv0" text="Às vezes, patrulhas e grupos de caça chegavam à floresta. Eu podia fazer círculos em volta deles e eles nunca saberiam que eu estava lá." />
+    <string id="Y1R0x220" text="Como é legal deles..." />
+    <string id="Y7elloP2" text="Uh, bem, eu posso. Por que você quer lutar por mim?" />
+    <string id="YBtDZuCL" text="Excelente. Gostaria de um adiantamento, até porque preciso limpar meu equipamento. Vamos dizer {NPCPAYMENT}?" />
+    <string id="yczuEk0C" text="Ele lutou para matar, mas eu fui mais rápido e o matei. Não sinto arrependimento. Que qualquer homem que imagine que ele possa tratar uma dama do escudo considere seu destino." />
+    <string id="yjkGHRkA" text="Tudo muito interessante para um estudioso, suponho, mas não para mim. Bom dia." />
+    <string id="ySwWQmYW" text="Então a última coisa que quero, minha senhora, é vista conversando com você." />
+    <string id="yTnm04Hh" text="Posso pagar por {NPCPAYMENT}{GOLD_ICON} denars. Prepare-se." />
+    <string id="YWQTQ5OH" text="Você está com o meu cabelo tenso. Bom dia, senhor." />
+    <string id="yYHCwEeo" text="Mesmo agora, sinto que fiz uma escolha sábia para comprar a pimenta, mas azarada. É uma fortuna! Se eu não tivesse aproveitado essa oportunidade, outros comerciantes teriam zombado de mim, uma mulher tímida demais para ter sucesso no comércio de homens. Agora eles são uma mulher precipitada e sem julgamento de homens." />
+    <string id="Z3b8jrxn" text="Comecei a vê-los depois que minha mãe desapareceu. A princípio pensávamos que os assaltantes a haviam levado, ou lobos. Essa é a vida nas estepes, onde morávamos. Mas os espíritos me disseram que minha mãe não havia sido levada, ela foi para baixo, para reunir os espíritos de outros membros de sua família. Eu devo estar pronto para conduzir a cerimônia para seu retorno" />
+    <string id="zbji14tF" text="Eu sou um desbravador e um rastreador." />
+    <string id="ziu66P84" text="Ficarei onde estou. Então, por que uma saudação tão amigável?" />
+    <string id="znWhtJxt" text="Realmente. presto atenção à embalagem e ao carregamento em particular. É uma arte, que determina a rapidez com que um animal de carga pode se mover, se uma caravana se diverte. ou está sempre parando para pegar uma carga derramada" />
+    <string id="ZO6PptgQ" text="Ah, aqui e ali. Sou uma chegada recente em Calradia." />
+    <string id="ZSR5CZxx" text="Muito bem. O que faz hoje um dia tão especial?" />
+    <string id="zsXbMbnc" text="Eu tenho um e posso fazer isso." />
+    <string id="zyBXzKZ6" text="Olá, viajante. O andarilho é uma bênção para as terras pelas quais ele passa." />
+  </strings>
+</base>

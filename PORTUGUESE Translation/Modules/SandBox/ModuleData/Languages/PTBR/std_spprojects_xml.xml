@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Português Brasileiro" />
+  </tags>
+  <strings>
+    <string id="2NR2E663" text="Orto de Palmeiras" />
+    <string id="3aOIY6wl" text="Mina de Sal" />
+    <string id="6WbkldyD" text="Lumberjack" />
+    <string id="7dW5m6Xa" text="Fazebda de Gado" />
+    <string id="BPPG2XF7" text="Fazenda de Trigo" />
+    <string id="dIBuwAhe" text="Plantação de Especiarias" />
+    <string id="EBO1FIC9" text="Fazenda de Ovelhas" />
+    <string id="ewrkbwI9" text="Pantação de Olivas" />
+    <string id="hopZmzBi" text="Estábulo da Estepe" />
+    <string id="hPq4vD4Z" text="Projeto Parado" />
+    <string id="koX9okuG" text="Nenhum" />
+    <string id="NWUTYDQ0" text="Templo" />
+    <string id="OSron4OZ" text="Pesca" />
+    <string id="pYY1UNgS" text="Mina de Barro" />
+    <string id="rHcVKSbA" text="Mina de Ferro" />
+    <string id="vPt1OF30" text="Estábulo do deserto" />
+    <string id="Xj8gsFrW" text="Cultivo de Bicho da Seda" />
+    <string id="Z8ntYx0Y" text="Campo de Linho" />
+    <string id="ZtxWTS9V" text="Vinhedo" />
+    <string id="zzQdNpXw" text="Estábulo" />
+  </strings>
+</base>

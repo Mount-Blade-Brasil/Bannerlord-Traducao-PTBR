@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Português Brasileiro" />
+  </tags>
+  <strings>
+    <string id="35IHscBa" text="INIMIGO" />
+    <string id="4gOGGbeQ" text="Batalha customizada" />
+    <string id="BC7n6qxk" text="JOGADOR" />
+    <string id="fXhblsky" text="MAPA" />
+    <string id="MVOWsP48" text="Selecione uma máquina corpo a corpo" />
+    <string id="mxbq3InD" text="{ARMY_SIZE} mas" />
+    <string id="SLZzfNPr" text="Selecione uma máquina à distância" />
+  </strings>
+</base>

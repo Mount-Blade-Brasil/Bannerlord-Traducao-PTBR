@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Português Brasileiro" />
+  </tags>
+  <strings>
+    <string id="0e17RZrZ" text="Balestra" />
+    <string id="0Uvkm46I" text="Concede Espada, eficaz em duelos e estocadas." />
+    <string id="0yGhTKey" text="Concede flechas extras." />
+    <string id="14Lfo4sB" text="Javelins mais fortes" />
+    <string id="1dTipfgq" text="Substitui o Voulge pelo projeto de lei militar, uma arma de fogo." />
+    <string id="1nZaud4o" text="Substitui Menavlion por Menavlion Longo, será mais lento." />
+    <string id="1xa1a0d2" text="Substitui o escudo por um escudo maior." />
+    <string id="25f3yj3M" text="Espada mais longa" />
+    <string id="2bzFzemV" text="Besta mais pesada" />
+    <string id="2JZakvPJ" text="Substitui Menavlion por Menavlion pesado, mais lento e maior dano." />
+    <string id="3ksDHRKT" text="Concede a lança longa oriental, uma lança longa de duas mãos." />
+    <string id="4ckL9lJ8" text="O Granas Pilas, mais longo, bom para atrapalhar, pode ser usado corpo a corpo, em pouca quantidade." />
+    <string id="4eFFdbbh" text="Substitui Voulge por espada de duas mãos, eficaz em duelos e estocadas." />
+    <string id="4wdgiTta" text="Foice" />
+    <string id="5JQFx3EW" text="Substitui a montagem por um cavalo mais rápido e manobrável." />
+    <string id="5pLEUc4t" text="Flechas fortes" />
+    <string id="5ydbUsFh" text="Jogando lanças" />
+    <string id="6bdcoGI1" text="Substitui a montaria por um cavalo mais rápido e manobrável." />
+    <string id="6hwZwODh" text="Gládio" />
+    <string id="722U31od" text="Substitui a montagem por um cavalo mais manobrável, durável, mas mais lento, que causa mais danos por carga." />
+    <string id="73DALTsR" text="Substitui Foice por Martelo, eficaz contra oponentes blindados." />
+    <string id="7lb73utt" text="Concede flechas fortes, causa mais dano." />
+    <string id="7LmUe8fQ" text="Menavlion" />
+    <string id="7MkoLtWC" text="Machado" />
+    <string id="7sWKjye0" text="Cavalo mais rápido" />
+    <string id="7tmdALxE" text="Dardos mais rápidos" />
+    <string id="7xCZBa2h" text="Substitui o Arco Recurvo pelo Arco Superior Imperial, mais rápido e menos preciso." />
+    <string id="8nObGQqW" text="Rhomphaia" />
+    <string id="943pNa16" text="Protetor de luz" />
+    <string id="9aFg4Cb4" text="Concede Eixos de Arremesso, fornece dano à distância, eficaz contra escudos, com pouca quantidade." />
+    <string id="9kGyIb8D" text="Dardos de longo alcance" />
+    <string id="9vYPOPbF" text="Substitui a lança normal por lança longa, mais longa e causa menos dano." />
+    <string id="a4Y00Bxz" text="Concede lança, mais longa, mas lenta e passível de  cobrança." />
+    <string id="a8ycVmwU" text="Bardo" />
+    <string id="AAiawU42" text="Concede lança, maior que lanças normais, que pode ser acoplada." />
+    <string id="aJ3pbDTg" text="Substitui o arco de caça pelo arco superior imperial, mais rápido e menos preciso." />
+    <string id="aVGSZhCN" text="Escudo de Pavise" />
+    <string id="azkl5CZk" text="Substitui o arco recurvo pelo composto, causa mais danos e é preciso, porém mais mais lento." />
+    <string id="bDCbhzoh" text="Substitui a lança por uma lança mais longa." />
+    <string id="bDfKz5SZ" text="Funda" />
+    <string id="bfyqpwbJ" text="Substitui a espada de duas mãos por Falx, por mais tempo e causa mais dano, mas não pode empurrar." />
+    <string id="bGQ83Jtr" text="Lança mais longa" />
+    <string id="BHXqTA0N" text="Substitui o Flyssa pelo Kaskara, por mais tempo e causa mais danos." />
+    <string id="bKDoNDhC" text="Substitui a espada por maça pesada, eficaz contra oponentes blindados." />
+    <string id="bn1nJlH4" text="Mais lanças de arremesso, eficazes em combate corpo a corpo." />
+    <string id="bsabIdYm" text="Machado de duas mãos" />
+    <string id="bwLknWjn" text="Substitui dardos por dardos Imperiais, causa mais dano e pode ser usado em combate corpo a corpo." />
+    <string id="bY9U7w1Q" text="Espada" />
+    <string id="bzCoIgk7" text="Projeto de lei militar" />
+    <string id="bzdCMVuG" text="Maça de cavalaria" />
+    <string id="bzr6vtXi" text="Menavlion pesado" />
+    <string id="C2XqmIAQ" text="Substitui o arco recurvo pelo composto, mais preciso, causa mais dano, porém mais lento." />
+    <string id="CaEBx7NK" text="Substitui o Tabar por Bardiche, mais lento, mas causa mais danos." />
+    <string id="cfSgK0nk" text="Cavalo ágil" />
+    <string id="CG5D5r2w" text="Substitui a espada por maça, eficaz contra oponentes blindados." />
+    <string id="chOIa3PO" text="Substitui escudo por um escudo mais leve, bom para movimentos mais rápidos." />
+    <string id="CJo3mNsK" text="Fornece dardos mais fortes." />
+    <string id="cMsadGUb" text="Pilas" />
+    <string id="CQBiJLgv" text="Camelo" />
+    <string id="cRCkC36E" text="Espada curta" />
+    <string id="d7Z3ka1m" text="Arco melhor" />
+    <string id="d8oFKRxa" text="Concede lanças de arremesso, maiores que lanças normais, podem ser usadas em combate corpo a corpo." />
+    <string id="D9XZcdid" text="Concede Franceskas, fornece dano à distância, eficaz contra escudos, porém em pouca quantidade." />
+    <string id="DCyOFcZI" text="Concede Billhook, uma arma de fogo." />
+    <string id="Dj64aJKQ" text="Billhook" />
+    <string id="dkSDZODz" text="Substitui a espada pela armadura, mais rápida, eficaz em duelos e investidas." />
+    <string id="DlKYZgA3" text="Armadura aprimorada" />
+    <string id="dQEa2hZa" text="Lança longa" />
+    <string id="DZ2g8IZr" text="Substitui o machado de duas mãos por um maul de duas mãos. Eficaz contra oponentes blindados de duas mãos." />
+    <string id="DZkbvhfq" text="Substitui os dardo por Jereeds, causa mais dano, pode ser usado em combate corpo a corpo." />
+    <string id="EdLIa9Ds" text="Substituir as setas por mais fortes, causando mais danos." />
+    <string id="EEEFVPLP" text="Substituir machados por espadas,, eficaz em duelos e empurrões." />
+    <string id="eQLORdgE" text="Flechas adicionais" />
+    <string id="eyCVSK43" text="Lança pesada" />
+    <string id="F49w1uD0" text="(TEMPORÁRIO) Substitui machado por machado pesado, causa mais danos e mais curto." />
+    <string id="FaW2RuA8" text="Lanças de lançamento" />
+    <string id="FLBYsvxp" text="Espada longa" />
+    <string id="g3EFq1ld" text="Melhores javelins" />
+    <string id="g7DvxQYg" text="Concede uma cimitarra pesada, causa mais dano, mais longo e mais lenta." />
+    <string id="GN3IoRlp" text="Concede dardos que causam mais danos." />
+    <string id="gnb4493C" text="Substitui a espada pelo taco, eficaz contra oponentes blindados." />
+    <string id="gQtU8qqy" text="Concede machado, eficaz contra escudos." />
+    <string id="GsGJgGDE" text="Lança" />
+    <string id="h1aBRZRO" text="Concede dardos mais rapidos." />
+    <string id="h60wQVVX" text="Pike" />
+    <string id="H8MYgA6i" text="Menavlion mais longo" />
+    <string id="HE8lvLcm" text="Substituir a espada por Glaive, uma arma Khuzait." />
+    <string id="hEEebqIY" text="Substituir machado por espada, mais rápido, mais eficaz em duelos e empurrões." />
+    <string id="HoVaJ0BH" text="Maul de duas mãos" />
+    <string id="HQ20qb3g" text="Substituir a montagem por um cavalo mais rápido, mas menos durável." />
+    <string id="hs39bbML" text="Arco mais forte" />
+    <string id="Hy967JNj" text="Substituir o arco de caça por arco longo, causando mais dano e mais lento." />
+    <string id="HZgjTUoY" text="Substituir machado por espada, mais rápido, eficaz em duelos e estocadas." />
+    <string id="i7OWTiQc" text="Blindagem mais forte" />
+    <string id="iNJr5HOM" text="Pike de perfuração" />
+    <string id="iSpXc3qQ" text="Concede Glaive, uma arma Khuzait, mortal a cavalo." />
+    <string id="IsVZwswB" text="Substitui o arco de caça por um arco recurvo, causa mais dano, mais preciso e mais lento." />
+    <string id="IUsT27oV" text="Fornece +9 de armadura." />
+    <string id="iYauUX6r" text="Concede lanças de arremesso, mais longas que lanças, que podem ser usadas em combate corpo a corpo, em pequenas quantidades." />
+    <string id="JbODbx5i" text="Concede escudo, torna o bloqueio mais fácil e mais eficaz contra unidades de longo alcance." />
+    <string id="JBVAeXx3" text="Forquilha" />
+    <string id="JbWbiO6O" text="Arco e flecha" />
+    <string id="Jd0Kq9lD" text="Escudo" />
+    <string id="JfnVaE9D" text="Concede baterias, boas para assédio, podem ser usadas em combate corpo a corpo, com pouca quantidade." />
+    <string id="jhey75nZ" text="Substituir a maças por espadas bastardas das terras altas, eficaz em corpo-a-corpo e empurrão com as duas mãos." />
+    <string id="JjRJs2Ue" text="Substitui a maça por um machado de duas mãos, mais eficaz contra escudos." />
+    <string id="jKYWiUZA" text="Substitui a montaria por um cavalo mais lento, mais manobrável, mas mais lento, que causa mais danos por carga." />
+    <string id="K1t2X1YF" text="Substitui a blindagem por uma blindagem maior e mais forte, aumenta a durabilidade." />
+    <string id="K1UFTirG" text="Besta leve" />
+    <string id="KBrDpNxO" text="Arco longo" />
+    <string id="KKWkfc2n" text="Concede dardos mais fortes." />
+    <string id="kS0LMJix" text="Concede javelins, bons para assédio, podem ser usados em combate corpo a corpo." />
+    <string id="KWCsD0vW" text="Concede a espada da cavalaria, boa para assediar, pode ser usada em combate corpo a corpo." />
+    <string id="kxNFecm2" text="Escudo mais leve" />
+    <string id="KXwN1PW4" text="Grande Machado" />
+    <string id="kYbMMbzD" text="Concede pique, muito eficaz contra cavalaria, mais longo que lanças, não pode ser usado com escudos." />
+    <string id="L01yAZlu" text="Substitui a espada por martelo, eficaz contra oponentes blindados, com as duas mãos." />
+    <string id="l2j9CAQn" text="Espada bastarda" />
+    <string id="l5GMT5AA" text="(TEMPORARY) Concede dardos que podem ir muito mais longe." />
+    <string id="llneOWkU" text="Espada mais rápida" />
+    <string id="loPT6GUc" text="Concede escudo, torna o bloqueio mais fácil e eficaz em unidades remotas." />
+    <string id="LstE2rEG" text="Substituir o cavalo de guerra do Império por corcel de guerra, mais manobrável e mais rápido." />
+    <string id="mcXoarZq" text="Franceskas" />
+    <string id="meWoLxtc" text="Substituir a espada por machado, eficaz contra escudos." />
+    <string id="n3q8k0lB" text="Barding" />
+    <string id="n497RC1p" text="(TEMPORÁRIO) Concede flechas mais rápidas." />
+    <string id="NiaLmb1S" text="Substituir o arco de caça por um arco curto, causando mais danos e mais lento." />
+    <string id="nSSxEIvF" text="(TEMPORÁRIO) Concede um escudo leve, bom para movimentos mais rápidos." />
+    <string id="o6eKX9h0" text="Substitui Machado por Mace, eficaz contra oponentes blindados." />
+    <string id="okGD2Dbu" text="Substitui o arco de caça pelo arco recurvo, causando mais danos, mas mais devagar." />
+    <string id="OPcPYoHu" text="Lançar eixos" />
+    <string id="Oweratvx" text="Concede lança, eficaz contra o controle da cavalaria e da multidão." />
+    <string id="oWv0kvwj" text="Parafusos fortes" />
+    <string id="P4k9Lkpw" text="Substitui o arco de caça por uma besta leve, causa muito mais dano, baixa taxa de tiro." />
+    <string id="p8XIZhbb" text="Substitui a lança curta pela lança longa, eficaz contra o controle de cavalaria e multidão." />
+    <string id="pblXb1ae" text="Concede Mace, eficaz contra oponentes blindados." />
+    <string id="pE1plFCL" text="Maça pesada" />
+    <string id="PF7sPCYq" text="Javelins" />
+    <string id="PFTzVdJg" text="Fornece +9 armaduras." />
+    <string id="PNZmPprx" text="Espada de Duas Mãos" />
+    <string id="pyupZxJK" text="Kontos" />
+    <string id="q8n63o4y" text="Fornece um bloqueio, muito eficaz contra cavalaria, necessário o uso de duas mãos." />
+    <string id="QLcP8bIs" text="Falx" />
+    <string id="QojyuDln" text="Concede Kontos, por mais tempo, causa mais dano e mais lento." />
+    <string id="QqWMflbr" text="Concede Kaskara, uma espada eficaz de uma mão em duelo e estocada." />
+    <string id="Qs4VOXgE" text="Lança curta" />
+    <string id="R7TAImaC" text="Maior proteção" />
+    <string id="RV6BCPvg" text="Substitui o machado por um machado mais longo e mais pesado. Extra eficaz contra escudos." />
+    <string id="rzP3J3Kb" text="Substituir Falx por Rhomphaia, por mais tempo, mas causa menos dano e mais lenta." />
+    <string id="sagHGCh7" text="Substituir a lança longa pelo Kontos, por mais tempo, causa mais dano e mais lentamente." />
+    <string id="sFJfF1Gb" text="Substitui Gladius por Spatha, por mais tempo e causa mais dano." />
+    <string id="SjiFP0za" text="Substituir a maça por espada, efetivo em duelos e empurrões." />
+    <string id="SMws1ws6" text="Escudo Grande" />
+    <string id="snQeVgCJ" text="Substitui o machado por um machado pesado, por mais tempo, causando mais dano." />
+    <string id="sOARp3Dc" text="Concede escudo, torna o bloqueio mais fácil e eficaz contra unidades de longo alcance." />
+    <string id="SpTtirzT" text="Concede maça, eficaz contra oponentes blindados." />
+    <string id="sVOdabQr" text="Concede forquilha, eficaz contra cavalaria." />
+    <string id="t68bkisr" text="Martelo" />
+    <string id="tdRSQoPT" text="Concede dardos mais fortes." />
+    <string id="tFWBFpji" text="Substitui a montagem por um camelo, causa mais danos de carga, é mais manobrável e durável, porém mais lento e não pode pular." />
+    <string id="TK0GvrJR" text="Substitui a espada por espada longa das terras altas, causa mais dano, mais longo e mas mais lenta." />
+    <string id="tPtEhPzU" text="Substituir Balestra por Arbalestra, o melhor em Calradia." />
+    <string id="tvIibabU" text="Concede dardos adicionais." />
+    <string id="tZgHdSOX" text="Armadura equestre leve" />
+    <string id="uKOn4IE6" text="Concede um Jaiverin adicional." />
+    <string id="uNyHSwaL" text="Machado pesado" />
+    <string id="uTfm0blH" text="Concede arco curto, permite fotografar a cavalo." />
+    <string id="UtJlbDuv" text="Substitui o arco recurvo pelo arco superior imperial, mais rápido." />
+    <string id="UTrNbIbI" text="Substituir a espada longa por espada bastarda das terras altas, eficaz em duelo e empurre, de duas mãos." />
+    <string id="uw9m5hav" text="Machado melhorado" />
+    <string id="Uwe3VHaN" text="Espada de cavalaria pesada" />
+    <string id="V2SKzX1e" text="Cavalo de carga" />
+    <string id="v61Qq3SH" text="Substituir a besta leve por uma besta mais pesada, melhor dano." />
+    <string id="V62I3vA5" text="Concede uma versão mais curta do Menavlion, uma arma imperial." />
+    <string id="vBvDZCtw" text="Substitui o Tabar por uma espada de duas mãos, eficaz em duelos e estocadas." />
+    <string id="VI4gQt8Q" text="Clava" />
+    <string id="vjvklXQ3" text="As concessões de dardo, boas para cerco, podem ser usadas em combate corpo a corpo." />
+    <string id="VL4olxdA" text="Concede arco de caça, permite disparar a cavalo." />
+    <string id="VR2SwarS" text="Cavalo mais duro" />
+    <string id="W4iKIM2s" text="Escudo Pequeno" />
+    <string id="wAFiQYpt" text="Substituir o arco de caça por um arco curto rápido, melhor em todos os aspectos." />
+    <string id="wdRsSuMN" text="Substitui o arco longo por arco longo de Yeow, causa mais dano e mais preciso, porém mais lento." />
+    <string id="wdSrwKFE" text="Dardos adicionais" />
+    <string id="wiBmTEGi" text="Substituir a montagem por um cavalo mais resistente." />
+    <string id="wv9g9Kyr" text="Arco mais rápido" />
+    <string id="WxMGCqPw" text="Substituir Sickle por Pickaxe, eficaz contra escudos." />
+    <string id="XLtAF1Km" text="Substitui arco curto por arco longo, causa mais dano e mais preciso, porém mais lento." />
+    <string id="xqlMIG4I" text="Substitui a blindagem por uma blindagem maior, aumenta a durabilidade." />
+    <string id="XSjXLikf" text="Javelins adicionais" />
+    <string id="xSz6m21N" text="Maça" />
+    <string id="xuad1OP3" text="Substituir a montaria pelo cavalo mais durável das estepes." />
+    <string id="xUSR6O0X" text="Concede a espada de cavalaria mais longa e mais pesada." />
+    <string id="xWFW8jXw" text="Machado de batalha" />
+    <string id="y4YWp1f1" text="Arremessar lança" />
+    <string id="YaakrC1m" text="Espada de cavalaria" />
+    <string id="yDU7JFH4" text="(TEMPORARY) Concede funda, fornece dano de alcance contundente, grande quantidade e baixo dano com boa precisão." />
+    <string id="YF8DQVUT" text="Substituir seu machado por um machado do norte mais forte, de duas mãos, eficaz contra escudos." />
+    <string id="YjKfKduC" text="Setas mais rápidas" />
+    <string id="ykaaB5gw" text="Arco mais forte" />
+    <string id="YoNYyLba" text="Lança" />
+    <string id="YqqhxGwH" text="Substitui o Clube por Foice, capaz de causar dano decente e eficaz contra escudos." />
+    <string id="ZATaNNCu" text="Substitui a montaria por um cavalo mais durável que causa mais danos por carga." />
+    <string id="zCqpSDcF" text="Concede uma versão mais curta do Menavlion." />
+    <string id="Zh4upm1u" text="Substitui Mace por Sword, eficaz em duelos e empurrões." />
+    <string id="ZJweh5Oh" text="Machado bastardo" />
+    <string id="ZtKJgiRv" text="Concede javelins, bons para assédio, podem ser usados em combate corpo a corpo." />
+    <string id="zv9NXIZR" text="Forneça armadura para sua montaria." />
+    <string id="ZvMcHde3" text="Pico" />
+    <string id="ZZ9p2E2g" text="Substitui a blindagem por uma blindagem mais forte, aumenta a durabilidade." />
+  </strings>
+</base>

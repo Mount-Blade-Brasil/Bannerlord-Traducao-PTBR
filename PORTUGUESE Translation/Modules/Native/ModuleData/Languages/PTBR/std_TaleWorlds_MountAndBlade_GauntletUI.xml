@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Português Brasileiro" />
+  </tags>
+  <strings>
+    <string id="074YAjOk" text="Você foi expulso por inatividade" />
+    <string id="2SEofGth" text="Alterar equipe" />
+    <string id="4mMySbxI" text="Erro não especificado" />
+    <string id="a0IHtkoa" text="Você foi expulso da partida" />
+    <string id="AbEh2y8o" text="Salvar e sair" />
+    <string id="aKjpbRP5" text="Motivo desconhecido" />
+    <string id="bV75iwKa" text="Salvar" />
+    <string id="e0KdfaNe" text="Salvar como" />
+    <string id="EzeFJo65" text="Você foi desconectado do servidor!" />
+    <string id="hvaDkG4w" text="Pressione qualquer tecla." />
+    <string id="InGwtrWt" text="Sair" />
+    <string id="ivKntfNA" text="Já solicitado para ingressar, aguardando resposta do servidor" />
+    <string id="IzJ7f5SQ" text="A capacidade do servidor está cheia" />
+    <string id="JluTW3Qw" text="Jogo encerrado" />
+    <string id="JQVixeQs" text="Não foi possível acessar o servidor do jogo" />
+    <string id="KRNdlbkq" text="O jogo personalizado está terminando" />
+    <string id="Mm1Kb1bS" text="Senha incorreta" />
+    <string id="mO9bh5sy" text="Não foi possível entrar no jogo personalizado" />
+    <string id="n4UUrd1p" text="Já está em uso" />
+    <string id="NqarFr4P" text="Opções" />
+    <string id="OhF7NqSb" text="Você foi banido do jogo por enquete" />
+    <string id="RamV6yLM" text="Sair para o menu principal" />
+    <string id="RGzyUTzm" text="Arranjo de formação mudando para {ARRANGEMENT_ORDER}" />
+    <string id="srAJw3Tg" text="O jogador foi banido do servidor" />
+    <string id="T8IniCKU" text="O servidor de jogos não está disponível" />
+    <string id="tKSxGy5p" text="O servidor não está respondendo" />
+    <string id="vkpMgobZ" text="Erro no servidor de jogos" />
+    <string id="wbFB3N72" text="Você é expulso do jogo pela enquete" />
+    <string id="wLpJEkKY" text="Servidor de batalha travou" />
+    <string id="WvGviFgt" text="Sua conexão com o servidor atingiu o tempo limite" />
+    <string id="XnsAbUE3" text="Dispensar" />
+    <string id="XzZFhRwr" text="Retornar ao jogo" />
+  </strings>
+</base>

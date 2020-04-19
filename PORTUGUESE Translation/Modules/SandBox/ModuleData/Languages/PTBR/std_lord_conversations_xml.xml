@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Português Brasileiro" />
+  </tags>
+  <strings>
+    <string id="3WjKtaS0" text="Não estou comandando nenhum homem no momento." />
+    <string id="5uCebOUD" text="Estamos descansando em {s1}. {s14}{s15}" />
+    <string id="5ypRJiWZ" text="Obrigado pela informação" />
+    <string id="62AkUCOw" text="Por que você não defende..." />
+    <string id="6rTxjBWe" text="Estamos recrutando novos soldados de {s1}. {s14}{s15}" />
+    <string id="7TIRUaPi" text="Estamos viajando para {s1}. {s14}{s15}" />
+    <string id="8SUpFvJD" text="Estamos nos retirando para {s1}. {s14}{s15}" />
+    <string id="8VsbaDHu" text="Estamos lutando contra {s1}. {s14}{s15}" />
+    <string id="8xvSu9fX" text="Perdoe-me {?NPC.GENDER}senhora{?}senhor{\?}. Não sei o que estava pensando." />
+    <string id="9BblWBGo" text="Se você está procurando uma ação contra nossos inimigos, tente aventurar-se a {s4}. Recebemos a notícia de que uma força do {s5} está na área e eu também vou lá. Não posso garantir que nossos inimigos estarão lá quando você chegar, é claro." />
+    <string id="b9iOMo1O" text="Eu estou liderando o exército do reino." />
+    <string id="DyQ18GAX" text="Estou rastreando {s1}'s avançar {s14}{s15}" />
+    <string id="fbM7drKO" text="Por que você não sitia..." />
+    <string id="fBt8X6Tw" text="Ah? O que você quer?" />
+    <string id="gBbIWuDW" text="TODO_OZAN_1 s43" />
+    <string id="GnxvoJ38" text="Se você está procurando uma ação contra nossos inimigos, você pode se juntar ao nosso ataque {s4}. O inimigo pode entrar em vigor para se opor a nós, por isso é bom ter tantos homens quanto possível." />
+    <string id="GUIwjFKP" text="Ok, vamos seguir seu conselho." />
+    <string id="gZSdus34" text="Eu ofereço a você uma chance de se render ou morrer." />
+    <string id="HEJOdRwi" text="Perdoe-me, {?NPC.GENDER}senhora{?}senhor{\?}. Não sei o que estava pensando." />
+    <string id="hjZkoJbc" text="eu acho que {ACTION} {SETTLEMENT} é mais lógico atualmente, você pode me ajudar a fazer isso. {AMOUNT}{GOLD_ICON}" />
+    <string id="HKMdHYb7" text="Eu mantenho minha posição. Prepare-se para lutar!" />
+    <string id="JbWJ7Rxl" text="{POSSIBLE_TARGET}" />
+    <string id="JLXPDR9K" text="Eu não sei:{reg1} {s1} (ERROR)" />
+    <string id="ltS8zmH8" text="Você está louco? Eu não sou seu inimigo." />
+    <string id="M7O3AItb" text="Perdoe-me. Não é nada." />
+    <string id="mjoxaNQz" text="Se você está procurando uma ação contra nossos inimigos, tente aventurar-se a {s4}. Recebemos a notícia de que uma força do {s5} está na área. Atualmente, não estou indo nessa direção, mas outros podem estar. Não posso garantir que nossos inimigos estarão lá quando você chegar, é claro." />
+    <string id="RFkvMoMU" text="Estamos destruindo a vila de {s1}. {s14}{s15}" />
+    <string id="RJbrrM0K" text="{REASON}" />
+    <string id="s61RscYw" text="Onde?" />
+    <string id="sSrP56d2" text="Estamos procurando o inimigo ao redor {s1}. {s14}{s15}" />
+    <string id="UUKIk0WP" text="Estamos acompanhando {s1}. {s14}{s15}" />
+    <string id="vsxVIDqT" text="Vá embora, então." />
+    <string id="WzipKNWN" text="{s43}" />
+    <string id="x6qI4aBP" text="O que eu estou fazendo? Como é que eu estou fazendo ?! Eu sou um prisioneiro aqui!" />
+    <string id="YLPPnLMu" text="Estou indo para a vizinhança de {s1}. {s14}{s15}" />
+    <string id="ztuhSo8h" text="Por que você não invade..." />
+  </strings>
+</base>

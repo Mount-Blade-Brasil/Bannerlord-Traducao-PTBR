@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Português Brasileiro" />
+  </tags>
+  <strings>
+    <string id="09gOOa0h" text="Soldado" />
+    <string id="1sJcKkVP" text="Guarda" />
+    <string id="4C4WiTb2" text="Sentinela" />
+    <string id="6aqDcMPr" text="Armadura Máxima (55)" />
+    <string id="8qg72H8Z" text="Guerreiro tribal" />
+    <string id="afhXdjBU" text="Nomade" />
+    <string id="bHx8jaeI" text="Guerreiro" />
+    <string id="CAYZDsAj" text="Legionário" />
+    <string id="cbnvgVhH" text="Saqueador" />
+    <string id="Cp7dI87a" text="Vanguarda" />
+    <string id="DMxJJWxt" text="Recrutador" />
+    <string id="Dq1sCO1y" text="Arbelist" />
+    <string id="eFWJjaBC" text="Personagem multiplayer" />
+    <string id="eIk6jaOG" text="Infantaria de lança" />
+    <string id="eM1qFKNs" text="Atirador especialista" />
+    <string id="eU0uANvZ" text="Arqueiro montado" />
+    <string id="fS5BIf3J" text="Juramentado" />
+    <string id="ft6QaIms" text="Cataphract" />
+    <string id="g9VIbA9s" text="Sergento" />
+    <string id="gLlheMwd" text="Recruta leve" />
+    <string id="gytrdYMU" text="Mameluko" />
+    <string id="hchDYAKL" text="Lanceiro" />
+    <string id="HCzbW0hE" text="Guerreiro do Clã" />
+    <string id="ieiqOaZp" text="Arqueiro" />
+    <string id="ixqTFMVA" text="Guereiro Montado" />
+    <string id="j5I7tYSd" text="Guerreiro Fiann" />
+    <string id="k1Xr4rKn" text="Druzhinnik" />
+    <string id="lar4lfKR" text="Guarda do Khan" />
+    <string id="LLKreyq7" text="Wildling" />
+    <string id="LNfQk4MM" text="Armadura Mínima (0)" />
+    <string id="My0a4Miq" text="Voulgier" />
+    <string id="naBbiK9v" text="Plebeu" />
+    <string id="NJRUb0C1" text="Guarda Paladino" />
+    <string id="nt7wUxIa" text="Beduino" />
+    <string id="PoY2Vh7K" text="Arqueiro da Estepe" />
+    <string id="q1tbZIR9" text="Armadura Mediana (37)" />
+    <string id="rdIGpLLh" text="Corsário" />
+    <string id="RjjIbn4V" text="Veterano" />
+    <string id="RssJTUpL" text="Berserker" />
+    <string id="s9oED1IR" text="Escaramuçadores" />
+    <string id="Tm3CY9tC" text="Armadura Baixa (12)" />
+    <string id="TNQaD5p2" text="Arqueiro Miliciano" />
+    <string id="WtEoXblx" text="Cavaleiro" />
+    <string id="XeXJAB6a" text="Infantaria Menavlion" />
+    <string id="xnDWqYKW" text="Caçador" />
+    <string id="yDiWi6SO" text="Selvagem" />
+    <string id="ZKdiaaFo" text="Brigadista" />
+  </strings>
+</base>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Português Brasileiro" />
+  </tags>
+  <strings>
+    <string id="0B27RrYJ" text="Battania" />
+    <string id="5djtBrHj" text="Sultão" />
+    <string id="8HMyTKF6" text="Vlandianos" />
+    <string id="8pjMAqOg" text="Senado" />
+    <string id="afvM7XpQ" text="Rei Supremo" />
+    <string id="bF7HmNGQ" text="Khuzait Khanato" />
+    <string id="bgjiFSHZ" text="Battanianos" />
+    <string id="bVihnRUu" text="A confederação de pequenos reinos que Agora, o Principado de Sturgia surgiu há apenas um século. Enquanto as cidades em expansão cresciam ao longo dos grandes rios do norte, os líderes tribais locais forjaram pactos de casamento com Nords e outros aventureiros, contratando suas espadas para subjugar seus vizinhos. império, eles elegeram um príncipe para liderá-los na guerra e, eventualmente, os príncipes se tornaram um ofício hereditário. t facilmente com os boiardos de mente independente, e o potencial de rebelião sempre se esconde sob a superfície da política sturgiana." />
+    <string id="C4qjBqLO" text="Sturgianos" />
+    <string id="dN5JCX8n" text="Conselho de Anciãos" />
+    <string id="DrnZOsjo" text="Sucessão da Dinastia" />
+    <string id="EBCV0LcU" text="Lawspeakers" />
+    <string id="fE5U9ApA" text="O Império Calradiano não é uma monarquia. Os calradianos insistem nisso. O imperador, anteriormente apenas um comandante militar, pode ter enfrentado a maioria dos outros Em vez de ser eleito a cada poucos anos pelo Senado, ele agora pode governar a vida toda e, muitas vezes, ser sucedido por seu filho.As assembléias populares que decidiram uma vez as principais políticas podem ter desaparecido, e o Senado, uma reunião de proprietários de terras, pode ter muito menos poder do que em séculos passados. Mas não é uma monarquia, porque é absolutamente proibido que os calradianos sejam governados por um rei. O Império é o que acontece quando uma liga de cidades-estados conquista um Uma comunidade liderada por fazendeiros livres com riqueza relativamente igual agora tem grandes lacunas entre ricos e pobres. impedir que um homem se torne tirano entre em conflito com as necessidades de guerra sem fim, que exigem comando unificado. Sem qualquer meio suave de sucessão, a morte de um imperador sempre foi uma crise potencial. Geralmente, o imperador nomeia um herdeiro, o senado ratifica sua escolha e o povo (ou seja, o exército) a aclama. Mas isso nem sempre aconteceu sem problemas, e então a sucessão foi resolvida no campo de batalha. O conflito atual, que eclodiu quando o falecido imperador Arenicos foi assassinado, é a mais recente dessas guerras civis imperiais." />
+    <string id="fGNdo1BK" text="Durante séculos, as tribos na vasta estepe a leste do império estavam contentes em viver como nômades, se aventurando nas terras imperiais para invadir e comercializar e depois retornando à sua liberdade ancestral. Duas gerações atrás, no entanto, algo aconteceu muito longe no leste - uma mudança nos ventos, talvez, ou algum conquistador terrível, mas distante - e os clãs de cavalos foram acionados. Urkhun, o Khuzait, liderou os clãs mais próximos do império em suas províncias orientais, ultrapassando sua província oriental e formando um canato. Ele impôs disciplina aos clãs indisciplinados, forçando-os a entrar em guerra sob seu comando, em vez de simplesmente quando quisessem. Mas após sua morte, o espírito de unidade que ele inspirou se perdeu. Seus descendentes ainda governam o khanate, mas alguns dos outros clãs se irritam sob sua autoridade, e outros sonham em se tornar khan." />
+    <string id="FjwRsf1C" text="Vlandia" />
+    <string id="FmbgPGBL" text="Grande Príncipe" />
+    <string id="frBQ9mbP" text="Império do Sul" />
+    <string id="GbnlN6na" text="Império do Sul" />
+    <string id="GH6FLbYm" text="Conselho Privado" />
+    <string id="hwnp9abW" text="Rei" />
+    <string id="IaCpmuL5" text="Reforma agrária" />
+    <string id="IPrTwc28" text="Assembleia Tribal" />
+    <string id="IudGLWQZ" text="A monarquia vlandiana descende de Osric Iron-Arm, um senhor da guerra que tomou as costas ocidentais do Império e foi reconhecido como rei pelos imperadores como o preço da paz. Por sua vez, reconheceu seus tenentes como barões e conta, concedendo-lhes soberania sobre suas terras em troca de reunir sua bandeira na guerra. Alguns reis vlandianos procuraram expandir os poderes do reinado" />
+    <string id="iWyvNzBB" text="Proteção de Propriedades" />
+    <string id="iYCR3xuQ" text="Principado de Sturgia" />
+    <string id="lAWwcO6b" text="Reino de Vlandia" />
+    <string id="NaNMRPv4" text="Aserai" />
+    <string id="NF627oiX" text="Império do Norte" />
+    <string id="nsDj8Qxl" text="Império do Norte" />
+    <string id="PjO7oY16" text="Sturgia" />
+    <string id="qaDIU0XC" text="Alto Reino dos Battanianos" />
+    <string id="qggtvf8Y" text="O Império sempre preferiu não enviar suas legiões para os devoradores de exército do Nahasa. Em vez disso, projetou seu poder nessa fronteira cultivando governantes clientes entre os clãs, que competiam em uma dança interminável de poder. Aqueles clãs que conseguiam segurar os oásis ganharam um subsídio imperial para proteger as caravanas que passavam e ficaram ricos. Aqueles que não puderam foram empurrados para o deserto, deixados para criar cabras e invadir caravanas até que pudessem planejar um retorno. Hoje, com o declínio do império, os Aserai concordaram em formar uma confederação sob um sultão escolhido entre os mais ricos dos clãs, o Banu Hulyan. Mas todos sabem que a dança foi temporariamente interrompida e, no momento certo, começará novamente." />
+    <string id="rqHFujhr" text="Majestade Sagrada" />
+    <string id="sg4bbc7K" text="Deposição" />
+    <string id="sZLd6VHi" text="Khuzait" />
+    <string id="UsbwPmYb" text="Sultanato dos Aserai" />
+    <string id="vJOWy1QF" text="Khuzaits" />
+    <string id="yG3YUySN" text="Império Ocidental" />
+    <string id="ZEmH0MwL" text="Império Ocidental" />
+    <string id="ZjaaAoxd" text="Desde tempos imemoriais, houve um rei supremo de Battania , coroado com grande cerimônia na colina sagrada de Dunthanach. Pergunte a qualquer chefe battaniano, no entanto, cujo 'reino' ele mora, ele examinará seu salão e seus campos e pastagens, seus rebanhos e seus retentores e responderá 'Meu, é claro'. Ultimamente, seguindo o exemplo do Império, os Reis Magos fizeram algum esforço para exercer sua autoridade. 'Gados tão indisciplinados quanto meu povo precisam de uma mão forte de pastor para afastá-los da ravina e protegê-los do lobo', disse um recente rei supremo, pouco antes de ser traído por um primo ciumento e acorrentado ao posto avançado imperial mais próximo." />
+  </strings>
+</base>

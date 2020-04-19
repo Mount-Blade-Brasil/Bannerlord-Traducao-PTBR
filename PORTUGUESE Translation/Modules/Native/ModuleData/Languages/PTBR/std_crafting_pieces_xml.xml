@@ -1,0 +1,683 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Português Brasileiro" />
+  </tags>
+  <strings>
+    <string id="03YrcAtx" text="Empunhadura de couro de duas mãos" />
+    <string id="0gteBOD7" text="Cabeça de bardiche" />
+    <string id="0kP9bf7n" text="Alça de foice" />
+    <string id="0LJtoZtW" text="Guarda-mão de cimitarra com gancho" />
+    <string id="0SpLcthg" text="Bastão cravado das montanhas" />
+    <string id="0Y0kaTwm" text="Lâmina simples de Spatha" />
+    <string id="13lb5at6" text="Cabo de mogno" />
+    <string id="19a3jJ1s" text="Lâmina de sabre rígido" />
+    <string id="1ajbJdao" text="Pomo com barra" />
+    <string id="1auabxxv" text="Guarda-mão plano arredondado" />
+    <string id="1e9OaUWk" text="Cabeça da maça da luz oriental" />
+    <string id="1Ia3Wxbf" text="Lâmina Falx de aço fino" />
+    <string id="1nGcpiom" text="Pomo decorativa arredondada" />
+    <string id="1NSafswc" text="Pomo de machado de gallogaich" />
+    <string id="1pvLe1Mh" text="Pomo simple de ild" />
+    <string id="1rGNXUaJ" text="Pomo de lança de corte" />
+    <string id="1T0XBYlc" text="Cabo de machado de carvalho" />
+    <string id="1yEQNTG1" text="Pomo longa do shestopyor" />
+    <string id="1zRo3td4" text="Cabo aparafusado de duas mãos" />
+    <string id="22f2NR2N" text="Eixo cinza longo retorcido" />
+    <string id="26KZ6S7F" text="Pomo decorado oriental" />
+    <string id="29OXRdZu" text="Guarda-mão estreito cônico" />
+    <string id="2FLWuksh" text="Cabo de Pania" />
+    <string id="2Fq1t169" text="Cabo de duas mãos do norte" />
+    <string id="2LrkLq5M" text="Guarda-mão de adaga do norte" />
+    <string id="2MNfdGZQ" text="Cabo de espada longa" />
+    <string id="2mo4gsuh" text="Lâmina de guerra" />
+    <string id="2noNmMPc" text="Guarda-mão grande imperial" />
+    <string id="2OWBegq6" text="Guarda-mão de espada de guerra" />
+    <string id="2XBuTBru" text="Cabo em ampulheta do norte" />
+    <string id="35tXR29a" text="Cabo oriental liso de duas mãos" />
+    <string id="37DVF96v" text="Guarda-mão de adaga de knobbed" />
+    <string id="38vt2VVz" text="Cabo amplo" />
+    <string id="3aXHbrFV" text="Cabo de bambu com ponta de metal" />
+    <string id="3cIsT4ZK" text="Guarda-mão de adaga com armas amplas" />
+    <string id="3ged5Ozt" text="Clava oriental" />
+    <string id="3Q3FFqu0" text="Cabeça da maça leve imperial" />
+    <string id="3tCye4Iw" text="cabo de lança longa" />
+    <string id="3uUaFQ9Y" text="Guarda-mão em forma de martelo" />
+    <string id="3VCyUu2h" text="Guarda-mão de adaga oriental" />
+    <string id="3VoW9qZs" text="Cabo com detalhes de ouro" />
+    <string id="3wn1WbIx" text="Lâmina longa de kaskara" />
+    <string id="3wXjMEwI" text="Cabo de espada de coberto de couro" />
+    <string id="3Y7plSBX" text="Lâmina de espada larga" />
+    <string id="3ZyRhmke" text="Cabo curto do sabre" />
+    <string id="45k6EEUu" text="Cabeça de ferro" />
+    <string id="47UEgMpD" text="Cabo de carvalho com ponta" />
+    <string id="4FnOKgB6" text="Guarda-mão de adaga imperial " />
+    <string id="4Ilo91CO" text="Cabeça de machado ocidental" />
+    <string id="4MZvoVyI" text="Cabo de lança de ponta redonda" />
+    <string id="4OefdTD1" text="Lâmina curta de gladius" />
+    <string id="4Olvmpen" text="Cabo áspero de uma mão" />
+    <string id="4t0EyE1B" text="Cabo em couro de duas mãos" />
+    <string id="4TvA6YaC" text="Cabo de espada com marmorite" />
+    <string id="4VIUHmbP" text="Cabo de maça decorado" />
+    <string id="4XytssVk" text="Guarda-mão da meia-lua" />
+    <string id="4z3U5ubo" text="Guarda-mão de espada de guerra dourado" />
+    <string id="57DBqJd1" text="Cabo de maça grossa em couro" />
+    <string id="5ALE9Joh" text="Cabeça da foice de guerra" />
+    <string id="5GR6xb8a" text="Punho da ferramenta" />
+    <string id="5KvdG6ep" text="Proteção em forma de crescente de ouro cavalheiresca" />
+    <string id="5NeanDJM" text="Pomo anelar" />
+    <string id="5o5DaSHZ" text="Lâmina ampla de adaga" />
+    <string id="5V0QR20o" text="Cabo em couro áspero de uma mão" />
+    <string id="5Xoa1EFa" text="Lâmina gravada" />
+    <string id="61A1VUw8" text="Guarda-mão de bronze" />
+    <string id="61hjmt0T" text="Pomo triangular" />
+    <string id="62biJ5O5" text="Cabo de uma mão das montanhas" />
+    <string id="6BMAGMRu" text="Guarda-mão plano" />
+    <string id="6Da4uzZO" text="Proteção ampla gravada" />
+    <string id="6HybYLtu" text="Cabo de couro áspero de uma mão do norte" />
+    <string id="6I4lZs47" text="Pomo de ponta de lança" />
+    <string id="6PD2rBbf" text="Cabo de couro de uma mão" />
+    <string id="6xkt7bxz" text="Cabeça da maça pesada imperial" />
+    <string id="6ZW9fOUJ" text="Guarda-mão de ouro kaskara " />
+    <string id="71588OX7" text="Eixo de bambu" />
+    <string id="7EZbFRaG" text="Eixo de pinho reforçado" />
+    <string id="7JjctWr3" text="Guarda-mão em forma de martelo" />
+    <string id="7lRnhAgf" text="Cabo de duas mãos do norte" />
+    <string id="7ZWtiHKj" text="Lâmina longa de espada de guerra" />
+    <string id="85jApGfe" text="Proteção de adaga de knobbed" />
+    <string id="87BmkiMO" text="Cabo de maça retorcido" />
+    <string id="89QyC7eD" text="Guarda-mão estreito do norte" />
+    <string id="8gW1o7iH" text="Pomo de lóbulo ocidental" />
+    <string id="8OaZSfaZ" text="Cabo de couro áspero" />
+    <string id="8olqutaL" text="Cabo de duas mãos do norte" />
+    <string id="8S6ZYPFD" text="Cabeça de machado com ponta redonda" />
+    <string id="8T7gNbfM" text="Cabeça de lança de folha larga" />
+    <string id="8x9klENe" text="Eixo reforçado segmentado" />
+    <string id="8yb60cDi" text="Eixo de lança longa de mogno" />
+    <string id="8ZbL3exH" text="Pomo de lóbulo" />
+    <string id="9aYBy1RN" text="Ponta de lança de folha de aço fino" />
+    <string id="9HgtH0Nb" text="Guarda-mão de lança ondulado" />
+    <string id="9HMxA4AU" text="Cabo de maça de ferro" />
+    <string id="9JMatUNQ" text="Cabo de duas mãos do norte" />
+    <string id="9JxsngjD" text="Guarda-mão de prata de kaskara" />
+    <string id="9PgS5SzW" text="Cabo de uma mão com chifre" />
+    <string id="9phikaHT" text="Guarda-mão do punhal do ocidente" />
+    <string id="9qaanOpL" text="Pomo simples do norte" />
+    <string id="9T2KA9sk" text="Cabo de aço em ouro" />
+    <string id="9Y1zUaE7" text="Pomo redondo imperial" />
+    <string id="A06HEqvF" text="Asa de lança amarrada" />
+    <string id="a0erBuF1" text="Cabeça de machado com gancho" />
+    <string id="A1m12E8N" text="Guarda-mão de adaga longa" />
+    <string id="a4qSDsmb" text="Guarda-mão dourado imperial" />
+    <string id="a860bQ4f" text="Cabo plano" />
+    <string id="AA4WhCGw" text="Protetor de adaga plano" />
+    <string id="aaEv3sBU" text="Javelin de carvalho" />
+    <string id="aalvbENh" text="Pomo do deserto" />
+    <string id="abLXJ3L3" text="Pomo em forma de maça" />
+    <string id="aBnaaaHv" text="Lâmina longa de seax" />
+    <string id="Ac4kblsm" text="Cabo de couro de duas mãos do norte" />
+    <string id="aFxc3ZVL" text="Guarda-mão côncavo" />
+    <string id="AGfMPOWB" text="Cabo de maça angular" />
+    <string id="aGtEhibt" text="Cabo redonda do norte" />
+    <string id="aj59KGOS" text="Cabo em couro de duas mãos" />
+    <string id="ajVcY9v6" text="Cabeça pequena de machado" />
+    <string id="AkfEFzkk" text="guarda-mão concava" />
+    <string id="AKJzOQkF" text="Lâmina de espada oriental" />
+    <string id="aKpVHE2g" text="Asas com gancho duplo pendurado" />
+    <string id="ALO9gw69" text="Cabeça de machado de duas mãos" />
+    <string id="alti0PsZ" text="Lâmina pontuda de guerra" />
+    <string id="AM6iuDAv" text="Guarda-mão de adaga com diamantes" />
+    <string id="AO2BfABx" text="Pomo de cogumelo" />
+    <string id="Ao7c1VrC" text="Pomo triangular do norte" />
+    <string id="AObgGzg9" text="Cabo aparafusado de uma mão" />
+    <string id="aPr8NPdo" text="Cabeça de haste de ferro ocidental" />
+    <string id="aQa3tp6Q" text="Eixo de pinho longo decorado" />
+    <string id="artqaNEi" text="Guarda-mão de ferro protuberante" />
+    <string id="ASGZJW85" text="Punho de uma mão com ferro segmentado" />
+    <string id="aTnuOUCC" text="Lâmina de aço de kaskara " />
+    <string id="AtNVVwTF" text="Eixo curto de pinho" />
+    <string id="aUJaQmN1" text="Cabo de duas mãos com joias" />
+    <string id="aVBGVt7N" text="Cabo cônico de buznia" />
+    <string id="Aw7Veoaa" text="Cabo angular com folga" />
+    <string id="az6t2tOm" text="Guarda-mão rígido do ocidente" />
+    <string id="azjW7lAg" text="Guarda-mão com gravuras" />
+    <string id="aZp1ur9Q" text="Pomo de cálice" />
+    <string id="b1KGhVwD" text="Guarda-mão côncava do norte" />
+    <string id="b30mn7KF" text="Lâmina de khanjar" />
+    <string id="b994mQnI" text="Guarda-mão de adaga com asas" />
+    <string id="b9bboB3v" text="Cabeça de maça da infantaria do sul" />
+    <string id="baQ99nza" text="Eixo de freixo longo" />
+    <string id="bCCYhnbY" text="Cabo em couro verde" />
+    <string id="bCZ6V3uY" text="Guarda-mão de adaga de cobra" />
+    <string id="bEbyObu7" text="Cabo de ouro de uma mão" />
+    <string id="Bej5R7tP" text="Guarda-mão da adaga de coroa" />
+    <string id="bEQETxjB" text="Alça com amarração" />
+    <string id="bfE00BnK" text="Cabo com alças de ferro" />
+    <string id="bfueDx6s" text="Cabo grande machado de carvalho" />
+    <string id="bGaOu7rO" text="Guarda-mão de adaga plana do leste" />
+    <string id="bGfs8gNv" text="Lâmina de espada traseira do norte" />
+    <string id="bjQ8J71a" text="Cabeça de clava comprida" />
+    <string id="BKHKQ15N" text="Pomo de turquesa" />
+    <string id="bki9u9FW" text="Lâmina com impressão de círculo dourado" />
+    <string id="BL96pnde" text="Cabo de couro áspero de uma mão" />
+    <string id="blaVlvm2" text="Lâmina curta decorada de guerra" />
+    <string id="bM8kSewD" text="Guarda-mão rígido do norte" />
+    <string id="booEob1z" text="Pomo de disco" />
+    <string id="bP6SBz4s" text="Guarda-mão de ouro imperial" />
+    <string id="bPUXlfs8" text="Punho decorado oriental" />
+    <string id="BQ3hMy9D" text="Cabo decorado do oeste" />
+    <string id="bQkJSHCt" text="Cabo de duas mãos com espiral" />
+    <string id="bQzz8mc3" text="Guarda-mão concava" />
+    <string id="BtXFrrVj" text="Guarda-mão côncava grossa" />
+    <string id="BXW4LeQT" text="Lâmina larga curta" />
+    <string id="bZbW2UEE" text="Guarda-mão de adaga oriental" />
+    <string id="bzr1DEgS" text="Guarda-mão da adaga estrelar do sul" />
+    <string id="c1YI2Nxt" text="Lâmina de ferro de spatha" />
+    <string id="C2hTDlWq" text="Lâmina pesada de sabre" />
+    <string id="C89rbAz6" text="Lâmina de cavaleiro" />
+    <string id="cag70E1F" text="Cabeça de maça de pernach" />
+    <string id="cbHjFPEb" text="Cabo bastardo de couro das montanhas" />
+    <string id="CdBAvJdP" text="Pomo de kontos" />
+    <string id="CE1IQiEU" text="Cabo em espiral de couro fino" />
+    <string id="cEU66ABf" text="Lâmina de machado do norte" />
+    <string id="cFTzptut" text="Cabo de mogno" />
+    <string id="CiZRwdet" text="Guarda-mão plano do leste" />
+    <string id="cK6D7cyn" text="Cabeçalho grande de Franziska" />
+    <string id="CKKaarrY" text="Cabo em couro" />
+    <string id="CODGBskg" text="Lâmina longa de sabre" />
+    <string id="cuxuEx40" text="Guarda-mão oval facetado" />
+    <string id="czhTpYo8" text="Lâmina de sabre" />
+    <string id="d2kOHsY7" text="Cabo largo decorado" />
+    <string id="d4aLa7tz" text="Pomo ajustado" />
+    <string id="d4bVwnK8" text="Punho de duas mãos em couro" />
+    <string id="dafrn0mR" text="Lâmina de thamaskene" />
+    <string id="dbmuyJcf" text="Pomo facetado do sul" />
+    <string id="dBVMNui8" text="Cabo de duas mãos com chifre" />
+    <string id="dCco8dRt" text="Guarda-mão em disco de adaga" />
+    <string id="Dd7fJ9aL" text="Cabo longo de couro áspero" />
+    <string id="DEpwMMql" text="Guarda-mão de punhal do sul" />
+    <string id="dgjXkbuA" text="Pomo de olho de coruja" />
+    <string id="DiAHIRxm" text="Guarda-mão gravada de sabre " />
+    <string id="DID87A6l" text="Punho de couro tecido" />
+    <string id="Dix4EYD8" text="Pomo de marreta" />
+    <string id="DkhuNoTH" text="Cabo de madeira de uma mão" />
+    <string id="dlnciENS" text="Guarda-mão de madeira" />
+    <string id="DLvSnz8U" text="Guarda-mão gravado" />
+    <string id="dnd2hafw" text="Cabo simples" />
+    <string id="do4vZhh4" text="Guarda-mão cônico" />
+    <string id="dpft1I1B" text="Guarda-mão fino ocidental" />
+    <string id="Dsf9JE8N" text="Gancho de madeira" />
+    <string id="dTkiV4i6" text="Pomo de pesca" />
+    <string id="dtSrK9bs" text="Lâmina ampla de seax" />
+    <string id="DVe5SkQA" text="Asas de palheta dupla" />
+    <string id="dvm8sTr9" text="Pomo de madeira" />
+    <string id="DXLlcbf9" text="Dardo acinzentado" />
+    <string id="dXRt8jY4" text="Pomo de menavlion" />
+    <string id="DzncFcGk" text="Pomo de kheshigs" />
+    <string id="e1DF7wbz" text="Cajado reforçado" />
+    <string id="E7cNp0rF" text="Cabo de lança rebitada" />
+    <string id="eapPaDKi" text="Guarda-mão prateado de guerra" />
+    <string id="EBlx3VId" text="Lâmina das montanhas" />
+    <string id="EbucFMZq" text="Guarda-mão amplo côncava de adaga" />
+    <string id="eBxzZ1SW" text="Cabo reforçado de uma mão" />
+    <string id="edg8bnXX" text="Guarda-mão da adaga do norte" />
+    <string id="eeFrva8L" text="Pomo perfurado" />
+    <string id="ELpWa0K5" text="Eixo de pike de carvalho" />
+    <string id="eLrbkvTV" text="Guarda-mão grande do norte" />
+    <string id="emryrbYV" text="Pomo trançado" />
+    <string id="emUoygLE" text="Cabeça de arpão" />
+    <string id="euI3vluL" text="Guarda-mão de sabre" />
+    <string id="f0syWNR7" text="Lâmina de punhal" />
+    <string id="f4GSe3UB" text="Cabeça achatada" />
+    <string id="faZasq1G" text="Pomo anelar oriental" />
+    <string id="fd6Lnv1l" text="Guarda-mão de gladius de ouro" />
+    <string id="fdR6zYiP" text="Pomo de franziska" />
+    <string id="fEkKXof4" text="Asas parafusadas" />
+    <string id="fhbGCsdC" text="Cabeça de maça pesada do leste" />
+    <string id="fHKHwvsW" text="Pomo com faixas de bronze" />
+    <string id="fnz6wUVy" text="Pomo redondo de lança" />
+    <string id="fo040lyg" text="Cabo simples envolvido" />
+    <string id="fOrRdtNK" text="Cabeça de machado pequeno" />
+    <string id="fRVQzcoY" text="Cabo de couro áspero" />
+    <string id="Ft5A2Eb4" text="Cabo de duas mãos oriental" />
+    <string id="ftwNaFZh" text="Asas de gancho duplo" />
+    <string id="fuIxmJ2g" text="Lâmina de madeira pesada" />
+    <string id="FxCfO3zN" text="Cabo de maça reforçada" />
+    <string id="FyaygeEx" text="Porrete de knobbed" />
+    <string id="g2r3QKOB" text="Cabeçote de machado do sul" />
+    <string id="g5Va1lfk" text="Guarda-mão cônico do deserto" />
+    <string id="g60SQjOR" text="Cabo com chifre em couro" />
+    <string id="G8Fb2RPa" text="Lâmina apontada de falchion" />
+    <string id="G9cBw5sV" text="Alça redonda das montanhas" />
+    <string id="GA4AaQQk" text="cabo de madeira reforçado" />
+    <string id="Gewh8Bzr" text="Cabo encadernado de duas mãos" />
+    <string id="GI6XD77j" text="Pomo decorado imperial" />
+    <string id="gIm5Lnh8" text="Cabo de dardo em mogno" />
+    <string id="GLnI8ozz" text="Cabo de pau-brasil" />
+    <string id="GMwWb6SE" text="Cabeça de lança de madeira" />
+    <string id="gPXRnvas" text="Protetor de disco" />
+    <string id="GQ9JwKBt" text="Punho de cutelo de duas mãos" />
+    <string id="GqwD99cu" text="Alça embelezada" />
+    <string id="GsBQCQEF" text="Eixo longo reforçado de pinho" />
+    <string id="gSdybwMN" text="Cabeça farpada nórdica" />
+    <string id="gTMThdRJ" text="Pomo de lordes" />
+    <string id="gTzMtKYu" text="Pomo estrelado de falchion " />
+    <string id="GWJV4Vll" text="Cabo bastardo de couro com anéis" />
+    <string id="gwkR6TZL" text="Lâmina decorada da kaskara" />
+    <string id="GXhZ8NKv" text="Lâmina do norte" />
+    <string id="gXUXjtuL" text="Lamina de kama" />
+    <string id="GyOxvJpB" text="Pomo de globo" />
+    <string id="gZzEkk5t" text="Cabo de duas mãos das montanhas" />
+    <string id="H2xibh6p" text="Cabo cravejado imperial" />
+    <string id="h4DmfRfb" text="Pomo de cavalaria" />
+    <string id="H6hlPsgV" text="Cabo de encoberto" />
+    <string id="HaNPlFBt" text="Eixo longo de madeira" />
+    <string id="hD5LzC6b" text="Cabo angular" />
+    <string id="he3725oa" text="Pomo cônica de lança" />
+    <string id="HF2WJagx" text="Cabo de couro decorado" />
+    <string id="HHVH0IoH" text="Cabo de madeira vermelha" />
+    <string id="Hj151a5b" text="Guarda-mão crescente cônico" />
+    <string id="hk3d4d35" text="Cabo de maça de madeira vermelha" />
+    <string id="hKKIijPr" text="Guarda-mão cônico de adaga" />
+    <string id="HmsEarnz" text="Pomo de lágrima" />
+    <string id="hN0kTfhB" text="Cabo de couro reforçado" />
+    <string id="hRfqLq4V" text="Lâmina de falchion" />
+    <string id="hRtzRR6C" text="Maça imperial leve" />
+    <string id="hSSk6tTn" text="Cabeça de machado" />
+    <string id="huaGi2zw" text="Guarda-mão côncava de adaga do norte" />
+    <string id="HuYwPEmh" text="Pomo decorado" />
+    <string id="hVBKOOY1" text="Cabo angular cravejado de duas mãos" />
+    <string id="hvCj5TID" text="Guarda-mão crescente" />
+    <string id="HwCYBWq2" text="Lâmina afilada" />
+    <string id="hWTFaw0E" text="Coronha de aço" />
+    <string id="hyNitMsQ" text="Lâmina das montanhas" />
+    <string id="HysmKS5a" text="Lâmina de punhal" />
+    <string id="i7d3En7L" text="Lâmina com ganchos de falchion" />
+    <string id="i9Ja7Uib" text="Guarda-mão de adaga" />
+    <string id="I9yrLqPc" text="Cabeça de maça do oeste" />
+    <string id="IAltuLvf" text="Cabo cônico do norte" />
+    <string id="Ibaju3oe" text="Pomo de cabeça de águia" />
+    <string id="ibU7mZKx" text="Cabo de machado cinza" />
+    <string id="iFhr5nGq" text="Cabeça do machado imperial" />
+    <string id="IftwekS7" text="Guarda-mão de guerra com gravuras" />
+    <string id="il1M66Z8" text="Cabo em couro" />
+    <string id="iMbT3L4I" text="Lâmina de foice" />
+    <string id="In69b7aL" text="Cabo de metal em couro" />
+    <string id="indl9fEW" text="Cabo em couro grosso" />
+    <string id="IR8UeIRp" text="Cabeça de maça de cataphract " />
+    <string id="ittUjlRb" text="Guada-mão adornado de diamante" />
+    <string id="IUlApNGp" text="Lâmina longa de falx" />
+    <string id="iuQE1xwL" text="Lâmina achatada" />
+    <string id="IvUO8nJc" text="Guarda-mão côncava de adaga" />
+    <string id="IWrTsX3V" text="Cabo em couro" />
+    <string id="IxCaIvUk" text="Cabeça grande decorada do norte" />
+    <string id="iznpu0ih" text="Punho de couro de kaskara" />
+    <string id="Izstbt9y" text="Lâmina decorada das montanhas" />
+    <string id="IZw8FnwW" text="Cabeça grande de ascia" />
+    <string id="j2pkA2Yr" text="Guarda-mão coroado do sul" />
+    <string id="J3ADekEw" text="Cabo de machado de carvalho" />
+    <string id="J5Tu73Mb" text="Cajado de lança longa de pinheiro" />
+    <string id="JabA2SWF" text="Alça cinza reforçada" />
+    <string id="JanWod6k" text="Guarda-mão estreito de guerra" />
+    <string id="JbP7zdes" text="Guarda-mão do sul" />
+    <string id="JCYmlrKF" text="Cabo de maça de aço" />
+    <string id="JdboLXbG" text="Cabeça de martelo" />
+    <string id="JfRydy7M" text="Guarda-mão de cutelo" />
+    <string id="jfyCVJya" text="Cabo em aço escuro" />
+    <string id="JIj91e96" text="Cabo discreto de duas mãos" />
+    <string id="jMRMazLr" text="Cabo de pinho para maça" />
+    <string id="jN4PPWjp" text="Guarda-mão crescente" />
+    <string id="joN8ZeJ6" text="Pomo em disco" />
+    <string id="jqiXcEyD" text="Cabo longo" />
+    <string id="jre8aFdB" text="Guarda-mão de adaga do oeste" />
+    <string id="Js1FKwrL" text="Cabeça de javelin" />
+    <string id="JSba9OCN" text="Guarda-mão de adaga" />
+    <string id="jupH2NfE" text="Cabo bastardo em ouro" />
+    <string id="jZnVKvJN" text="Pomo com três ramificações" />
+    <string id="jZTWkSDw" text="Cabo bastardo em latão" />
+    <string id="jzzZDEw7" text="Punho de fio longo" />
+    <string id="k2MQ9kL0" text="Cabo de maça de aço" />
+    <string id="k66YIIWR" text="Lâmina estreita de kaskara" />
+    <string id="kaoSz0Cx" text="Cabo de couro de duas mãos" />
+    <string id="kbh6i0M7" text="Pomo fino de gladius" />
+    <string id="Kcm4b7Qb" text="Guarda-mão de latão alado" />
+    <string id="KeTioaJE" text="Cabo de machado de mogno" />
+    <string id="KFqa2uF1" text="Lâmina larga" />
+    <string id="Kh7AB6a4" text="Cabo em ampulheta do norte" />
+    <string id="KhHXgQJb" text="Cabeça de machado de ferro" />
+    <string id="khO8Li1D" text="Cabo extra longo" />
+    <string id="kIbtwQRF" text="Lâmina fina" />
+    <string id="kiEZmxjT" text="Cabo de aço fino de duas mãos " />
+    <string id="kjw9c4M2" text="Alça de maça angular de aço" />
+    <string id="kNhcSC6i" text="Cabeça barbada do norte" />
+    <string id="KNisROi1" text="Lâmina de skaen" />
+    <string id="Knv8oS4x" text="Cabo em couro" />
+    <string id="koX9okuG" text="Nenhum" />
+    <string id="kp8hUsXA" text="Guarda-mão do Norte retangular enrolada" />
+    <string id="kuROzU1J" text="Simple Warsword Blade" />
+    <string id="KyKh5jCE" text="Alça de bambu" />
+    <string id="l13RibeF" text="Alça de machado reforçada com aço" />
+    <string id="l1YxVZil" text="Guarda-mão de adaga de bronze com maçaneta" />
+    <string id="L3vLdPJT" text="Cabeça de taco melhorada" />
+    <string id="L4PDF4MY" text="Guarda-mão de espada de guerra com gravuras douradas" />
+    <string id="L9wMZ9HB" text="Protetor de lança de estrela da manhã" />
+    <string id="lcjkq4bA" text="pomo decorado do sul" />
+    <string id="Ld1nfdj4" text="Lâmina de sabre de aço fino" />
+    <string id="LddmrrGM" text="Punho alto de duas mãos no leste" />
+    <string id="Ldq6AOrb" text="Punho de duas mãos em couro áspero com anel de ferro" />
+    <string id="LDRnfLRh" text="pomo do norte decorado" />
+    <string id="ldvppRXj" text="Pomo padronizado" />
+    <string id="LEdJzFrZ" text="Punho angular chanfrado de uma mão" />
+    <string id="lF10mZnb" text="Aperto de uma mão com fio" />
+    <string id="LFfUtZrT" text="Cabeça de martelo" />
+    <string id="Lh1E9EsS" text="Punho de duas mãos reforçado com aço imperial" />
+    <string id="lLZfWq7i" text="Gargalo do deserto" />
+    <string id="lmxaWsmn" text="Punho comprido de couro de duas mãos" />
+    <string id="LNDbMUK0" text="Pomo  de Voulge" />
+    <string id="lOiyLjqK" text="Proteção Imperial Crescente" />
+    <string id="lpqDjWsL" text="Punho com uma mão de couro fino apoiado em ferro" />
+    <string id="lpVGz11R" text="Punho de uma mão de pele do norte" />
+    <string id="LryUJnu7" text="Alça com alças" />
+    <string id="LSOXMCAW" text="Pinheiro" />
+    <string id="LSrJljDL" text="Adze Head" />
+    <string id="ltbHzq5B" text="Reforço da cabeça da lança rebitada" />
+    <string id="lv9oJyKJ" text="Eastern Flat Pommel" />
+    <string id="LwM5byQG" text="Alça de lança simples de ferro" />
+    <string id="lYEaqL9y" text="Punho de uma mão encadernado" />
+    <string id="LYSMiV6V" text="Punho oculto longo" />
+    <string id="LzHkkphU" text="Punho de couro áspero com uma mão" />
+    <string id="lZoqaYmx" text="Cabeça de clube cravada" />
+    <string id="M08i7S6M" text="Guarda-mão cônica de adaga do deserto" />
+    <string id="m0uOH4el" text="Guarda-mão Imperial de Punhal Curvada" />
+    <string id="m2Xz2K5v" text="Punho de duas mãos do norte" />
+    <string id="m6CVEgTU" text="Lâmina cravada do machado de batalha" />
+    <string id="m8eUrnVj" text="Guarda-mão fina de adaga ocidental" />
+    <string id="mak3naEe" text="Lâmina larga para dois jogadores com largura ampla / completa" />
+    <string id="MCRppfbZ" text="Eixo de dardo de pinho" />
+    <string id="mcYSvJfA" text="Galho de árvore" />
+    <string id="MDL2CcCH" text="Espinhos longos ponderados" />
+    <string id="MGD7zTLf" text="Pomo facetado" />
+    <string id="Mh5MDpsk" text="Punho de duas mãos em couro esmagado do sul" />
+    <string id="MJRzaazz" text="Punho de duas mãos revestido de aço" />
+    <string id="MKtMbBJD" text="Punho de uma mão alto oriental" />
+    <string id="mm24JNyb" text="Punho da ampulheta do norte" />
+    <string id="mm6b54ZD" text="Ampla proteção côncava" />
+    <string id="MpVC0RXl" text="Lança triangular do norte" />
+    <string id="mQCQF6TL" text="Guarda-mão Estreita de Adaga do Norte" />
+    <string id="MRqIJXqv" text="Guarda-mão da adaga do diamante do sul" />
+    <string id="mrTkURKV" text="Cabeçote de forquilha com entalhe" />
+    <string id="mSNaSLiC" text="Lâmina de espada de aço da Thamaskene" />
+    <string id="mSplbvgI" text="Ganchos duplos" />
+    <string id="mTDuVvVN" text="Alça alta" />
+    <string id="mU8oVsFW" text="Pomo de estrela da manhã" />
+    <string id="muv8N0Wo" text="Guarda-mão de adaga de bronze com gravuras" />
+    <string id="mVjshtzg" text="Pomo de chapéu cônico" />
+    <string id="mYP1ovEy" text="Guarda-mão do deserto perfurada" />
+    <string id="N1qLYlxF" text="Lâmina Kaskara de aço fino" />
+    <string id="N3VXsh2z" text="Lâmina de paramerion de aço" />
+    <string id="NAHHwS3G" text="Ponta da lança em forma de folha larga" />
+    <string id="nazL7Z3e" text="Punho aparafusado do sul de duas mãos" />
+    <string id="NfPgejKk" text="Lâmina perfurada de Sparth" />
+    <string id="nGP3FlHm" text="Cabo de mogno longo" />
+    <string id="Nhhmj7bz" text="Cabo de pique de bordo duro" />
+    <string id="Nk924YlG" text="Punho de uma mão decorado em aço fino" />
+    <string id="nKb9goqQ" text="Guarda-mão Oriental Fina" />
+    <string id="NLs9M1D6" text="Guarda-mão Oval Simples Oriental" />
+    <string id="NmkDgmWW" text="Alça de maça de aço de cavaleiro" />
+    <string id="NO6FhjbJ" text="Punho revestido com tangerina" />
+    <string id="NQb8boHt" text="Cabo cinza temperado" />
+    <string id="nr3K4od2" text="Pomo de Philum" />
+    <string id="nRKOX66b" text="Cabeça de lança em aço dentado" />
+    <string id="NS83CCvb" text="Cabeça comum de machado de ferro" />
+    <string id="ntIEIQ0N" text="Cabeça clara de Shishpar" />
+    <string id="Num2tkFb" text="Punho longo chapeado" />
+    <string id="NuXH8rip" text="Guarda-mão de bronze em camadas" />
+    <string id="nVrg9Uda" text="Punho de armadura de chifre envolto em couro" />
+    <string id="Nz4mg7JT" text="Guarda-mão de Cimitarra de Ouro" />
+    <string id="nZ5e678J" text="Alça de roda simples" />
+    <string id="NzjHzhwC" text="Guarda-mão de diamante com botão" />
+    <string id="o2kFafbu" text="Cabeça de maça de aço oriental" />
+    <string id="O2kPKeuK" text="Lâmina de espada com armação de ouro" />
+    <string id="OBeOZ27b" text="Cabeça de clava" />
+    <string id="oGPHQt1J" text="Punho de cutelo alto de duas mãos" />
+    <string id="OHHpwD0F" text="Lâmina reta do sabre" />
+    <string id="OHl66gsX" text="Guarda-mão de adaga de bronze de Bollocks" />
+    <string id="OJ7iPw5M" text="Punho reforçado de machado cinza endurecido" />
+    <string id="OlnvawN6" text="Grande Guarda de espadas de bronze" />
+    <string id="OlUuoUBe" text="Punho de couro fino encadernado com ferro oriental" />
+    <string id="ooBWHpxP" text="Punho oriental angular coberto de couro" />
+    <string id="OPfm5y7W" text="Guarda-mão de cabeças de leão cavalheiros de ouro" />
+    <string id="OphcYYyN" text="Alça de lança de aço fina rebitada" />
+    <string id="opUK4WmL" text="Guarda-mão de adaga plana e arredondada" />
+    <string id="orwoyDlX" text="Cabeça do grande machado de Sparth" />
+    <string id="OryiZr9d" text="Kontarion" />
+    <string id="OTtMvvJK" text="Lâmina de espada de armação com ponte" />
+    <string id="ow1aK4DJ" text="Cabo longo de carvalho envelhecido" />
+    <string id="oW5N04JL" text="Lâmina de aço das montanhas" />
+    <string id="OW7w3Mth" text="pomo do noivo" />
+    <string id="Oxew9WCe" text="Cabeça de lança simples imperial" />
+    <string id="Oz6xANFb" text="Alça decorativa das montanhas" />
+    <string id="p1Uz3dqs" text="Punho vermelho decorado com rebites de Kaskara" />
+    <string id="p2aqirUu" text="Punho de couro fino Flyssa" />
+    <string id="p2xjr5Bp" text="Lâmina de madeira" />
+    <string id="p3jlcHNo" text="Alça de lança longa e lisa" />
+    <string id="pb4zUxzA" text="Lâmina de Makhaira" />
+    <string id="PbxZzhZx" text="Protetor estreito de Seax" />
+    <string id="PjMeZcwO" text="Guarda-mão de punhal cortada" />
+    <string id="pkmy6zB2" text="Guarda-mão Estelar do Sul" />
+    <string id="pocRP9dq" text="Cajado de freixo longo" />
+    <string id="PQ8rR13R" text="Lâmina de cimitarra de aço fino" />
+    <string id="PqoJ1ZeB" text="Lâmina decorada de sabre" />
+    <string id="PQThPvP6" text="Lâmina curta espatulada decorada" />
+    <string id="PsKP5j6A" text="Protetor de botão" />
+    <string id="pT5C12yT" text="Eixo de duas mãos com cinzas cravejadas" />
+    <string id="PUAi75mb" text="Anel com alças imperiais" />
+    <string id="PuRJZS03" text="Punho de duas mãos do estilo sulista" />
+    <string id="PvB0pW1Q" text="Lâmina sem corte de largura total" />
+    <string id="pX4nTZOI" text="Fine Steel Broad Kaskara" />
+    <string id="pXxv7YJv" text="Cabo de mogno longo com estojo de couro" />
+    <string id="PZYq0hBO" text="Guarda-mão de adagas em bronze em camadas" />
+    <string id="Q6kGQNzP" text="Punho de ferro de duas mãos segmentado" />
+    <string id="q7jHkLam" text="Lâmina de espada de armação estreita de Fullered" />
+    <string id="Q9Gfv68h" text="Punho de sabre de duas mãos" />
+    <string id="qbYoAvs6" text="Punho oculto limitado de uma mão" />
+    <string id="QCE1sAu3" text="Lâmina de Broadsword" />
+    <string id="QH0oIiIz" text="Lâmina longa da adaga larga" />
+    <string id="QIo60ZKh" text="Lâmina de espada de guerra longa de Fullered" />
+    <string id="qjxXq3P5" text="Guarda-mão de adaga gravada nas montanhas" />
+    <string id="QNe7mQlZ" text="Pomo de Rake" />
+    <string id="Qqb0VZ1a" text="Eixo de cinza de duas mãos envolto em couro" />
+    <string id="qQrmuHQ9" text="Cabeça de maça pesada de cavaleiro" />
+    <string id="qQtLUC7Q" text="Guarda-mão em Bronze de Falx" />
+    <string id="qSV6C2tp" text="Pomo de espadachim" />
+    <string id="qtZNUUqG" text="Punho de uma mão de madeira do norte" />
+    <string id="Qw9HWSY7" text="Lâmina de ferro de Flyssa" />
+    <string id="QwfDN06p" text="Cabeça de lança cavaleiro" />
+    <string id="QXqd6MLV" text="Punho de espada de couro fino com capa de latão de duas mãos" />
+    <string id="qYxzdFAa" text="Alça longa de carvalho com bandas de couro" />
+    <string id="qZYeu55z" text="Alça de maça longa com fundo de ferro" />
+    <string id="r1U1w2zp" text="Punho de armação de armação de couro fino com ponta de latão" />
+    <string id="r3R6RM9G" text="Pomo curto simples" />
+    <string id="R62maL2H" text="Pomo de Bill" />
+    <string id="R7OBSozV" text="Lâmina leve de espessura curta" />
+    <string id="R8hEAwUZ" text="Punho achatado" />
+    <string id="r8KoZCBy" text="Guarda-mão de adaga oval facetada" />
+    <string id="RB3oxhaV" text="Guarda-mão armada longa" />
+    <string id="RBoqow67" text="Ovo com alças" />
+    <string id="RdVX1jC0" text="Lâmina gravada da Kaskara" />
+    <string id="reHxxC6K" text="Cabo de martelo de ferreiro" />
+    <string id="Rh3h5NIg" text="Alça de machado de madeira curta endurecida" />
+    <string id="rkEbLbYf" text="Punho longo de couro reforçado oriental" />
+    <string id="rKnBJPfp" text="Lâmina de espada de cavalaria de aço fino" />
+    <string id="rL2zMQ2l" text="Guarda-mão armada" />
+    <string id="rn6tttI2" text="Pomo ornamental do sul" />
+    <string id="rSs1M2EJ" text="Cabeça de maça em espiral" />
+    <string id="RWljioj5" text="Punho de uma mão com chifre de ferro e couro" />
+    <string id="RWm1h40B" text="Alça de terras altas" />
+    <string id="RXjhTS9s" text="Eixo de carvalho enrolado longo" />
+    <string id="S2MYKoII" text="Alça do alto leste" />
+    <string id="s50O60ed" text="Guarda-mão Imperial curvada" />
+    <string id="S75vUGzK" text="Cabeça de lança de corte de aço fino" />
+    <string id="S9zZO7qJ" text="Cabeça de pino de aço fino" />
+    <string id="SaPaeTr4" text="Punho de duas mãos em madeira" />
+    <string id="saYgR9C6" text="Punho de duas mãos das terras elevadas de alta qualidade" />
+    <string id="SEsx3kZz" text="Pomo pesado de Bardiche" />
+    <string id="SgJH5KtP" text="Lâmina de Sica" />
+    <string id="SgknWcu2" text="Punho de mão oculta do norte" />
+    <string id="sHwhgRzK" text="Crescent Pommel" />
+    <string id="SJiam61q" text="Cabo curto retorcido" />
+    <string id="SJssgxmf" text="Decorated Ild Blade" />
+    <string id="sNJNDDKN" text="Cabeçote de machado pequeno" />
+    <string id="sq7G99xP" text="Guarda-mão da coroa" />
+    <string id="SqR5K74b" text="Pega fina das montanhas" />
+    <string id="SR7a3qlO" text="Cabeça de machado de batalha de bit redondo" />
+    <string id="SraI0yxb" text="Alça de carvalho longa e endurecida" />
+    <string id="sUlksgjL" text="Protetor de lança pregado e embrulhado" />
+    <string id="SVBYn9KW" text="Garfo de ferro" />
+    <string id="sw5rAz73" text="Cabeça leve de Mace sul" />
+    <string id="swb45HVS" text="Lâmina da montanha" />
+    <string id="T1aiDuOp" text="Cabeça estreita de Menavlon" />
+    <string id="T1xFTaOf" text="Lâmina decorativa de cimitarra longa" />
+    <string id="T62Cmrrh" text="pomo facetado" />
+    <string id="tgJ3dSOx" text="Cajado de lança longa de Oaken" />
+    <string id="TKQl9boE" text="Punho de arma de ouro com decoração dourada" />
+    <string id="TKVxb6QD" text="Cabeça de lança em forma de folha de aço da Thamaskene" />
+    <string id="tLa3nYAQ" text="pomo com cálice facetado" />
+    <string id="TLtaGEcB" text="Lâmina de Makhaira" />
+    <string id="tnaGywrE" text="Punho em couro áspero para duas mãos para ampulheta" />
+    <string id="tNtulHAv" text="Cabeça grande e nórdica" />
+    <string id="tq0eDwck" text="Guarda-mão da adaga concava" />
+    <string id="trGnmFsh" text="Cabeça da maça calradica" />
+    <string id="tRJC72Qh" text="Couro cruzado de uma mão" />
+    <string id="tSaAzzYe" text="Lâmina estreita com sulcos" />
+    <string id="tSgZoxsu" text="Punho de uma mão de madeira reforçada com ferro" />
+    <string id="tSQbGb4m" text="Eixo de mogno extra longo" />
+    <string id="TUbTwW9U" text="Lâmina plana com espiga com sulco" />
+    <string id="Tui9qvOZ" text="Pomo de Tzikurion" />
+    <string id="U30HpvtI" text="Cabeça de lança triangular de ferro triangular" />
+    <string id="u89rP5qY" text="Alça de aba larga" />
+    <string id="uAfTaa3p" text="Punho de uma mão de couro fino oriental" />
+    <string id="Udo97SZC" text="Pomo decorado ocidental" />
+    <string id="ueCf3sde" text="Couro fino de uma mão" />
+    <string id="ugQrq53t" text="Pomo para fãs" />
+    <string id="Uhc0KIdz" text="Cajado de lança de pinheiro" />
+    <string id="uIciSK8t" text="Punho nobre redondo decorado do sul" />
+    <string id="uKu7rTrW" text="Aperto estreito de uma mão" />
+    <string id="UKWwPPkx" text="Lâmina de espada com armação de pétalas de ouro" />
+    <string id="ukYW8FVm" text="Bulbo de sabre" />
+    <string id="uLqEw8LB" text="Punho longo cravejado imperial" />
+    <string id="uQsJQLJH" text="Punho curto de ocultação do norte" />
+    <string id="usVYZYYD" text="Pomo senhorial do norte" />
+    <string id="USWfzbuW" text="Cabeça larga de machado do norte" />
+    <string id="uuover9F" text="Lâmina curta da armadura" />
+    <string id="uvmvs2SP" text="Punho de cutelo" />
+    <string id="uwG8iwBc" text="Lança longa" />
+    <string id="V0khEGns" text="Alça plana ocidental" />
+    <string id="v22onVb2" text="Lâmina de Flyssa levemente amarrada" />
+    <string id="V3JMuFEg" text="Identificador de maça amarrada" />
+    <string id="V6YQykoc" text="Guarda-mão de adaga apontada para crescente" />
+    <string id="V9Kbq6vj" text="Dica de prática sem corte" />
+    <string id="VbpiYB68" text="Lâmina curta larga com decoração larga" />
+    <string id="VccYBtB0" text="Cabeça do machado do norte" />
+    <string id="VeHazKzb" text="Cabo de madeira com couro" />
+    <string id="Vf2wKojF" text="Asas sem corte" />
+    <string id="VfzFTGd8" text="Cabeçote redondo pequeno" />
+    <string id="vGda3CNV" text="Punho de espada bastardo de couro decorado com ouro" />
+    <string id="VgMDYLje" text="Punho de couro áspero de duas mãos" />
+    <string id="vJieQpnH" text="Punho aparafusado do sul de uma mão" />
+    <string id="VJmu4Yag" text="Suporte de lança decorativo" />
+    <string id="vJtBlaeS" text="Punho de couro extra longo de duas mãos" />
+    <string id="VL00fQvj" text="Alça de machado reforçada" />
+    <string id="vPMsDf85" text="Alça de carvalho com bandas de couro" />
+    <string id="vx2VIbmb" text="Lâmina de espada de guerra longa decorada" />
+    <string id="vxqrW5GN" text="Lâmina de foice" />
+    <string id="W5tvNbjY" text="Pomo ornamentado oriental" />
+    <string id="wait0O6m" text="Warrazor Head" />
+    <string id="WAtAGKhV" text="Asas duplas de espinho" />
+    <string id="Wd3bU57P" text="Pomo de bronze crescente" />
+    <string id="we4ykbNe" text="Punho de couro com uma mão com estojo de couro" />
+    <string id="weIT4gUP" text="Lâmina de espada de guerra estreita de Fullered" />
+    <string id="wfK63ZQn" text="Pomo de sabre" />
+    <string id="wgWSJzGD" text="Punho de couro chanfrado de duas mãos" />
+    <string id="wHMdRIl6" text="Punho áspero segmentado de uma mão" />
+    <string id="Wkhv9ESv" text="Alça de machado de carvalho endurecido" />
+    <string id="wKJM541b" text="Protetor pontiagudo de borda" />
+    <string id="WkLj6xAo" text="Pomo em trapézio" />
+    <string id="WkTkxQfw" text="Lâmina retangular" />
+    <string id="Wl1m0LbL" text="Punho reforçado com incrustações de prata" />
+    <string id="WNch6azL" text="Lâmina de cimitarra de ferro" />
+    <string id="wQGWxeCc" text="Lâmina de sabre espessa" />
+    <string id="wsVbMK6L" text="Lâmina plana de torneio" />
+    <string id="wVcrqv4p" text="Punho de madeira" />
+    <string id="wvLoXrFV" text="Grande pomo ocidental" />
+    <string id="WXBkfAbb" text="Guarda-mão de adaga retangular do norte" />
+    <string id="WxnqOG8s" text="Guarda-mão côncava ampla" />
+    <string id="wXUjru6o" text="Guarda-mão de sabre larga com trava" />
+    <string id="X7OrRebK" text="Lâmina de Sparth" />
+    <string id="xb6e2YaV" text="Guarda-mão de adaga oval simples do leste" />
+    <string id="XbaFle0M" text="Asas de lança dupla do leste" />
+    <string id="xbazdytG" text="Punho de aço de duas mãos para sul" />
+    <string id="xbB9Ga5X" text="Lâmina cônica do norte" />
+    <string id="XetKl5yO" text="Guarda-mão dourado de sabre" />
+    <string id="XI5QgznO" text="Protetor de cutelo cônico" />
+    <string id="xJaVK4D0" text="Asas de Javali" />
+    <string id="xKGpbQjJ" text="Eixo de mogno longo em couro" />
+    <string id="Xo7l8eae" text="Lâmina sem corte" />
+    <string id="xoSaQWhX" text="Guarda-mão crescente ocidental" />
+    <string id="XSabsFbx" text="Cabeça de pique com furador ponderada" />
+    <string id="XtneitaD" text="Lâmina de espada de guerra de aço fino" />
+    <string id="xVHbBpb9" text="Punho de cimitarra de aço segmentado" />
+    <string id="xWZuE1aE" text="Guarda-mão de adaga côncava grossa" />
+    <string id="XxhFx0yw" text="Puxador curto de couro com grande machado" />
+    <string id="xYgJN0Ja" text="Lâmina de cimitarra decorada" />
+    <string id="xZ70rbRt" text="Rodã de madeira com alças" />
+    <string id="Y0gbKTgZ" text="Cabeça de forquilha militar de Sturgian" />
+    <string id="Y4tIQnS4" text="Cabeça de lança simples e curta" />
+    <string id="y5A3HGua" text="Lâmina de aço fino" />
+    <string id="ybjDbw8p" text="Cabo longo de maça de carvalho" />
+    <string id="ybk4YYeV" text="Cabeça de machado perfurada de uma mão" />
+    <string id="yD9v5GS0" text="Cabo de pinho decorado" />
+    <string id="YDG2spCf" text="Punho nobre de couro oriental" />
+    <string id="yFm0f44p" text="Guarda-mão ocidental apontada" />
+    <string id="YFy0t1NY" text="Maça ocidental" />
+    <string id="Yi2PlMln" text="Alça de lança longa rebitada" />
+    <string id="yilLfxCc" text="Protetor labial" />
+    <string id="ykTYTbek" text="lâmina da faca" />
+    <string id="YkWqmDEK" text="Cabeça larga da lâmina de Falchion" />
+    <string id="YKXNxxvY" text="Punho de duas mãos do norte" />
+    <string id="ylUAAsQt" text="Punho de couro áspero de com uma mão" />
+    <string id="yMWzpgjz" text="Punho angular de duas mãos com segmento" />
+    <string id="YQLEkXb7" text="Asa de gancho singular" />
+    <string id="ysby6FNF" text="Alça de lança em aço dea Thamaskene" />
+    <string id="YTZblGJ0" text="Punho de chifre reforçado de duas mãos coberto por couro" />
+    <string id="YUDKID1R" text="Pega reforçada com maça longa cinza" />
+    <string id="yUyJ39ot" text="Punho de aço espatulado" />
+    <string id="YwKrIR6s" text="Ganchos enormes duplos com cobertura de pele" />
+    <string id="yWvSjlnb" text="Cabeça de maça de aço fino oriental" />
+    <string id="YxoUpPRb" text="Asas em arrebite" />
+    <string id="yzsneaL6" text="Alça da roda com aros" />
+    <string id="zAdloN6Y" text="Broad Ridged Shortsword Blade" />
+    <string id="ZAoWK9Gt" text="Cabeça de lança imperial arredondada" />
+    <string id="ZbSKazZG" text="Lâmina curta de Seax" />
+    <string id="Zc2Mb991" text="Pomo de Shestopyor" />
+    <string id="ZCJ0aNYt" text="Protetor de cabeça de cobra" />
+    <string id="ZcUNAfKT" text="Cabeça de lança de aço fino extra longo" />
+    <string id="zCYuj3yr" text="Lâmina de espada com armação" />
+    <string id="ZfEiEOsK" text="Guarda-mão de adaga coroada do sul" />
+    <string id="ZgCUNieQ" text="Cabeça em garfo" />
+    <string id="Zgy40Qc4" text="Cabo de mogno longo" />
+    <string id="zIbAD527" text="Cunha" />
+    <string id="ZJrqEfBF" text="Tapered Kaskara Blade" />
+    <string id="ZJwQmyQR" text="Punho bastardo coberto de couro com pregos de latão" />
+    <string id="zKaNmT8r" text="Guarda-mão de adaga em meia-lua" />
+    <string id="ZKrpvDu6" text="Punho bastardo reforçado em aço" />
+    <string id="ZKsIpbg6" text="Punho encadernado de duas mãos coberto com fio de couro" />
+    <string id="ZmFx0XvN" text="Punho de uma mão derramado do norte" />
+    <string id="Zmtfwmh1" text="Guarda-mão de adaga fina cônica" />
+    <string id="zoQhOBku" text="Rodada com alças cravadas" />
+    <string id="zoxF4ikz" text="Alça longa de cinza com revestimento de couro" />
+    <string id="Zp625kEP" text="Punho de madeira do norte de duas mãos" />
+    <string id="ZUp9mm79" text="Cabeça de lança irregular" />
+    <string id="ZxZ7AJ1r" text="Lâmina do machado do sul da batalha" />
+  </strings>
+</base>

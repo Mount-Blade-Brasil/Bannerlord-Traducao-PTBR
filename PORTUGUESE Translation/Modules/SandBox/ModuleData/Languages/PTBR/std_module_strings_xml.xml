@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Português Brasileiro" />
+  </tags>
+  <strings>
+    <string id="7ZhNilg8" text="Fácil (+bônus de 5%)" />
+    <string id="9jSxo790" text="Realista" />
+    <string id="AQfVclN8" text="Prêmio" />
+    <string id="B0uvwKae" text="Escolha se os heróis podem morrer em campo de batalha." />
+    <string id="bLwIgxXa" text="Dificuldade de recrutamento" />
+    <string id="cA1D2Ua3" text="Você precisará de melhores relações com os notáveis para acessar todas as suas tropas." />
+    <string id="carorTAF" text="Reduzido em 2/3 (Fácil)" />
+    <string id="cUHlzCRx" text="Ativar morte em batalha" />
+    <string id="D9GkBqyW" text="Você pode saia do campo de treinamento pressionando [{LEAVE_KEY}]{newline}. Você pode retornar a qualquer momento do mapa da campanha." />
+    <string id="DFMhzFGV" text="Manter um número de cavalos em seu inventário pode acelerar consideravelmente sua grupo, além de aumentar a quantidade máxima de carga. Cavalos e mulas de carga são úteis apenas para transporte." />
+    <string id="EGwqzjpa" text="Você pode manter pressionada a tecla tab para deixar a área atual." />
+    <string id="F8TaKnjh" text="Quando você está caminhando por uma cidade ou vila, mantenha pressionada a tecla Alt parar marcar as pessoas importantes e pontos de interesse." />
+    <string id="fbaQp3ox" text="Ative a alocação automática de vantagens para os membros do seu clã." />
+    <string id="hEYfasE1" text="Recebeu taxa de dano ao seu personagem." />
+    <string id="HVrobtL5" text="Novo nome do reino:{newline}- Não pode incluir dígitos.{newline}- Não pode ter mais que {MAX_LETTER_COUNT} caracteres.{newline}- Não pode ter menos que {MIN_LETTER_COUNT} caracteres." />
+    <string id="IgeL6qHr" text="Taxa de dano recebida por seus aliados que não estão sob seu comando." />
+    <string id="IWD56KMc" text="Velocidade de movimento" />
+    <string id="JaHlwYmo" text="Você pode pressionar a tecla Alt para ver obter informações adicionais dos grupos e locais." />
+    <string id="k4CF68S6" text="Nós nos abstemos" />
+    <string id="k71J6bVH" text="Vitórias" />
+    <string id="KbPD5cEw" text="Reduzido em 1/3 (muito fácil)" />
+    <string id="KM7uAbL8" text="Jogador receberá dano" />
+    <string id="mD89ih8N" text="Alterar nome do clã" />
+    <string id="N6fz1efb" text="Ignora o tutorial no início do jogo." />
+    <string id="Oea9a5nY" text="Tropas amigáveis receberão dano" />
+    <string id="qc9Llr3x" text="Herói" />
+    <string id="QGA2TilH" text="Nas janelas do jogo, você pode clicar com o botão direito do mouse em um item para abrir a enciclopédia. Isso funciona nos retratos dos personagens, ícones de cidades e a maioria dos outros elementos." />
+    <string id="QUZku1Jr" text="As multas por velocidade de festa serão mais eficazes no mapa da campanha." />
+    <string id="QzmJL5I7" text="Fácil (+1 extra)" />
+    <string id="raD9MK3O" text="Dificuldade" />
+    <string id="ReNnVfEn" text="Alterar nome do reino" />
+    <string id="RyNYEVYp" text="{CLASSIFICAÇÃO}." />
+    <string id="RZFAxCMp" text="Muito fácil (+bônus de 10%)" />
+    <string id="sp8Kred0" text="O membro precisa estar no grupo do jogador para executar esta ação." />
+    <string id="TZ9ugd1p" text="Alocar automaticamente vantagens de membros do clã" />
+    <string id="UcgNVM0P" text="Muito fácil (2 extras)" />
+    <string id="UfQotsfo" text="Classificação #" />
+    <string id="vGF5S2hE" text="Tabela de classificação" />
+    <string id="wip6jLEM" text="Taxa de dano recebido por suas tropas." />
+    <string id="ZcyJePFm" text="Danos recebidos por unidades aliadas" />
+    <string id="ZWiFWA2W" text="Ignorar o tutorial da história principal" />
+  </strings>
+</base>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Português Brasileiro" />
+  </tags>
+  <strings>
+    <string id="1VOXUsST" text="Personalize o seu estandarte" />
+    <string id="3CpNUnVl" text="Cancelar" />
+    <string id="Eg3m6vUS" text="Personalize seu estandarte pessoal, para ser o símbolo do clã" />
+    <string id="WiNRdfsm" text="Feito" />
+  </strings>
+</base>

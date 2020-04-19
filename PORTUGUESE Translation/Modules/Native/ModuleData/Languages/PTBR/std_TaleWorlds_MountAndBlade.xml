@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Português Brasileiro" />
+  </tags>
+  <strings>
+    <string id="0xC75dN6" text="Equipe inimiga" />
+    <string id="1cnJtNTt" text="({KEY}) Puxar" />
+    <string id="1CPdu9K0" text="Pedra" />
+    <string id="3PP01vFv" text="Mantenha-se afastado dessa arma." />
+    <string id="4FVIuqsl" text="{ALIVE} / {TOTAL}" />
+    <string id="4Skg9QhO" text="Catapulta" />
+    <string id="5oozsaIb" text="({KEY}) Abrir" />
+    <string id="5wx4BF5h" text="({KEY}) Girar" />
+    <string id="5zGsfiMM" text="{TRAINING_TYPE}" />
+    <string id="6wZUG0ev" text="Portão" />
+    <string id="abbALYlp" text="Balestra" />
+    <string id="aXjlMBiE" text="Torre de cerco" />
+    <string id="bNYm3K6b" text="({KEY}) Pegar" />
+    <string id="bWi4aMO9" text="Barril de flechas" />
+    <string id="F9AQxCax" text="Forquilha" />
+    <string id="fEQAPJ2e" text="({KEY}) Usar" />
+    <string id="G0AWk1rX" text="Escada" />
+    <string id="gqQPSAQZ" text="({KEY}) Deixar área" />
+    <string id="hOSafKZ9" text="Um novo jogo de {GAME_TYPE} será iniciado em {SCENE_NAME}" />
+    <string id="hvQSOi79" text="Bot" />
+    <string id="ibC4xPoo" text="({KEY}) Carregar munição" />
+    <string id="jfcceEoE" text="{PILE_TYPE} Munição" />
+    <string id="kbNcm68J" text="({KEY}) Levantar" />
+    <string id="L91XKoMD" text="{TEAM_LEADER}:{PLAYER_NAME}, {BEHAVIOR}" />
+    <string id="lVfmVHbz" text="Falha no login" />
+    <string id="MaBSSg7I" text="Aríete" />
+    <string id="MdQJxiGz" text="({KEY}) Pressionar" />
+    <string id="Na81xuXn" text="({KEY}) Rearmar" />
+    <string id="NbpcDXtJ" text="Mangonel" />
+    <string id="pgw7LMRo" text="Servidor com capacidade excedente." />
+    <string id="PNg2Rb4p" text="{PEER_NAME} será expulso {IS_BANNED}" />
+    <string id="pzfbPbWW" text="Pedregulho" />
+    <string id="rwZAZSvX" text="({KEY}) Mover" />
+    <string id="sSJSTe5p" text="Jogador do grupo" />
+    <string id="TJj71hPO" text="({KEY}) Fechar" />
+    <string id="wY1qP2qj" text="({KEY}) Selecionar" />
+  </strings>
+</base>

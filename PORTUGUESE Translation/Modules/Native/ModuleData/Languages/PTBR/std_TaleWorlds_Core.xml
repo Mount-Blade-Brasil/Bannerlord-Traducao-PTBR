@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Português Brasileiro" />
+  </tags>
+  <strings>
+    <string id="2wclahIJ" text="Arremeço" />
+    <string id="4kvKQuXM" text="Pele" />
+    <string id="5rj7xQE4" text="Arco" />
+    <string id="7HvtT8bm" text="Aço" />
+    <string id="81YLbLok" text="Experimente o lado sombrio da vida humana. Você sabe o que dizer quando um guarda quer suborno, sabe como intimidar alguém e tem uma boa noção do como se safar." />
+    <string id="8w0aaDbn" text="Ferro" />
+    <string id="97EmbcHQ" text="A capacidade de inspirar. Você pode preencher as pessoas com confiança e despertar entusiasmo e coragem em grupos maiores." />
+    <string id="abxndmIh" text="Social" />
+    <string id="Aj3zqQq4" text="Não está disponível" />
+    <string id="azjMBa86" text="Aço fino" />
+    <string id="Bn7IsMpu" text="INT" />
+    <string id="bVD9j0wI" text="Aptidão física, velocidade e equilíbrio." />
+    <string id="d2ApwXJr" text="END" />
+    <string id="EGeY1gfs" text="Carisma" />
+    <string id="eoLbkhsY" text="Domínio da luta com armas de duas mãos de comprimento médio, como machados e espadas bastardas." />
+    <string id="ExjMoUiT" text="Madeira de lei" />
+    <string id="FLf5J3su" text="Familiaridade com arcos e condicionamento físico para mirar com eles de maneira eficaz." />
+    <string id="FQOFDrAu" text="Seu julgamento de como as tropas se comportarão em contato. Isso permite que você faça uma boa previsão de quando uma tática não-ortodoxa funcionará e quando não funcionará." />
+    <string id="GmcgoiGy" text="Comércio" />
+    <string id="gOpodlt1" text="Ferro bruto" />
+    <string id="H9Zamrao" text="A capacidade de controlar um cavalo, de manter o equilíbrio quando ele se move rapidamente, bem como o conhecimento geral de cavalos, incluindo seus cuidados e criação." />
+    <string id="haax8kMa" text="Armas de Haste" />
+    <string id="haV3nLYA" text="Conhecimento sobre operação e manutenção de bestas." />
+    <string id="hbaMnpVR" text="Conhecimento de engenharia. Útil para construir e criar dispositivos que os derrubam." />
+    <string id="HsLfmEmb" text="Liderança" />
+    <string id="HuXafdmR" text="CTR" />
+    <string id="igg5sEh3" text="Conhecimento sobre como estancar o sangramento, selar ossos quebrados, remover flechas, limpar feridas para evitar infecções e aplicar ervas para aliviar a dor e inflamações." />
+    <string id="iKmXX7i3" text="Domínio da lanças, lança de guerras, bastão e outras armas de fogo, com uma mão e duas mãos." />
+    <string id="iQadPYNe" text="Carvão vegetal" />
+    <string id="Itv3fgJm" text="Grãos" />
+    <string id="jJ9sLOLb" text="O vigor representa a capacidade de se mover com velocidade e força. É importante para o combate corpo a corpo." />
+    <string id="JKH59XNp" text="Medicina" />
+    <string id="JZM1mQvb" text="Astúcia" />
+    <string id="K8rCOQUZ" text="Resistência é a capacidade de realizar atividades físicas desgastantes por um longo tempo." />
+    <string id="kmBxaJZd" text="Conhecimento de como explorar a natureza em busca de vida. Você pode seguir trilhas, detectar movimentos na vegetação rasteira, detectar um inimigo através do vale. Rastrear pegadas e penas pistas como galhos quebrados na vegetação." />
+    <string id="kvOavzcs" text="Resistência" />
+    <string id="Kw6BkhIf" text="Minério de ferro" />
+    <string id="LJ6Krlbr" text="Escotismo" />
+    <string id="LmwhFv5p" text="Carne" />
+    <string id="lsJMCkZy" text="Familiaridade com os produtos mais comuns no mercado e seus preços, bem como a capacidade de detectar produtos defeituosos ou dizer se sofreu uma alteração na quantidade" />
+    <string id="m8o51fc7" text="Tática" />
+    <string id="n3cjEB0X" text="Ferramentas" />
+    <string id="NwTpATW5" text="Domínio de projéteis com precisão e força." />
+    <string id="p9i3zRm9" text="Montaria" />
+    <string id="PCZ23wvW" text="Engenharia" />
+    <string id="PHoxdReD" text="SOC" />
+    <string id="PiHpR4QL" text="Uma mão" />
+    <string id="qwEJSBaH" text="Seu conhecimento sobre o que faz um assentamento prosperar. Isso ajuda você a gerenciar uma propriedade ou administrar uma cidade." />
+    <string id="skZS2UlW" text="Atletismo" />
+    <string id="sOrJoxiC" text="Inteligência" />
+    <string id="t78atYqH" text="Duas mãos" />
+    <string id="TeUtEGV0" text="Inteligência representa aptidão para leitura e aprendizado teórico." />
+    <string id="tH6Ooj0P" text="CNG" />
+    <string id="TTWL7RLe" text="Besta" />
+    <string id="UfuLKuaI" text="Aço" />
+    <string id="Uz1HHeKg" text="Arma aleatória criada" />
+    <string id="uZhHh7pm" text="Criado em {CURR_TEMPLATE_NAME}" />
+    <string id="V0ZMJ0PX" text="Malandragem" />
+    <string id="VajIVjkc" text="A capacidade de fazer uma pessoa gostar e confiar em você. Você pode adivinhar a motivação das pessoas e os tipos de argumentos aos quais elas aceitarão melhor." />
+    <string id="Ve8xoa3i" text="VIG" />
+    <string id="vLVAfcta" text="Thamaskene de aço" />
+    <string id="vx0OCvaj" text="O controle representa a capacidade de usar força sem sacrificar a precisão. É necessário usar armas à distância." />
+    <string id="XMDTt96y" text="Social é a capacidade de entender as motivações das pessoas e influenciá-las da melhor forma possível." />
+    <string id="xs0MpdCM" text="Ferreiro" />
+    <string id="xWbkjccP" text="O conhecimento de como forjar metal, balancear uma boa lâmina, costurar bainhas e outras habilidades, curtir e moldar couros úteis na montagem de armas e armaduras" />
+    <string id="yEkSSqIm" text="Domínio da luta com armas de uma mão, com ou sem escudo." />
+    <string id="Ymw2PKBo" text="Administração" />
+    <string id="YO5LUfiO" text="Astúcia é a capacidade de prever o que as outras pessoas farão e superar seus planos." />
+    <string id="YWkdD7Ki" text="Vigor" />
+    <string id="zfRqM4mr" text="Controle" />
+  </strings>
+</base>
