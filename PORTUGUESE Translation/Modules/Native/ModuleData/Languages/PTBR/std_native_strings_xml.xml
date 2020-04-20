@@ -17,7 +17,7 @@
     <string id="1GFrsDRm" text="Limite de aceitação da votação" />
     <string id="1gU5rDws" text="Permitir enquetes para jogadores de banca" />
     <string id="1Ndyb5I1" text="Tempo de remoção da bandeira (segundos)" />
-    <string id="1siBGYlP" text="Largura da maçãs" />
+    <string id="1siBGYlP" text="Largura da maçã" />
     <string id="1zveWQFg" text="Vá para uma combinação de resultados e selecione uma região para entrar na fila para uma batalha" />
     <string id="22MOa4Fc" text="Altura ext. dos olhos" />
     <string id="23INS6nf" text="Senha requerida" />
@@ -30,19 +30,19 @@
     <string id="2uynGJbP" text="Transferindo tropas" />
     <string id="39kMNdA5" text="Remoção de bandeira" />
     <string id="3AInGztr" text="Tronco" />
-    <string id="3APdsKEi" text="Faça de arremesso" />
+    <string id="3APdsKEi" text="Faca de arremesso" />
     <string id="3aX5gXmJ" text="Cor da pele" />
     <string id="3Kkya96j" text="Perna" />
     <string id="3kqFHkZz" text="Espessura do Lábio" />
     <string id="3syV6ymi" text="sem corte" />
     <string id="3ydKbDmI" text="{PLAY_TIME} minutos" />
     <string id="3ZzxddkE" text="Senha do jogo" />
-    <string id="43L45sjx" text="Número de robôs por formação" />
+    <string id="43L45sjx" text="Número de bots por formação" />
     <string id="4DcNDein" text="Tempo limite do mapa (minutos)" />
     <string id="4Dd2xgPm" text="Peso" />
-    <string id="4PrfimcK" text="Distintivo" />
+    <string id="4PrfimcK" text="Broche" />
     <string id="4wLU6s4S" text="Abdômem" />
-    <string id="5anoN5EJ" text="Confira suas habilidades de combate neste tipo de jogo clássico e clássico contra outros jogadores." />
+    <string id="5anoN5EJ" text="Teste suas habilidades de combate nesta caótica e clássica versão baseada em time contra time." />
     <string id="5LpufKs7" text="Siga-me" />
     <string id="5mSKBidd" text="Forma do nariz" />
     <string id="5odwu8qB" text="Classificada" />
@@ -53,13 +53,13 @@
     <string id="64n3piBf" text="Total de jogos" />
     <string id="6DBVzw9r" text="Construir" />
     <string id="6yZnboe6" text="Tamanho dos olhos" />
-    <string id="74tYdiOb" text="Selecione suas tropas com sabedoria, de acordo com as necessidades de sua equipe. Uma contagem de tropas é determinada pela força das tropas." />
+    <string id="74tYdiOb" text="Escolha suas tropas cuidadosamente conforme a necessidade de sua equipe. A contagem das tropas baseiam-se em suas forças." />
     <string id="77arWi0m" text="Altura int. dos olhos" />
     <string id="7BlOJvyo" text="Largura da boca" />
     <string id="7lvexPjZ" text="Simples" />
     <string id="7MkoLtWC" text="Machado" />
     <string id="7qySRF2T" text="Ping" />
-    <string id="7snGCl6z" text="Unidades de armazenamento à distância" />
+    <string id="7snGCl6z" text="Unidades de cerco a distância" />
     <string id="880uOrte" text="Terreno" />
     <string id="8o1lZcjR" text="Altura externa" />
     <string id="8sG5bTtK" text="Período de reaparecimento" />
@@ -74,11 +74,11 @@
     <string id="aDabgVpn" text="Personalização do personagem" />
     <string id="adyGICWc" text="Câmera bloqueada!" />
     <string id="AEcTBnkz" text="Mudar de roupa" />
-    <string id="aGTgzoqW" text="Permitir que enquetes expulsem jogadores" />
+    <string id="aGTgzoqW" text="Permitir que jogadores sejam expulsos por votação" />
     <string id="ahiBhAqU" text="Armadura" />
     <string id="aM3TlRIy" text="{SHORTCUT} Transferir" />
     <string id="AmbKQ7LT" text="Transferir" />
-    <string id="auDOtbza" text="Equipe de cultura 1" />
+    <string id="auDOtbza" text="Cultura do Time nº 1" />
     <string id="Ayrvf5yp" text="Matar" />
     <string id="aZVxHbwH" text="Morto por {TROOP_NAME}" />
     <string id="b0L0jbIa" text="Posição dos olhos" />
@@ -86,7 +86,7 @@
     <string id="bAPQFzcW" text="Dano de projétil" />
     <string id="bbYwqrvo" text="For. da mandíbula" />
     <string id="bc4MrqLA" text="{SHORTCUT} Cavalos" />
-    <string id="BFWD0pCE" text="Amigo dos danos de longo alcance do fogo" />
+    <string id="BFWD0pCE" text="Fogo amigo de armas de longo alcance" />
     <string id="bjcixGIE" text="Equipe" />
     <string id="bjJkW9dO" text="Visualizar perfil" />
     <string id="BJMPBcDn" text="Segundo assistente" />
@@ -94,18 +94,18 @@
     <string id="BMPrnHpK" text="Tamanho da narina" />
     <string id="bnfUdx3O" text="Altura central" />
     <string id="BQzP1ivS" text="Proporção da face" />
-    <string id="BrjpmaJH" text="Jogos perdidos" />
-    <string id="brk0f05B" text="Dimensionamento da cabeça" />
+    <string id="BrjpmaJH" text="Partidas perdidas" />
+    <string id="brk0f05B" text="Dimensão da cabeça" />
     <string id="bTpn4bZ8" text="Altura interna" />
-    <string id="BuLdsBpQ" text="Grátis para todos" />
+    <string id="BuLdsBpQ" text="Competição livre" />
     <string id="bV75iwKa" text="Salvar" />
-    <string id="bXIrqxKc" text="Número mínimo de jogadores para iniciar o jogo" />
+    <string id="bXIrqxKc" text="Número mínimo de jogadores para iniciar a partida" />
     <string id="bY9U7w1Q" text="Espada" />
     <string id="bYCfMbYk" text="Mude sua equipe" />
     <string id="c1zu1b3M" text="Você foi removido da equipe." />
     <string id="c2tGH5II" text="Limite de tempo de aquecimento (minutos)" />
     <string id="cBZ6OlKW" text="Javelin" />
-    <string id="ccROnOY3" text="Dano recebido por lança lançada!" />
+    <string id="ccROnOY3" text="Dano recebido por lança!" />
     <string id="CFI2aDtg" text="Montar armadura" />
     <string id="cJ5emwNF" text="Assistência" />
     <string id="CjPiabbn" text="Disparar à vontade" />
@@ -114,10 +114,10 @@
     <string id="CKtZ7bES" text="Alcance o limite de pontos com seu time ou marque mais pontos que o time inimigo até que o tempo acabe." />
     <string id="Cl3TziQE" text="Sua montaria recebeu {DAMAGE} de dano causado por queda." />
     <string id="CoxEyDa8" text="Manopla" />
-    <string id="cPbHqGrI" text="Expulsar Player" />
+    <string id="cPbHqGrI" text="Expulsar jogador" />
     <string id="d3RJm2zW" text="Altura da mandíbula" />
     <string id="DdOgvhsV" text="Expulsar" />
-    <string id="DHlVSaZW" text="Velocidade do movimento:{SPEED} m / s" />
+    <string id="DHlVSaZW" text="Velocidade de movimento: {SPEED} m/s" />
     <string id="DKqLY1aJ" text="Equipar" />
     <string id="dojUqbv8" text="Compr. do nariz" />
     <string id="dRlTmdKR" text="Sistema" />
@@ -133,13 +133,13 @@
     <string id="EUHaR98k" text="Relatório" />
     <string id="EX4bKRbV" text="Contagem de óbitos" />
     <string id="F09emT1k" text="Unidades de cerco primário de face" />
-    <string id="f4ZeGAJi" text="Velocidade do projétil:{SPEED} m / s" />
+    <string id="f4ZeGAJi" text="Velocidade do projétil: {SPEED} m / s" />
     <string id="f5y9qyDb" text="Arm" />
     <string id="F6dUDgg3" text="Derrota" />
     <string id="F70rOpkK" text="Capitão" />
-    <string id="fFLBT9wb" text="Arca" />
+    <string id="fFLBT9wb" text="Tórax" />
     <string id="FFNJTsDL" text="Expulsar um jogador" />
-    <string id="fFULSlYb" text="Dano extra das vantagens: {EXTRA_DAMAGE}" />
+    <string id="fFULSlYb" text="Dano extra de habilidade: {EXTRA_DAMAGE}" />
     <string id="fGFMqlGz" text="Sexo" />
     <string id="FgJpTBp1" text="Dano em aliado, com arma de longa distância" />
     <string id="fjD2tRXW" text="Queixo proeminente" />
@@ -206,9 +206,9 @@
     <string id="M1RCJ9DM" text="Terceiro assistente" />
     <string id="m3zVR2UH" text="Mostrar mouse:[{KEY_NAME}]" />
     <string id="m5UdbzHr" text="Nenhuma região selecionada" />
-    <string id="MciIqod6" text="Sofá Lance" />
+    <string id="MciIqod6" text="Lança de Riste" />
     <string id="MH9Pi3ao" text="Direção da face" />
-    <string id="mjhOYJWg" text="Quiver está vazio." />
+    <string id="mjhOYJWg" text="Aljava está vazio." />
     <string id="MnM0L4AV" text="Não está no multijogador" />
     <string id="MQqaKRtn" text="{SHORTCUT} Movimento" />
     <string id="MS795wWa" text="Primeira assistência" />
@@ -220,7 +220,7 @@
     <string id="NxeQasMb" text="{SHORTCUT} Disparar" />
     <string id="o5Ead68n" text="Sair sem salvar" />
     <string id="O9F9q1zx" text="Bochecha" />
-    <string id="obB483C5" text="Acerto da parte do corpo:{BODY_PART}" />
+    <string id="obB483C5" text="Acerto de membro do corpo: {BODY_PART}" />
     <string id="oBbiVeKE" text="Pontos de vida" />
     <string id="Oud3W58w" text="Mantenha pressionado ({KEY}) {ACTION}" />
     <string id="OVcoYxj1" text="Nome do servidor" />
@@ -228,7 +228,7 @@
     <string id="OZHFucP5" text="Franzir a testa/sorrir" />
     <string id="pa4yXyDa" text="{PLAYER_COUNT} vs {PLAYER_COUNT}" />
     <string id="pagmdsCK" text="Altura das pálpebras" />
-    <string id="PbLuHcJg" text="Dano absorvido:{ABSORBED_DAMAGE}" />
+    <string id="PbLuHcJg" text="Dano absorvido: {ABSORBED_DAMAGE}" />
     <string id="pbp0GQdO" text="Banir jogador" />
     <string id="pCRwBpzd" text="Nariz" />
     <string id="PDdh1sBj" text="Nome" />
@@ -249,11 +249,11 @@
     <string id="qF5pJt7e" text="Assimetria ocular" />
     <string id="Qhl77Oki" text="Ajudado a eliminar {TROOP_NAME}" />
     <string id="qKPSlF9L" text="Comando {SHORTCUT}" />
-    <string id="qNga6uPw" text="Dano causado" />
+    <string id="qNga6uPw" text="de dano causado" />
     <string id="qNRc3pXu" text="Preencher" />
     <string id="qnxJYAs7" text="Equipe" />
     <string id="QTr6UDAa" text="Parar" />
-    <string id="R3BwLVmT" text="Dano causado {DAMAGE} {DAMAGE_TYPE}." />
+    <string id="R3BwLVmT" text="Causado {DAMAGE} de dano do tipo: {DAMAGE_TYPE}." />
     <string id="R4Gqskgq" text="Vitória" />
     <string id="rbYITcao" text="Boca" />
     <string id="rbz1Bwbv" text="Inventário" />
@@ -344,7 +344,7 @@
     <string id="XpVARRTW" text="Profundo" />
     <string id="xq9Vxpyc" text="&lt;a style=&quot;HeadshotTitle.Text&quot; &gt;&lt;b&gt;{TITLE}&lt;/b&gt;&lt;/a&gt;" />
     <string id="XQndveFG" text="Dano a aliado, corpo a corpo" />
-    <string id="XUKRrgOr" text="Forneceu {DAMAGE} {DAMAGE_TYPE} danos à montagem." />
+    <string id="XUKRrgOr" text="Causou {DAMAGE} de dano do tipo {DAMAGE_TYPE}." />
     <string id="xXQN7Go6" text="Olhos Monolidos" />
     <string id="XZU9SyQW" text="Reprodução rápida" />
     <string id="XzZFhRwr" text="Retornar ao jogo" />
