@@ -10,7 +10,7 @@
     <string id="03DZpTYi" text="Você é um criminoso procurado." />
     <string id="03lc5R2t" text="Você já tentou me convencer antes. Eu não vou aguentar suas palavras novamente." />
     <string id="045duyBq" text="{HERO.LINK} chegou a {SETTLEMENT}" />
-    <string id="053isUut" text="HuscarlFightingSkills" />
+    <string id="053isUut" text="Habilidade de Luta de Huscarl" />
     <string id="07qBenIW" text="um jarro de cerveja" />
     <string id="07QlFlXK" text="um prato de arenques" />
     <string id="09gOOa0h" text="Soldado" />
@@ -93,7 +93,6 @@
     <string id="1Lvu78QK" text="Seus aljavas terão +2 flechas quando você entrar em uma batalha a pé." />
     <string id="1LzohiMf" text="eu trouxe {AMOUNT_TO_DELIVER} unidades de {REQUESTED_GOOD} conforme acordado, como acordado." />
     <string id="1n704NXl" text="Permite que você coloque suas tropas antes de todas as batalhas." />
-    <string id="1nvyKJwN" text="Você falhou em proteger {YOUNG_HERO.LINK} como você prometeu. {QUEST_GIVER.LINK} está furioso." />
     <string id="1OLGUDC3" text="A precisão aumenta para no máximo 10% mais rápido." />
     <string id="1PCaW5YI" text="Meu liege {QUEST_GIVER.NAME} também me instruiu a apresentar a soma de {REWARD_GOLD}{GOLD_ICON} denários para a troca de prisioneiros." />
     <string id="1pdBdqKn" text="Tipo de Exército:" />
@@ -129,6 +128,7 @@
     <string id="2E7s4L9R" text="Você precisa de mercenários? Eu tenho um contrato que posso transferir para você por {DEMAND_GOLD} ouros." />
     <string id="2eaUx1Ak" text="Velocidade de vôo da arma + 10% e dano +20%" />
     <string id="2EfAa7Qr" text="Aldeia é invadida com sucesso por sua facção." />
+    <string id="2EiC1YyZ" text="Bem, se eles souberem o que você está fazendo, as coisas podem dar muito erradas para mim. Seja rápido." />
     <string id="2Ekt9yKN" text="Aumente imediatamente a resistência (END) por 1." />
     <string id="2ELhox6C" text="Se você não quiser se envolver nessa luta, deixe um de seus companheiros capazes e {NUMBER_OF_TROOPS} homens por alguns dias." />
     <string id="2ENbc031" text="{FIRST_NAME}, o Ferreiro" />
@@ -199,6 +199,7 @@
     <string id="3nCmm8gE" text="O voto para fazer as pazes com {KINGDOM} falhou com o apoio da maioria." />
     <string id="3nT5wWzb" text="Renda-se." />
     <string id="3OwCWxjk" text="Claro.[rb:very_positive][ib:demure]" />
+    <string id="3pkVKMnA" text="A maioria dos caçadores furtivos provavelmente correria se fossem surpreendidos por homens armados. Mas esses são ousados. Esteja pronto para uma luta." />
     <string id="3PzgpFGq" text="Jogador" />
     <string id="3QQ9lYa4" text="Rebeldes em {SETTLEMENT} pegaram armas contra seu senhor, {RULER.NAME}" />
     <string id="3SBDbPjD" text="Bom ouvir isso! Viagens seguras." />
@@ -218,6 +219,7 @@
     <string id="3zdK4sm2" text="Você tem que trazer {REQUIRED_AMOUNT} a mais para cumprir seu fim do acordo." />
     <string id="3ZExeKav" text="Um bônus de velocidade de arma adicional de + 3% sempre que o jogador possuir uma arma de uma mão." />
     <string id="3ZF2PLu3" text="Cruel {NAME}" />
+    <string id="428B377z" text="{ISSUE_GIVER.LINK}, um mercador de {QUEST_GIVER_SETTLEMENT}, te disse que alguns caçadores contratados por {?ISSUE_GIVER.GENDER}ela{?}ele{\?} agora estão fora de controle. Você pediu a {COMPANION.LINK} junto de {NEEDED_MEN_COUNT} de seus homens para irem para {QUEST_VILLAGE} e matar os caçadores. Eles devem voltar em {RETURN_DAYS} dias." />
     <string id="42T5q8FF" text="Um dano adicional de + 10% se uma arma do tipo espada de uma mão estiver equipada." />
     <string id="44tA6fNa" text="Vou tentar ganhar a confiança da sua família, então." />
     <string id="45V8TzwK" text="Armas de duas mãos com mais de 100 velocidades recebem% 1 maior velocidade e% 2 maiores danos." />
@@ -248,7 +250,6 @@
     <string id="4Sb0d8FY" text="Espere até o anoitecer para atacar" />
     <string id="4tY23HWb" text="Claro. Sou bem-vindo em todos os tribunais de Calradia. Não há muitos que podem dizer isso! Portanto, sempre mantenha um pote de denários enterrado em algum lugar e um servo leal que possa encontrá-lo às pressas." />
     <string id="4uKTfTg9" text="Desculpe. Eu não tenho nada para você neste momento." />
-    <string id="4v10DbeL" text="Você são apenas um bando de caçadores, não tem chance contra nós!" />
     <string id="4Wvdk30M" text="Cheat: Siga-me" />
     <string id="4Ybbhzjw" text="Política" />
     <string id="4YfjgtO2" text="Doar tropas" />
@@ -278,6 +279,7 @@
     <string id="5fD5o6ra" text="Suas caravanas reúnem rumores comerciais também marcando preços de itens em relação ao preço médio" />
     <string id="5GrvT0yO" text="Notório" />
     <string id="5GSrvawr" text="{VICTIM.NAME} morreu de velhice. {?VICTIM.GENDER}Dela{?}Dele{\?} família e amigos vão se lembrar {?VICTIM.GENDER}dela{?}dele{\?}." />
+    <string id="5hbH44YW" text="Contrato mercenário da facção {CLAN_NAME}" />
     <string id="5HL8Iqdx" text="Nosso Glorioso Líder" />
     <string id="5id9mGrc" text="Você está perto da arena. {ADDITIONAL_STRING}" />
     <string id="5JaGVr0U" text="Ao viajar por uma baixa cordilheira, você vê o que parece ser o que resta de um acampamento em uma ravina." />
@@ -304,7 +306,6 @@
     <string id="5vs3qlQ8" text="Phalanx" />
     <string id="5Wld45hP" text="proibindo inquilinos de deixar as terras de seus senhores" />
     <string id="5WR5DsOz" text="Os governantes poderiam ganhar dinheiro rapidamente degradando a moeda e cunhando mais, mas isso faria com que os preços subissem." />
-    <string id="5wwcKHPg" text="Você não é o líder deste exército" />
     <string id="5xi0t1dD" text="Conhecido" />
     <string id="5ZDCnrDQ" text="Isso terminará o cerco. Você não pode levar seus mecanismos de cerco com você, e eles serão destruídos." />
     <string id="5ZkZa4Eh" text="{NAME} o Bruto" />
@@ -312,13 +313,13 @@
     <string id="61J1wa6k" text="Programe exercícios para plebeus, aumentando o recrutamento de milícias." />
     <string id="63rmmW2Y" text="Vamos ver." />
     <string id="651FEKXw" text="10% menos penalidade de se envolver a cavalo." />
-    <string id="65PA77cZ" text="(Rhyme) &quot;Chuva, chuva vá embora,&quot;" />
+    <string id="65PA77cZ" text="(Rhyme) 'Chuva, chuva vá embora'" />
     <string id="67UGQ0Kd" text="Conhecimento das Colinas" />
     <string id="68rmPu7Z" text="Sua saúde está muito baixa para lutar." />
     <string id="69cxRmEr" text="Dano causado com armas de uma mão aumentado em 4%." />
     <string id="6bQIRaIl" text="Assista ao torneio" />
     <string id="6bvJSIqh" text="Sim. Eu posso encontrar um novo senhor para enfrentá-los." />
-    <string id="6d4ZTvGv" text="{LORD.NAME} é {TITLE} do {FACTION_NAME} e chefe do {CLAN_NAME}, um {CLAN_DESCRIPTION} do reino. {?LORD.GENDER}Ela{?}Ele{\?} tem a reputação de ser{REPUTATION}" />
+    <string id="6d4ZTvGv" text="{LORD.NAME} é {TITLE} do {FACTION_NAME} e chefe do {CLAN_NAME}, um {CLAN_DESCRIPTION} do reino. {?LORD.GENDER}Ela{?}Ele{\?} tem a reputação de ser {REPUTATION}" />
     <string id="6DQjKwt2" text="O custo de influência da proposta de anexação de acordo é reduzido em 50% para o clã governante" />
     <string id="6dvryoMH" text="{FIRST_NAME} {LAST_NAME}" />
     <string id="6ETg3maz" text="Comandante Confiável" />
@@ -396,17 +397,16 @@
     <string id="7lee0h29" text="Uma coisa - se um ou dois morrem, esse é o destino da guerra, as coisas podem piorar ainda mais se formos invadidos e não tivermos quem possa revidar... Mas tente não massacrá-los. Esses homens correm alguns riscos para mim, mas não têm suas vidas jogadas fora sem nenhum propósito." />
     <string id="7mCcppC1" text="WoodsScoutSkills" />
     <string id="7naLQmq1" text="Você perdeu a batalha contra os mercenários. Você não conseguiu se livrar deles como prometeu. Agora eles se tornaram bandidos e estão começando a saquear o campo" />
-    <string id="7PcoCifN" text="{NAME} o Rico" />
+    <string id="7PcoCifN" text="{NAME} da Nobreza" />
     <string id="7Pk3bFPC" text="Comitiva de Nobres" />
     <string id="7QdKwOhY" text="A sorte favorece os audaciosos. Com você conosco, venceremos esta guerra rapidamente." />
     <string id="7rRNjxVE" text="{CHAMPION.NAME} deve conhecer o seu campeão." />
     <string id="7rxJWqby" text="Membros do Grupo" />
     <string id="7v2dMsW5" text="Seu cônjuge {MOTHER} acaba de perceber que ela está grávida." />
     <string id="7ve3bQxg" text="Armas do Mercado" />
-    <string id="7VFalbbu" text="Melhores tropas profissionais por esse preço. Não deixe passar esta oportunidade!" />
     <string id="7Vw6iYNI" text="{?CHARACTER.GENDER}Ela{?}Ele{\?} morreu no parto em {YEAR} na idade de {CHARACTER.AGE}. {?CHARACTER.GENDER}Ela{?}Ele{\?} tinha a reputação de {REPUTATION}" />
     <string id="7WlQ0Twr" text="{WEAPON} do {SETTLEMENT} acertou alguns soldados de {BESIEGER}!" />
-    <string id="7X2vXMWw" text="Você realizou bem seu caso. Sinto que tenho a honra de apoiá-lo, não importa como isso termine." />
+    <string id="7X2vXMWw" text="Você está fazendo o melhor possível em nome de sua causa. Sinto que tenho a honra de apoiá-lo, não importa como isso termine." />
     <string id="7ZqusnEa" text="O personagem pode produzir ferro bruto com mais eficiência, obtendo três unidades de ferro bruto a partir de uma unidade de minério de ferro." />
     <string id="7ZUggDRD" text="Mestre das Espadas II" />
     <string id="81qgJ7fW" text="Cada loja lucrativa que você possui oferece 1 renome por dia" />
@@ -483,7 +483,7 @@
     <string id="9KQxHbo2" text="Renome de Arquearia" />
     <string id="9lHhtVJ5" text="Baluarte I" />
     <string id="9lygvooT" text="Depreciação da Moeda" />
-    <string id="9Obe3S6L" text="{LORD.NAME} é um membro da {CLAN_NAME}, um {CLAN_DESCRIPTION} baseado nas terras do {FACTION_NAME}. {?LORD.GENDER}Ela{?}Ele{\?} tem a reputação de ser{REPUTATION}." />
+    <string id="9Obe3S6L" text="{LORD.NAME} é um membro da {CLAN_NAME}, um {CLAN_DESCRIPTION} baseado nas terras do {FACTION_NAME}. {?LORD.GENDER}Ela{?}Ele{\?} tem a reputação de ser {REPUTATION}." />
     <string id="9Oum4lmk" text="Aumente a capacidade de carga dos animais de carga em +20." />
     <string id="9qoLQva5" text="Qualquer que seja o juramento que eu lhe der, tenha certeza de que eu o cumprirei." />
     <string id="9RiXgPc1" text="Certamente. O que você precisa saber?" />
@@ -534,7 +534,7 @@
     <string id="a94mkNNk" text="Apanhador de flechas" />
     <string id="a9zbBCTR" text="Uma caverna na montanha me protege\nMinha cama é uma pedra dura e fria" />
     <string id="aa1yFm6q" text="Animais de Carga:" />
-    <string id="aa9JY2Bp" text="{FIRST_NAME} the {?NORTHERN}Far-Farer{?}Caravanser{\?}" />
+    <string id="aa9JY2Bp" text="{FIRST_NAME} {?NORTHERN}de Muito longe{?}da Caravana{\?}" />
     <string id="aadTnAEg" text="Gerenciar prisioneiros" />
     <string id="aaf5R99a" text="Vou te dar nada além de aço frio, sua escória" />
     <string id="AaHa2hQT" text="O voto para fazer as pazes com {KINGDOM} falhou apesar do apoio da maioria." />
@@ -573,6 +573,7 @@
     <string id="ai7NRnEK" text="{NAME} o rato" />
     <string id="aih1Y62W" text="Você salvou a vila." />
     <string id="aJLQz9iZ" text="Mina de Prata" />
+    <string id="ajNYs50o" text="Bem ... Você está trabalhando para aquele comerciante na cidade? Então, está tudo bem... quando os rico negocia peles furtivas, mas se nós fizermos, homens armados vêm nos caçar." />
     <string id="aK23T43P" text="Manter estoques de alimentos no assentamento almenta mais os estoques. Cada nível aumenta o armazenamento local de alimentos." />
     <string id="ak6j8GUE" text="{FIRST_NAME} o Torneiro" />
     <string id="akGCrW3r" text="{NAME} o Açougueiro" />
@@ -603,19 +604,19 @@
     <string id="aQYMefHU" text="Talvez possamos resolver de outra forma." />
     <string id="arbaXvQf" text="Efeitos na produção da aldeia." />
     <string id="arCGUuR5" text="O assentamento está sendo sitiado." />
-    <string id="aRjdQmhe" text="PersonaSoftspoken" />
+    <string id="aRjdQmhe" text="Fala Suave" />
     <string id="aRJvxemR" text="Ataques de cavalaria causam 10% mais perda de moral." />
-    <string id="arl0erDp" text="Claro, claro... Não importa o que eles digam sobre ratos, a propósito, eu nunca vi um, devido à escuridão total. De qualquer forma, tenho certeza { s5} entenderá por que é importante que você controle as despesas. Agora... Havia mais alguma coisa?" />
+    <string id="arl0erDp" text="Claro, claro... Não importa o que eles digam sobre ratos, a propósito, eu nunca vi um, devido à escuridão total. De qualquer forma, tenho certeza que {s5} entenderá por que é importante que você controle as despesas. Agora... Tem mais alguma coisa a discutir?" />
     <string id="ARNYrXln" text="{TROOP.NAME} reivindicou {SIDE1_PARTY} atualmente mantido por {SIDE2_FACTION}" />
     <string id="arpa1LzL" text="Suas tropas têm +1 de munição de arma de arremesso." />
-    <string id="ASOW1MuQ" text="Sua propriedade {SETTLEMENT} está sendo atacado por {PARTY} de {FACTION}!" />
+    <string id="ASOW1MuQ" text="Sua propriedade {SETTLEMENT} está sendo atacado por {PARTY} da facção {FACTION}!" />
     <string id="AT6v10NK" text="Atributo" />
     <string id="aTeuX4L0" text="Regular" />
     <string id="AtFv5RMW" text="Homenagem ao reino" />
     <string id="atk3PTae" text="Os desertores estão extorquindo {SETTLEMENT}." />
     <string id="aTPc7AkY" text="Muito bem. Mas só posso contratar {MERCENARY_COUNT} de vocês. Aqui está {GOLD_AMOUNT}{GOLD_ICON}" />
-    <string id="atRDtxfr" text="{?PLAYER.GENDER}minha, senhora{?}Meu, senhor{\?}, ouvimos dizer que você deseja emitir um decreto que permite aos não comerciantes os mesmos direitos comerciais que este." />
-    <string id="atVsFs4O" text="Sim... Muitos homens por aqui estão se voltando para um ataque nestes tempos difíceis. Eles infestam as colinas fora da cidade. Agora o campo não é tão seguro para as pessoas da cidade quanto é para comerciantes." />
+    <string id="atRDtxfr" text="{?PLAYER.GENDER}minha, senhora{?}Meu, senhor{\?}. Ouvimos dizer que você deseja emitir um decreto que permite aos não comerciantes os mesmos direitos doa comerciantes legalizados." />
+    <string id="atVsFs4O" text="Sim... Muitos homens por aqui estão se voltando para um ataque nestes tempos difíceis. Eles infestam as colinas fora da cidade. Agora o campo não é tão seguro para as pessoas da cidade e comerciantes." />
     <string id="auftprN9" text="permitindo que pessoas comuns escolham tribos para representá-las" />
     <string id="AULqrp7D" text="uma taça de vinho Calradiano" />
     <string id="av14a64q" text="Pensamento" />
@@ -629,9 +630,9 @@
     <string id="awaFsZ5l" text="Eu sempre apoiei {CURRENT_LIEGE.LINK}. Se {CURRENT_LIEGE.LINK} me apoiou ou não, é outra questão..." />
     <string id="aWdBJqzs" text="{PERK_NAME} de {PARTY_NAME}" />
     <string id="awoeb3br" text="{FACTION_LEADER} decidirá se {KINGDOM_CONSIDERING_PEACE_NAME} fará as pazes com {KINGDOM_NAME}. Você pode escolher sua posição em relação a esta decisão." />
-    <string id="aWWzrwAw" text="O custo de revogar uma disputa de clã duplica\nClãs ganham 1 influência para cada disputa que eles possuem" />
+    <string id="aWWzrwAw" text="O custo de revogar uma disputa de clã duplica\nClãs ganham 0.2 influência para cada disputa que eles possuem" />
     <string id="ax1Geb7w" text="{FIRST_NAME}, o Cordeiro" />
-    <string id="axblySC2" text="-25% a mais de dano recebido no escudo." />
+    <string id="axblySC2" text="-25% de dano recebido no escudo." />
     <string id="aXhPvVud" text="{HERO.LINK} criou um exército." />
     <string id="aXOgAKfj" text="Obrigado, {?PLAYER.GENDER}Senhor{?}senhora{\?}. Espero que seu pessoal tenha sucesso." />
     <string id="aY2SKxqG" text="Invadir suas aldeias!" />
@@ -651,7 +652,7 @@
     <string id="b3iBOVXN" text="Ao passar por um barranco, você vê o que parece um poço camuflado para aproveitar as águas subterrâneas deixadas por chuvas raras." />
     <string id="b3PsxeiB" text="Avaliador" />
     <string id="b3shPt8Q" text="Você não pode entrar em uma fortaleza inimiga." />
-    <string id="B3WyJjBx" text="{QUEST_GIVER.LINK}, um líder de gangue de {SETTLEMENT} queria que você comprasse algumas armas para seus negócios privados. {?QUEST_GIVER.GENDER}Ela{?}Ele{\?} Pediu para você comprar {NEEDED_AMOUNT} peças de {NEEDED_TYPE} e enviá-las para {SETTLEMENT} onde {QUEST_GIVER.LINK} estará esperando por você. {?QUEST_GIVER.GENDER}ela{?}ele{\?} Prometeu dar a você {REWARD_GOLD}{GOLD_ICON} por seus problemas." />
+    <string id="B3WyJjBx" text="{QUEST_GIVER.LINK}, {?QUEST_GIVER.GENDER}uma líder{?}um líder{\?} de gangue de {SETTLEMENT} queria que você comprasse algumas armas para seus negócios privados. {?QUEST_GIVER.GENDER}Ela{?}Ele{\?} Pediu para você comprar {NEEDED_AMOUNT} {NEEDED_TYPE} e enviá-las para {SETTLEMENT} onde {QUEST_GIVER.LINK} estará esperando por você. {?QUEST_GIVER.GENDER}Ela{?}Ele{\?} prometeu dar a você {REWARD_GOLD}{GOLD_ICON}." />
     <string id="b4TeiuoJ" text="Impostos excepcionais eram frequentemente aplicados em tempos de guerra." />
     <string id="B52IxT9p" text="LINHA DE INTERFERÊNCIA - Coberta pela interface de troca. Não exclua essas linhas!" />
     <string id="b5DWVsOZ" text="{HERO.NAME} morreu em batalha." />
@@ -699,7 +700,6 @@
     <string id="bfPsE9M1" text="Você deve ter me entendido errado. Vá em paz." />
     <string id="bgfTuU2U" text="Você não faz mais parte deste mundo." />
     <string id="bGX2Iojc" text="10% mais chances de sucesso com persuasão dupla" />
-    <string id="BGxfe9mv" text="Um mensageiro da vila chegou e solicitou uma reunião com o líder dos caçadores furtivos." />
     <string id="bGyrPe8c" text="Produção" />
     <string id="BhDWm78v" text="{VICTIM.NAME} morreu em batalha." />
     <string id="bHNU9uz2" text="Todos os seguidores mantêm algum relacionamento com o clã candidato compatível e podem perder um com o outro." />
@@ -708,6 +708,7 @@
     <string id="bHZyublA" text="Então... fico feliz por ter a oportunidade de passar um tempo juntos." />
     <string id="BI7QxubQ" text="Você não tem companheiros para enviar." />
     <string id="bIiBytSB" text="Arqueiros" />
+    <string id="bioyMrUD" text="Você é apenas um bando de caçadores. Você não tem chance contra nós!" />
     <string id="bItEf0WN" text="Você deve ser a {?PLAYER.GENDER}Senhora{?}Senhor{\?} deste contrato." />
     <string id="bIWDtytH" text="o {ETHNIC_TERM}" />
     <string id="bj49Bq15" text="Não foi tão fácil encontrar o que você estava procurando. Por favor, seja paciente." />
@@ -724,7 +725,7 @@
     <string id="bL5YPUbd" text="20% a mais de ganho de experiência para tropas na batalha." />
     <string id="bLfGgakQ" text="Volte outro dia." />
     <string id="BlidMNGT" text="Relacionamento" />
-    <string id="blNhuGKd" text="{FIRST_NAME} a {?FEMALE}Mulher livre{?}Homem livre{\?}" />
+    <string id="blNhuGKd" text="{FIRST_NAME} {?FEMALE}a Mulher livre{?}o Homem livre{\?}" />
     <string id="bLOomvVf" text="Maior chance de que uma opção de suborno esteja disponível." />
     <string id="bloxcikL" text="Bem preparado" />
     <string id="BLrwIj7s" text="Mais dias passam na escuridão da sua cela. Você passa por eles da melhor maneira possível, suportando os chutes e maldições dos guardas, observando seu corpo desnutrido se desgastando cada vez mais..." />
@@ -776,7 +777,6 @@
     <string id="bSo9hKwr" text="{PERSUASION_OPTION_LINE} {SUCCESS_CHANCE}" />
     <string id="BsVXQEhj" text="Como posso ajudá-lo?" />
     <string id="btA10FML" text="O que posso obter para um prisioneiro?" />
-    <string id="BU9kq47u" text="Obrigado. Você será bem pago. Você também pode ficar com o couro do contrabando." />
     <string id="buKXELE3" text="Aceite a oferta." />
     <string id="BUM63VJq" text="Esse é o espírito. Meus homens lhe dizem como encontrar o esconderijo. Resgata aqueles pobres cativos, e um grande saco de prata estará a caminho!" />
     <string id="bVi0JKSx" text="Você será executado. Você deve enfrentá-lo da maneira mais corajosa possível" />
@@ -798,9 +798,7 @@
     <string id="BYTrUJyj" text="Em guerra" />
     <string id="bZ7Fak5a" text="Olhos de cobra {FIRST_NAME}" />
     <string id="bZbFrIUr" text="uma xícara de kvass" />
-    <string id="BZe2VXkj" text="{ISSUE_GIVER.LINK} Um comerciante de {QUEST_GIVER_SETTLEMENT} disse a ele que os caçadores furtivos que ele contratou anteriormente estão fora de controle. Ele pediu para {COMPANION.LINK} tomar {NEEDED_MEN_COUNT} de seus homens para irem para {QUEST_VILLAGE} e matar os caçadores furtivos. Eles devem se juntar ao seu grupo em {RETURN_DAYS} dias." />
     <string id="bZmYOE8z" text="Cercando propriedades roubadas em {ISSUE_GIVER_SETTLEMENT}" />
-    <string id="C1LPrGTb" text="Obrigado, amigo." />
     <string id="C2CwsC91" text="Eviscerator" />
     <string id="c2LwQ8Rb" text="Distribuidor de justiça" />
     <string id="c2pdihCB" text="Caravanas" />
@@ -850,6 +848,7 @@
     <string id="cOyolp4F" text="Eu simplesmente não sou... Como posso dizer isso? Não me agrada." />
     <string id="cpg0oHZJ" text="Traindo com a morte" />
     <string id="cQ6CzXKM" text="Você derrotou tudo {BRIGAND_TYPE} como {QUEST_GIVER.LINK} pediu. {?QUEST_GIVER.GENDER}Ela{?}Ele{\?} agradece. E envia a recompensa , {GOLD_AMOUNT} ouro como prometido." />
+    <string id="cQCs72U7" text="Você não é uma pessoa ruim e pode facilmente dobrar seu comércio em outro lugar, em algum lugar seguro." />
     <string id="CQH7E6Gr" text="E as minhas armas?" />
     <string id="CQh7NBl1" text="Você precisa enviar um de seus colegas com um {TRADE_SKILL} maior que {SKILL_LEVEL} para esta pesquisa!" />
     <string id="CQMkh88h" text="Não tenho prisioneiros para vender, mas é bom saber." />
@@ -903,6 +902,7 @@
     <string id="D8qZbOZ7" text="Você precisa enviar pelo menos {NUMBER} tropas para esta missão." />
     <string id="dA8RGoQ1" text="Você alcançou {SETTLEMENT_LINK}. {KEEP_INFO}" />
     <string id="DaLGnDdq" text="{NAME}, da floresta" />
+    <string id="DBabgrcC" text="Este acompanhante não está disponível no momento." />
     <string id="dbG3PGXL" text="Que bom que você pensa assim? Lute de lado, você aprendeu algo especial?" />
     <string id="DbOv36TA" text="Vá em frente com isso." />
     <string id="dBphGKTI" text="As coisas estão ficando um pouco difíceis nessas partes. Eu tenho alguns caras me ajudando com encrenqueiros locais, mas eles não durariam muito contra guerreiros de verdade. Talvez você possa eliminá-los, mostrá-los. o que é uma verdadeira guerra. Não espero que você os ajuste à comitiva de um nobre, mas pelo menos quero dar aos bandidos uma pausa para pensar." />
@@ -948,6 +948,7 @@
     <string id="Dka0ELFf" text="{PERK_NAME} de {HERO.NAME}" />
     <string id="dKEADOhG" text="Você protegeu a caravana pertencente a {QUESTGIVER.LINK} de {SETTLEMENT}, conforme prometido. {?QUESTGIVER.GENDER}Ela{?}Ele estava feliz com ela trabalho." />
     <string id="dl6YxNTT" text="Vá para a sala do Senhor (Truque)" />
+    <string id="dL8196qY" text="{YOUNG_HERO.LINK} escapou. Encontre e converse com ele para continuar sua busca." />
     <string id="DLbFbYkR" text="Terei um dos meus parceiros e {ALTERNATIVE_COUNT} dos meus homens para patrulhar a área na próxima semana." />
     <string id="dLBOXE4W" text="Língua de mel {FIRST_NAME}" />
     <string id="DLc6NfiV" text="Vou ganhar as riquezas que você merece ou morrer tentando." />
@@ -976,7 +977,7 @@
     <string id="DQUkqGnJ" text="Descrição Habilidades do Escoteiro" />
     <string id="DR0giDPe" text="Bestas" />
     <string id="DR2aK4aQ" text="Eu respeito nossas antigas leis e tradições. Não quero discordar de você." />
-    <string id="driH06vI" text="Preciso de mais recrutas na guarnição {SETTLEMENT}. Como estarei comprando em outro lugar... talvez você possa recrutar {NUMBER_OF_TROOP_TO_BE_RECRUITED} {TROOP_TYPE} e trazê-los para a guarnição para mim?" />
+    <string id="driH06vI" text="Preciso de mais recrutas na guarnição de {SETTLEMENT}. Como estarei cuidando de assuntos pessoais esses dias... talvez você possa recrutar {NUMBER_OF_TROOP_TO_BE_RECRUITED} {TROOP_TYPE}(s) e trazê-los para minha guarnição em {SETTLEMENT}?" />
     <string id="drLxFmla" text="Martelo e bigorna" />
     <string id="ds294zxi" text="Mais alguma coisa?" />
     <string id="dsNV3sgp" text="Gerador" />
@@ -1003,7 +1004,6 @@
     <string id="DxVKumDj" text="Duas armas extras lançadas por pacote" />
     <string id="dY2PzpIV" text="Não tenho certeza do quanto nós temos em comum .." />
     <string id="dYa9oVSP" text="O destino é cruel. Então, eu sou seu prisioneiro. Mas você não precisa fazer {QUEST_GIVER.NAME} este trabalho sujo. Por sua honra, {?PLAYER.GENDER}senhora{?}Senhor{\?}, Me escute!" />
-    <string id="Dysq3pw5" text="Mas acho que não temos algo em comum." />
     <string id="dzAk1HTK" text="Descrição de habilidades da cavalaria" />
     <string id="DzhaleC7" text="Está companhia {TWO_HANDED_SKILL} não tem habilidade o suficiente para esta missão." />
     <string id="dZJCsR7A" text="{FIRST_NAME} a {?FEMALE}Empregada{?}Comissário de bordo{\?}" />
@@ -1018,10 +1018,11 @@
     <string id="E9s2bjqw" text="Só espero que algum dia você possa mudar de idéia." />
     <string id="EA9YX6BQ" text="Sua facção está agora em guerra com o {ISSUEGIVER.LINK} facção. Seu agrado com {ISSUEGIVER.LINK} está cancelado." />
     <string id="eabR87ne" text="Entrar no assentamento" />
-    <string id="EaifHOao" text="Certo {?PLAYER.GENDER}senhora{?}Senhor{\?}, eu vou." />
+    <string id="EaifHOao" text="Sim {?PLAYER.GENDER}senhora{?}Senhor{\?}, eu vou." />
     <string id="eALf5d30" text="Obrigado!" />
     <string id="EaPQ2mm7" text="Uma Coisa - se possível, tente não matar a  todos, você vai? Tropas verdes não são muito úteis para mim, mas cadáveres são ainda menos." />
     <string id="Eaq23Rez" text="Bônus à proeza" />
+    <string id="eaQxeRh6" text="Um garoto sai correndo da vila e pede que você converse com o líder dos caçadores furtivos. Os moradores querem evitar brigas fora de suas casas." />
     <string id="eaSlwKRY" text="Tamanho adicional de trapaça extra dos prisioneiros" />
     <string id="eAzwpqE1" text="Forçar os camponeses a fornecer suprimentos" />
     <string id="eAZZQWAg" text="{NAME}, o piedoso" />
@@ -1090,18 +1091,19 @@
     <string id="Eth2Z6qK" text="Deslize nas sombras" />
     <string id="EtiZuOVI" text="Suas tropas ganham 2% a mais de vida." />
     <string id="etjMHPjQ" text="Ir para o calabouço" />
-    <string id="ETKyjOkJ" text="Você não tem denars suficientes para pagar a multa." />
+    <string id="ETKyjOkJ" text="Você não tem denares suficientes para pagar a multa." />
     <string id="eTr0XHas" text="{FACTION_LEADER} vai decidir se {CLAN_NAME} será expulso de {KINGDOM_NAME}. Você pode escolher sua posição em relação a esta decisão." />
     <string id="ETye0JMY" text="Efeitos sobre a prosperidade do assentamento." />
     <string id="etYq1Tky" text="{VILLAGE} foi invadido e caçadores furtivos são dissolvidos." />
     <string id="eU0uANvZ" text="Arqueiro montado" />
     <string id="EU4JjLqV" text="Barraca de triagem" />
     <string id="eU9Oy5hB" text="Use qualquer arma de arremesso ao entrar em assentamentos como civil." />
+    <string id="EvAubSxs" text="Que tipo de tropas eles fazem?" />
     <string id="eVcvaxz6" text="bem comercial" />
     <string id="Evlm4bax" text="Descrição de CelticHair" />
     <string id="EVLzPv1t" text="Espere - conte-me mais sobre vocês." />
     <string id="EVODEPGw" text="Após dias dolorosos de ser arrastado como prisioneiro, você encontra uma chance e foge de seus sequestradores!" />
-    <string id="ewrkbwI9" text="Pantação de Olivas" />
+    <string id="ewrkbwI9" text="Plantação de Olivas" />
     <string id="eWRlQ4XU" text="Ladrão" />
     <string id="EWRoIdbA" text="Bandidos" />
     <string id="ex6ZhAAv" text="Você deu {DENAR}{GOLD_ICON} ao seu companheiro para comprar {GRAIN_AMOUNT} unidades de grão para o {ISSUE_OWNER.NAME}." />
@@ -1146,7 +1148,6 @@
     <string id="Fd7g5lRb" text="20 de moral adicional no início da batalha quando você está defendendo." />
     <string id="fe0uGUZb" text="Isso não passa de um assalto encoberto pela lei. Eu não te darei nada." />
     <string id="FEmiPPbO" text="Talvez você tenha ouvido as histórias sobre mim, então. São todas verdadeiras." />
-    <string id="FEPfagIb" text="Não. Já existem bandidos suficientes nessas tropas. Eu não gosto mais de retenção." />
     <string id="Feph9Php" text="As faixas se tornam mais informativas." />
     <string id="fF2BdOy9" text="Não preciso de nada agora." />
     <string id="ffoqz6yP" text="Você entregou {DELIVERED_ITEM_COUNT} unidades de mercadorias para {QUEST_GIVER.NAME}." />
@@ -1184,6 +1185,7 @@
     <string id="FMUlfbJf" text="Governantes organizam os agricultores em grupos de famílias responsáveis pelo fornecimento de tropas. Isso facilita o recrutamento, mas ao custo de sua produtividade econômica." />
     <string id="fncvZjZ6" text="Recarregar qualquer besta a cavalo." />
     <string id="FnkYfyGa" text="{WEAPON} para {BESIEGER} ataque de langa distancia {SETTLEMENT}!" />
+    <string id="FO1oruNy" text="Você fala sobre gente pobre, mas acha que as pessoas daqui, como a aldeia delas, se transformaram em um ninho de bandidos?" />
     <string id="FoNfLOny" text="{?ISSUE_OWNER.GENDER}Senhora{?}Senhor{\?} {ISSUE_OWNER.NAME} quer {TARGET_HERO.NAME} capturado" />
     <string id="FOoMM4AU" text="Continuar os preparativos para o cerco." />
     <string id="fPJKSmnq" text="Probabilidade de morte diária" />
@@ -1197,13 +1199,13 @@
     <string id="FSl1LFP6" text="{CLAN} has gained {AMOUNT_TO_ADD} renown. New renown is {NEW_RENOWN}" />
     <string id="ft08QZrA" text="Posse de terra precária" />
     <string id="FTjKWm8s" text="{KING.NAME} deve nos governar" />
-    <string id="FUosyQUq" text="Você precisa enviar um de seus companheiros com um {TRADE_SKILL} habilidade maior que {SKILL_LEVEL_1} e {ROGUERY_SKILL} mais alto que {SKILL_LEVEL_2} nesta missão!" />
+    <string id="FUosyQUq" text="Você precisa enviar um de seus companheiros com habilidade  de {TRADE_SKILL} maior que {SKILL_LEVEL_1} e {ROGUERY_SKILL} mais alto que {SKILL_LEVEL_2} para essa missão!" />
     <string id="FV4SWLQx" text="Negociações de conteúdo" />
-    <string id="FViaQrbV" text="{QUEST_GIVER.LINK} é o {?QUEST_GIVER.GENDER}senhora{?}senhor{\?} de {QUEST_SETTLEMENT} te disse isso {?QUEST_GIVER.GENDER}ela{?}ele{\?} precisa de mais tropas em {?QUEST_GIVER.GENDER}dela{?}dele{\?} guarnição. {?QUEST_GIVER.GENDER}Ela{?}Ele{\?} pediu para você implantar {NUMBER_OF_TROOP_TO_BE_RECRUITED} {TROOP_TYPE} tropas para {QUEST_SETTLEMENT} guarnição." />
+    <string id="FViaQrbV" text="{QUEST_GIVER.LINK} é {?QUEST_GIVER.GENDER}a senhora{?}o senhor{\?} de {QUEST_SETTLEMENT} e {?QUEST_GIVER.GENDER}ela{?}ele{\?} precisa de mais tropas na guarnição {?QUEST_GIVER.GENDER}dela{?}dele{\?}. {?QUEST_GIVER.GENDER}Ela{?}Ele{\?} pediu para você conseguir {NUMBER_OF_TROOP_TO_BE_RECRUITED} {TROOP_TYPE}(s) para a guarnição de {QUEST_SETTLEMENT}." />
     <string id="fW0XS9JC" text="{ELEMENT_NUMBER} {ELEMENT_CHAR_NAME}" />
     <string id="FwBUKVrK" text="O personagem pode refinar duas unidades de aço em uma unidade de aço fino e uma unidade de ferro bruto como subproduto." />
     <string id="FwIgakj8" text="Socorrer {DEFENDER}." />
-    <string id="fwQtClVo" text="Eu vou lidar com {?TARGET_HERO.GENDER}dela{?}dele{\?} Imediatamente!" />
+    <string id="fwQtClVo" text="Eu vou lidar com {?TARGET_HERO.GENDER}ela{?}ele{\?} Imediatamente!" />
     <string id="FwtsStzu" text="{DEFECTION_PERSUADE_ATTEMPT_1}" />
     <string id="fxEka7Bm" text="Pague {AMOUNT}{GOLD_ICON} de suborno para entrar na fortaleza" />
     <string id="fxGlBFPk" text="Bandido" />
@@ -1223,7 +1225,7 @@
     <string id="G794L3jS" text="As comunidades locais às vezes podem forçar os governantes a assinar documentos que podem limitar seus poderes. Eles costumavam usar o aumento da autonomia para aumentar as forças da milícia local." />
     <string id="g7hZw8LI" text="Você trouxe {REQUESTED_AMOUNT} unidades de {RAW_MATERIALS}? Eu tenho uma bolsa gorda de {REWARD}{GOLD_ICON} para você como prometido." />
     <string id="g7qhnsnJ" text="{CLAN_NAME} reino esquerdo {KINGDOM_NAME}." />
-    <string id="g8a8a8KJ" text="Aumentar imediatamente a força (STR) by 1." />
+    <string id="g8a8a8KJ" text="Aumentar imediatamente a força (STR) em 1." />
     <string id="g8JjBaNY" text="Descrição marcada" />
     <string id="g8jzdaM1" text="{FIRST_NAME}, o Curtidor" />
     <string id="g8qb3Ame" text="Obrigado." />
@@ -1272,11 +1274,11 @@
     <string id="GlfwOWre" text="Você recebeu uma carta de {ISSUE_OWNER.LINK}" />
     <string id="GlRZN1J5" text="Eu fiz um juramento a {CURRENT_LIEGE.LINK} - embora nenhum juramento me obriga a servir um líder fraco, que é de coração mole demais para governar." />
     <string id="GM3tAYMr" text="Ação hostil" />
-    <string id="gmaqJZyv" text="Você recebeu uma mensagem de {NEW_OWNER.LINK}:{newline}&quot;Infelizmente, {OLD_OWNER.LINK} morreu. No entanto, você pode continuar sua tarefa e relatar para mim." />
+    <string id="gmaqJZyv" text="Você recebeu uma mensagem de {NEW_OWNER.LINK}:{newline}'Infelizmente, {OLD_OWNER.LINK} morreu'. No entanto, você pode continuar sua tarefa e relatar para mim." />
     <string id="GmcgoiGy" text="Comércio" />
-    <string id="gMxHVweV" text="{FIRST_NAME} do fermento" />
-    <string id="gmXjeuE7" text="Dogface {FIRST_NAME}" />
-    <string id="GN4nuCAv" text="{NAME} o Herói" />
+    <string id="gMxHVweV" text="{FIRST_NAME} do Gogumelo" />
+    <string id="gmXjeuE7" text="{FIRST_NAME} dos Caras de cães" />
+    <string id="GN4nuCAv" text="{NAME} dos Heróis" />
     <string id="GNhAnNL0" text="Escolher alvos" />
     <string id="gnXoIChw" text="Talvez você e eu..." />
     <string id="gOaOAYgj" text="O reino autorizou formalmente o governante a manter uma força permanente de mercenários, mesmo em tempos de paz." />
@@ -1291,10 +1293,11 @@
     <string id="gS1noLvf" text="Eu não sei se acho isso encantador ou impertinente..." />
     <string id="Gs8zqPoD" text="Use qualquer arco no cavalo." />
     <string id="GsIz1Ibk" text="Você não tem companheiros com {REQUIRED_SKILL_ONE}, {REQUIRED_SKILL_TWO} ou {REQUIRED_SKILL_THREE} habilidade maior que {REQUIRED_SKILL_LEVEL} para esta missão!" />
-    <string id="gSsQLGdS" text="{FIRST_NAME} da rosa" />
+    <string id="gSsQLGdS" text="{FIRST_NAME} da Rosa" />
     <string id="gsVtO9A7" text="Milícia" />
     <string id="Gtbfm10o" text="Você tem sementes de grãos suficientes para completar a missão. Voltou para {QUEST_SETTLEMENT} entregá-los." />
     <string id="GtIpsut6" text="Eu nem gosto de você. Você espera que eu discuta algo assim com você?" />
+    <string id="Gu3jF88V" text="Qualquer batalha noturna pode facilmente dar errado. Eu preciso de mais tempo para me preparar." />
     <string id="GVJS9ewr" text="Você sabe, esses produtos valem mais para mim do que você pagará. Vou mantê-los." />
     <string id="gVuF84RZ" text="Guardas te pegaram" />
     <string id="GW8ITTMb" text="Você saqueou {PRODUCTS}." />
@@ -1319,7 +1322,7 @@
     <string id="H6l9cm7I" text="Eu tenho prestado atenção nos seus métodos mais sutis {?PLAYER.GENDER}senhora{?}senhor{\?}, Tenho observado que coragem e força em números não são suficientes para vencer a maioria dos compromissos. Você deve estar ciente da situação e aproveitar as oportunidades quando elas se apresentarem." />
     <string id="H6uSeerV" text="Base (Daytime)" />
     <string id="h9i9VXLd" text="Você não pode entrar no salão de um senhor inimigo." />
-    <string id="H9Px95rR" text="Aldeias concedem 0,3 de influência por dia ao clã proprietário. As cidades ganham 1 de segurança, mas perdem 1 milícia e 1 prosperidade por dia" />
+    <string id="H9Px95rR" text="Aldeias concedem 0.2 de influência por dia ao clã proprietário. As cidades ganham 1 de segurança, mas perdem 1 milícia e 1 prosperidade por dia" />
     <string id="ha7EmrU9" text="Obrigado por essa informação" />
     <string id="hah4HzYN" text="{ROBBERY_PAY_AGREEMENT}" />
     <string id="HAtHptbV" text="No final, acho que não temos muito em comum." />
@@ -1341,11 +1344,10 @@
     <string id="heqHAXpI" text="{FIRST_NAME} da colheita" />
     <string id="HFkXIyCV" text="Minha familia gosta de você..." />
     <string id="HFZisEnI" text="Eu vou manter esse rebanho para mim." />
-    <string id="Hg9trEDL" text="Você está certo. Estamos saindo deste lugar." />
     <string id="HGrsb7k2" text="Médico herbalista" />
     <string id="HH8r8TrJ" text="Aumento de +2 no tamanho do grupo para cada feudo que você possui." />
     <string id="hhrRnSvr" text="Você não entregou o rebanho a tempo, pois {QUEST_GIVER.LINK} pediu de você. Os pastores e o rebanho deixaram você." />
-    <string id="HhTTzgLj" text="{ISSUE_OWNER.LINK}, um líder de gangue em {ISSUE_SETTLEMENT}, quer que invadamos o esconderijo e o resgate de alguns caçadores de recompensa {?ISSUE_OWNER.GENDER}Ela{?}Ele{\?} associadas." />
+    <string id="HhTTzgLj" text="{ISSUE_OWNER.LINK}, {?QUEST_GIVER.GENDER}uma líder{?}um líder{\?} de gangue de {ISSUE_SETTLEMENT}, quer que você ataque o esconderijo de caçadores de recompensa e resgatar alguns aliados {?ISSUE_OWNER.GENDER}dela{?}dele{\?}." />
     <string id="hIFazIcK" text="Que assim seja!" />
     <string id="HIocq1Wf" text="Você não conseguiu entregar {REQUESTED_AMOUNT} unidades de {RAW_MATERIALS} ao {TARGET_SETTLEMENT} a tempo como {QUEST_GIVER.LINK} perguntou você." />
     <string id="HIVRbq8l" text="Aumenta em 10 os pontos de vida do personagem." />
@@ -1418,6 +1420,7 @@
     <string id="Id1MUKNH" text="Empurre o oponente com um ataque bem-sucedido" />
     <string id="iDbGz3nB" text="É preciso uma alavancagem 20% menor para chamar as tropas para o serviço militar." />
     <string id="IDdyHef9" text="Estaremos a caminho, então!" />
+    <string id="IefM6uAy" text="Obrigado. Você será bem pago. Além disso, você pode manter o couro obtido ilegalmente." />
     <string id="ieIWHAtc" text="Um governante pode conceder às cidades privilégios especiais com base em seu 'imediatismo', acesso especial à sua pessoa sem passar por senhores ou outros vassalos." />
     <string id="IEQrNbpH" text="Herança" />
     <string id="IFasMslv" text="Atribuirei um parceiro com {TROOP_COUNT} homens bons por {RETURN_DAYS} dias." />
@@ -1450,6 +1453,7 @@
     <string id="iN1kBsac" text="Acho que não demoram muito agora. Nossos caçadores os viram se preparando. Continue esperando." />
     <string id="InFseOAA" text="Isso limita a capacidade dos magistrados de condenar rapidamente aqueles que consideram criminosos. Evita abuso arbitrário de poder, mas proprietários de terras ou líderes de gangues às vezes podem usar de ameaças ou subornos para manipulá-los." />
     <string id="InLGoUbB" text="Comerciante da cidade" />
+    <string id="INn1axcf" text="Certo, obrigado." />
     <string id="iny76Ifh" text="Obrigado, {?PLAYER.GENDER}Senhora{?}Senhor{\?}, acho que será o suficiente." />
     <string id="INZcDV0X" text="Você paga 20% menos salários para oficinas de negócios. Além disso, seu grupo pode suportar 30% mais peso." />
     <string id="IoaAvgRD" text="Você sabe que {NEW_LIEGE.LINK} teve nossas diferenças. Você espera que eu mude de lado?" />
@@ -1460,7 +1464,6 @@
     <string id="IPLyqdVX" text="Ouvi dizer que estamos ficando sem comida. Devemos monitorar melhor nossos estoques." />
     <string id="IpnQP7A1" text="Melhor morrer lutando por uma régua justa do que viver sob uma injusta." />
     <string id="IqH0jFdK" text="Então, você precisa de alguém para cuidar desses bastardos?" />
-    <string id="IQinjTrv" text="Realmente, estou tendo problemas com os caçadores furtivos. Há alguns anos, eu investi neles para caçarem para mim nas terras reais. Paguei todo o dinheiro do silêncio às autoridades locais e até aos nobres para dar-lhes livre passagem. E então todos nós fizemos uma fortuna. Depois de um tempo, os caçadores furtivos construíram seu próprio exército com seus lucros e me tiraram do negócio de couro." />
     <string id="iQYFz7NB" text="O modificador de bônus de velocidade aumentou enquanto o jogador estava a pé." />
     <string id="irP2oYVe" text="Habilidade de Escoteiro do Deserto" />
     <string id="is84xzOy" text="Infantaria qualificada" />
@@ -1483,7 +1486,7 @@
     <string id="iX0eahy6" text="Posicionamento da borda" />
     <string id="Ix8YjLPD" text="Homens como prisioneiros" />
     <string id="ixHqTrX5" text="Feiras" />
-    <string id="IXkgPlKR" text="Você derrotou desertores e salvou as pessoas de {QUEST_SETTLEMENT}." />
+    <string id="IXkgPlKR" text="Você derrotou os desertores e salvou as pessoas de {QUEST_SETTLEMENT}." />
     <string id="IXuaflOe" text="Apoio minha decisão." />
     <string id="IXXVFRCm" text="Você pode usar qualquer arma de uma mão no modo civil." />
     <string id="Iy5rylN0" text="Eu tenho {STOLEN_GOODS_SIZE} cargas de {STOLEN_GOOD}. Permitirei que você leve por {REQUESTED_PRICE}{GOLD_ICON}. Você não pode pedir mais do que isso, pois já está na metade do preço normal de mercado. Eu não recomendo que tente vendê-los aqui, eles podem ser reconhecidos. Mas vá para a próxima cidade grande e ninguém saberá. Então, o que você diz?" />
@@ -1528,13 +1531,15 @@
     <string id="JHR4ySCf" text="Como {?IS_FEMALE}reina{?}rei{\?}, você deve decidir se o proprietário de {SETTLEMENT} deve mudar." />
     <string id="jhxVWCOS" text="{FIRST_NAME} da caverna" />
     <string id="jhZe9Mfo" text="março forçado" />
-    <string id="ji2eenPE" text="Tudo bem, desistimos. Não podemos lutar com você. Talvez pessoas como nós não mereçam pena, mas... mostrem que pena você pode." />
+    <string id="ji2eenPE" text="Tudo bem, desistimos. Não podemos lutar contra você. Talvez pessoas como nós não mereçam piedade, mas... demonstre piedade que você pode ter." />
+    <string id="JI6Q9pQ7" text="Bandidos podem matar, assim como qualquer outro tipo de tropas, se usados ​​corretamente." />
     <string id="jidYZW2s" text="A maioria dos produtos está aqui, mas perdi alguns no caminho. Tenho {AVAILABLE_AMOUNT} comigo." />
     <string id="jIeo090u" text="Não tenho tempo para esses jogos." />
     <string id="jikaakdy" text="Preencha até a borda" />
     <string id="JIWVeTMD" text="Seu clã está em guerra com a facção {QUEST_GIVER.LINK}. Seu acordo com {QUEST_GIVER.LINK} foi cancelado." />
     <string id="JJm1ZmPx" text="Visão noturna" />
     <string id="jjTcNhKE" text="Você já lidou com algum grupo de saques?" />
+    <string id="Jk3mDlU6" text="Sim ... eu tenho alguns problemas. Há alguns anos, eu precisava de couros para o meu curtume e contratei alguns caçadores. Não fiz muitas perguntas sobre de onde vieram as peles que me venderam. Bem, isso foi um erro. Agora eles se uniram como uma gangue e estão tentando me tirar do negócio de couro." />
     <string id="jKkPGAXT" text="Tração forte" />
     <string id="jKWJpIES" text="{JOIN_ENCOUNTER_TEXT}. Decida..." />
     <string id="jkYNBr5p" text="Aumente imediatamente o vigor (VIG) em 1." />
@@ -1553,21 +1558,23 @@
     <string id="JOaD2BlP" text="No devido tempo. Não vamos nos apressar aqui." />
     <string id="jodKeyb1" text="Atirador reconhecido" />
     <string id="joFaAgvc" text="{GUARDS_PERSUADE_ATTEMPT_1}" />
-    <string id="JoWSnHG5" text="Descrição do sargentoCommandSkills" />
+    <string id="JoWSnHG5" text="Descrição de comandos de sargento" />
     <string id="Jp4dp4Zy" text="Aumento de 5% no preço de venda do equipamento. Também, seus ganhos são marcados." />
     <string id="JPAGzEhe" text="Falha ao resgatar homens de {QUEST_GIVER.LINK} a tempo. {?QUEST_GIVER.GENDER}Ela{?}Ele{\?} envia a seguinte carta." />
-    <string id="JPclWyyr" text="Meu parceiro pode lidar com isso... Então, {NUMBER_OF_TROOP_TO_BE_RECRUITED} {TROOP_TYPE} para {SETTLEMENT}." />
+    <string id="JPclWyyr" text="{TARGET_HERO.LINK} não está mais vivo. Pode não ser sua culpa por não ter levado o rebanho para {?TARGET_HERO.GENDER}ela{?}ele{\?} a tempo, muitas pessoas terão mais resistência em entregar confiança para você." />
     <string id="jPFgzNQZ" text="{WORKSHOP_NAME} em {SETTLEMENT_NAME} {PERK_EFFECTED}" />
+    <string id="JQKCPllJ" text="Você fez o seu ponto." />
     <string id="jQpeuHIE" text="Nos opomos a fazer as pazes neste momento" />
     <string id="jQWgYr6r" text="O personagem tem 10% de chance de criar uma arma 'Obra-prima', se os requisitos de dificuldade forem atendidos." />
     <string id="JrT9bBEK" text="{ETHNIC_TERM}' de {FACTION_LIEGE}'" />
     <string id="jS6UGA07" text="+ 6% dos pontos de vida do cavalo." />
-    <string id="JsUbgfgl" text="Selecione um herdeiro [temptext]" />
+    <string id="JsUbgfgl" text="Selecione um herdeiro [texto temporário]" />
     <string id="JTfaqKyX" text="Bem, tente trazê-lo em breve." />
     <string id="jUkuyVTC" text="Descrição do valor" />
-    <string id="JuPUG5wX" text="{LORD.NAME} é {TITLE} de {FACTION_NAME} e chefe de {CLAN_NAME}, uma {CLAN_DESCRIPTION} que apóia {RULER} na guerra civil. {?LORD.GENDER}Ela{?}Ele{\?} Tem reputação de {REPUTATION}" />
+    <string id="JuPUG5wX" text="{LORD.NAME} é {TITLE} de {FACTION_NAME} e chefe do {CLAN_NAME}, uma {CLAN_DESCRIPTION} que apóia {RULER} na guerra civil. {?LORD.GENDER}Ela{?}Ele{\?} Tem reputação de {REPUTATION}" />
     <string id="JuwBb2Yg" text="Desorganizado" />
     <string id="jvOYgHOe" text="Personalizado" />
+    <string id="jWavM9AD" text="Você já tem bastante vivencias de guerra. Você sabe que mercenários não são santos." />
     <string id="jwi4dH1f" text="{FIRST_NAME}, o Escorpião" />
     <string id="JwUsA8Ep" text="{FIRST_NAME}, o fabricante de rodas" />
     <string id="JwWnpD40" text="Precisão da besta:+ {a0}%" />
@@ -1577,7 +1584,7 @@
     <string id="jYHKGhnc" text="O proprietário precisa acessar os itens comuns {TARGET_SETTLEMENT}" />
     <string id="jyxo4YgW" text="Sim, ele é um garoto promissor." />
     <string id="jZ8Eqxbf" text="Você está sitiando o local." />
-    <string id="JZvywHNy" text="Você me acha idiota? Não confio em você nem um centímetro." />
+    <string id="JZvywHNy" text="Você me acha idiota? Não confio em você nem um pouco." />
     <string id="jZYUdkXF" text="Morrendo de fome" />
     <string id="K0Qtl5RZ" text="Conte-me sobre os detalhes..." />
     <string id="k15fVuc4" text="Conroi" />
@@ -1646,9 +1653,9 @@
     <string id="kqbBfv24" text="Recrutador" />
     <string id="kqJipMqc" text="Rastreando o raio de detecção + {a0}%" />
     <string id="Kr5gINql" text="+ 50% para carregar o dano." />
-    <string id="krOebKaD" text="ArabianHair" />
+    <string id="krOebKaD" text="Cabelo Árabe" />
     <string id="krTrNonp" text="{PRISONER_LORD.LINK_AND_FACTION} escapou do cativeiro." />
-    <string id="kS7vR6LK" text="SergeantCommandSkills" />
+    <string id="kS7vR6LK" text="Habilidade de Comandar como Sargento" />
     <string id="KSeIOHDh" text="(Um dos comerciantes da cidade vem falar enquanto se prepara para sair)" />
     <string id="KsjlCKsF" text="10% mais eficaz de efeitos de fórum / mercado / arena / templo / festival." />
     <string id="KSrNutEO" text="{FACTION_LEADER} decidirá se deve declarar guerra a {KINGDOM_NAME}. Você pode escolher sua posição em relação a essa decisão." />
@@ -1675,7 +1682,6 @@
     <string id="KZHpJqtt" text="Feira de Alimentos" />
     <string id="KzSeg8ks" text="família nobre" />
     <string id="KzSMe6qy" text="{FIRST_NAME}, o Chandler" />
-    <string id="kZtI6Ire" text="Você deve aguardar a conclusão dos preparativos para o cerco." />
     <string id="L0Oxzkfw" text="Escolha a seguinte regra em {KINGDOM_NAME}" />
     <string id="L13Ao81x" text="Dano de bombardeio contra outros mecânismos de cerco aumentado em 20%." />
     <string id="L1JyetPq" text="Fico feliz em ouvir isso." />
@@ -1689,6 +1695,7 @@
     <string id="L700FNht" text="Entregue {RAW_MATERIAL}" />
     <string id="L7AN6ybY" text="O que você quer de nós agora?" />
     <string id="l7J5yGTe" text="Você deve ser mais honrado" />
+    <string id="l7Jt5tvt" text="É assim que ganho a vida e toda a sua conversa inteligente não torna as coisas diferentes. Saia agora!" />
     <string id="L7qd6qfv" text="{CHARACTER.FIRSTNAME} era membro de {CHARACTER.FACTION}. {FURTHER_DETAILS}." />
     <string id="L7wn49Uz" text="Diplomacia" />
     <string id="l863hIyN" text="Reclamações perdoáveis" />
@@ -1731,8 +1738,8 @@
     <string id="Lj5Lghww" text="O que? Não..." />
     <string id="LjiYq9cH" text="Desculpe. Não tenho certeza se posso amar você." />
     <string id="LjUhEJxz" text="Caravana de {OWNER}" />
+    <string id="Lk6ln3sR" text="Nós nos separamos, mas estou feliz por ter encontrado você. Junte-se a nós, temos que continuar seu treinamento." />
     <string id="lKb4chmL" text="Descrição do RomanHair" />
-    <string id="Lkf3sB9I" text="Talvez..." />
     <string id="lKoaSWLf" text="{DUEL_RESULT}" />
     <string id="lKWflUid" text="Enquanto aguardava {DEFENDER}, {ATTACKER} começou a atacá-lo." />
     <string id="Ll1EJHXF" text="Gerenciar castelo" />
@@ -1743,7 +1750,6 @@
     <string id="LN7SGvnS" text="O amor não passa de uma paixão. Julgue pelo meu personagem." />
     <string id="LO7EjoY7" text="As tropas restantes emprestadas no seu grupo agora têm experiência. Você pode enviá-las de volta para {QUEST_GIVER.LINK}." />
     <string id="loEI5awS" text="{ARMY} foi dissolvido desde que o jogador foi feito prisioneiro" />
-    <string id="LOnt01Qy" text="Não queremos matá-lo, mas não hesitamos se necessário." />
     <string id="LoSanDMU" text="Cabelo Celta" />
     <string id="lOwjyUi5" text="Invadir esta vila desencadeará uma guerra com {KINGDOM}." />
     <string id="LPBVTiV6" text="uma tira de bacon" />
@@ -1778,8 +1784,8 @@
     <string id="M26XhddN" text="O problema foi resolvido. Seus homens retornarão." />
     <string id="m2h6zMp7" text="{ISSUE_GIVER.LINK}, chefe de {SETTLEMENT}, pediu que ele entregasse parte do gado da aldeia para {SETTLEMENT_TARGET}. Os moradores não podem pagar por seus próprios guardas e não podem não permita perdas. Você enviou um de seus colegas de equipe com {NEEDED_MEN_COUNT} de seus homens para proteger o bando. Eles devem devolvê-lo com boas notícias em {RETURN_DAYS} dias." />
     <string id="m3EkYCA6" text="Talvez se você ver o quanto eu te amo, você possa eventualmente me amar." />
-    <string id="m41vdhSR" text="{TARGET_HERO.LINK} não está mais ativo. Pode não ser sua culpa que você não levou o rebanho a {?TARGET_HERO.GENDER} Ela {?} com o { tempo, mas muitas pessoas considerarão essa quebra de confiança." />
-    <string id="M560TDza" text="{ISSUE_OWNER.LINK} é o senhor de {QUEST_SETTLEMENT} disse que ele precisa de mais tropas na {?ISSUE_OWNER.GENDER} dele {?} sua guarnição. Você perguntou à sua guarnição. companheiro para implantar tropas {NUMBER_OF_TROOP_TO_BE_RECRUITED} {TROOP_TYPE} na guarnição de {QUEST_SETTLEMENT}." />
+    <string id="m41vdhSR" text="{TARGET_HERO.LINK} não está mais vivo. Pode não ser sua culpa por não ter levado o rebanho para {?TARGET_HERO.GENDER}ela{?}ele{\?} a tempo, muitas pessoas terão mais resistência em entregar confiança para você." />
+    <string id="M560TDza" text="{ISSUE_OWNER.LINK} é {?ISSUE_OWNER.GENDER}a senhora{?}o senhor{\?} de {QUEST_SETTLEMENT}, e disse que precisava de mais tropas em uma de suas guarnições. Você pediu a um companheiro para entregar NUMBER_OF_TROOP_TO_BE_RECRUITED} {TROOP_TYPE}(s) na guarnição de {QUEST_SETTLEMENT}." />
     <string id="m57WOW3I" text="O inimigo começa com -1 moral." />
     <string id="M5eUjgQl" text="Curado" />
     <string id="M5iR1e5h" text="Você alcançou seu feudo de {SETTLEMENT_LINK}. {PROSPERITY_INFO}" />
@@ -1794,10 +1800,9 @@
     <string id="mb25Ue3f" text="Direitos de pastejo" />
     <string id="mbB3v6Ib" text="Renda-se ou morra, bandido!" />
     <string id="MbnkzoYX" text="{ISSUE_GIVER_LIST} e também {ISSUE_GIVER.LINK}." />
-    <string id="mbuHo8HK" text="Soldados reais como este podem ser usados em qualquer lugar... construção de estradas, construção de campos e outros trabalhos manuais..." />
     <string id="MBxVjg2W" text="40% a mais de dano devido a um golpe secundário bem-sucedido." />
     <string id="McHsHbH8" text="Ferreiro" />
-    <string id="McnFeBu0" text="{FIRST_NAME} o {?NORTHERN}Comerciante de Peles{?}Incensetrader{\?}" />
+    <string id="McnFeBu0" text="{FIRST_NAME} dos {?NORTHERN}Comerciante de Peles{?}Comerciante de incenso{\?}" />
     <string id="mdbylyka" text="Você não tem tropas suficientes." />
     <string id="mdNRYlfS" text="Esqueça." />
     <string id="ME5hmllb" text="Seu relacionamento com pessoas notáveis em alguns de seus assentamentos aumentou devido à alta segurança" />
@@ -1853,8 +1858,10 @@
     <string id="mvhyI8Hb" text="Você já fez ações hostis a essa vila recentemente." />
     <string id="mVKcvY2U" text="Centro da Cidade" />
     <string id="MvSXVguR" text="Objetivo Aprimorado" />
+    <string id="mvw1ayGt" text="Estou aqui para fazer o trabalho como fora da lei. Desista ou morra." />
     <string id="MvxW9rmf" text="Criminoso" />
     <string id="Mw5bJ5Fb" text="Todo dia sem uma guarnição adequada é um dia em que estamos vulneráveis. Se apresse, se puder." />
+    <string id="mwbYdaJr" text="{VICTIM.NAME} foi executado." />
     <string id="mWLA9sfT" text="Eu não quero violar a lei. Você pode levar as mercadorias" />
     <string id="MWvzJSH1" text="Uma mudança no sistema tributário que colocasse mais ênfase na propriedade e menos no imposto cobrado de todos poderia arrecadar mais dos ricos proprietários de terras." />
     <string id="MXGtQ6YV" text="Ouvi dizer que{BANDIT_NAME} oi para o antigo {HIDEOUT_NAME} near here. É melhor que os viajantes se vigiem." />
@@ -1882,6 +1889,7 @@
     <string id="n99VA8KP" text="Você nunca vai nos levar vivos![if:idle_angry][rb:very_negative]" />
     <string id="N9r8azlb" text="{POACHERS_PERSUADE_ATTEMPT_2}" />
     <string id="nA6ocIeI" text="10% a mais de imposto nas aldeias." />
+    <string id="NacogXav" text="{VICTIM.LINK} foi executado." />
     <string id="nAM821Fb" text="Você está aqui." />
     <string id="NaMPa4ML" text="Autoritário" />
     <string id="nB07bljx" text="{ISSUE_OWNER.LINK} {?ISSUE_OWNER.GENDER}Uma Senhora{?}Um Senhor{\?} de {ISSUE_OWNER.CLAN} tem uma vingança pessoal contra {TARGET_HERO.LINK} de {TARGET_HERO.CLAN}. {?ISSUE_OWNER.GENDER}Ela{?}Ele{\?} deseja que {TARGET_HERO.LINK} seja capturado e levado de volta a {?ISSUE_OWNER.GENDER}ela{?}ele{\?}. Se você fizer isso receberá uma recompensa de {REWARD_GOLD}{GOLD_ICON} e um cavalo de prêmio. Você concordou em encontrar {TARGET_HERO.LINK} e trazer {?TARGET_HERO.GENDER}ela{?}ele{\?} para {ISSUE_OWNER.LINK} em 1 ano." />
@@ -1890,6 +1898,7 @@
     <string id="nbmctMLk" text="Tropas de {LEADER_NAME}" />
     <string id="NbnOeoiJ" text="Cidade recebe +10 de bônus de segurança" />
     <string id="NC0eK5D8" text="Estou fazendo tudo o que posso." />
+    <string id="NC2VGafO" text="Eles esfolam os animais na floresta, depois vão para a vila depois da meia-noite para esconder os couros. Os moradores têm pavor deles, acredito. Se você for à vila tarde da noite, poderá encontrá-los." />
     <string id="nc9KELFA" text="Bens de comércio" />
     <string id="NCC4VUOc" text="{ISSUE_GIVER.LINK} quer se livrar dos caçadores furtivos que uma vez serviram a {?ISSUEGIVER.GENDER}ela{?}ele{\?} e agora estão fora de controle." />
     <string id="NcQZz4N2" text="Este é o meu último aviso, senhor! Seria melhor para os dois lados se você não resistir.[ib:closed]" />
@@ -2018,10 +2027,9 @@
     <string id="oS1AJDK1" text="{NAME}, o Rápido" />
     <string id="OSE7AMlS" text="Cada caravana que entra na sua cidade gera 25 receitas de ouro" />
     <string id="OSENxzZN" text="Precisa de mais reconhecimento" />
-    <string id="osrVFKEy" text="Todas as noites, eles transferem uma grande quantidade de mercadorias. Por volta da meia-noite, entre na cidade e procure-os." />
     <string id="oT4JNyFp" text="Atribuirei um de meus parceiros para treinar seus homens." />
     <string id="oT8DUcHf" text="O proprietário precisa do pasto de {TARGET_SETTLEMENT}" />
-    <string id="otwfa0K3" text="{QUEST_GIVER.LINK}, um líder de gangue de {SETTLEMENT} queria entregar algumas armas para o {?QUEST_GIVER.GENDER}ela{?}ele{\?} seu formulário de contato {SETTLEMENT} .Ele pediu para {COMPANION.LINK} levar alguns de seus homens e comprar {NEEDED_AMOUNT} peças de {NEEDED_TYPE} para entregar em {QUEST_GIVER.LINK} em {SETTLEMENT}. Eles devem ingressar no grupo nos {RETURN_DAYS} dias." />
+    <string id="otwfa0K3" text="{QUEST_GIVER.LINK}, líder de uma gangue de {SETTLEMENT} deseja entregar algumas armas para {?QUEST_GIVER.GENDER}sua{?}seu{\?} contato em {SETTLEMENT}. Você pediu para {COMPANION.LINK} levar alguns de seus homens e comprar {NEEDED_AMOUNT} peças de {NEEDED_TYPE} para entregar para {QUEST_GIVER.LINK} em {SETTLEMENT}. Eles devem ingressar no grupo em {RETURN_DAYS} dias." />
     <string id="otWlERkc" text="Um campo para exercícios militares que aumentam o ganho de experiência diária de todas as unidades na guarnição." />
     <string id="ouehpRl8" text="A proposta para alterar o proprietário de {SETTLEMENT} foi aceita com o mesmo suporte de todos os lados." />
     <string id="oURRnvIl" text="20% melhor negocia com o agente de resgate." />
@@ -2030,7 +2038,6 @@
     <string id="OVeSBrhv" text="Muito bem, lembrarei disso ao executar essas ações." />
     <string id="Owa28Kpr" text="Eu mal te conheço e você está me pedindo para falar sobre traição?" />
     <string id="OWwPj500" text="5% da renda da vila é paga ao clã dominante como imposto de 5% menos renda da vila para clãs" />
-    <string id="OXaLkGda" text="Confiável, trabalhador e experiente. Você pode confiar nessas pessoas honestas com sua vida." />
     <string id="oXY2wnic" text="lutando dentro do salão do senhor de" />
     <string id="oYJCP3mt" text="Você falhou em parar os desertores. Os desertores devastaram a cidade e foram embora." />
     <string id="OymbuJCo" text="O nível de habilidade {POLEARM_SKILL} deste parceiro não é suficiente para esta missão." />
@@ -2046,21 +2053,21 @@
     <string id="p2WPU1CU" text="Tudo bem então. Agora eu sei quem eu mato." />
     <string id="P407baEa" text="Acho que você precisaria crescer consideravelmente no mundo antes que eu pudesse considerar uma coisa dessas..." />
     <string id="P5zS7OmD" text="Descrição do equipamento Gentry" />
-    <string id="P68GX3zY" text="Lay of the land" />
+    <string id="P68GX3zY" text="Situação das terras" />
     <string id="p6TbhleL" text="{NAME}, o vermelho" />
     <string id="p78FaTqe" text="O que eu disse sobre pagar nossos salários a tempo..." />
-    <string id="P7MZ0hZb" text="{QUEST_GIVER.LINK} é um líder de gangue de {QUEST_SETTLEMENT}, ele disse que alguns caçadores de recompensa capturaram alguns dos {?QUEST_GIVER.GENDER}dela{?}dele{\?} membros de gangues e eles os mantêm em seu esconderijo. {?QUEST_GIVER.GENDER}ela{?}ele{\?} quer ser encontrado e resgatado. Você disse a ela que os encontraria." />
+    <string id="P7MZ0hZb" text="{QUEST_GIVER.LINK} é {?QUEST_GIVER.GENDER}uma líder{?}um líder{\?} de gangue de {QUEST_SETTLEMENT}, te disse que alguns caçadores de recompensa capturaram alguns dos membros da gangue {?QUEST_GIVER.GENDER}dela{?}dele{\?} e os mantêm em seu esconderijo. {?QUEST_GIVER.GENDER}Ela{?}Ele{\?} quer que você os resgate. Você disse que os encontraria." />
     <string id="p8Kfl5u6" text="Você perdeu a batalha contra os caçadores furtivos e não conseguiu ajudar {QUEST_GIVER.LINK} conforme prometido." />
-    <string id="p8vl2ic5" text="Os motores de cerco têm 20% mais pontos de vida." />
+    <string id="p8vl2ic5" text="Os mecanismos de cerco têm 20% mais pontos de vida." />
     <string id="p9F90bc0" text="Nova peça de ferreiro desbloqueada: {PARTNAME}." />
-    <string id="Pa1ZtapI" text="Ok. Ok então. Estamos saindo." />
-    <string id="pa7oiQb1" text="Vá para a masmorra (Cheat)" />
+    <string id="Pa1ZtapI" text="Ok. então. Estamos saindo." />
+    <string id="pa7oiQb1" text="Vá para a masmorra (trapaça)" />
     <string id="paelEWj1" text="Fórum" />
     <string id="PaG0Blui" text="Torne-se um mercenário de {TARGET_FACTION}" />
-    <string id="pAGyhASB" text="HeavyBuild" />
-    <string id="paj1NIZE" text="{NAME}, o Galantiador" />
+    <string id="pAGyhASB" text="Construção Pesada" />
+    <string id="paj1NIZE" text="{NAME} dos Galantiadores" />
     <string id="PAwDV08b" text="Juramento dos médicos" />
-    <string id="PaYjTYhR" text="{NAME}, o bandido" />
+    <string id="PaYjTYhR" text="{NAME} dos Bandidos" />
     <string id="PB5iowxh" text="Tradições nômades" />
     <string id="pBAx7jTM" text="Com quem você quer se encontrar?" />
     <string id="PBGiIbEM" text="{ISSUE_GIVER.NAME} precisa de ajuda com {BRIGAND_TYPE}" />
@@ -2103,7 +2110,6 @@
     <string id="PjtkgIuR" text="Menos perda de moral durante os cercos." />
     <string id="pKquYFTX" text="Siderúrgica" />
     <string id="PLbxHyPu" text="Varia. Acho que tenho interesse em avaliar um resgate. Há uma dúzia de pequenas coisas sobre um homem que lhe dirão se ele vai dormir com fome ou se tempera sua carne. com pimenta e cravo-da-índia Oriental. O dinheiro real, é claro, está na aristocracia, e se você quiser fazer meu trabalho, vai querer aprender sobre todas as famílias de terras ou chefes tribais de Calradia, suas propriedades, seus descendentes, legais e bastardos e, é claro, seu crédito aos comerciantes." />
-    <string id="pmXQmhz4" text="De uma forma ou de outra, você é ilegal. Prepare-se para morrer!" />
     <string id="PnRVabwv" text="Obrigado. Aguarde na cidade. Estaremos vigilantes e atrairemos você para sua emboscada. Aguarde o sinal." />
     <string id="PoDVgQaz" text="Bem, levaria um tempo para discutir isso." />
     <string id="Pp3koSqA" text="Desta vez você terá que lutar por isso!" />
@@ -2161,7 +2167,7 @@
     <string id="q5jTibwy" text="Pirata II" />
     <string id="q5q13YYt" text="Alguns rumores sobre mercados, caravanas, esse tipo de coisa." />
     <string id="q7FLuZQi" text="Menor penalidade por sobrecarga" />
-    <string id="Q8BZ9gvY" text="realizado pelo Town Merchant Perk" />
+    <string id="Q8BZ9gvY" text="realizado pelo Benefício do Comerciante da Cidade" />
     <string id="Q8pdbhEn" text="O nível de habilidade {ROGUERY_SKILL} deste parceiro não é suficiente para esta missão." />
     <string id="Q8VN9UCq" text="Escolha os prisioneiros a serem vendidos" />
     <string id="qaAKXRSV" text="Escudeiro" />
@@ -2170,29 +2176,29 @@
     <string id="qasqX0rn" text="O nível de habilidade deste parceiro não é suficiente para esta missão." />
     <string id="qaZDUknZ" text="Líder natural" />
     <string id="QazTA60M" text="Gerenciar guarnição" />
-    <string id="Qb7N6txQ" text="{BRIBE_COST} denars serão suficientes..." />
+    <string id="Qb7N6txQ" text="{BRIBE_COST} denares serão suficientes..." />
     <string id="QBeL819N" text="aliados" />
-    <string id="qbGjoG49" text="{FIRST_NAME}, o Naja" />
+    <string id="qbGjoG49" text="{FIRST_NAME} das Najas" />
     <string id="QbKbGu2h" text="Ovelhas" />
     <string id="QBPrRdQJ" text="Cirurgião" />
     <string id="qcaaJLhx" text="Contrato mercenário" />
     <string id="qcl3YTPh" text="Visite a taberna" />
     <string id="qCUFllVM" text="Salgue, a ferida" />
     <string id="QCuxL92I" text="Bom dia, {?PLAYER.GENDER}querida senhora{?} querido senhor{\?}. Como posso ajudá-lo?" />
-    <string id="qdinkZqk" text="{FIRST_NAME}, o Tanoeiro" />
+    <string id="qdinkZqk" text="{FIRST_NAME} dos Canoeiros" />
     <string id="QDMbaUYv" text="Meu {?PLAYER.GENDER}Senhora{?}Senhor{\?}! diga-me que decidiu me libertar." />
     <string id="qDq1ias2" text="Não há partes a serem cumpridas." />
-    <string id="qeiVFn9s" text="{CLAN_NAME} ingressou no domínio {NEW_FACTION_NAME}" />
+    <string id="qeiVFn9s" text="{CLAN_NAME} aliou-se a facção {NEW_FACTION_NAME}" />
     <string id="qEOXka0Q" text="+ 0,5 Lealdade por dia aos assentamentos que têm a mesma cultura do clã proprietário. A produção da milícia de assentamentos aumenta em 0,5 Lealdade por dia aos assentamentos com um cultura diferente da do dono de seu clã" />
     <string id="qfClYYjK" text="Os artesãos não podem vender seus produtos em {ISSUE_GIVER_SETTLEMENT}" />
     <string id="QfMeoKOm" text="Enviar tropas." />
-    <string id="QGIFHde7" text="+ danos na arma de 2 pólos enquanto andava a cavalo." />
+    <string id="QGIFHde7" text=" +2 danos com polearmas a cavalo" />
     <string id="QGj8zQIc" text="O ponteiro {MARRIAGE_CANDIDATE.LINK}" />
     <string id="QgrtaYCm" text="Você pode recrutar bandidos para o seu grupo em vez de matá-los." />
-    <string id="qgS6ypSN" text="{FIRST_NAME} do salgueiro" />
+    <string id="qgS6ypSN" text="{FIRST_NAME} do Salgueiro" />
     <string id="QHfUIS6s" text="Essa é a chamada correta." />
     <string id="QHG6LU1g" text="Ah, sim, eu vi crueldade, degradação e degeneração como você não acreditaria. Coisas fascinantes." />
-    <string id="qhL5o55i" text="Seu grupo está morrendo de fome. Você perde o moral {MORALE_PENALTY}." />
+    <string id="qhL5o55i" text="Seu grupo está morrendo de fome. Você perdeu {MORALE_PENALTY} de moral." />
     <string id="QHoCsSZX" text="E se sua família não puder pagar?" />
     <string id="QHZeCDJy" text="Um espaço permanente que abriga feiras. Os cidadãos podem se encontrar, dançar e socializar, aumentando o moral diário do assentamento." />
     <string id="qjj8qGOE" text="{FIRST_NAME} da Lareira" />
@@ -2209,10 +2215,11 @@
     <string id="QNaKmkt9" text="Somos pagos para proteger esta caravana. Se você quer roubá-la, terá que nos enfrentar![rf:idle_angry][ib:aggressive]" />
     <string id="qNgGoqmI" text="Tentar fugir." />
     <string id="qNSOb7pJ" text="Mais uma vez, não é com isso que estou feliz..." />
+    <string id="QNV1b5s5" text="Esses caçadores ainda estão no negócio?" />
     <string id="qnw1b0XR" text="Assim seja, então!" />
     <string id="QO0EX2O3" text="Certo. Eu posso pedir um de meus companheiros e {TROOP_AMOUNT} homens para escoltar seus rebanhos para pastar {TARGET_SETTLEMENT}." />
     <string id="QOEiYUig" text="+1% de velocidade de movimento do grupo durante o dia." />
-    <string id="qOhDHFyH" text="Você é outro dos {QUEST_GIVER.NAME}'s lacaios? fez {?QUEST_GIVER.GENDER}she{?}he{\?} sacabar com você para me caçar como um animal? Bem, acho que você descobriu que não pegou uma lebre, mas um leão." />
+    <string id="qOhDHFyH" text="Você é outro dos soldados a serviço {?QUEST_GIVER.GENDER}da{?}do{\?} {QUEST_GIVER.NAME}? {?QUEST_GIVER.GENDER}Ela{?}Ele{\?} ordenou que me caçe como um animal? Bem, acho que você descobriu que não foi mandado para pegar uma lebre, mas um leão." />
     <string id="QOiPDGbf" text="Eu nunca ouvi falar do seu clã. Não tenho certeza se posso confiar em você ou não." />
     <string id="QojyhVIg" text="Entendo. Você pode levá-los, então." />
     <string id="QoNf1IMa" text="Seu passado romântico é muito quadriculado" />
@@ -2220,7 +2227,7 @@
     <string id="qoQX0bzN" text="{REPUTATION_SUMMARY}" />
     <string id="qOUbnG0I" text="PersonaCurt Description" />
     <string id="QoubP07U" text="permitindo ao governante conceder privilégios especiais às cidades" />
-    <string id="QOWyEJrm" text="Você não tem denars suficientes." />
+    <string id="QOWyEJrm" text="Você não tem denares suficientes." />
     <string id="qPfJpwGa" text="Yvocê convenceu os caçadores a deixar as florestas reais." />
     <string id="qPxY1tZt" text="Menor espera para poder usar a lança em haste." />
     <string id="qQ71Ux7D" text="Seu exército compartilhou sua comida com seus soldados famintos. Você gastou {INFLUENCE}{INFLUENCE_ICON}." />
@@ -2288,7 +2295,6 @@
     <string id="rG5z0Jt1" text="Pode detectar esconderijos mais distantes." />
     <string id="RGdTKiBN" text="Equipado em Batalha" />
     <string id="rgi9zca7" text="Com prazer. Isso vai te custar {COST}{GOLD_ICON}." />
-    <string id="RGLdaBNd" text="Normalmente, os contrabandistas sempre fogem se são presos por homens armados. Mas esses homens não têm medo. Esteja pronto para uma forte resistência." />
     <string id="RGZWdKDx" text="Ah... Fico muito feliz em ouvir isso!" />
     <string id="Rh0DlvvE" text="Estou feliz que você vê dessa maneira. Continue seu treinamento." />
     <string id="RH8mgLEk" text="{AGGRESSOR_KINGDOM} declarou guerra à {KINGDOM} com apoio igualitário de ambos os lados." />
@@ -2347,7 +2353,6 @@
     <string id="RuHaC2Ck" text="Imposto de escassez" />
     <string id="rutgr1VF" text="Ou se você puder designar um companheiro por um tempo, eles podem ficar aqui e treinar os homens ... Eu também darei algumas provisões e dinheiro para as despesas e os problemas deles." />
     <string id="ruU70rFl" text="Você se dispersa nos arbustos e arbustos. Os inimigos param e parecem hesitar por um tempo antes de retomar sua busca.. {CASUALTIES_AND_LOST_BAGGAGE}" />
-    <string id="RuYP2nXO" text="Este será um ataque noturno arriscado, por isso precisamos de mais tempo." />
     <string id="RUZHJMQO" text="Dano de Arco: +{a0} %" />
     <string id="rv6hk8X2" text="{HERO_BEING_PROPOSED_TO.NAME} irá se casar com {HERO_TO_MARRY.NAME}" />
     <string id="RVas571P" text="Recém Nascido" />
@@ -2369,11 +2374,10 @@
     <string id="RYVb5qia" text="{FIRST_NAME}, o Rato" />
     <string id="rZ9aqmaq" text="Há um alvo melhor, devemos ir lá." />
     <string id="RzFyGnWJ" text="Apoiadores" />
+    <string id="S0NeQdLp" text="Você tinha um contrato com {QUEST_GIVER.NAME}. Sua palavra é seu vínculo, não importa em que lado da lei você esteja." />
     <string id="s2btPjJf" text="Quem diabos é você? Se você mora nesta vila, é melhor arranjar um pouco de prata e vinho. Olha animada, hein?" />
     <string id="s2lKb22C" text="{ARMY} foi dissolvido desde que outros grupos deixaram o exército." />
     <string id="s3Fna6wY" text="Eu sempre me vi como alguém que está do lado dos fracos deste reino. Eu não quero me encontrar em desacordo com você." />
-    <string id="s54bZvbn" text="Eles devem ser punidos imediatamente. Seja rápido!" />
-    <string id="S5aUcuE8" text="Se você precisar, eles também podem ser usados como agricultores. Apenas mantenha o estômago cheio." />
     <string id="S5OEsjwg" text="Você entra foi noucateado. Depois de um tempo, alguns dos habitantes mais amigáveis conseguem acordá-lo. Um pouco confuso, mas sem ferimentos graves, você decide ter mais cuidado na próxima vez." />
     <string id="s5qRvBOp" text="Atirador" />
     <string id="S60sDU3j" text="Muito bom! Aqui está o seu dinheiro. Obrigado." />
@@ -2424,13 +2428,14 @@
     <string id="sjTpEzju" text="Muito bem. Continuaremos a esperar." />
     <string id="SJuxSGfk" text="{HERD_AMOUNT} chefe de {HERD_TYPE} é tudo o que tenho agora." />
     <string id="SK43eB6y" text="De volta ao exército" />
-    <string id="SKbwy5EB" text="Projetos urbanos padrão são 60% mais eficazes" />
+    <string id="SKbwy5EB" text="Projetos urbanos padrões são 60% mais eficazes" />
+    <string id="sLjGguGy" text="Claro, eles são bastardos. Mas eles serão bastardos leais se você os tratar bem e pagar em dia." />
     <string id="SlmhqqH8" text="Muros" />
     <string id="sLv7MMJf" text="Rações de guerra" />
     <string id="Sm1KIBz7" text="Cabelo Romano" />
     <string id="sMCN7eCp" text="Existe outra maneira de resolver este problema?" />
     <string id="sMFdChlr" text="Você rejeitou a solicitação do comerciante. As mercadorias ficaram com você." />
-    <string id="SN3pjZiK" text="Você recebeu uma mensagem de {QUEST_GIVER.LINK}.&quot;Obrigado por limpar esse ninho de bandidos. Aceite os denars {REWARD} com nossos agradecimentos. &quot;" />
+    <string id="SN3pjZiK" text="Você recebeu uma mensagem de {QUEST_GIVER.LINK}.'Obrigado por limpar esse ninho de bandidos. Aceite {REWARD} denares junto de nossos agradecimentos'." />
     <string id="sn4CiYVj" text="Não há penalidade em arremessar enquanto se move." />
     <string id="Sn9a1Aba" text="dois bebês natimortos" />
     <string id="SNH3PagC" text="Aumente a taxa de aprendizagem de novos modelos de peças convertendo em 100" />
@@ -2443,6 +2448,7 @@
     <string id="sPmQz21k" text="Inimigo" />
     <string id="sptm68bK" text="Personalidade Irônica" />
     <string id="sQBBOKDD" text="{ISSUE_SETTLEMENT} precisa de sementes de grãos" />
+    <string id="SqceZdzH" text="Claro. É por isso que eles são baratos. Você recebe pelo que você paga." />
     <string id="sQCS90Wq" text="Precisão do arco:+ {a0}%" />
     <string id="sqMUtasn" text="Barato, descartável e eficaz. O que você diz?" />
     <string id="srbMyPXl" text="Você pode ter um de meus colegas e {REQUIRED_TROOP_AMOUNT} dos meus homens para levar seus produtos a {TARGET_TOWN}" />
@@ -2479,7 +2485,6 @@
     <string id="t5Y0gTGv" text="{ARMY} foi dissolvido desde que o líder não conseguiu chegar ao ponto no tempo." />
     <string id="T6d7wtJX" text="Muito bem. Vou dizer para você se juntar ao seu grupo. Boa sorte." />
     <string id="t6FNeiOC" text="{ARMY} foi dissolvido desde que o líder do exército está morto." />
-    <string id="T6JBla4b" text="Se houver uma briga aqui, os inocentes também sofrerão. É assim que você se importa com essas pessoas?" />
     <string id="T6sZmiMQ" text="{FIRST_NAME}, o Canela" />
     <string id="T7QCX5Ho" text="Catapultas são 30% mais eficazes." />
     <string id="t8TfagYL" text="Nobres são incentivados a fortalecer suas propriedades e podem solicitar mão de obra e materiais para fazê-lo." />
@@ -2502,14 +2507,13 @@
     <string id="tGFgar0U" text="Não quero entrar na cidade. Estou apenas de passagem." />
     <string id="tGI135jv" text="Ah - não sei nada no momento. No entanto, isso é um pouco incomum. Devem ser guerras.[ib:warrior][rb:insecure]" />
     <string id="TgOwisdD" text="Conhecimento das florestas" />
-    <string id="TgQphdNk" text="Garanto que os homens sabem como matar e morrer. O que você acha?" />
     <string id="TGYJUUn0" text="Continue." />
     <string id="THz06NQD" text="Hora de fazer as pazes" />
     <string id="TIMRZU0I" text="Isso parece bom. Mas não posso contratar mais homens no momento." />
     <string id="TIqdvtCL" text="Oposição respeitosa" />
     <string id="tiTFeYkB" text="Promotor" />
     <string id="Tj8bGW4b" text="Se um homem e uma mulher se respeitam, a política não deve dividi-los." />
-    <string id="TjAQbTab" text="Bem, sim, estamos procurando um casamento adequado para { OTHER_CLAN_NOMINEE.LINK}." />
+    <string id="TjAQbTab" text="Bem, sim, estamos procurando um casamento adequado para {OTHER_CLAN_NOMINEE.LINK}." />
     <string id="tjudHtDB" text="Afeta o poder do proprietário do problema no contrato." />
     <string id="tkZaWgNZ" text="{ROBBERY_CONCLUSION} [if:idle_pleased][ib:confident]" />
     <string id="TLGvIdJB" text="Automedicação" />
@@ -2574,8 +2578,8 @@
     <string id="uBcBuDKV" text="Não é pior do que receber dinheiro com {QUEST_GIVER.NAME} em primeiro lugar para esta tarefa. Pense nisso." />
     <string id="uBcEUdxu" text="A propriedade do feudo deve permanecer como está" />
     <string id="UbxBYp60" text="Coletor de impostos" />
-    <string id="uc4M4bhG" text="Bem, há algo que eu quero. Existe {?TARGET_HERO.GENDER}uma senhora{?}um senhor{\?} de { TARGET_FACTION}. E não somos amigos. Embora não estejamos em guerra agora, desde que {?TARGET_HERO.GENDER}ela{?}ele{\?} não esteja a vista, sei que minha minhas terras não estão seguras e temo por minha vida e de alguns familiares, não será nada fácil. Mas quem fizer isso, 'trazer' {?TARGET_HERO.GENDER}ela{?}ele{\?} para mim, recebera uma boa recompensa." />
-    <string id="UCjFAPnk" text="Estou lisonjeado, {?PLAYER.GENDER} minha senhora {?} senhor {\?}." />
+    <string id="uc4M4bhG" text="Bem, há algo que eu quero. Existe {?TARGET_HERO.GENDER}uma senhora{?}um senhor{\?} da facção {TARGET_FACTION}. E não somos amigos. Embora não estejamos em guerra agora, desde que {?TARGET_HERO.GENDER}ela{?}ele{\?} não esteja a vista, sei que minha minhas terras não estão seguras e temo por minha vida e de alguns familiares, não será nada fácil. Mas quem fizer isso, 'trazer' {?TARGET_HERO.GENDER}ela{?}ele{\?} para mim, recebera uma boa recompensa." />
+    <string id="UCjFAPnk" text="Estou lisonjeado, {?PLAYER.GENDER}minha senhora{?}meu senhor{\?}." />
     <string id="UclBLMbx" text="{FIRST_NAME}  {?FEMALE}a Viúva {?}o Fabricante de Viúvas{\?}" />
     <string id="UCpyo9hw" text="Poderoso" />
     <string id="uct3JyqT" text="Muito bem. Acredito em fazer as coisas da maneira antiga. Antes que nossos homens se encontrem, nossos campeões lutam em honrosos combates individuais. {HOSTILE_CHAMPION_NAME} lutará por mim. Quem luta para você ??" />
@@ -2591,12 +2595,12 @@
     <string id="uhS07cbt" text="O voto para expulsar {CLAN} de {KINGDOM} falhou com o mesmo suporte dos dois lados." />
     <string id="uHY7NqZf" text="Não posso fazer isso. Estou lançando {TARGET_HERO.NAME}. Diga ao seu mestre que {TARGET_HERO.NAME} não é mais um prisioneiro." />
     <string id="uhYprSnG" text="Eu mesmo vou ao esconderijo e emboscar os bandidos." />
-    <string id="UIyhmGKC" text="Você deu o prisioneiro {TARGET_HERO.LINK} ao agente {ISSUE_OWNER.LINK}. O agente deu a você {BASE_REWARD}{GOLD_ICON} como prometido. Ele também disse que {ISSUE_OWNER .LINK} aprecia seu serviço e envia a você {?ISSUE_OWNER.GENDER} suas {?} suas {\?} saudações" />
-    <string id="uJceH1Dv" text="uma linguiça Sunor" />
+    <string id="UIyhmGKC" text="Você emtregou o prisioneiro {TARGET_HERO.LINK} ao agente {ISSUE_OWNER.LINK}. O agente deu a você {BASE_REWARD}{GOLD_ICON} como prometido. Ele também disse que {ISSUE_OWNER .LINK} aprecia seu serviço e envia a você os comprimentos {?ISSUE_OWNER.GENDER}dela{?}dele{\?}" />
+    <string id="uJceH1Dv" text="uma linguiça de Sunor" />
     <string id="UjL7jVYF" text="Moral" />
-    <string id="uJNvbag5" text="As paredes de {SETTLEMENT} foram quebradas." />
-    <string id="UKBX4mmn" text="Descrição do PeltastFightingSkills" />
-    <string id="uKmgXMAL" text="Mercúrio {FIRST_NAME}" />
+    <string id="uJNvbag5" text="Os muros de {SETTLEMENT} foram quebradas." />
+    <string id="UKBX4mmn" text="Descrição de Habilidades de luta de Peltast" />
+    <string id="uKmgXMAL" text="{FIRST_NAME}, o Mercúrio" />
     <string id="UKTjwBxk" text="Por favor, seja rápido!" />
     <string id="ul0WL9WQ" text="+ 2 de dano corpo a corpo a pé." />
     <string id="uLiRasv1" text="Talvez você possa levá-los ao seu grupo por um tempo, até que eles tenham alguma experiência?" />
@@ -2608,6 +2612,7 @@
     <string id="UNVAkOY4" text="Reduz o dano das armas criadas aumentado em 2%." />
     <string id="UojHRjdG" text="O acesso à água potável oferece espaço para o crescimento de cidadãos saudáveis e de infraestrutura limpa. Aumenta a mudança diária de prosperidade." />
     <string id="Uoy2tTZJ" text="Muito bem. Mas posso reconsiderar mais tarde." />
+    <string id="UP0pMGDR" text="Já existem bandidos suficientes por aqui. Eu não preciso de mais." />
     <string id="upK62aLR" text="permitindo que os senhores paguem nas estradas por suas terras" />
     <string id="uPwKhAps" text="Podemos ir agora?" />
     <string id="uq7JwT1Z" text="Redução da penalidade comercial + {a0}%" />
@@ -2629,7 +2634,6 @@
     <string id="uujU2fSA" text="Escória de {FACTION_LIEGE}" />
     <string id="UUN43F43" text="{FIRST_NAME} a cabra" />
     <string id="UuSstgt8" text="Esta cidade não possui mercadorias para transportar." />
-    <string id="uvCoauKI" text="Olha, você não é uma pessoa má. Apenas deixe o local real e vou garantir que seus crimes serão esquecidos." />
     <string id="UW1roOES" text="Você deve discutir esse problema com {REDIRECT_HERO_RELATIONSHIP}, que fala por nossa família." />
     <string id="uW7jNpaT" text="Faca escondida" />
     <string id="UwEbBanm" text="Estas são as leis de nossa cidade. Os artesãos não reclamam quando as leis nos forçam a comprar ferramentas deles." />
@@ -2670,15 +2674,15 @@
     <string id="vbxQoyN3" text="{RANDOM_HIRE_SENTENCE}" />
     <string id="VCREeAF1" text="Vista-se e esgueire-se pela porta. ({SNEAK_CHANCE}%)" />
     <string id="VD0Q5snI" text="Todas as armas de duas mãos têm uma chance 10% maior de esmagar através de bloqueios." />
-    <string id="VdGyUQH0" text="Você capturou {TARGET_HERO.LINK}. Parece que {?TARGET_HERO.GENDER}Ela{?}Ele{\?} está desesperado e com muito medo de ser enviado para {ISSUE_OWNER.LINK} para {?TARGET_HERO.GENDER}ela{?}seu{\?} lançamento, {?TARGET_HERO.GENDER} Ela {?} A {\?} oferece uma soma de {BASE_REWARD_X_2}{GOLD_ICON} denars, duas vezes o que {ISSUE_OWNER.LINK} estava disposto a pagar por sua captura. {ISSUE_OWNER.LINK}, por outro lado, envia a ele uma carta logo após a captura de {TARGET_HERO.LINK}. A carta diz:" />
+    <string id="VdGyUQH0" text="Você capturou {TARGET_HERO.LINK}. Parece que {?TARGET_HERO.GENDER}ela{?}ele{\?} está relutante e com muito medo de ser entregue a {ISSUE_OWNER.LINK}. {?TARGET_HERO.GENDER}Ela{?}Ele{\?} oferece uma soma de {BASE_REWARD_X_2}{GOLD_ICON} denares, duas vezes o que {ISSUE_OWNER.LINK} estava disposto a pagar. {ISSUE_OWNER.LINK}, por outro lado, envia uma carta logo após a captura de {TARGET_HERO.LINK}. A carta diz:" />
     <string id="vdTwpFqF" text="Presença dominante" />
-    <string id="VEEkg7Zj" text="Suas caravanas devolvem 5000 de ouro quando destruídas. Também, as caravanas têm mais tropas de elite" />
+    <string id="VEEkg7Zj" text="Suas caravanas devolvem 5000 denares quando destruídas. E as caravanas têm mais tropas de elite." />
     <string id="vEHaOSIT" text="uma caneca de cerveja azeda" />
     <string id="vEsmC6M6" text="Existe uma maneira de não sermos inimigos?" />
     <string id="veWOovVv" text="Continuar..." />
     <string id="VFO2aQ4l" text="Você não tem a quantidade solicitada de homem." />
     <string id="VFO7rMzK" text="Dias de retorno" />
-    <string id="Vg7Ftrdl" text="Você poderia dizer que... trabalho desde o amanhecer até tarde da noite, mas ainda mal consigo colocar pão na mesa. Por quê? Porque não consigo vender meu produto em um preço justo. A lei diz que eu só posso vender para comerciantes locais e também a uma taxa fixa" />
+    <string id="Vg7Ftrdl" text="Você poderia dizer que... trabalho desde o amanhecer até tarde da noite, mas ainda mal consigo colocar pão na mesa. Por quê? Porque não consigo vender meu produto por um preço justo. A lei diz que eu só posso vender para comerciantes locais por uma taxa fixa" />
     <string id="Vg7glbwp" text="{WORKSHOP_NAME} em {SETTLEMENT_NAME}" />
     <string id="vGF5S2hE" text="Tabela de classificação" />
     <string id="vgqVf9SA" text="+ 1 parceiro para cada cidade que você possui." />
@@ -2688,6 +2692,7 @@
     <string id="Vi5Ylvr1" text="{LORD.NAME} está reunindo um exército perto de {SETTLEMENT}" />
     <string id="viBrI7T1" text="Adicione imediatamente 1 ponto de foco em armas de uma e duas mãos." />
     <string id="VJoCtAvz" text="Eu fiz um juramento ao meu senhor." />
+    <string id="VJYEoOAc" text="Bem ... Você tem razão. Continue. Não vamos incomodá-lo mais." />
     <string id="VkUMPAfR" text="Obrigado por sua ajuda. {QUEST_GIVER.LINK} enviará sua recompensa o mais rápido possível." />
     <string id="vKwndBbe" text="Existe uma maneira de evitar isso?" />
     <string id="vKxiFQRA" text="Muito bem. Vou esperar aqui e me juntar a você na sua luta." />
@@ -2708,7 +2713,6 @@
     <string id="vOgACpuD" text="Companheiros" />
     <string id="vOHc5dxC" text="Agora você tem sementes de grãos suficientes para concluir a pesquisa. Retorne a {QUEST_SETTLEMENT} para entregar." />
     <string id="VoUFIcDt" text="A proposta de alterar o proprietário de {SETTLEMENT} foi aceita com o apoio da maioria." />
-    <string id="vp9Lxb5Y" text="Fale com o líder dos caçadores furtivos" />
     <string id="VPGBEtQE" text="+ danos na arma de 2 pólos enquanto estiver a pé." />
     <string id="VpGjkNrF" text="Quero tudo." />
     <string id="VpHIdsdF" text="{FIRST_NAME}, o Provedor" />
@@ -2731,7 +2735,7 @@
     <string id="VUjaLmIH" text="Relaxe. Temos permissão. Não toque e deixe-nos passar." />
     <string id="VURQ4LQL" text="Forest Hunter" />
     <string id="VuVnXyXD" text="Sem ofensa, mas acho que não pode me ajudar. {EXPLANATION}[ib:closed][rb:very_negative]" />
-    <string id="VuwaQjUN" text="{TARGET_HERO.LINK} escapou e {?TARGET_HERO.GENDER}Ela{?}Ele{\?} não é mais um prisioneiro." />
+    <string id="VuwaQjUN" text="{TARGET_HERO.LINK} escapou e {?TARGET_HERO.GENDER}ela{?}ele{\?} não é mais um prisioneiro." />
     <string id="Vv81gkWN" text="Transportadora padrão" />
     <string id="vvCwVo7i" text="{DAMAGE} {DAMAGE_TYPE}" />
     <string id="vvE9agtq" text="70% mais dano a cavalos." />
@@ -2742,7 +2746,7 @@
     <string id="VwUYmDEq" text="{ISSUE_GIVER_LIST}... {ISSUE_GIVER.LINK} mencionou algo sobre precisar de alguém para fazer um trabalho." />
     <string id="vWxioznX" text="A produção de grãos / azeitonas / peixe / frutas nas aldeias de suas cidades aumenta em 20%" />
     <string id="vXCg3OYx" text="Então, você os trouxe?" />
-    <string id="VXHePMnL" text="Muito bom. Vou pedir aos pastores que estejam prontos para acompanhar seu grupo imediatamente. Por favor, tenha cuidado ao orientar o rebanho. Nós podemos sofrer algumas perdas. Mas espero que pelo menos metade do rebanho seja entregue." />
+    <string id="VXHePMnL" text="Muito bom. Vou pedir aos pastores que estejam prontos para acompanhar seu grupo imediatamente. Por favor, tenha cuidado ao conduzir o rebanho pois podemos sofrer algumas perdas. Mas espero que pelo menos metade do rebanho seja entregue." />
     <string id="VXKGD0ta" text="Quero usar sua forja." />
     <string id="VXkL5Ysd" text="Gerenciar prisioneiros" />
     <string id="vxoaJjhO" text="Instrutor" />
@@ -2750,23 +2754,23 @@
     <string id="vYCY931w" text="Alguma notícia sobre meus homens?" />
     <string id="VYmI1MSp" text="bônus de velocidade de arma aumentado em 4%, desde de que esteja com arma de uma mão." />
     <string id="VYmQmqIv" text="Estamos considerando muitas ofertas. Você certamente pode adicionar seu nome à lista." />
-    <string id="VYq93e36" text="Um líder de gangue precisa que você compre armas para {?QUEST_GIVER.GENDER}dela{?}dele{\?} homens." />
+    <string id="VYq93e36" text="{?QUEST_GIVER.GENDER}Uma líder{?}Um líder{\?} de gangue precisa que você compre armas para os homens {?QUEST_GIVER.GENDER}dela{?}dele{\?}." />
     <string id="vYRbyXkz" text="Os guardas não bloquearão mais o seu caminho." />
-    <string id="vZ01a4cG" text="{QUEST_GIVER.LINK} quer que você limpe o esconderijo dos bandidos antes que atraia mais bandidos para {?QUEST_GIVER.GENDER}essa{?}essa{\?} região." />
-    <string id="vzF9atyv" text="Olá, {PLAYER.NAME}, Fui informado de que você capturou {TARGET_HERO.LINK}. Essas são ótimas notícias, um de meus hoemns espera por você nos portões do próximo assentamento que você deve visitar com a recompensa que prometi. Você deve entregar seu prisioneiro a ele o mais rápido possível. Tenho planos para {?TARGET_HERO.GENDER}ela{?}ele{\?}. Nos vemos em breve, - {ISSUE_OWNER.LINK}" />
+    <string id="vZ01a4cG" text="{QUEST_GIVER.LINK} quer que você limpe o esconderijo dos bandidos antes que atraia mais bandidos para a região {?QUEST_GIVER.GENDER}dela{?}dele{\?}." />
+    <string id="vzF9atyv" text="Olá, {PLAYER.NAME}, fui informado de que você capturou {TARGET_HERO.LINK}. Essas são ótimas notícias, um de meus hoemns espera por você nos portões do próximo assentamento que você deve visitar com a recompensa que prometi. Você deve fazer isso o mais rápido possível. Tenho planos para {?TARGET_HERO.GENDER}ela{?}ele{\?}. Nós em breve, - {ISSUE_OWNER.LINK}" />
     <string id="vZg8X4nf" text="{FIRST_NAME}, o Pedregulho" />
-    <string id="vZHd21jE" text="{NAME}, o Prisioneiro" />
+    <string id="vZHd21jE" text="{NAME} dos Prisioneiros" />
     <string id="VZhs6rpG" text="Bem, tente acelerar. Depois que os caçadores de recompensas os entregarem, será tarde demais." />
     <string id="VzmzX9Ln" text="As tribos dos plebeus eram escritórios republicanos romanos. Eles foram projetados para representar famílias sem direitos patricianos e podem vetar a legislação do Senado." />
     <string id="Vzsu5nZV" text="Perdão de dívidas" />
     <string id="vZtLm43v" text="Milícia da cidade" />
     <string id="VzyIGrC5" text="Talvez você deva se apresentar. Mas observe que estamos considerando uma série de ofertas." />
     <string id="VzzQX4EZ" text="Talvez você esteja certo, eu não entregarei artigos." />
-    <string id="W0Zu4iDz" text="Velocidade de recarga da besta:+ {a0}%" />
+    <string id="W0Zu4iDz" text="Velocidade de recarga da besta: +{a0}%" />
     <string id="w11EC6Xj" text="ConstruçãoLeve" />
     <string id="w3GIUD3u" text="permitindo que o regente inicie tarifas especiais" />
     <string id="W3xUQxAa" text="incentive os senhores a terem grandes exércitos privados" />
-    <string id="w4BzNJYl" text="Chance de sobrevivência a feridas graves + {a0}%" />
+    <string id="w4BzNJYl" text="Chance de sobrevivência a feridas graves +{a0}%" />
     <string id="w4yxgY3F" text="Saudações. Se você tem prisioneiros, ficarei feliz em comprá-los de você." />
     <string id="W6ebB306" text="pessoas" />
     <string id="W6XMWJ8R" text="Cartas do Castelo" />
@@ -2795,31 +2799,34 @@
     <string id="wfb0FnbW" text="Eles finalmente fizeram as pazes com {ENEMY_NAME}. Bom. Espero que dure." />
     <string id="WfPJodtt" text="Lança Rápida" />
     <string id="wfyUIBPl" text="Arremesso em corrida" />
-    <string id="WHLNsJVa" text="{FIRST_NAME}, Lento" />
+    <string id="wglTyBbx" text="Obrigada amigo Vá em paz." />
+    <string id="WHLNsJVa" text="{FIRST_NAME} dos Lentos" />
     <string id="wI393cla" text="Medicina preventiva" />
     <string id="WIb9VvEM" text="Tropas coletadas" />
     <string id="WJ7SnBgN" text="Faça a guarnição do assentamento." />
-    <string id="WjeKp5O2" text="{FIRST_NAME}, Cabeça de pedra" />
+    <string id="WjeKp5O2" text="{FIRST_NAME} dos Cabeças de pedra" />
     <string id="wlhJGG0q" text="{PRISONER_LORD.LINK_AND_FACTION} foi lançado devido à declaração de paz." />
-    <string id="wlKtDR2z" text="Obrigado {?PLAYER.GENDER}senhora{?}senhor{\?}." />
+    <string id="wlKtDR2z" text="Obrigado {?PLAYER.GENDER}minha senhora{?}meu senhor{\?}." />
+    <string id="wM77S68a" text="O que há para discutir?" />
     <string id="wmZYHGb9" text="Trouxe comigo {HERD_AMOUNT} cabeças de {HERD_TYPE}, conforme combinado." />
     <string id="WnbsT50I" text="Descrição autoritativa" />
     <string id="WNKkdpN3" text="{CLAN_NAME} deixou o reino {OLD_FACTION_NAME}." />
-    <string id="wNLV7lDO" text="{NAME}, os Fracos" />
+    <string id="wNLV7lDO" text="{NAME} dos Fracos" />
     <string id="wO1uNIVB" text="Gratidão" />
     <string id="WO3EaqB3" text="Como posso ajudá-lo?" />
     <string id="WoAgHDrN" text="Vou trazer você de uma maneira ou de outra." />
     <string id="WOBy5UfY" text="Entregue sua bens ou morra!" />
     <string id="wodLHjnh" text="Você ou um de seus companheiros com mais {ALTERNATIVE_TROOP_AMOUNT} homens, deverá ser o suficiente para o trabalho. De qualquer forma, estou disposto a pagar {REWARD}{GOLD_ICON}. Duvido que eles resistam a verdadeiros guerreiros por muito tempo." />
     <string id="wOKF17ta" text="Eu fiz um juramento a {CURRENT_LIEGE.LINK}, embora nenhum juramento exija que eu sirva a um líder fraco que irá nos derrubar." />
-    <string id="WOn05IP5" text="{NAME}. Sem amor" />
-    <string id="wOVPr6vY" text="{NAME}, o famoso" />
-    <string id="wpmsmBHm" text="{FIRST_NAME}, Sortudo" />
+    <string id="WOn05IP5" text="{NAME} dos Impiedosos" />
+    <string id="wOVPr6vY" text="{NAME} dos Famosos" />
+    <string id="wpmsmBHm" text="{FIRST_NAME} dos Sortudos" />
     <string id="wPtD4CLq" text="Invasões em aldeias 10% mais rápidas." />
     <string id="WQ3Ohs2u" text="Os membros do clã ganham 10% mais influência de ações" />
     <string id="WQa1R55u" text="Grupo de caçadores furtivos" />
     <string id="wr4bu29Y" text="Armas de duas mãos com menos de 85 velocidades obtêm 2% maior velocidade e 5% maiores danos." />
-    <string id="wrliXWLc" text="Você aprovou a lei que impede preços nos mercados e rejeitou a contraproposta." />
+    <string id="WrJSUsBe" text="Apoiar o rei" />
+    <string id="wrliXWLc" text="Você aprovou a lei que impede preços fixos nos mercados e rejeitou a contraproposta." />
     <string id="wrpsJM2u" text="Sim... eu contratei uma companhia de mercenários para uma campanha há algum tempo. Mas... normalmente os mercenários têm seu próprio tipo peculiar de honra. Você paga, eles lutam por você, não paga, eles vão para outro lugar. Mas deixando bem claro que, se não renovar o contrato, eles se tornarão bandidos. E não posso pagar agora." />
     <string id="Wrqb3iXP" text="Heróis do seu grupo têm 50% menos chance de morrer em batalha." />
     <string id="wrXbdvTn" text="O nível de habilidade {ONE_HANDED_SKILL} deste parceiro não é suficiente para esta missão." />
@@ -2838,23 +2845,24 @@
     <string id="WUWzyzWI" text="Obrigado. Sua ajuda será lembrada." />
     <string id="WVkc4UgX" text="Continuar." />
     <string id="WVLzi1fa" text="Homem de armas" />
-    <string id="WVN2NdJl" text="{FIRST_NAME}, a Mula" />
+    <string id="WVN2NdJl" text="{FIRST_NAME} dos Carregadores" />
     <string id="WvQDatMJ" text="Não vou enganar você, eles são bastardos, mas isso é bom se você puder lidar com eles." />
     <string id="wWBCgb0C" text="{FAILED_PERSUASION_LINE}" />
     <string id="WWFnlL3O" text="Seguidores de {FACTION_LIEGE}" />
     <string id="wWFYPrlb" text="autorizando ao regente a ter uma força mercenária permanente" />
+    <string id="wwJGE28v" text="Negocie com os caçadores furtivos" />
     <string id="wwPjjtHS" text="{CHILD1.NAME} e {CHILD2.NAME}" />
     <string id="wwuuplH7" text="Engenheiro diário" />
-    <string id="wX5i6qaL" text="HuscarlFightingSkills Description" />
-    <string id="wxDbPiNH" text="Bem, você tem uma reputação de ser capaz de lidar com rufiões. Talvez você possa tirá-los de suas mãos, encontre algum outro cavalheiro que mais precise deles e se recuse a pagar. Paguei seu contrato por alguns meses. Posso dar uma pequena recompensa e, se você encontrar um comprador, poderá transferir o restante do contrato e pagar o adiantamento." />
-    <string id="wXORSFyh" text="OneEyed" />
+    <string id="wX5i6qaL" text="Descrição de Habilidade de Luta Huscarl" />
+    <string id="wxDbPiNH" text="Bem, você tem a reputação de poder gerenciar rufiões. Talvez você possa tirá-los de minhas mãos, encontrar outro senhor que precise mais deles e tenha mais denários para pagá-los. Paguei o contrato deles por alguns meses. Posso dar uma pequena recompensa e, se encontrar um novo líder, você pode entrega-los e embolsar o adiantamento que vou deixar com você." />
+    <string id="wXORSFyh" text="Um olho" />
     <string id="WZbrxhYm" text="um balão de kefir" />
     <string id="WZFqhmLw" text="Você não tem tropas suficientes acima do nível 1." />
     <string id="WzLatbvD" text="+ 6 setas adicionais por aljava." />
     <string id="x04UGQDn" text="Masmorra" />
     <string id="X0B6tbR7" text="Descrição do MuscularBuild" />
     <string id="X0B8J3rk" text="Precisão do arco aumentada em 10%." />
-    <string id="X1B18UeP" text="Sem alma {NAME}" />
+    <string id="X1B18UeP" text="{NAME} dos Impiedosos" />
     <string id="x213SJbO" text="Não. Não sei nada sobre isso. Talvez algo mais? [INCOMPLETO]" />
     <string id="x2B0OjhI" text="Quartel" />
     <string id="x346Rqle" text="Seu clã está em guerra com o senhor de {QUEST_GIVER.LINK}. O acordo foi cancelado." />
@@ -2862,10 +2870,9 @@
     <string id="x3M7H4Ws" text="Desalinhado {NAME}" />
     <string id="X4ITSQOl" text="Qual de seus funcionários pode nos ajudar?" />
     <string id="X4KwLm3J" text="Um arqueiro no seu grupo com uma habilidade de arco mais baixo ganha XP de arco enquanto espera." />
-    <string id="x5Ijok4Y" text="MarshesLore" />
-    <string id="x5POJVWw" text="Pare de veicular {FACTION}" />
+    <string id="x5Ijok4Y" text="Conhecimento de Pântanos" />
+    <string id="x5POJVWw" text="Pare de servir {FACTION}" />
     <string id="x9bwAED1" text="Estou procurando alguém com um pouco mais, digamos, nome..." />
-    <string id="X9ffjTHH" text="Esses cães ainda estão vivos?" />
     <string id="xa10anae" text="Sobre as informações que você queria... Você já as recebeu?" />
     <string id="Xa7PsIao" text="Desculpe. Não vou me casar sem a bênção da minha família." />
     <string id="xaaUbbxE" text="Sempre que você matar um inimigo, os soldados que estão dentro do raio de 10 metros receberão 40% da XP obtida." />
@@ -2888,6 +2895,7 @@
     <string id="XdKCuzg1" text="Muito bem. Você pode se juntar a nós. Mas eu vou estar te observando bastante." />
     <string id="xeboujso" text="Essa é a decisão certa. Ele parece ser um cara responsável." />
     <string id="xer2bta5" text="Seu próprio reino" />
+    <string id="xF7he8fZ" text="Lute contra os caçadores" />
     <string id="XF7shG4k" text="Desde a última vez que conversamos, tenho treinado vigorosamente. Sinto-me mais forte, muito mais enérgico e vivo agora." />
     <string id="XFafAocV" text="Nada específico, capitão. Mas estou prestando muita atenção em tudo que você faz." />
     <string id="XFcmlN1J" text="A segurança da cidade é aumentada em 1 por dia. Os locais com segurança maior que 60 produzem 1 influência adicional para o clã proprietário. Os impostos da cidade são reduzidos em 0,5" />
@@ -2919,7 +2927,6 @@
     <string id="Xmtlrrmf" text="Obrigado. Não se esqueça de avisar seus homens, esses caçadores não são contrabandistas comuns, boa sorte." />
     <string id="XN7BX0qP" text="Dificuldade máxima utilizável do arco:{a0}" />
     <string id="XNc2NIGL" text="Agrário" />
-    <string id="xnxaNWh9" text="Eu não sou um homem que pode ser facilmente enganado por esses tipos de jogos mentais. Vá agora!" />
     <string id="xNyKVMHx" text="{JOIN_SIEGE_TEXT}. Decida..." />
     <string id="XO3SOlZx" text="Vantagem da simulação: +{a0}%" />
     <string id="xoTWC8Sm" text="Bônus do projeto" />
@@ -2969,7 +2976,7 @@
     <string id="ybb0ToHE" text="Protegeremos nossas terras!" />
     <string id="YbbfaHqd" text="Estarei disposto a pagar generosamente por cada dia que a caravana estiver a caminho. Será mais do que o que normalmente pago pelos guardas, mas imagino que você possa assustar esses bandidos. Estou farto. escolher entre enviar meus homens à morte ou deixá-los ir porque perdi minha propriedade e não posso pagar o salário deles." />
     <string id="YbBObxLH" text="Você conseguiu expulsar os moradores do pasto disputado. O proprietário, {QUEST_GIVER.LINK}, agradece e envia {REWARD}{GOLD_ICON} com seus cumprimentos." />
-    <string id="YBEB7GLa" text="Todas as tropas emprestadas do seu grupo estão mortas. Você não pode devolver nenhuma das tropas que {QUEST_GIVER.LINK} lhe deu para treinamento. {?QUEST_GIVER.GENDER}ela{?}ele{\?} El { \?} envia a seguinte carta. {?PLAYER.GENDER}Senhora{?}Senhor{\?}, eu entendo que todos os meus homens estão mortos. Pedi a ele que tentasse mantê-los vivos. Não sei o que dizer a ele para seus parentes. Isso é uma violação da minha confiança." />
+    <string id="YBEB7GLa" text="Todas as tropas emprestadas do seu grupo estão mortas. Você não pode devolver nenhuma das tropas que {QUEST_GIVER.LINK} lhe deu para treinamento. {?QUEST_GIVER.GENDER}ela{?}ele{\?} envia a seguinte carta. {?PLAYER.GENDER}Senhora{?}Senhor{\?}, eu entendo que todos os meus homens estão mortos. Pedi a você que tentasse mantê-los vivos. Não sei o que dizer a ele para seus parentes. Isso é uma violação dos termos de um contrato importante e da minha confiança." />
     <string id="yBeBSAWi" text="Eu comprei um estoque de produtos. Não direi como os obtive, mas não posso levá-los a comerciantes locais. Preciso de alguém para comprá-los e estou disposto a dar um bom desconto." />
     <string id="ybXgaKEv" text="uma taça de vinho local" />
     <string id="ybzBF59f" text="Saia de {SETTLEMENT}." />
@@ -2986,12 +2993,11 @@
     <string id="yGaGlXgQ" text="Reino do jogador" />
     <string id="yghMrFdT" text="Solte as pequenas políticas e confie em seu coração!" />
     <string id="YHSm72Ln" text="Encontrarei seus recrutas e os levarei para a guarnição {SETTLEMENT}." />
-    <string id="yhV9gauC" text="{FIRST_NAME}, the Rock" />
+    <string id="yhV9gauC" text="{FIRST_NAME} da Pedra" />
     <string id="YHZsHohq" text="Nos encontramos de tempos em tempos, como sempre, para ver se somos um ao outro. Espero vê-lo em breve." />
     <string id="yi07dBks" text="Bônus de cavalaria Khuzait" />
     <string id="yI6JyeF0" text="Descrição KnightFightingSkills" />
     <string id="yINoTyMv" text="Ainda estou trabalhando nisso. Verifique novamente em alguns dias." />
-    <string id="Yj8iapJ5" text="Você está aqui para nos caçar? Se sua resposta for sim, quero que saiba que somos homens que tiram dos ricos e dão aos pobres. O homem que pagou a você está vivendo uma vida confortável, e só contratou você por ter tido açgumas percas, se é que me entende. Mas nós não nos importamos... Agora escolha com cuidado suas próximas palavras..." />
     <string id="yjAHh66a" text="Você conseguiu devolver mais da metade das tropas que {QUEST_GIVER} te entregou para treinar. {?QUEST_GIVER.GENDER}Ela{?}Ele{\?} enviou a seguinte carta para você. '{?PLAYER.GENDER}Prezada, senhora{?}Prezado, senhor{\?}, Obrigado por devolver meus homens. As perdas durante seu treinamento são um pouco maiores do que imaginava. Sei que você fez o possível para honrar nosso acordo e tentar mantê-los vivos'." />
     <string id="YJJwR5PB" text="peças de armadura" />
     <string id="YjsRb88D" text="É seu direito, minha {?PLAYER.GENDER}Senhora{?}Senhor{\?}. Mas se você não pode obter suporte comercial aqui quando precisar da próxima vez, bem, não diga que ninguém disse nada." />
@@ -3063,12 +3069,12 @@
     <string id="yZWBDAG0" text="Você é conhecido como um homem de honra. Você pode me conhecer como um também." />
     <string id="Z0CoeojG" text="Velocidade da arma lançada: +{a0} %" />
     <string id="z0WacPaW" text="Não, a justiça exige que você pague pelos seus crimes." />
+    <string id="z1mdQhDB" text="Claro. Envie-os na vanguarda de suas outras tropas. Se eles morrerem, você não precisará pagá-los." />
     <string id="Z1rfW4jL" text="-20% de chance de ser pego enquanto se infiltra nas cidades." />
     <string id="z1RHDsOG" text="Permaneça no assentamento" />
     <string id="Z212GSiV" text="Soltar Prisioneiros" />
     <string id="Z2amOHAb" text="mantendo uma hierarquia formal de privilégios nobres" />
     <string id="Z2ZNeEgY" text="Sujo {NAME}" />
-    <string id="Z3ne80iW" text="Envolva os caçadores furtivos" />
     <string id="z4arML8E" text="uma tira de veado seco" />
     <string id="z5cLVzC8" text="É sabido que você e {CURRENT_LIEGE.NAME} odiar um ao outro." />
     <string id="Z5kqbeyu" text="Saudações, mais uma vez. Precisa alguma coisa?" />
@@ -3096,6 +3102,7 @@
     <string id="ZhpT2qVh" text="Você acabou de saber que está grávida." />
     <string id="zi4GGkEj" text="Mestre de armadura" />
     <string id="ziA4catk" text="Muito bom." />
+    <string id="zifRFhnq" text="Bônus de mercenário" />
     <string id="zIjg3mad" text="Preciso de alguém que tenha um pouco de ouro para gastar..." />
     <string id="ZJ2tJnJk" text="A lealdade do assentamento aumenta em 0,5 por dia. A segurança do assentamento diminui em 0,2 por dia. Clãs perdem 1 influência por dia" />
     <string id="zJujFbXU" text="Você decidiu que os moradores tinham mais direito ao pasto disputado do que o proprietário, {QUEST_GIVER.LINK}. {?QUEST_GIVER.GENDER}Ela{?}ele{\?} provavelmente se sente traído." />
@@ -3117,10 +3124,10 @@
     <string id="Zpc1dti3" text="Este companheiro {TRADE_SKILL} o nível de habilidade não é suficiente para esta missão." />
     <string id="ZphBf7vf" text="A resistência gasta na fundição é reduzida pela metade." />
     <string id="ZPj0ZAO7" text="Sim? O que você quer conosco?" />
-    <string id="zpoqexPC" text="Continue o que você está fazendo. Adeus." />
     <string id="ZPv3uCOb" text="{FACTION_LEADER} propõe rejeitar a política de {POLICY_NAME}. Você pode escolher sua posição em relação a esta decisão." />
     <string id="ZQa7tXdK" text="Você está em menor número. Mesmo se eu concordar com você, seria sensato da minha parte esperar." />
     <string id="zqapPfSK" text="Não, não." />
+    <string id="zR356YDY" text="Devo dizer que eles parecem mais bandidos do que soldados." />
     <string id="Zr62k1r2" text="Recarregamento rápido" />
     <string id="zr80RMa6" text="Isso vai te custar {AMOUNT}{GOLD_ICON}. Pago antecipadamente, é claro." />
     <string id="ZrMeSyPu" text="{WEAPON} do {BESIEGER} acertar alguns soldados em {SETTLEMENT}!" />

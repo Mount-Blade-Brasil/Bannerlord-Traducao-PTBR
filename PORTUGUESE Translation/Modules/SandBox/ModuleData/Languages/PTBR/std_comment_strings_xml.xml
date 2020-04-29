@@ -19,7 +19,7 @@
     <string id="4Jo8JMZm" text="Minha senhora" />
     <string id="5DCMLfp8" text="Ouvi falar de você. Não estou com disposição para brincadeiras, então vamos dispensar as cortesias." />
     <string id="5Fa0uDJn" text="sultana dos Aserai" />
-    <string id="5ZfjV7hS" text="Basta! Você vence hoje, seu cachorro! Ach, que vergonha![rf:bravo][rb:trivial]" />
+    <string id="5ZfjV7hS" text="Basta! Você vence hoje, seu cachorro! Ach, que vergonha![rf:angry][rb:trivial]" />
     <string id="62vceTar" text="Sou {CONVERSATION_CHARACTER.LINK}, do {CLAN_NAME}." />
     <string id="6acfbHiE" text="Anotarei seu nome. Mas você terá que ganhar minha confiança, estranho, pois o mundo é um lugar traiçoeiro, e estes são tempos sombrios." />
     <string id="6LlDlGSb" text="alta rainha dos Battanians" />
@@ -44,7 +44,7 @@
     <string id="atHFPCcK" text="É um prazer conhecê-lo. Lembre-se, neste mundo não há moeda mais valiosa do que o peso da sua palavra" />
     <string id="auVAWUJ3" text="Saiba que se você me cruzar, acabará como alimento para os corvos." />
     <string id="AZf7kPgr" text="Você dominado. Desista, se não por você, pense em seus homens! [ib:warrior][if:idle_angry]" />
-    <string id="bAir72Sf" text="Pare! Eu desisti![rf:bravo][rb:trivial]" />
+    <string id="bAir72Sf" text="Pare! Eu desisti![rf:angry][rb:trivial]" />
     <string id="bbjLFWhP" text="Ganhei nosso último duelo, mas você lutou bem. Eu não culpo você se você desejou uma revanche." />
     <string id="BbVpiTdi" text="Você é um homem do mundo, como eles dizem. Conte-me um pouco sobre suas viagens." />
     <string id="bc1YyTO4" text="Talvez não seja hoje ou amanhã, mas, de uma forma ou de outra, verei que você se arrepende da sua decisão." />
@@ -54,7 +54,7 @@
     <string id="BMc3VJcf" text="Eu não sei seu nome. Mas não importa. Alguns dizem que há maior honra em fundar uma grande linhagem do que nascer em uma." />
     <string id="bNReoRmt" text="Se você estiver em condições de contratar guerreiros, considere a Legião dos Traídos. Sabemos o que significa honrar sua palavra e contrato, como vimos no preço de quebrar a fé" />
     <string id="brGfaXyo" text="Não sei o que fazer com você, exceto que você é muito corajoso ou muito precipitado, ou ambos." />
-    <string id="BRMngn5i" text="Basta! Eu sou seu prisioneiro. Posso pagar um resgate. Valho mais para você vivo do que morto.[rf:bravo][rb:trivial]" />
+    <string id="BRMngn5i" text="Basta! Eu sou seu prisioneiro. Posso pagar um resgate. Valho mais para você vivo do que morto.[rf:angry][rb:trivial]" />
     <string id="C5JaFsDZ" text="{FIRST_NAME} é meu senhor. Isso é tudo o que há para dizer." />
     <string id="caKCwoPM" text="Os Bani Zilal são os guardiões do segredo. Observamos das sombras. Faça de nós inimigos por sua conta e risco." />
     <string id="cFiSjbf4" text="Hah! Quero brigar com você" />
@@ -74,7 +74,9 @@
     <string id="DRzsgjsD" text="Eu sou {CONVERSATION_CHARACTER.LINK}, do clã {CLAN_NAME}, uma das famílias mais ilustres nesses anos de Império." />
     <string id="dvpbyoAQ" text="Eu ouvi falar de você. Finalmente nos encontramos. Você parece uma boa {?PLAYER.GENDER}mulher{?}homem{\?} para conhecer. Vamos falar juntos, de tempos em tempos." />
     <string id="DxuuarNT" text="Eu sei o seu nome - e pelo que eles dizem sobre você, eu diria que muitas viúvas em luto também sabem. Mas isso não é da minha conta." />
+    <string id="EIThhVgG" text="Eu sei o seu nome. É bom conhecer você finalmente." />
     <string id="ELtT9ctL" text="Você pode conhecer o Skolderbroda. No campo de batalha, somos inigualáveis. Esperamos ser pagos de acordo com o nosso valor, e isso não é barato, mas se levarmos o seu moeda, você terá nosso juramento de honrar os termos do contrato, até a morte, se necessário." />
+    <string id="ETxtYU6C" text="Então ... Você fez grandes façanhas... Eu sei o seu nome. É bom conhecer você finalmente." />
     <string id="EXgm5Utx" text="Por muito tempo {?GENDER}ela{?}ele{\?} vive!" />
     <string id="eyxfHmCU" text="Eu sou {CONVERSATION_CHARACTER.LINK}, da {CLAN_NAME}. Nossa família serve os reis dos Vlandianos por gerações." />
     <string id="f2eZL7w5" text="Oh, suponho que sou obrigado a lhe dar uma chance de rastejar por sua vida. Você vai se render, então?[ib:warrior][if:idle_angry]" />
@@ -142,6 +144,7 @@
     <string id="Nq2dyiO1" text="Eu sou {CONVERSATION_CHARACTER.LINK}, do {CLAN_NAME}, um nome que você já ouviu muitas vezes nas sagas dos sturgianos." />
     <string id="nRnbBnFq" text="Estou? Bem... estou agradecido.[if:happy][rb:very_positive]" />
     <string id="NW1n9k45" text="Primo." />
+    <string id="o2aKr8JD" text="já ouvi o seu nome algumas vezes." />
     <string id="O8wTipT2" text="Obrigado. Quando você for derrotado, solicitarei que sua morte seja rápida e misericordiosa. A menos que você queira se juntar a nós... Adeus, por enquanto.[if:happy][rb:very_positive]" />
     <string id="OgzAlCkk" text="Ainda estou me recuperando dos machucados que você me deu." />
     <string id="oIrz5050" text="Sua alteza" />
@@ -152,7 +155,8 @@
     <string id="PhTv43ve" text="Ah, sim. Finalmente nos encontramos. Você parece uma boa mulher para saber. Vamos conversar juntos, de tempos em tempos." />
     <string id="pn79h0aj" text="Sou {CONVERSATION_CHARACTER.LINK}, do {CLAN_NAME}. Recebemos nosso título do próprio imperador Vortios. Não que ele tivesse muita escolha, pois foi mantido em cativeiro. em um de nossos navios invasores na época, mas tenho certeza de que ele reconheceu a nobreza do nosso sangue." />
     <string id="pQkiu5qf" text="Gostaria que eu lhe desse outra tarefa, para que você possa me trair de novo?" />
-    <string id="pXULuzaq" text="Eu cedi! Você venceu. Maldito seja este dia! [rf:bravo][rb:trivial]" />
+    <string id="PQZfXcU1" text="Já ouvi seu nome. As pessoas falam de suas façanhas. É bom finalmente conhecer você." />
+    <string id="pXULuzaq" text="Eu cedi! Você venceu. Maldito seja este dia! [rf:angry][rb:trivial]" />
     <string id="pZj9C1yA" text="Os céus vão será feito. Mas aqueles que suavizarem o caminho serão recompensados." />
     <string id="q5nQGimE" text="Eu sou {CONVERSATION_CHARACTER.LINK}, da casa de {CLAN_NAME}. Embora não devamos nos orgulhar muito da linhagem, fico feliz em dizer que sempre levamos a sério nosso dever de proteger o povo comum do Império" />
     <string id="qB3wfM1f" text="Estou feliz que você e eu pudemos chegar a um acordo antes." />
@@ -163,7 +167,7 @@
     <string id="qvwfev22" text="Eu tenho você encurralado. Rendimento ou morte.[ib:warrior][if:idle_angry]" />
     <string id="R6sTYEaz" text="Você não pode fale o seu caminho para sair disso." />
     <string id="RajD4RC1" text="Eu nunca ouvi falar de você." />
-    <string id="rCNUXFTN" text="Eu rendo! Parabéns pela sua vitória.[rf:bravo][rb:trivial]" />
+    <string id="rCNUXFTN" text="Eu rendo! Parabéns pela sua vitória.[rf:angry][rb:trivial]" />
     <string id="reg1AUxr" text="Meu filho" />
     <string id="rhTUDKhJ" text="Eu sou {CONVERSATION_CHARACTER.LINK}, do {CLAN_NAME}. Não há um clã dos battanianos que não contribuiu com o crânio de um de seus campeões para a nossa coleção de copos." />
     <string id="RNZ9LOxc" text="Meu amigo" />
@@ -199,7 +203,7 @@
     <string id="VUn8mQ5n" text="rei supremo dos Battanianos" />
     <string id="w7EY8rbd" text="Vamos mudar de assunto." />
     <string id="WbAAkcbw" text="É uma honra conhecê-la, minha senhora." />
-    <string id="WFwoWAic" text="Desisto! Desisto! Chame de volta seus cães![rf:bravo][rb:trivial]" />
+    <string id="WFwoWAic" text="Desisto! Desisto! Chame de volta seus cães![rf:angry][rb:trivial]" />
     <string id="WH8P3Y5F" text="Sou {CONVERSATION_CHARACTER.LINK}, um vassalo leal de {LIEGE_TITLE}." />
     <string id="wrIYDx9V" text="Estou livre? Bem... Adeus, então.[if:happy][rb:very_positive]" />
     <string id="Wt4iJPcd" text="Eu já ouvi falar de você! É  bom finalmente conhecê-lo." />

@@ -123,7 +123,7 @@
     <string id="iVXlb8Lv" text="Não, não. Continue." />
     <string id="iwxJWG81" text="Não posso deixar passar uma barganha assim. Gostaria de contratar você." />
     <string id="j2auwAej" text="Acima de tudo, um engenheiro deve ser cauteloso. Bom dia, senhor." />
-    <string id="j4MeTe5O" text="Eu sei o que uma lâmina contratada faz e não espero mais pagamento do que qualquer outra pessoa em sua empresa. Mas solicito uma pequena taxa com antecedência para garantir que você não pensando em me enganar. Vamos dizer {NPCPAYMENT}{GOLD_ICON} denars?" />
+    <string id="j4MeTe5O" text="Eu sei o que uma lâmina contratada faz e não espero mais pagamento do que qualquer outra pessoa em sua empresa. Mas solicito uma pequena taxa com antecedência para garantir que você não pensando em me enganar. Vamos dizer {NPCPAYMENT}{GOLD_ICON} denares?" />
     <string id="jaLG4P9R" text="Eu devo. O que é isso?" />
     <string id="jb3TXFa9" text="Um conto triste, minha querida, mas Calradia está cheia deles. Bom dia." />
     <string id="jEtASKar" text="Se você carrega muitos suprimentos, posso prometer a você - tanto quanto qualquer pessoa pode prometer qualquer coisa, neste mundo incerto - que pagarei meu salário muitas vezes." />
@@ -142,7 +142,7 @@
     <string id="kpD07Ib2" text="Há apenas uma coisa que eu quero ouvir de alguém agora: que as notícias que ouvi são falsas. Que o armazém em Makeb onde eu guardei minha pimenta não pegou fogo e que não perdi minha fortuna" />
     <string id="KU1nXWTK" text="A planície de cascalho me conhece, assim como as areias ondulantes e o desfiladeiro sombreado. Eu enfrentei a tempestade de areia abrasadora, a enchente, o calor mortal do meio-dia, e todas me disse: 'Passe com segurança, irmão.'" />
     <string id="KUKuUJaL" text="Você se esforça demais para se vender. Acho que vou ter que dizer 'não'." />
-    <string id="KYPP1pKE" text="Isso é ótimo. Isso é muito generoso. Mas espero que você me perdoe se, dadas as duras lições que aprendi no passado, se pedir um pequeno avanço - { NPCPAYMENT}{GOLD_ICON}, se você não se importa." />
+    <string id="KYPP1pKE" text="Isso é ótimo. Isso é muito generoso. Mas espero que você me perdoe se, dadas as duras lições que aprendi no passado, se pedir um pequeno avanço - {NPCPAYMENT}{GOLD_ICON}, se você não se importa." />
     <string id="LcihqCpu" text="Minhas desculpas, mas isso não é do meu interesse." />
     <string id="lDVo9y0g" text="E por que é isso? Qual é a sua história?" />
     <string id="lJkybj3d" text="Olá, viajante. Gostaria de se juntar a mim para tomar um copo de vinho?" />
@@ -156,7 +156,7 @@
     <string id="MlzMSNkQ" text="Além disso, como eu lhe disse, a partir desta tarde eu sou um ladrão de cavalos reformado. Você não encontrará um juiz de cavalos melhor do que eu." />
     <string id="n3IEXAGH" text="Em troca disso, prometo fazer o possível para chicotar qualquer ralé que você recrutar para soldados. Não me importo com cavaleiros e nem com arqueiros. Mas dê-me lacaios com um pouco de coragem, e eu os ensinarei a ficar juntos em uma formação sólida como uma rocha que quebrará qualquer acusação que você queira jogar nela." />
     <string id="n5y4faSu" text="Esplêndido! No entanto, devo pedir um pequeno pagamento inicial de {NPCPAYMENT}{GOLD_ICON}. Tenho uma dívida que esperava pagar com alguns talheres, mas encontrei algumas dificuldades com isso" />
-    <string id="N91Wnhht" text="Há apenas uma coisa que devo perguntar. Gostaria de deixar esta cidade com livros de balanço limpo. Gostaria de liquidar todas as minhas dívidas. Um adiantamento de {NPCPAYMENT}{GOLD_ICON } deve ser suficiente." />
+    <string id="N91Wnhht" text="Há apenas uma coisa que devo perguntar. Gostaria de deixar esta cidade com meu nome limpo. Gostaria de liquidar todas as minhas dívidas. Um adiantamento de {NPCPAYMENT}{GOLD_ICON} deve ser o suficiente." />
     <string id="nagec3c3" text="Oh... Hm... Olha, os guerreiros podem ser um pouco crédulos... Talvez devêssemos dar um passe nisso" />
     <string id="nbbn0HaV" text="Por quê? Vou lhe dizer o porquê." />
     <string id="nEHOUdf8" text="Confesso que esta não é a primeira vez que algo assim acontece comigo. Os hosts podem ser tão exigentes em suas listas de convidados. Mas isso me deixou um pouco impasse , como eu provavelmente deveria sair desta cidade mais cedo ou mais tarde" />
@@ -253,7 +253,7 @@
     <string id="yczuEk0C" text="Ele lutou para matar, mas eu fui mais rápido e o matei. Não sinto arrependimento. Que qualquer homem que imagine que ele possa tratar uma dama do escudo considere seu destino." />
     <string id="yjkGHRkA" text="Tudo muito interessante para um estudioso, suponho, mas não para mim. Bom dia." />
     <string id="ySwWQmYW" text="Então a última coisa que quero, minha senhora, é vista conversando com você." />
-    <string id="yTnm04Hh" text="Posso pagar por {NPCPAYMENT}{GOLD_ICON} denars. Prepare-se." />
+    <string id="yTnm04Hh" text="Posso pagar por {NPCPAYMENT}{GOLD_ICON} denares. Prepare-se." />
     <string id="YWQTQ5OH" text="Você está com o meu cabelo tenso. Bom dia, senhor." />
     <string id="yYHCwEeo" text="Mesmo agora, sinto que fiz uma escolha sábia para comprar a pimenta, mas azarada. É uma fortuna! Se eu não tivesse aproveitado essa oportunidade, outros comerciantes teriam zombado de mim, uma mulher tímida demais para ter sucesso no comércio de homens. Agora eles são uma mulher precipitada e sem julgamento de homens." />
     <string id="Z3b8jrxn" text="Comecei a vê-los depois que minha mãe desapareceu. A princípio pensávamos que os assaltantes a haviam levado, ou lobos. Essa é a vida nas estepes, onde morávamos. Mas os espíritos me disseram que minha mãe não havia sido levada, ela foi para baixo, para reunir os espíritos de outros membros de sua família. Eu devo estar pronto para conduzir a cerimônia para seu retorno" />

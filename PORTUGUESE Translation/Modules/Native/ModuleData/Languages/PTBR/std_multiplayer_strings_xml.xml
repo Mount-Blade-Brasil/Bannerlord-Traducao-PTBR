@@ -40,7 +40,7 @@
     <string id="KTzOaXiD" text="{PARAM1} o ouro que não foi usado nesta rodada será transportado para a nova rodada." />
     <string id="leAbyu5E" text="Um punhado de habitantes mais ricos das fronteiras esturginas possui seus próprios cavalos e muitos aprenderam as habilidades de equitação das tribos vizinhas. Eles são muito valorizados pelos boiardos como batedores e rastreadores dos força principal." />
     <string id="lEHjxPTs" text="Aliado" />
-    <string id="Lkeorx7u" text="Você {{IS_WINNER}ganhou{?}perdeu{\?} a rodada!" />
+    <string id="Lkeorx7u" text="Você {IS_WINNER}ganhou{?}perdeu{\?} a rodada!" />
     <string id="Mpu7rab1" text="O núcleo dos exércitos do império são a infantaria profissional e os Cataphractes pesados, mas os comandantes imperiais hoje pressionados geralmente trazem uma força considerável de auxiliares voluntários para diminuir os números. espera-se que fique fora do corpo a corpo, flanqueie o inimigo e atire-o com dardo." />
     <string id="Mrd3xhZx" text="As fronteiras sturgianas costumam atrair fugitivos e escravos que preferem viver livres além do alcance de qualquer autoridade de boiardos. Esses homens e mulheres desesperados, que tradicionalmente lutam com dardo e machado, ainda assim freqüentemente se alistam nos exércitos dos boiardos por algumas moedas de prata e pela promessa de saque ." />
     <string id="mXoD63su" text="Os melhores caçadores dos Battanianos se juntam à sua tribo como arqueiros. Eles geralmente lutam à frente da força principal, fugindo de tropas inimigas mais fortemente armadas." />

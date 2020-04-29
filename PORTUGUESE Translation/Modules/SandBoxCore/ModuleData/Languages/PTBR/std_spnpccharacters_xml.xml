@@ -7,6 +7,7 @@
     <string id="0GKH29JG" text="Guarda Mercenária" />
     <string id="0GkJB08d" text="Guarda de caravana veterano da sturgia" />
     <string id="0Xku0LQD" text="Camponês da sturgia" />
+    <string id="1gAasy1t" text="Veterano do lago dos ratos" />
     <string id="1PsLlMaQ" text="Ginete imperial" />
     <string id="1sJcKkVP" text="Guarda" />
     <string id="1WfDVpya" text="Arqueiro da sturgia" />
@@ -23,6 +24,7 @@
     <string id="5JFkQn5U" text="Milícia veterano da milícia khuzait" />
     <string id="6C3OMP1X" text="Rastreador da battania" />
     <string id="6hhspFvz" text="Guarda veterano de caravana khuzait" />
+    <string id="6j9iJMRr" text="Recruta do lago dos ratos" />
     <string id="6oc7CXbI" text="Faris veterano de aserai" />
     <string id="6UFEfIJV" text="Infantaria lanceira khuzait" />
     <string id="79ElOr2x" text="Comerciante de cavalos" />
@@ -48,7 +50,6 @@
     <string id="afhXdjBU" text="Nomade" />
     <string id="AlmaRAib" text="RuralNotableNotary" />
     <string id="AloMryIU" text="Cavalaria Leve de vlandia" />
-    <string id="ansW4mx2" text="Mulher de aserai" />
     <string id="AoFZUbun" text="aserai Vanguard Faris" />
     <string id="arb5nRri" text="Tribal de aserai" />
     <string id="AssCCFew" text="Cavalaria mercenária" />
@@ -57,9 +58,9 @@
     <string id="B4ls6R2b" text="Mestre arqueiro de aserai" />
     <string id="b4QPaEnA" text="Arqueiro da milícia da battania" />
     <string id="B7oI7AZG" text="Guarda do Khan khuzait" />
-    <string id="baAQDdE5" text="Mulher de vlandia" />
     <string id="BBJKgKj2" text="Recrutador da sturgia" />
     <string id="BbTpfJ7G" text="Dranton" />
+    <string id="BC5YGna3" text="Naufrago do lago dos ratos" />
     <string id="bFyidmyK" text="Predefinido da sturgia" />
     <string id="bHx8jaeI" text="Guerreiro" />
     <string id="bLMGbLF8" text="Orador notório" />
@@ -200,7 +201,6 @@
     <string id="pzmgMODE" text="Guarda de caravana da sturgia" />
     <string id="q7b4pQc9" text="Lobo experiente" />
     <string id="q7VeZazL" text="Atirador da battania" />
-    <string id="Q7wFotYV" text="mulher da battania" />
     <string id="qAsnj7vU" text="Menavliaton de elite imperial" />
     <string id="qAvxmnav" text="Jawwal Beduíno" />
     <string id="QbSjMefR" text="Mestre da caravana de vlandia" />
@@ -210,7 +210,6 @@
     <string id="QGPAEtj7" text="Varyag veterano" />
     <string id="QhNpvW0Y" text="Varyag khuzait" />
     <string id="QlVeZvbv" text="Guarda de caravana veterano de aserai" />
-    <string id="qMqRkvWu" text="Mulher da sturgia" />
     <string id="qMYpZKWo" text="Principes" />
     <string id="QNKfXvuA" text="significante imperial" />
     <string id="Qo2cc7bF" text="Skene" />
@@ -262,7 +261,6 @@
     <string id="uzwfybTH" text="Lacaio khuzait" />
     <string id="V1hoeBch" text="Bandido chefe" />
     <string id="V7iJlSuT" text="espada em espada" />
-    <string id="V8GrFH4B" text="Mulher khuzait" />
     <string id="v8hRrmY2" text="Comerciante armado da battania" />
     <string id="VbWtdAWn" text="Brigado experiente da sturgia" />
     <string id="vGFdbjFC" text="Miliciano lanceiro veterano de vlandia" />
@@ -273,7 +271,6 @@
     <string id="vZlMfmng" text="Mameluko com machado de aserai" />
     <string id="W2WXkiAh" text="Mercador de escravos" />
     <string id="w6YwFaG7" text="Lanceiro khuzait" />
-    <string id="WbH2HS8j" text="Mulher do Império" />
     <string id="WEHDGbEE" text="Mestre de caravana khuzait" />
     <string id="WJbOQSiT" text="Mameluko regular de aserai" />
     <string id="WNU7kE5N" text="Guarda veterano" />

@@ -35,7 +35,6 @@
     <string id="nvemmBZz" text="Você ganhou {AMOUNT}% dos itens e prisioneiros" />
     <string id="O9nwLrYp" text="+ {WOUNDEDAMOUNT}w" />
     <string id="oBbiVeKE" text="Pontos de vida" />
-    <string id="oHaWR73d" text="Ok" />
     <string id="Q1HIlJxe" text="Substituir" />
     <string id="QHV8aeEg" text="Excluir campanha" />
     <string id="qIeDZoSx" text="Comprado" />
@@ -43,7 +42,6 @@
     <string id="R2AaCaPJ" text="Alteração esperada" />
     <string id="raD9MK3O" text="Dificuldade" />
     <string id="RVPidk5a" text="Influência" />
-    <string id="UwuYCgIU" text="Cuidado" />
     <string id="V4iU0wRv" text="Ouro" />
     <string id="WAKz9xX8" text="Você ganhou moral {A0}." />
     <string id="WDlVhNuq" text="Nomeie seu arquivo salvo" />
@@ -52,6 +50,5 @@
     <string id="xzzSaN4b" text="Esperado: {OVERALL_EXPECTED_DENARS}" />
     <string id="yF5fpwNE" text="Total: {TOTAL}" />
     <string id="YgyHVu8S" text="Vendido" />
-    <string id="YXgNatqF" text="A versão deste salvamento não corresponde à versão atual do jogo. Prossiga com cuidado." />
   </strings>
 </base>

@@ -38,6 +38,7 @@
     <string id="21U7JTFv" text="Aketon do oeste" />
     <string id="24MA4JLX" text="Kaskara longa" />
     <string id="24xuA5G2" text="Cavalo da guerra do deserto" />
+    <string id="28KBiS2H" text="Ombreiras lamelar do norte" />
     <string id="2AcfBbCR" text="Túnica militar" />
     <string id="2dJ5HB8a" text="Coração negro" />
     <string id="2FubBDYB" text="Espada oriental" />
@@ -93,6 +94,7 @@
     <string id="5h1qpdoa" text="Gabardina imperial com correias" />
     <string id="5lJrGXqR" text="Vestido longo do sul" />
     <string id="5n4rWI9T" text="Capacete cravado com máscara" />
+    <string id="607BAdXw" text="Lança longa ocidental" />
     <string id="60fpbHiH" text="Gabardina do oeste" />
     <string id="62nIvqbA" text="Espada da montanha da battaniana" />
     <string id="6Cc4zpeQ" text="Escudo redondo sul reforçado" />
@@ -153,6 +155,7 @@
     <string id="9Eyd2qGo" text="Botas de camurça reforçada" />
     <string id="9FgxK9se" text="Elmo alto" />
     <string id="9Hr4oEvw" text="Roundkettle emcouro imperial" />
+    <string id="9j9fb5pR" text="Elmo chapeado com proteções" />
     <string id="9X2l53vY" text="Minério de prata" />
     <string id="9ZiUK3JJ" text="Amplo manipulador para duas mãos" />
     <string id="a10taTGb" text="Sabre com impressão de leão" />
@@ -572,7 +575,6 @@
     <string id="mRGIxvYh" text="Elmo nasal" />
     <string id="MRIdGqhA" text="Espada de guerra" />
     <string id="MTDaLQOV" text="Capuz longo imperial" />
-    <string id="mTHZCZ2D" text="Lança de cavaleiro" />
     <string id="mtVcMgWO" text="Elmo de bronze" />
     <string id="mTWvG1xz" text="Arco de batedor" />
     <string id="mVAaWp5U" text="Cavalo de guerra imperial" />
