@@ -42,7 +42,6 @@
     <string id="4Dd2xgPm" text="Peso" />
     <string id="4PrfimcK" text="Broche" />
     <string id="4wLU6s4S" text="Abdômem" />
-    <string id="5anoN5EJ" text="Teste suas habilidades de combate nesta caótica e clássica versão baseada em time contra time." />
     <string id="5LpufKs7" text="Siga-me" />
     <string id="5mSKBidd" text="Forma do nariz" />
     <string id="5odwu8qB" text="Classificada" />
@@ -111,7 +110,6 @@
     <string id="CjPiabbn" text="Disparar à vontade" />
     <string id="CJr1T7jh" text="Senha de administrador" />
     <string id="cK5DE88I" text="N/A" />
-    <string id="CKtZ7bES" text="Alcance o limite de pontos com seu time ou marque mais pontos que o time inimigo até que o tempo acabe." />
     <string id="Cl3TziQE" text="Sua montaria recebeu {DAMAGE} de dano causado por queda." />
     <string id="CoxEyDa8" text="Manopla" />
     <string id="cPbHqGrI" text="Expulsar jogador" />
@@ -134,7 +132,7 @@
     <string id="EX4bKRbV" text="Contagem de óbitos" />
     <string id="F09emT1k" text="Unidades de cerco primário de face" />
     <string id="f4ZeGAJi" text="Velocidade do projétil: {SPEED} m / s" />
-    <string id="f5y9qyDb" text="Arm" />
+    <string id="f5y9qyDb" text="Braço" />
     <string id="F6dUDgg3" text="Derrota" />
     <string id="F70rOpkK" text="Capitão" />
     <string id="fFLBT9wb" text="Tórax" />
@@ -150,6 +148,7 @@
     <string id="G1HobbjU" text="Capitão de Batalha" />
     <string id="g6cHDWJF" text="Cabeça" />
     <string id="GaF4CvmX" text="Nitidez da face" />
+    <string id="GcosVDAt" text="Contador de assistências" />
     <string id="gFmkNiTo" text="ir para posição" />
     <string id="GnKCsV44" text="Compr. do queixo" />
     <string id="GoEo27il" text="Período de reaparecimento dos atacantes" />
@@ -182,6 +181,7 @@
     <string id="JetpbYv9" text="Mancha" />
     <string id="JPimShCw" text="Tipo de jogo" />
     <string id="jsqyGWGu" text="Defensores:porcentagem de ganho de ouro" />
+    <string id="jukzZmBb" text="Ganhe ouro e pontos matando inimigos e ajudando seus companheiros de equipe, contra a equipe adversária para a obter a vitória." />
     <string id="jUsEkEBt" text="Assimetria da mandíbula" />
     <string id="jvOYgHOe" text="Personalizado" />
     <string id="JW2nEe4X" text="Dano em aliado, com arma de curta distância" />
@@ -216,6 +216,7 @@
     <string id="NE7PmH7n" text="Condições" />
     <string id="NqarFr4P" text="Opções" />
     <string id="nt5MOuwo" text="Dunas" />
+    <string id="nUR7rs6y" text="Entre em ação nesta versão medieval do clássico modo de jogo PvP." />
     <string id="nXE6eV8W" text="Lagos" />
     <string id="NxeQasMb" text="{SHORTCUT} Disparar" />
     <string id="o5Ead68n" text="Sair sem salvar" />
@@ -244,7 +245,7 @@
     <string id="Q2EmU0TA" text="Limite de pontos da equipe" />
     <string id="Q2yjFlC9" text="Retenção" />
     <string id="q8lsn0U6" text="Conduza seu próprio destacamento de tropas para a batalha neste modo de jogo PvP baseado em equipe. Controle o campo de batalha para desmoralizar o time inimigo ou aniquilar suas forças para sair vitorioso." />
-    <string id="QDU03vOW" text="Causou {DAMAGE} {DAMAGE_TYPE} de dano ao objeto." />
+    <string id="QDU03vOW" text="Causou {DAMAGE} de dano do tipo {DAMAGE_TYPE} ao objeto." />
     <string id="qeSbaPWi" text="Número de bots da equipe 1" />
     <string id="qF5pJt7e" text="Assimetria ocular" />
     <string id="Qhl77Oki" text="Ajudado a eliminar {TROOP_NAME}" />
@@ -253,7 +254,7 @@
     <string id="qNRc3pXu" text="Preencher" />
     <string id="qnxJYAs7" text="Equipe" />
     <string id="QTr6UDAa" text="Parar" />
-    <string id="R3BwLVmT" text="Causado {DAMAGE} de dano do tipo: {DAMAGE_TYPE}." />
+    <string id="R3BwLVmT" text="Causou {DAMAGE} de dano do tipo {DAMAGE_TYPE}." />
     <string id="R4Gqskgq" text="Vitória" />
     <string id="rbYITcao" text="Boca" />
     <string id="rbz1Bwbv" text="Inventário" />
@@ -274,7 +275,7 @@
     <string id="sZxSeeXp" text="Números de jogadores para encerrar o aquecimento" />
     <string id="t2Oh6uty" text="Mensagem de boas-vindas" />
     <string id="t78atYqH" text="Duas mãos" />
-    <string id="tAeflOpj" text="Recebeu dano {DAMAGE} {DAMAGE_TYPE}." />
+    <string id="tAeflOpj" text="Recebeu {DAMAGE} de dano do tipo {DAMAGE_TYPE}." />
     <string id="tAyw51tM" text="Permitir bandeiras individuais" />
     <string id="TDy1GZHv" text="Batalha de escaramuças" />
     <string id="tE1VwKTZ" text="Machado de arremesso" />
@@ -303,8 +304,8 @@
     <string id="Umb8XsZH" text="Perfurar" />
     <string id="umhwsoqb" text="Escolha sua tropa no início da rodada e para os reaparecimentos adicionais usando ouro." />
     <string id="uPLRkTZr" text="Crie tropas melhores usando ouro, dependendo do sucesso no cerco." />
-    <string id="UQabkhbG" text="Montagem cobrada por {DAMAGE} {DAMAGE_TYPE} danos." />
-    <string id="UrZvjCfE" text="Sua montaria recebeu dano {DAMAGE} {DAMAGE_TYPE}." />
+    <string id="UQabkhbG" text="Montaria causou {DAMAGE} de dano do tipo {DAMAGE_TYPE}." />
+    <string id="UrZvjCfE" text="Seu cavalo recebeu {DAMAGE} de dano do tipo {DAMAGE_TYPE}." />
     <string id="UUKzc88q" text="Câmera para espectadores" />
     <string id="UvIsHvrt" text="Rio" />
     <string id="UwXP9UAR" text="Bom" />

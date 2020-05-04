@@ -224,6 +224,7 @@
     <string id="QlbkxoSp" text=" {TOOLTIP_TROOPS} ({PARTY_SIZE})" />
     <string id="qRqnrtdX" text="Owner" />
     <string id="qSi4DlT4" text="Food" />
+    <string id="QSPrSsHv" text="No Saddle!" />
     <string id="QXBf26Rv" text="Unknown Behavior" />
     <string id="QyVbwGLp" text="{PARTY_SIZE}" />
     <string id="qZvNIVGV" text="There is no one available in your clan who can lead a party right now." />
@@ -278,6 +279,7 @@
     <string id="vOojEcIf" text="You cannot assign a prisoner member as a new party leader" />
     <string id="Vq8yavES" text="Already in army." />
     <string id="VtWa9Pmh" text="Raiding {TARGET_SETTLEMENT}." />
+    <string id="VzCoqt8D" text="No sadle equipped. -10% penalty to mounted speed and maneuver." />
     <string id="VZjxs5Dt" text="Owner of " />
     <string id="W1tsTWZv" text=" {PARTY_MEMBER.LINK} ({MEMBER_HEALTH}%)" />
     <string id="w8Yzf0F0" text="Destroyed" />

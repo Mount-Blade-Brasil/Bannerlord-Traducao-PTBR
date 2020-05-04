@@ -7,6 +7,7 @@
     <string id="0GKH29JG" text="Mercenary Guard" />
     <string id="0GkJB08d" text="Sturgian Veteran Caravan Guard" />
     <string id="0Xku0LQD" text="Sturgia Peasant" />
+    <string id="1gAasy1t" text="Lake Rat Veteran" />
     <string id="1PsLlMaQ" text="Imperial Equite" />
     <string id="1sJcKkVP" text="Guard" />
     <string id="1WfDVpya" text="Sturgian Archer" />
@@ -23,6 +24,7 @@
     <string id="5JFkQn5U" text="Khuzait Militia Veteran Archer" />
     <string id="6C3OMP1X" text="Battanian Scout" />
     <string id="6hhspFvz" text="Khuzait Veteran Caravan Guard" />
+    <string id="6j9iJMRr" text="Lake Rat Recruit" />
     <string id="6oc7CXbI" text="Aserai Veteran Faris" />
     <string id="6UFEfIJV" text="Khuzait Spear Infantry" />
     <string id="79ElOr2x" text="Horse Trader" />
@@ -48,7 +50,6 @@
     <string id="afhXdjBU" text="Nomad" />
     <string id="AlmaRAib" text="RuralNotableNotary" />
     <string id="AloMryIU" text="Vlandian Light Cavalry" />
-    <string id="ansW4mx2" text="Aserai Townswoman" />
     <string id="AoFZUbun" text="Aserai Vanguard Faris" />
     <string id="arb5nRri" text="Aserai Tribesman" />
     <string id="AssCCFew" text="Mercenary Horseman" />
@@ -57,9 +58,9 @@
     <string id="B4ls6R2b" text="Aserai Master Archer" />
     <string id="b4QPaEnA" text="Battanian Militia Archer" />
     <string id="B7oI7AZG" text="Khuzait Khan's Guard" />
-    <string id="baAQDdE5" text="Vlandia Townswoman" />
     <string id="BBJKgKj2" text="Sturgian Recruit" />
     <string id="BbTpfJ7G" text="Dranton" />
+    <string id="BC5YGna3" text="Lake Rat Wrecker " />
     <string id="bFyidmyK" text="Sturgia preset" />
     <string id="bHx8jaeI" text="Warrior" />
     <string id="bLMGbLF8" text="PreacherNotary" />
@@ -200,7 +201,6 @@
     <string id="pzmgMODE" text="Sturgian Caravan Guard" />
     <string id="q7b4pQc9" text="Seasoned Wolf" />
     <string id="q7VeZazL" text="Battanian Skirmisher" />
-    <string id="Q7wFotYV" text="Battania Townswoman" />
     <string id="qAsnj7vU" text="Imperial Elite Menavliaton" />
     <string id="qAvxmnav" text="Jawwal Bedouin" />
     <string id="QbSjMefR" text="Vlandian Caravan Master" />
@@ -210,7 +210,6 @@
     <string id="QGPAEtj7" text="Varyag Veteran" />
     <string id="QhNpvW0Y" text="Khuzait Torguud" />
     <string id="QlVeZvbv" text="Aserai Veteran Caravan Guard" />
-    <string id="qMqRkvWu" text="Sturgia Townswoman" />
     <string id="qMYpZKWo" text="Principes" />
     <string id="QNKfXvuA" text="Imperial Signifier" />
     <string id="Qo2cc7bF" text="Skene" />
@@ -262,7 +261,6 @@
     <string id="uzwfybTH" text="Khuzait Footman" />
     <string id="V1hoeBch" text="Master Thug" />
     <string id="V7iJlSuT" text="sword to sword" />
-    <string id="V8GrFH4B" text="Khuzait Townswoman" />
     <string id="v8hRrmY2" text="Battanian Armed Trader" />
     <string id="VbWtdAWn" text="Sturgian Hardened Brigand" />
     <string id="vGFdbjFC" text="Vlandian Militia Veteran Spearman" />
@@ -273,7 +271,6 @@
     <string id="vZlMfmng" text="Aserai Mameluke Axeman" />
     <string id="W2WXkiAh" text="Ransom Broker" />
     <string id="w6YwFaG7" text="Khuzait Spearman" />
-    <string id="WbH2HS8j" text="Empire Townswoman" />
     <string id="WEHDGbEE" text="Khuzait Caravan Master" />
     <string id="WJbOQSiT" text="Aserai Mameluke Regular" />
     <string id="WNU7kE5N" text="Veteran Guardian" />

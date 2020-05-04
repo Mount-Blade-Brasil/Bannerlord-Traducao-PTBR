@@ -45,7 +45,7 @@
     <string id="1PwQxaOu" text="Estão em andamento os preparativos para um torneio. O prêmio é {ITEM}." />
     <string id="1pxLpZ4r" text="Calculando:" />
     <string id="1sJcKkVP" text="Guarda" />
-    <string id="1wHTYnxh" text="You've supported the conspiracy against the Empire!" />
+    <string id="1wHTYnxh" text="Você apoiou a conspiração contra o Império!" />
     <string id="1wkANMRC" text="Nosso plano é tentar manter essa passagem estreita." />
     <string id="1XVvU23F" text="Não foi possível usar o texto da área de transferência como chave de propriedades!" />
     <string id="1Zq8mzzJ" text="Bem, agora. Vamos ver que tipo de mosca tropeçou em nossa web." />
@@ -244,7 +244,7 @@
     <string id="9esIWdDC" text="Então, acho que precisamos fazer um exemplo de você. Não se preocupe em pedir misericórdia.[ib:aggressive][rb:very_negative]" />
     <string id="9FhdRKWu" text="Faca de arremesso" />
     <string id="9gNjg4P0" text="Seu jogo não será salvo. Tem certeza de que deseja sair para o menu principal?" />
-    <string id="9iycVtyV" text="Taxa de aprendizagem:x {COUNT}" />
+    <string id="9iycVtyV" text="Taxa de aprendizagem: x{COUNT}" />
     <string id="9NjDfz5Z" text="({LEFT} / {RIGHT})" />
     <string id="9PLNQrWw" text="Você escuta poucas reclamações e as pessoas parecem confiar em seus senhores." />
     <string id="9pwIt4aa" text="Cera" />
@@ -257,7 +257,7 @@
     <string id="A1tkQyBb" text="{KINGDOM_NAME} is now defeated. You've failed!" />
     <string id="a3hmB91k" text="Construa e opere as maquinas de cerco. Use com sucesso as maquinas de cerco ofensivamente ou defensivamente." />
     <string id="A3T5z4Mv" text="Defensivo" />
-    <string id="a3uKkLez" text="{LORD.LINK} está no campo próximo {SETTLEMENT_NAME}" />
+    <string id="a3uKkLez" text="{LORD.LINK} está no campo próximo de {SETTLEMENT_NAME}" />
     <string id="a47CpGXN" text="Níveis de energia" />
     <string id="a5j1v7tM" text="Ouvimos o que aconteceu com outras pessoas que se recusaram a se juntar à sua causa. Não queremos terminar como eles e não há como lutar com você. Usaremos suas cores a partir de agora, mesmo não gostando de você." />
     <string id="a6D6Ga2F" text="Alcance da arma:" />
@@ -346,7 +346,7 @@
     <string id="baHmYsx3" text="Arma de duas mãos" />
     <string id="baIUUw1c" text="Use sua própria influência para aumentar a influência do clã selecionado" />
     <string id="BANC61K5" text="Personagem anterior" />
-    <string id="bB4602W2" text="Dano de pressão {THRUST_DAMAGE_TYPE}:" />
+    <string id="bB4602W2" text="Dano de estocada {THRUST_DAMAGE_TYPE}:" />
     <string id="bBXGPgwe" text="minha filha {REFERING_HERO.LINK}" />
     <string id="bC5aMfG0" text="Aldeias" />
     <string id="bcmlu1ml" text="{?ASKED_LORD.GENDER}Ela é prisioneira{?}Ele é prisioneiro{\?} do {PRISON_PARTY_LEADER.LINK}." />
@@ -511,8 +511,8 @@
     <string id="DyarV8i7" text="Já existe uma decisão proposta para esta política." />
     <string id="dyLYsWPf" text="Garantir a presença beneficia de bônus" />
     <string id="dyY3hkH1" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} e {?}{\?}{TROOP_NAMES_END}{?IS_PLURAL}estão{?}está{?} carregando uma formação inimigas diferente{\?}." />
-    <string id="Dzntsudy" text="Você causou {AMOUNT} {DAMAGE_TYPE} danos em {VICTIM_NAME} ({LOST_HP_PERCENTAGE}% HP)." />
-    <string id="E05lmb5n" text="Sua relação com {HERO_NAME} vai &lt;a style=&quot;DecreaseStyle&quot; &gt;&lt;b&gt;diminuiu&lt;/b&gt;&lt;/a&gt;" />
+    <string id="Dzntsudy" text="Causou {AMOUNT} {DAMAGE_TYPE} danos em {VICTIM_NAME} ({LOST_HP_PERCENTAGE}% HP)." />
+    <string id="E05lmb5n" text="Sua relação com {HERO_NAME} vai &lt;a style=&quot;DecreaseStyle&quot; &gt;&lt;b&gt;diminuir&lt;/b&gt;&lt;/a&gt;" />
     <string id="E1OwmQFb" text="Voltar" />
     <string id="e1tZ4kEY" text="Todas as coisas" />
     <string id="e4OPfBqt" text="Abster-se" />
@@ -542,7 +542,7 @@
     <string id="ENzvOHsA" text="{ASKED_LORD.LINK} está no campo e {?ASKED_LORD.GENDER}ela{?}ele{\?} deve estar próximo a {SETTLEMENT_NAME} no momento." />
     <string id="eob9goyW" text="y" />
     <string id="eodelMzf" text="Senhora" />
-    <string id="EOhmOITp" text="Rastrear objetos de pesquisa relacionados" />
+    <string id="EOhmOITp" text="Rastrear objetos relacionados em uma pesquisa" />
     <string id="EPGDe5fG" text="Somente lobos podem capturar, saltando sobre uma ovelha para um ladrilho disponível atrás dela. A captura também segue as linhas do quadro." />
     <string id="eqAc8AOs" text="{LEFT}:" />
     <string id="es0Y3Bxc" text="Inscrever-se" />
@@ -579,6 +579,7 @@
     <string id="FbcC2loc" text="Você ficou incoconte e seus oponte tem a vitória!" />
     <string id="fd35ahzV" text="&lt;b&gt;Balestra de Fogo&lt;/b&gt;{NEWLINE}Dispara dardos com pontas em chamas.{NEWLINE}Eles causarão dano de fogo aos motores de cerco inimigos e estruturas de madeira, além de serem mortais contra soldados." />
     <string id="FD9abtTo" text="Se você apostar 100&lt;img src=&quot;Icons\Coin@2x&quot;&gt; e vencer, você ganhará {NORMALIZED_EXPECTED_GOLD} &lt;img src=&quot;Icons\Coin@2x&quot;&gt;" />
+    <string id="FdTd3yIx" text="As alterações feitas não podem ser aplicadas. Deseja redefinir e alterar a tela?" />
     <string id="fEqd7jXj" text="{EFFECT_NAME}:+{NUM}" />
     <string id="fEu5S6Bd" text="Distância" />
     <string id="fEXuXAl1" text="Moral do Exército: {ARMY_MORALE}{newline}{ARMY_MORALE_ITEMS}" />
@@ -649,14 +650,14 @@
     <string id="gPAkLi7l" text="({STR})" />
     <string id="GPESFoWD" text="Onagro" />
     <string id="GPW3ku2Y" text="{?RULER.GENDER}Princesa{?}Príncipe{\?} {RULER.NAME}" />
-    <string id="Gre2v55i" text="Potência:{POWER}" />
+    <string id="Gre2v55i" text="Renome: {POWER}" />
     <string id="GRX8NjWI" text="Tamanho" />
     <string id="gSVaitFE" text="Invadindo {SETTLEMENT_NAME}" />
     <string id="gsVtO9A7" text="Milícia" />
     <string id="gT5zJaD7" text="O inimigo me deixou sem sentido" />
     <string id="gTlW1qOB" text="Este item é {PERCENTAGE}% mais barato que a média" />
     <string id="GUBcQZ3J" text="Conformidade atual do prisioneiro" />
-    <string id="gY8kkujq" text="A batalha acabou! Pressione a tecla Tab para sair..." />
+    <string id="gY8kkujq" text="A batalha acabou! Pressione a tecla 'Tab' para sair..." />
     <string id="gYATKZJp" text="{NUMBER}%" />
     <string id="GYhHacVk" text="Você ganhou 1 ponto pelo acerto!" />
     <string id="gZmQvtxm" text="Telhado de aríete" />
@@ -722,8 +723,8 @@
     <string id="iCirZbD8" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} e {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}estão{?}está{\?} atirando nas muralhas." />
     <string id="icmyseoo" text="Meu senhor" />
     <string id="IcQ2doLo" text="x {CANTITY}" />
-    <string id="id62me1x" text="Pressione &quot;Sitie&quot;" />
-    <string id="IdUKVyoF" text="{FIRST_NAME} o {JOB_NAME}" />
+    <string id="id62me1x" text="Pressione 'Sitiar'" />
+    <string id="IdUKVyoF" text="{FIRST_NAME} {JOB_NAME}" />
     <string id="IF7zS5ia" text="Você excedeu o limite de prisioneiros.{newline}Você prenderá temporariamente seus prisioneiros, mas depois de um tempo eles escaparão. Você também ficará mais lento.{newline}Tem certeza?" />
     <string id="iFg5N7r3" text="Arma de uma mão" />
     <string id="Igoid3sR" text="Proponha a expulsão deste clã do reino" />
@@ -861,7 +862,7 @@
     <string id="KTGG9EgL" text="Viagens seguras! Não se deixe roubar por ninguém além de nós!" />
     <string id="Ktk2FaFn" text="Partes ({CURRENT}\{LIMIT})" />
     <string id="KUEHAD4U" text="Missões" />
-    <string id="kUh3nsAF" text="You've found the third and final banner piece!" />
+    <string id="kUh3nsAF" text="Você encontrou a terceira e última peça do estandarte!" />
     <string id="kuKad3dj" text="{MISSION_MODE}" />
     <string id="kuLjsNgz" text="Rural notável" />
     <string id="kvykuTJS" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} e {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}está{?}estão{\?} estão as atacando armas de cerco." />
@@ -895,7 +896,7 @@
     <string id="lihYjOSc" text="pcs" />
     <string id="lj8XH6O7" text="Não é possível acessar a janela do reino agora!" />
     <string id="LJwKdMdw" text="Aguarde seu oponente entrar na posição" />
-    <string id="LL6GkIfg" text="Se você conseguir derrotar {OPPONENT_COUNT_1} oponentes antes de cair, ganhará {PRIZE_1}{GOLD_ICON}. Você receberá {PRIZE_2}{GOLD_ICON} por derrubar pelo menos {OPPONENT_COUNT_2 } oponentes, {PRIZE_3}{GOLD_ICON} se você puder derrotar {OPPONENT_COUNT_3} oponentes receberá {PRIZE_4}{GOLD_ICON} se você sobreviver o tempo suficiente para vencer os oponentes {OPPONENT_COUNT_4}. Se você conseguir ser o último lutador em pé, você ganhará o grande prêmio de {PRIZE_5}{GOLD_ICON}. Parece bom, não é? [rb:trivial]" />
+    <string id="LL6GkIfg" text="Se você conseguir derrotar {OPPONENT_COUNT_1} oponentes antes de cair, ganhará {PRIZE_1}{GOLD_ICON}. Você receberá {PRIZE_2}{GOLD_ICON} por derrubar pelo menos {OPPONENT_COUNT_2} oponentes, {PRIZE_3}{GOLD_ICON} se você puder derrotar {OPPONENT_COUNT_3} oponentes receberá {PRIZE_4}{GOLD_ICON} se você sobreviver tempo suficiente para vencer os oponentes {OPPONENT_COUNT_4}. Se você conseguir ser o último lutador em pé, você ganhará o grande prêmio de {PRIZE_5}{GOLD_ICON}. Parece bom, não é? [rb:trivial]" />
     <string id="Ll90uaxu" text="Defesa bem sucedida" />
     <string id="LmwhFv5p" text="Carne" />
     <string id="lnKAqDVM" text="Defender a posição da chave" />
@@ -958,12 +959,12 @@
     <string id="MqCH7R4A" text="Segurança" />
     <string id="MqsWixDp" text="Recuar!" />
     <string id="MRktqZwu" text="Foco de habilidade" />
-    <string id="MrtzlaYt" text="Durante as batalhas, pressionando a tecla Alt mostrará a localização das tropas inimigas e aliadas." />
+    <string id="MrtzlaYt" text="Durante as batalhas, pressionando a tecla 'Alt' mostrará a localização das tropas inimigas e aliadas." />
     <string id="mSPDO0Fe" text="Você está preso por inimigos. Você não está em condições de lutar. Sua única opção é se render." />
     <string id="MT4b8H9h" text="Desconhecido" />
-    <string id="mtndRgOg" text="You've started the conspiracy against the Empire!" />
+    <string id="mtndRgOg" text="Você começou a conspiração contra o império!" />
     <string id="mTTWkewD" text="Dar" />
-    <string id="MUCmJaXQ" text="Governante de {FACTION}" />
+    <string id="MUCmJaXQ" text="Governante da facção {FACTION}" />
     <string id="MW8rlyfL" text="Jogar" />
     <string id="mwegfVKr" text="Cerebral" />
     <string id="MWGATOoz" text="O torneio será uma luta em grupo corpo a corpo." />
@@ -1043,7 +1044,7 @@
     <string id="OhLXo0gb" text="Governador Criminal" />
     <string id="OIBpCGYv" text="Este grupo diminuirá de tamanho. Seu tamanho atual é {TARGET_SIZE}" />
     <string id="OiCCv0EL" text="A vila está passando por momentos difíceis. As ferramentas estão enferrujadas e quebradas. Mato e ervas daninhas estão tomando todo o campo." />
-    <string id="OikiOJgf" text="You've found the second banner piece!" />
+    <string id="OikiOJgf" text="Você encontrou o segundo pedaço de estandarte!" />
     <string id="oiSW6MyB" text="Armadura do peitoral" />
     <string id="OJbpmlXu" text="Arqueiro" />
     <string id="OJmC1Ckc" text="Oponentes restantes: {REMAINING_OPPONENT_COUNT}" />
@@ -1089,7 +1090,7 @@
     <string id="PE4nuMc7" text="Esta página explica os conceitos de jogo no Bannerlord" />
     <string id="PEKxMxal" text="STUB: Agora você pode escapar." />
     <string id="pEm60xEX" text="Seu oponente capturou um peão." />
-    <string id="pERXhX7A" text="You've found the first banner piece!" />
+    <string id="pERXhX7A" text="Você encontrou o primeiro estandarte!" />
     <string id="pftVKkgq" text="Para acompanhar um assentamento no mapa da campanha, pressione o círculo ao lado do nome." />
     <string id="pgbC8UkU" text="Rebelião" />
     <string id="pgd7Dp78" text="Residências" />
@@ -1122,11 +1123,11 @@
     <string id="pSjnd6PX" text="Você perdeu o duelo. Seu exército está desanimado com sua derrota. Seu grupo perdeu moral." />
     <string id="PSN8IaIg" text="Escudos" />
     <string id="pSWt8NXH" text="Assaltando {SETTLEMENT_NAME} ({RAIDING_PROCESS}%)" />
-    <string id="pSz4xSqO" text="Habilidade {SKILL_NAME} do herói precisa ser {MIN_SKILL_AMOUNT} ou maior." />
+    <string id="pSz4xSqO" text="Habilidade de {SKILL_NAME} do herói precisa ser {MIN_SKILL_AMOUNT} ou maior." />
     <string id="pT9TZehy" text="Acampamento" />
     <string id="PUjDWe5j" text="Cultura" />
     <string id="puwXJDa9" text="Prosperidade:" />
-    <string id="PVidxUQ8" text="Estoque de Alimento" />
+    <string id="PVidxUQ8" text="Estoq. de Comida" />
     <string id="PVUeymMR" text="Em progresso" />
     <string id="pwFp1A5W" text="Sádico" />
     <string id="PylbJEe5" text="Homem #" />
@@ -1179,7 +1180,7 @@
     <string id="QPoA6vvx" text="Renda" />
     <string id="qQLh6S2w" text="SP {CURRENTAMOUNT}/{TARGETAMOUNT}" />
     <string id="qR0s1VvE" text="Você ouve algumas reclamações sobre preços, escassez e comerciantes gananciosos, mas nada fora do normal." />
-    <string id="QrfyFfk0" text="Pressione &quot;Tomar uma ação hostil&quot;" />
+    <string id="QrfyFfk0" text="Pressione 'Tomar uma ação hostil'" />
     <string id="qRqnrtdX" text="Proprietário" />
     <string id="qsh0I4Rm" text="Seu oponente rola um {DICE_ROLL}." />
     <string id="qSi4DlT4" text="Comida" />
@@ -1188,7 +1189,7 @@
     <string id="qtII2HbK" text="Fortuna" />
     <string id="qtmj7h2r" text="0" />
     <string id="qUtYks66" text="O exército de {ARMY_LEADER.LINK} está se reunindo próximo a {SETTLEMENT_NAME}." />
-    <string id="QVChn4mG" text="Comida também é uma mercadoria. Você pode encontrar mercadorias facilmente com o &quot;Diversos&quot; filtro." />
+    <string id="QVChn4mG" text="Comida também é uma mercadoria. Você pode encontrar mercadorias facilmente com os diversos filtros." />
     <string id="QWqvGa1P" text="Vaca" />
     <string id="r312jCKr" text="Propor Paz" />
     <string id="R4eS65oX" text="Alguns dos aldeões furiosos pegam suas ferramentas e se preparam para resistir a você. Parece que você terá uma briga em suas mãos se continuar." />
@@ -1276,9 +1277,9 @@
     <string id="t5X1TNBq" text="Use maquinas de cerco{?IS_GENERAL_SIDE}{?} em {SIDE_STRING} lado{\?}" />
     <string id="t6DiaDQ3" text="um mendigo" />
     <string id="t6NXmyoF" text="{.a} {STR}" />
-    <string id="t6xdCj43" text="Oh, na verdade nós podemos. Na verdade nós podemos, desde que você tenha uma bolsa gorda e esteja pronto para liberá-la, é claro.[ib:hip][rb:trivial]" />
+    <string id="t6xdCj43" text="Oh, na verdade nós podemos. Na verdade podemos, desde que você tenha uma bolsa gorda e esteja pronto para deixar ela comigo, é claro.[ib:hip][rb:trivial]" />
     <string id="t78atYqH" text="Duas mãos" />
-    <string id="taaNCsVZ" text="Você vence o torneio ao derrubar  {TOURNAMENT_FINAL_OPPONENT} na última rodada." />
+    <string id="taaNCsVZ" text="Você vence o torneio ao vencer {TOURNAMENT_FINAL_OPPONENT} na última rodada." />
     <string id="TCQQRQgI" text="Ordem de batalha" />
     <string id="tDA5dhn3" text="imperatriz" />
     <string id="tDDG7gPa" text="Número de soldados saudáveis" />
@@ -1286,7 +1287,7 @@
     <string id="tDy1TfDq" text="Volte para o herói" />
     <string id="tdYB3Tzc" text="Refazer" />
     <string id="tE1VwKTZ" text="Machado de arremesso" />
-    <string id="Te4xxzzK" text="Denars" />
+    <string id="Te4xxzzK" text="Denares" />
     <string id="TeWnL9bh" text="meu marido {REFERING_HERO.LINK}" />
     <string id="TgtdcMGS" text="Uma mosca que se meche e luta um pouco, podemos lidar com isso..." />
     <string id="Th42XRQp" text="Tenho um problema disponível" />
@@ -1313,6 +1314,7 @@
     <string id="TvmDFK6o" text="{REWARD}" />
     <string id="TVQXa0y0" text="Você venceu a Batalha!" />
     <string id="Txbga7js" text="Você se depara com uma batalha entre {ATTACKER} e {DEFENDER}" />
+    <string id="Txbga7jx" text="Defensores estão fazendo uma investida contra o acampamento de cerco que você está dentro" />
     <string id="TxeKpK3Y" text="Sua relação aumentou de {MAGNITUDE} para {VALUE} com {HERO.NAME}." />
     <string id="tXl9REtA" text="Milícia de {SETTLEMENT_NAME}" />
     <string id="Tyc4aAdz" text="Entre na batalha sem liderar nenhum homem." />
@@ -1451,8 +1453,8 @@
     <string id="WSk5Sibs" text="Queijo" />
     <string id="WSoZkkqD" text="Carcereiro" />
     <string id="wtDdqXGW" text="Estou feliz que você respeite nossos privilégios antigos e sagrados." />
-    <string id="wTEYR4kc" text="You've chosen to pledge your alliance to the {KINGDOM_NAME}!" />
-    <string id="WTR5Lr8W" text="Os defensores vencem quando podem mover seu rei para qualquer borda do tabuleiro.{newline}Os atacantes vencem quando capturam o rei, ou se impedem que todos os defensores se movam." />
+    <string id="wTEYR4kc" text="Você escolheu comprometer sua aliança com a {KINGDOM_NAME}!" />
+    <string id="WTR5Lr8W" text="Os defensores vencem quando podem mover seu rei para qualquer borda do tabuleiro.{newline}Os atacantes vencem quando capturam o rei, ou se impedirem que todos os defensores se movam." />
     <string id="wTT3Fyzl" text="senhor" />
     <string id="WusvipsF" text="Fundos insuficientes!" />
     <string id="WVAUoXMY" text="{CURRENT_XP} / {LEVEL_MAX_XP} Experiência" />
@@ -1482,11 +1484,11 @@
     <string id="xgwjHi1p" text="Rejeitar" />
     <string id="xHc1xhG8" text="Elimine o inimigo dentro do castelo." />
     <string id="XJ6EG3Pa" text="+{BONUS_AMOUNT} bônus de estoques de alimentos" />
-    <string id="xKa6TwEX" text="Ficar em {SETTLEMENT_NAME}" />
+    <string id="xKa6TwEX" text="Descansando em {SETTLEMENT_NAME}" />
     <string id="xMwyMGtc" text="Ex-cunhado" />
     <string id="XnsAbUE3" text="Dispensar" />
     <string id="xo2zvOir" text="Seu oponente não pode fazer nenhum movimento. Pulando a vez." />
-    <string id="xORASoex" text="Você pode clicar em &quot;+&quot; para adicionar 10 de coesão. Esteja ciente de que aumentá-lo custa alguma influência." />
+    <string id="xORASoex" text="Você pode clicar em '+' para adicionar 10 de coesão. Esteja ciente de que aumentá-lo custa alguma influência." />
     <string id="xq62HAIO" text="Proteger{?IS_GENERAL_SIDE}{?} {SIDE_STRING}{\?} flanco do aliado {TARGET_FORMATION}" />
     <string id="xqN16a4k" text="Jogo de Tabuleiro" />
     <string id="XqV3x4i3" text="Após a seleção, esta opção avançará a tentativa de persuasão para o próximo estágio." />
@@ -1537,7 +1539,7 @@
     <string id="YifFZaG7" text="Proprietário do Grupo" />
     <string id="Yj0cQVLH" text="Investida!" />
     <string id="YJaNtktT" text="Recrutar Todos" />
-    <string id="yjXoftYs" text="Visto pela última vez {?IS_IN_SETTLEMENT}em{?}próximo a{\?} {SETTLEMENT} {?IS_TODAY}hoje{?}{DAY_VALUE} dias atrás{\?}." />
+    <string id="yjXoftYs" text="Visto pela última vez {?IS_TODAY}hoje{?}{DAY_VALUE} dias atrás{\?} {?IS_IN_SETTLEMENT}em{?}próximo a{\?} {SETTLEMENT}." />
     <string id="YK3nXtoM" text="Amigos" />
     <string id="YkagFP1z" text="minha mãe {REFERING_HERO.LINK}" />
     <string id="ykZLXKH3" text="Renome: {RENOWN}" />

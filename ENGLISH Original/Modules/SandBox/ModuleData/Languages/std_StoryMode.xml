@@ -56,7 +56,7 @@
     <string id="5HXS8HEY" text="your brawn" />
     <string id="5j6qvGAF" text="Excellent work! When you unfurl this banner and men see it what they thought was lost, it will make a powerful impression." />
     <string id="5JTEvvaO" text="{EXP_VALUE} Skill Level and {FOCUS_VALUE} Focus Point to {SKILL_ONE} and {SKILL_TWO}\n{ATTR_VALUE} attribute point to {ATTR_NAME}{TRAIT_DESC}{RENOWN_DESC}{GOLD_DESC}" />
-    <string id="5K4wvz3w" text="Find and meet {HERO.LINK} to learn more about Neretzes's Banner. He is currently in {SETTLEMENT}." />
+    <string id="5K4wvz3w" text="Find and meet {HERO.LINK} to learn more about Neretzes' Banner. He is currently in {SETTLEMENT}." />
     <string id="5kbeAC7k" text="In wartorn Calradia, especially in frontier or tribal areas, some women as well as men learn to fight from an early age. You..." />
     <string id="5LJTeOBT" text="I was with a caravan and they just came out of the brush. We were surrounded and outnumbered, so we gave up. I figured they'd keep us alive, if just for the ransom. But then they started flogging us along at top speed, without any water, and I was just about ready to drop." />
     <string id="5Mw4trfs" text="Once you've made your preparations, come and talk to me again. I may have a task for you if you are going after the raiders." />
@@ -145,7 +145,7 @@
     <string id="bESRdcRo" text="Rebuild Your Clan" />
     <string id="bhdkegZ4" text="All towns had their share of projects that were constantly in need of both skilled and unskilled labor. You learned how hoists and scaffolds were constructed, how planks and stones were hewn and fitted, and other skills." />
     <string id="bhE2i6OU" text="served as a baron's groom" />
-    <string id="bhQ6Jbom" text="You come across a chest with an old piece of bronze in it. It's so battered and corroded that it could have been anything from a cup to a crown. This must be the chest {TACTEOS.NAME} mentioned to you, that had something to do with 'Neretzes's Folly'." />
+    <string id="bhQ6Jbom" text="You come across a chest with an old piece of bronze in it. It's so battered and corroded that it could have been anything from a cup to a crown. This must be the chest {TACTEOS.NAME} mentioned to you, that had something to do with 'Neretzes' Folly'." />
     <string id="bjVMtW3W" text="Your family were merchants who lived in one of Sturgia's great river ports, organizing the shipment of the north's bounty of furs, honey and other goods to faraway lands." />
     <string id="bKfi6ta6" text="You must gather a considerable amount of men." />
     <string id="bkZFbCRx" text="We're looking for two children captured by the raiders. Can you tell us anything?" />
@@ -272,7 +272,7 @@
     <string id="GZaYmg95" text="You've successfully finished the sword tutorial." />
     <string id="h2KnarLL" text="trained with the cavalry" />
     <string id="h31YaM4b" text="Mount the horse." />
-    <string id="h9VP4ypW" text="Find and meet {HERO.LINK} to learn more about Neretzes's Banner. She is currently in {SETTLEMENT}." />
+    <string id="h9VP4ypW" text="Find and meet {HERO.LINK} to learn more about Neretzes' Banner. She is currently in {SETTLEMENT}." />
     <string id="hadftxlO" text="We have strayed too far from our path. I'll take the lead for some time. You follow me." />
     <string id="HDBkwjgf" text="{NOBLE_ANSWER}" />
     <string id="HddJT1Ve" text="I wasn't there. I know {HERO.LINK} has some thoughts about it." />
@@ -282,11 +282,11 @@
     <string id="HhuBPfJn" text="Go to the trainer." />
     <string id="HL9lzfjY" text="Of course I can. You know my name, whose son I am." />
     <string id="hnFkhPhp" text="This option is disabled during tutorial stage." />
-    <string id="HOb07MJF" text="I don’t know much about it. I know two who might, though. {IMPERIAL_MENTOR.LINK} - she once served as Neretez's unofficial spymaster. Then there's {ANTI_IMPERIAL_MENTOR.LINK}. He served on Neretzes's bodyguard, but people say now he's very different than he was back then." />
+    <string id="HOb07MJF" text="I don’t know much about it. I know two who might, though. {IMPERIAL_MENTOR.LINK} - she once served as Neretez's unofficial spymaster. Then there's {ANTI_IMPERIAL_MENTOR.LINK}. He served on Neretzes' bodyguard, but people say now he's very different than he was back then." />
     <string id="hob3WVkU" text="Your father was a member of a boyar's druzhina, the 'companions' that make up his retinue. He sat at his lord's table in the great hall, oversaw the boyar's estates, and stood by his side in the center of the shield wall in battle." />
     <string id="HqlXdzcv" text="Talk with {HEADMAN.NAME}" />
     <string id="HqzVBfpl" text="Urban traders" />
-    <string id="HskL8pEa" text="{KINGDOM_NAME} is now defeated. You've failed!" />
+    <string id="HskL8pEa" text="{KINGDOM_NAME} is now defeated. You've Failed!" />
     <string id="hUjmasXC" text="And, you must own an imperial settlement." />
     <string id="HvGW2DvS" text="Track started." />
     <string id="hXl25avg" text="Your family arranged for a private tutor and you took full advantage, reading voraciously on history, mathematics, and philosophy and discussing what you read with your tutor and classmates." />
@@ -364,7 +364,7 @@
     <string id="lD5Ob3R4" text="Maybe it was a love affair, or maybe you cheated at dice, or maybe you just chose your words poorly when drinking with a dangerous crowd. Anyway, you got into the kind of trouble from which only a quick tongue or quick feet get you out alive." />
     <string id="Lep5YKdt" text="While Neretzes’ vanguard was getting slaughtered, we met the Vlandians. But the Vlandians brought lots of crossbowmen, and our horse archers took heavy losses. Eventually the armored imperial cataphracts showed up, and rolled over the crossbows. But we were caught in a melee with the Vlandian knights, and that was where things got bloody." />
     <string id="lIArdHty" text="Yes. The day my father died, thanks to Battanian treachery." />
-    <string id="lJiEsNiQ" text="A few hours after you leave the training ground, you come across a wounded man lying under a tree. You share your water with him and try to dress his wounds as best as you can. He tells you he is a traveling doctor. To thank you for your help, he hands you a small bronze artifact which he says was once given to him in payment by a warrior who said only that it was related to 'Neretzes's Folly.' He suspects it might be of great value. You resolve to find out more." />
+    <string id="lJiEsNiQ" text="A few hours after you leave the training ground, you come across a wounded man lying under a tree. You share your water with him and try to dress his wounds as best as you can. He tells you he is a traveling doctor. To thank you for your help, he hands you a small bronze artifact which he says was once given to him in payment by a warrior who said only that it was related to 'Neretzes' Folly.' He suspects it might be of great value. You resolve to find out more." />
     <string id="lLJh7WAT" text="You worked in the marketplace, selling trinkets and drinks to busy shoppers." />
     <string id="Lmfi0cYk" text="You encouraged the few travellers in the inn to break out in a coordinated fashion. Raiders killed or captured most but you and your brother were able to escape." />
     <string id="lmG7uRK2" text="Okay" />
@@ -451,7 +451,7 @@
     <string id="qp2zYfua" text="I was hoping to find more treasure here, but I think business wasn’t going too well for {RADAGOS.NAME} and his gang." />
     <string id="qPg3IDiq" text="Your family came from one of the merchant clans that dominated the cities in eastern Calradia before the Khuzait conquest. They adjusted quickly to their new masters, keeping the caravan routes running and ensuring that the tariff revenues that once went into imperial coffers now flowed to the khanate." />
     <string id="QrYjPUEf" text="your attention to detail" />
-    <string id="qV1e0x8i" text="What is 'Neretzes's Folly'?" />
+    <string id="qV1e0x8i" text="What is 'Neretzes' Folly'?" />
     <string id="QxeKZ3nE" text="Reach Clan Tier {CLAN_TIER}" />
     <string id="r2XC8nbZ" text="{YOUTH_INTRO}" />
     <string id="R3CnF55p" text="So... Who's this that comes through my place of business, killing my employees?[if:idle_angry][ib:warrior]" />
@@ -638,7 +638,7 @@
     <string id="ZiwIZZ1y" text="Right then, to the business of bringing down this cursed Empire. As I see it, you have two options..." />
     <string id="ZkSthA9d" text="They say Olek the Old had pried the dragon banner out of the Emperor’s dead hands. But then Prince Raganvad, who had not so much as drawn his sword in the battle, claimed it as a trophy. Olek, who was covered in his enemies’ blood, laughed at Raganvad and told him to go find his own toy to play with. Raganvad struck him, so Olek broke the banner staff over his knee and threw it in his prince’s faith." />
     <string id="ZKynvffv" text="Your family owned their own workshop in a city, making goods from raw materials brought in from the countryside. Your father played an active if minor role in the town council, and also served in the militia" />
-    <string id="zLRlmitp" text="Investigate 'Neretzes's Folly'" />
+    <string id="zLRlmitp" text="Investigate 'Neretzes' Folly'" />
     <string id="Zq9qXcCk" text="You are defeated by the {RADAGOS.NAME}' Party, but your brother saved you. It doesn't look like they're going anywhere, though, so you should attack again once you're ready. You must have at least {NUMBER} members in your party. If you don't, go back to {QUEST_VILLAGE} and recruit some more troops." />
     <string id="ZqOvtLBM" text="In the confusion of the attack you shouted that someone had found treasure in the back room. You then made your way out of the undefended entrance with your brother." />
     <string id="zrpqSWSh" text="Free farmers" />

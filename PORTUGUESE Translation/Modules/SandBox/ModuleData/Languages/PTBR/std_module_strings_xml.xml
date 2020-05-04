@@ -5,6 +5,7 @@
   </tags>
   <strings>
     <string id="7ZhNilg8" text="Fácil (+bônus de 5%)" />
+    <string id="8UBfIenN" text="Normal" />
     <string id="9jSxo790" text="Realista" />
     <string id="AQfVclN8" text="Prêmio" />
     <string id="B0uvwKae" text="Escolha se os heróis podem morrer em campo de batalha." />
@@ -22,10 +23,12 @@
     <string id="IgeL6qHr" text="Taxa de dano recebida por seus aliados que não estão sob seu comando." />
     <string id="IWD56KMc" text="Velocidade de movimento" />
     <string id="JaHlwYmo" text="Você pode pressionar a tecla Alt para ver obter informações adicionais dos grupos e locais." />
+    <string id="JMhKt2W1" text="Desafiando" />
     <string id="k4CF68S6" text="Nós nos abstemos" />
     <string id="k71J6bVH" text="Vitórias" />
     <string id="KbPD5cEw" text="Reduzido em 1/3 (muito fácil)" />
     <string id="KM7uAbL8" text="Jogador receberá dano" />
+    <string id="LfpteADn" text="Determine a dificuldade da IA ​​de combate" />
     <string id="mD89ih8N" text="Alterar nome do clã" />
     <string id="N6fz1efb" text="Ignora o tutorial no início do jogo." />
     <string id="Oea9a5nY" text="Tropas amigáveis receberão dano" />
@@ -35,9 +38,11 @@
     <string id="QzmJL5I7" text="Fácil (+1 extra)" />
     <string id="raD9MK3O" text="Dificuldade" />
     <string id="ReNnVfEn" text="Alterar nome do reino" />
+    <string id="RjjIbn4V" text="Veterano" />
     <string id="RyNYEVYp" text="{RANK}." />
     <string id="RZFAxCMp" text="Muito fácil (+bônus de 10%)" />
     <string id="sp8Kred0" text="O membro precisa estar no grupo do jogador para executar esta ação." />
+    <string id="sYVFg9ai" text="Dificuldade de Combate da IA" />
     <string id="TZ9ugd1p" text="Alocar automaticamente vantagens de membros do clã" />
     <string id="UcgNVM0P" text="Muito fácil (+2 extras)" />
     <string id="UfQotsfo" text="Classificação #" />

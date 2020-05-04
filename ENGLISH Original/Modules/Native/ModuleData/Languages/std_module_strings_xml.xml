@@ -579,6 +579,7 @@
     <string id="FbcC2loc" text="You have been knocked unconscious and your opponent is granted victory!" />
     <string id="fd35ahzV" text="&lt;b&gt;Fire Ballista&lt;/b&gt;{NEWLINE}Shoots bolts with tips dipped in tar.{NEWLINE}They will deal fire damage to enemy siege engines and wooden structures as well as being deadly against soldiers." />
     <string id="FD9abtTo" text="If you wager 100&lt;img src=&quot;Icons\Coin@2x&quot;&gt; and win, you will get {NORMALIZED_EXPECTED_GOLD}&lt;img src=&quot;Icons\Coin@2x&quot;&gt;" />
+    <string id="FdTd3yIx" text="Changes you made cannot be applied. Do you want to reset and change the screen?" />
     <string id="fEqd7jXj" text="{EFFECT_NAME}: +{NUM}" />
     <string id="fEu5S6Bd" text="Distance" />
     <string id="fEXuXAl1" text="Army Morale : {ARMY_MORALE}{newline}{ARMY_MORALE_ITEMS}" />
@@ -1313,6 +1314,7 @@
     <string id="TvmDFK6o" text="{REWARD}" />
     <string id="TVQXa0y0" text="Battle won!" />
     <string id="Txbga7js" text="You come across a battle between {ATTACKER} and {DEFENDER}" />
+    <string id="Txbga7jx" text="Defenders make sally out to siege camp you are inside" />
     <string id="TxeKpK3Y" text="Your relation is increased by {MAGNITUDE} to {VALUE} with {HERO.NAME}." />
     <string id="tXl9REtA" text="Militia of {SETTLEMENT_NAME}" />
     <string id="Tyc4aAdz" text="Join the battle without leading any men." />
