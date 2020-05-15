@@ -14,6 +14,7 @@
     <string id="e0KdfaNe" text="Save As" />
     <string id="EzeFJo65" text="You have been disconnected from server!" />
     <string id="hvaDkG4w" text="Press any key." />
+    <string id="HzWaGn3y" text="Not all players are running the game with Anti-cheat" />
     <string id="InGwtrWt" text="Quit" />
     <string id="ivKntfNA" text="Already requested to join, waiting for server response" />
     <string id="IzJ7f5SQ" text="Server capacity is full" />
@@ -30,6 +31,8 @@
     <string id="srAJw3Tg" text="Player is banned from server" />
     <string id="T8IniCKU" text="Game server is not available" />
     <string id="tKSxGy5p" text="Server not responding" />
+    <string id="tlsmbvQX" text="Not all players are ready to join" />
+    <string id="TR1B2RWB" text="You are kicked from game by anti-cheat" />
     <string id="vkpMgobZ" text="Game server error" />
     <string id="wbFB3N72" text="You are kicked from game by poll" />
     <string id="wLpJEkKY" text="Battle Server Crashed" />

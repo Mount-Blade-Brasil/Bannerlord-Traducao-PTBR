@@ -174,7 +174,6 @@
     <string id="6SFktFH3" text="Medium Armor" />
     <string id="6Xl9F8Oa" text="Shops in Town" />
     <string id="6XYG7bux" text="You're going to spend {AMOUNT}{INFLUENCE_ICON}" />
-    <string id="6z2a8bgF" text="&lt;b&gt;Onager&lt;/b&gt;{NEWLINE}TODO ONAGER DESC." />
     <string id="72Rasm5f" text="We have nothing - no silver, no wares." />
     <string id="77aNVVE0" text="Renown Bonus" />
     <string id="77SdNt8C" text="Your opponent constructed a barrier against you, and you have fewer pawns left. You lost the game!" />
@@ -196,7 +195,6 @@
     <string id="7llkDelg" text="Kingdom Decisions" />
     <string id="7mRN2br0" text="Leadership of the formation has been given to {HERO_NAME}." />
     <string id="7MWaMaez" text="Here's what we've got: {ITEM_LIST}. Take them, but let us live." />
-    <string id="7nNi6vnV" text="Heroes are niceTODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO" />
     <string id="7oJ9gIeT" text="Trader does not have enough money." />
     <string id="7sUhWG0E" text="Thrust Damage: " />
     <string id="7sZMMYbe" text="Minor Faction" />
@@ -458,7 +456,6 @@
     <string id="CthDdsb6" text="Winner" />
     <string id="cThSwxbP" text="Cannot execute non-hero prisoners" />
     <string id="CXUXk5ai" text="imperials" />
-    <string id="CXZAakQ3" text="&lt;b&gt;Fire Catapult&lt;/b&gt;{NEWLINE}TODO FIRE CATAPULT DESC." />
     <string id="cyPGadJ6" text="Auto-Deploy" />
     <string id="CyTa1Z5d" text="{TEXT} [{HOTKEY}]" />
     <string id="CZqZGAVB" text="Barter Offer is rejected!" />
@@ -702,7 +699,7 @@
     <string id="hSsS5xAa" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} waiting for other siege machines to arrive." />
     <string id="HuCClZqT" text="Wage" />
     <string id="hVmamTJX" text="Gain party morale from food variety (Quartermaster). Improve settlement prosperity and build projects (Governor). Spend time in your settlements (Clan Leader)." />
-    <string id="HWSKCne0" text="Boosting a project adds +50 construction and costs 500&lt;img src=&quot;Icons\Coin@2x&quot;&gt;/day." />
+    <string id="HWSKCne0" text="Boosting a project adds +50 construction and costs 500&lt;img src=&quot;Icons\Coin@2x&quot;&gt; / day." />
     <string id="Hx47TGrA" text="Hard" />
     <string id="hYgmzZJX" text="Denars" />
     <string id="HYVQKIhh" text="Defender Army" />
@@ -892,7 +889,6 @@
     <string id="lfkwsa5f" text="Track" />
     <string id="lfMgaBiJ" text="Make it worth our while not to kill you." />
     <string id="Lg3zeoYi" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} protecting {#IS_LEFT}{#}left{#}multiple{\#}{?IS_MIDDLE}middle{?}{\?}{?IS_RIGHT}right{?}{\?} flank{#IS_LEFT}{#}{#}s{\#}." />
-    <string id="lGTHPRP8" text="Settlements are niceTODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO" />
     <string id="lh1yhgXw" text="Horse Equipment V" />
     <string id="lihYjOSc" text="pcs." />
     <string id="lj8XH6O7" text="Can't access kingdom window right now!" />
@@ -943,7 +939,6 @@
     <string id="MfnYoLdc" text="Expenses" />
     <string id="MGv4Uabd" text="You bet {BET_AMOUNT} on yourself but you have been defeated." />
     <string id="mGWrSJLE" text="You cannot disband an army while it's in a map event." />
-    <string id="MH6ebguQ" text="Units are niceTODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO" />
     <string id="MHJCuM3N" text="Halt! Your foreign feet on this sacred land offend our ancestors. What are we going to do about that?" />
     <string id="mieKgbp8" text="Daily Rate Of Fire" />
     <string id="mIt6k9Rs" text="{ATTACKER} is {STATE} {DEFENDER}" />
@@ -1005,7 +1000,6 @@
     <string id="nNDdo3I9" text="One Handed Sword" />
     <string id="nnr8sANN" text="{PARTY_LIST_TAG}({COUNT} + {WEAK_COUNT}w)" />
     <string id="nNRKCYpR" text="Lands around settlement" />
-    <string id="NNxRRbaq" text="Do you wanna join my clan giveaway?TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO" />
     <string id="NnZ5w9zm" text="{NUM1} ({NUM2})" />
     <string id="NqarFr4P" text="Options" />
     <string id="NQbqtEqP" text="Cost: {COUNT}" />
@@ -1025,11 +1019,9 @@
     <string id="O3dhjtOS" text="Head Armor" />
     <string id="o5ho2Txg" text="Army Cohesion" />
     <string id="O69Vhqxk" text="So how much are you going to give us?" />
-    <string id="O6IcvFoO" text="&lt;b&gt;Fire Onager&lt;/b&gt;{NEWLINE}TODO FIRE ONAGER DESC." />
     <string id="o7I8qayN" text="Ha! Nothing like a good jab in the gut to let you know you're alive, eh? Looks like you managed to take down {OPPONENT_COUNT} opponents. Not bad. But that won't bring you any prize money. Now, if I were you, I would go back there and show everyone what I can do..." />
     <string id="O8TpGSDA" text="Velvet" />
     <string id="O9xpd5bn" text="a baroness" />
-    <string id="obHSBrTV" text="Faction are niceTODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO_TODO" />
     <string id="ObTSCxra" text="Vassal" />
     <string id="OBXNbvkK" text="As you attempt to force the villagers to give you supplies, some of the residents gather to resist you. Fighting them will cause a war with the {KINGDOM}." />
     <string id="OCGaTxac" text="Tournament Prize" />
@@ -1210,7 +1202,6 @@
     <string id="RGqPxabq" text="Power" />
     <string id="RiXlbtfl" text="k" />
     <string id="RiZ9lNAe" text="Wall Level" />
-    <string id="rjf2HVhf" text="&lt;b&gt;Bricole&lt;/b&gt;{NEWLINE}TODO BRICOLE DESC." />
     <string id="RjgBIYvH" text="&lt;b&gt;Improved Battering Ram&lt;/b&gt;{NEWLINE}Used for breaking the gates. Better than the normal one." />
     <string id="RJJ1Pbjk" text="Mercenary of {FACTION}" />
     <string id="RKyiu5MH" text="Perhaps you and I can make a deal." />
@@ -1596,7 +1587,6 @@
     <string id="ZlJIpfWg" text="Speed bonus: {SPEED_BONUS}%." />
     <string id="ZMdOAbTd" text="Attacker Army" />
     <string id="zMMqgxb1" text="Type" />
-    <string id="ZMmuaC7a" text="&lt;b&gt;Catapult&lt;/b&gt;{NEWLINE}TODO CATAPULT DESC." />
     <string id="zN9iNaIW" text="Raiding Village" />
     <string id="zNekjGmR" text="Recruit Prisoner" />
     <string id="zNEvBr6R" text="Your Turn" />

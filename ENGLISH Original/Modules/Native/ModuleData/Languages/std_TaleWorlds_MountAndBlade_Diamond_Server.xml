@@ -6,11 +6,13 @@
   <strings>
     <string id="0W4dgUho" text="Banned from game until {BANNEDUNTIL}, Reason: {BANREASON}" />
     <string id="2xOyWxIo" text="Player is not a party member." />
+    <string id="3EOP6yhO" text="You have been kicked by anti-cheat. Reason: {KICKREASON}" />
     <string id="4XDu4Qcd" text="Only party leader can kick players from the party." />
     <string id="5kgkZo2o" text="Player you tried to kick is not in your party!" />
     <string id="91cJB1tP" text="Player {INVITEDPLAYER} is already in party." />
     <string id="aFQa3pQt" text="You have to be in lobby to promote another player to party leader." />
     <string id="ah4Pm8wU" text="You must be at lobby to disband your party![Temporary]" />
+    <string id="AIgw3aFG" text="Cannot queue to battle because some of the players are blocked from matchmaking." />
     <string id="bcdU2DHW" text="Player {INVITEE} invited to your party by {INVITER}." />
     <string id="bivF3RXY" text="You cannot promote yourself" />
     <string id="BwBR7TJB" text="No one left in your party and it has been disbanded!" />
@@ -31,12 +33,14 @@
     <string id="nw7r2S5z" text="Selected disabled game type(s): {GAMETYPES}." />
     <string id="OByu0fjQ" text="Cannot queue to battle because not all players are ready in your party." />
     <string id="olLwOWf8" text="Cannot queue to battle because not all players are using anti-cheat." />
+    <string id="P0aRStg4" text="Cannot queue to battle because you are blocked from matchmaking." />
     <string id="p5K0ATtZ" text="Could not destroy your old session." />
     <string id="pehfmZvM" text="Player {PLAYERNAME} was promoted to party leader." />
     <string id="Pn13ZKwI" text="Your party has been disbanded!" />
     <string id="Rj8RhD7F" text="Failed" />
     <string id="Tauk2JzA" text="Version mismatch, Server Version: {SERVERVERSION} - Your Version: {CLIENTVERSION}." />
     <string id="TpBDiSBp" text="{PLAYERNAME} was assigned party leader." />
+    <string id="UMNzrvvJ" text="You are blocked from matchmaking for {PUNISHMENTDURATION} seconds." />
     <string id="VDDm5bqb" text="You can only invite players running the game with Anti-cheat." />
     <string id="w8WiqZT3" text="You must run the game with Anti-cheat to join or create a party!" />
     <string id="wNubP2BF" text="Only party leader can queue for games." />
