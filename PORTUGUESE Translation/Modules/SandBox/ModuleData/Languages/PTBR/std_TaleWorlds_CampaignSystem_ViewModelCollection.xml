@@ -36,7 +36,7 @@
     <string id="5fa36d2798479803b4518a64beb4d732" text="Comprimento de arma:" />
     <string id="5Unqsx3N" text="Confirmar" />
     <string id="63Ic1Ahe" text="Custo: {UPGRADE_COST} (você não possui)" />
-    <string id="68IlDbA2" text="Você precisa do {PERK_NAME} para atualizar uma tropa de bandidos para uma tropa normal." />
+    <string id="68IlDbA2" text="Você precisa {PERK_NAME} para atualizar uma tropa de bandidos para uma tropa normal (liderança base 150)." />
     <string id="6adabc1f82216992571c3e22abc164d7" text="Limite de munição:" />
     <string id="6GSXsdeX" text="Velocidade" />
     <string id="74dc1908cb0b990e80fb977b5a0ef10d" text="Velocidade:" />
@@ -47,7 +47,7 @@
     <string id="8cad4a279770f269c4bb0dc7a357ee1e" text="Classe:" />
     <string id="8SOh9bah" text="Selecionar produção" />
     <string id="92M0Pb5T" text="Olheiro" />
-    <string id="94aHU6nD" text="Produção diária" />
+    <string id="94aHU6nD" text="Construção" />
     <string id="9slDj5wr" text="Alterar produção" />
     <string id="a241aacb1780599430c79fd9f667b67f" text="Moral do exército:" />
     <string id="a8nRxITn" text="Prisioneiro de {PARTY_NAME}" />
@@ -259,7 +259,7 @@
     <string id="ta4R2RR7" text="Primário" />
     <string id="TaK6ydAx" text="Viajando ." />
     <string id="TAnabTdy" text="Precisão" />
-    <string id="tAwRIPiy" text="Custo de produção: {COST}" />
+    <string id="tAwRIPiy" text="Custo de construção: {COST}" />
     <string id="Te4xxzzK" text="Denares" />
     <string id="tf7301NC" text="Taxa de recuperação" />
     <string id="tFGM0yav" text="Esta parte está se dissolvendo." />

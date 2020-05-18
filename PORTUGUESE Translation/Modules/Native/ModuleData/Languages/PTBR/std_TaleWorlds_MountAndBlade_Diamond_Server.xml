@@ -6,11 +6,13 @@
   <strings>
     <string id="0W4dgUho" text="Banido do jogo até {BANNEDUNTIL}, Razão:{BANREASON}" />
     <string id="2xOyWxIo" text="O jogador não é um membro do grupo." />
+    <string id="3EOP6yhO" text="Você foi chutado pelo anti-cheat. Motivo: {KICKREASON}" />
     <string id="4XDu4Qcd" text="Somente o líder do grupo pode expulsar jogadores do grupo." />
     <string id="5kgkZo2o" text="O jogador que você tentou chutar não está no seu grupo!" />
     <string id="91cJB1tP" text="O jogador {INVITEDPLAYER} já está participando." />
     <string id="aFQa3pQt" text="Você precisa estar no lobby para promover outro jogador a líder da partida." />
     <string id="ah4Pm8wU" text="Você deve estar no lobby para dissolver sua equipe! [Temporário]" />
+    <string id="AIgw3aFG" text="Não é possível fazer fila para a batalha porque alguns dos jogadores estão impedidos de fazer matchmaking." />
     <string id="bcdU2DHW" text="Jogador {INVITEE} convidado para sua equipe por {INVITER}." />
     <string id="bivF3RXY" text="Você não pode se promover" />
     <string id="BwBR7TJB" text="Equipe dissolvido, não restou ninguém!" />
@@ -31,12 +33,14 @@
     <string id="nw7r2S5z" text="Tipo de jogo selecionado desativado:{GAMETYPES}." />
     <string id="OByu0fjQ" text="Não é possível entrar na fila para a batalha porque nem todos os jogadores estão prontos no seu grupo." />
     <string id="olLwOWf8" text="Não é possível entrar na fila para a batalha, porque nem todos os jogadores estão usando anti-cheat." />
+    <string id="P0aRStg4" text="Não é possível fazer fila para a batalha porque você está impedido de fazer matchmaking." />
     <string id="p5K0ATtZ" text="Não foi possível finalizar sua sessão anterior." />
     <string id="pehfmZvM" text="O jogador {PLAYERNAME} foi promovido a líder da equipe." />
     <string id="Pn13ZKwI" text="Sua equipe foi dissolvida!" />
     <string id="Rj8RhD7F" text="Falha" />
     <string id="Tauk2JzA" text="Incompatibilidade de versão, versão do servidor:{SERVERVERSION} - Sua versão:{CLIENTVERSION}." />
     <string id="TpBDiSBp" text="{PLAYERNAME} foi designado como líder da equipe." />
+    <string id="UMNzrvvJ" text="Você está impedido do matchmaking por {PUNISHMENTDURATION} segundos." />
     <string id="VDDm5bqb" text="Você só pode convidar jogadores executando o jogo com o Anti-cheat." />
     <string id="w8WiqZT3" text="Você deve executar o jogo com o Anti-cheat para ingressar ou criar uma equipe!" />
     <string id="wNubP2BF" text="Somente o líder do grupo pode confirmar a entrada na fila de partidas." />
