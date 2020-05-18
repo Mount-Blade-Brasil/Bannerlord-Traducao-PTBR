@@ -112,7 +112,7 @@
     <string id="9xKCz9BE" text="Switch between first and third person view." />
     <string id="A0bqGRQc" text="F" />
     <string id="A4B0GTqw" text="FXAA" />
-    <string id="a8MvWaSN" text="Force VSync In Menus(i.e. Lobby, Inventory, Party, Character, Quest etc.)" />
+    <string id="a8MvWaSN" text="Force VSync in Menus (i.e. Lobby, Inventory, Party, Character, Quest etc.)" />
     <string id="Aa2Yokz3" text="Numpad *" />
     <string id="aAaF9FWC" text="Right Control" />
     <string id="accbLVWL" text="Sets the anti-aliasing technique. " />
@@ -306,6 +306,7 @@
     <string id="JLqe3lrb" text="Combat AI Difficulty" />
     <string id="JLtTANZg" text="Move Left" />
     <string id="JmlrVqFz" text="Equip Weapon 2 DESC" />
+    <string id="jOGbGqOC" text="Enable Vertical Aim Correction" />
     <string id="JP1y1i0A" text="Equip Weapon 4" />
     <string id="Js1lhJkk" text="Language" />
     <string id="Ju6btXsv" text="Control Attack Direction" />
@@ -491,6 +492,7 @@
     <string id="tkCbjgfx" text="Numpad -" />
     <string id="TOebahlA" text="Map Time Fast Forward" />
     <string id="TPEUvYDt" text="Right Stick Right" />
+    <string id="TRmaxjal" text="Enable vertical aim correction while in third person mode." />
     <string id="ttCcMbwO" text="Up Arrow" />
     <string id="TtusHm10" text="Slower" />
     <string id="TtWjblNo" text="Toggle Show" />
