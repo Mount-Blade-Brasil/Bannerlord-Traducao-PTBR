@@ -112,6 +112,7 @@
     <string id="9xKCz9BE" text="Alterne entre primeira e terceira pessoa." />
     <string id="A0bqGRQc" text="F" />
     <string id="A4B0GTqw" text="FXAA" />
+    <string id="a8MvWaSN" text="Forçar VSync nos menus (ou seja, lobby, inventário, festa, personagem, missão etc.)" />
     <string id="Aa2Yokz3" text="Numpad *" />
     <string id="aAaF9FWC" text="Controle direito" />
     <string id="accbLVWL" text="Suavização de serrilhado." />
@@ -242,6 +243,7 @@
     <string id="HDV63kra" text="4" />
     <string id="hfpb4NaS" text="Grupo 0: Escutem DESC" />
     <string id="hHxSj7tY" text="Selecionar Ordem 3" />
+    <string id="Hj1bsSbW" text="Forçar VSync nos menus" />
     <string id="hK9bkACI" text="Interface do usuário para a guia esquerda" />
     <string id="hL2Lnp6N" text="Visualizar pedidos DESC" />
     <string id="HmgPBPeq" text="Resolução da área de trabalho" />
@@ -304,6 +306,7 @@
     <string id="JLqe3lrb" text="Dificuldade de IA de combate" />
     <string id="JLtTANZg" text="Mover para a esquerda" />
     <string id="JmlrVqFz" text="Equipar arma 2 DESC" />
+    <string id="jOGbGqOC" text="Ativar correção de mira vertical" />
     <string id="JP1y1i0A" text="Equipar arma 4" />
     <string id="Js1lhJkk" text="Idioma" />
     <string id="Ju6btXsv" text="Controlar a direção do ataque" />
@@ -489,6 +492,7 @@
     <string id="tkCbjgfx" text="Numpad -" />
     <string id="TOebahlA" text="Avanço rápido do tempo do mapa" />
     <string id="TPEUvYDt" text="Botão direito direito" />
+    <string id="TRmaxjal" text="Ativar correção de mira vertical enquanto estiver no modo de terceira pessoa." />
     <string id="ttCcMbwO" text="Seta para cima" />
     <string id="TtusHm10" text="Mais lento" />
     <string id="TtWjblNo" text="Alternar exibição" />

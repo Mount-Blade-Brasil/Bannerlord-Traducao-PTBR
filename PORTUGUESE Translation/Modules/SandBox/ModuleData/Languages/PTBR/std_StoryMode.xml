@@ -217,8 +217,8 @@
     <string id="eNJBjYG8" text="Você remontou com sucesso a Bandeira do Dragão de Calradia." />
     <string id="EOSyvdFG" text="Então os cavaleiros vlandianos vieram. Fomos atacados por dois lados e o Imperador, que poderia ter enviado homens para nos salvar, demorou um pouco. Talvez ele quisesse que o melhor dos Aserai morresse, para que não sejamos poderosos demais mais tarde. Mas essa traição não foi nada comparada ao que recebemos de nossos companheiros Aserai do Bani Qild." />
     <string id="etG87fB7" text="Com seu tutor" />
-    <string id="eV8R0SKp" text="Você coletou todas as peças da Bandeira do Dragão. Agora você pode decidir o que fará com as peças. Voltou para {IMPERIAL_MENTOR.LINK} ou {ANTI_IMPERIAL_MENTOR.LINK} para decidir o seu caminho." />
-    <string id="eVgAY7ts" text="Meu Deus! Vou precisar de uma descrição melhor do que isso. Meus homens capturaram dezenas de pirralhos nesta região. Ótimo lugar para lucrar, por sinal! Já enviei a maioria deles para o sul, para um mercado de escravos que eu conheço.[ib:confident]" />
+    <string id="eV8R0SKp" text="Você coletou todas as peças da Bandeira do Dragão. Agora você pode decidir o que fará com as peças. Volte para {IMPERIAL_MENTOR.LINK} ou {ANTI_IMPERIAL_MENTOR.LINK} para decidir o seu caminho." />
+    <string id="eVgAY7ts" text="Céus! Vou precisar de uma descrição melhor do que isso. Meus homens capturaram dezenas de pirralhos nesta região. Ótimo lugar para lucrar, por sinal! Já enviei a maioria deles para o sul, para um mercado de escravos que eu conheço.[ib:confident]" />
     <string id="EWD4Op6d" text="Notificação" />
     <string id="EXp18CLD" text="Reino da {CLAN_NAME}" />
     <string id="EZ19JOGj" text="Casa {MENTOR.NAME}" />
@@ -296,7 +296,7 @@
     <string id="i3SSc0I4" text="Planos {IMPERIAL_MENTOR.NAME}" />
     <string id="i5OOargr" text="Tais são as fortunas da guerra. Mas o que aconteceu depois ... Quando se espalhou a notícia do que aconteceu com nossos homens, os outros clãs - os Arkits em particular - sabiam que éramos fracos. Nossos rebanhos foram invadidos. Quem protestou foi morto. Monchug fez pouco para impedir. Nos ensinou que o valor matará você, mas a traição o enriquecerá." />
     <string id="IavuL9KI" text="Claro. Pretendo usar o estandarte para ajudar a salvar o Império." />
-    <string id="ib2TKPUa" text="O governante do {FACTION} está liderando a aliança contra você. Derrote seus exércitos ou force-os a fazer as pazes, capturando seus assentamentos e destruindo seus exércitos para alcançar a vitória." />
+    <string id="ib2TKPUa" text="O governante da facção {FACTION} está liderando a aliança contra você. Derrote seus exércitos ou force-os a fazer a paz, capture seus assentamentos e destrua seus exércitos para alcançar a vitória ou uma trégua." />
     <string id="ibm9EEPa" text="Não, preciso de mais tempo para decidir." />
     <string id="IITkXnnU" text="Calradia é uma terra cheia de perigos, mas também oportunidades. Para enfrentar os desafios que o aguardam, você precisará formar seu clã. Seu irmão lhe disse que existem muitas maneiras de fazer isso, mas que nenhuma renuncia à moeda. O comércio seria um meio para esse fim, combatendo e vendendo bandidos capturados na cidade. Qualquer que seja o caminho que você escolher, viajar sozinho facilitaria escolhas fáceis para quem se deparasse com seu caminho. Você sabe que pode recrutar homens para segui-lo, embora eles possam pedir um favor ou dois antes que eles permitam o acesso a seus lutadores mais valiosos. Naturalmente, você também pode encontrar personagens mais exclusivos nas tabernas de Calradia. No entanto, estes tendem a favorecer clãs mais estabelecidos." />
     <string id="Ikd2KnkS" text="Você fez algum progresso?" />
