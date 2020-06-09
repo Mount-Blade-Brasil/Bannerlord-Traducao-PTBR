@@ -72,7 +72,7 @@
     <string id="2u3dRUlE" text="{SETTLEMENT_NAME} (tax)" />
     <string id="2W2l9Kym" text="Ultimate Leader Perk Bonus" />
     <string id="2wclahIJ" text="Throwing" />
-    <string id="2WpbTaVJ" text="+{BONUS_AMOUNT} bonus to taxes" />
+    <string id="2WpbTaVJ" text="+{BONUS_AMOUNT}% bonus to taxes" />
     <string id="2X1rBrdC" text="{?IS_UNDER_A_DAY}{?}{DAY_VALUE} {?IS_MORE_THAN_ONE_DAY}days {?}day {\?}{\?}{?IS_UNDER_ONE_HOUR}{?}{HOUR_VALUE} {?IS_MORE_THAN_AN_HOUR}hours{?}hour{\?}{\?}" />
     <string id="300TAI7u" text="Sell All" />
     <string id="33ghdWWi" text="Other Policies" />
@@ -259,6 +259,7 @@
     <string id="a47CpGXN" text="Power Levels" />
     <string id="a5j1v7tM" text="We've heard what happened to others who refused to join your cause. We've no desire to end up like them and no means to fight you. We'll wear your colors from now until it pleases you no more." />
     <string id="a6D6Ga2F" text="Weapon Reach: " />
+    <string id="a6zaA9Um" text="+{BONUS_AMOUNT} increase to settlement militia." />
     <string id="A7dcz7Yr" text="Melee Weapons II" />
     <string id="a8zwLVKj" text="Strength" />
     <string id="aa5tNRb9" text="Critical Success Chance" />
@@ -270,7 +271,6 @@
     <string id="abV5bff6" text="You capture a pawn." />
     <string id="aCkzVUCR" text="Hit Points: " />
     <string id="aCP5ZBbp" text="Relation:" />
-    <string id="ad5oQNIB" text="+{BONUS_AMOUNT} bonus to prosperity" />
     <string id="aDA9PWFT" text="Advance" />
     <string id="ADJBbfbQ" text="Fur" />
     <string id="ADJQa8am" text="Mercenaries cannot support other clans." />
@@ -295,7 +295,7 @@
     <string id="aiX4b5kS" text="Completed Quests" />
     <string id="AIYWSAyK" text="Make profit from trading. Operate caravans." />
     <string id="aJoNj6JX" text="Fight with a two handed short weapon." />
-    <string id="aJQQnshf" text="Population Tax:" />
+    <string id="aJQQnshf" text="Settlement Tax:" />
     <string id="aJXhsjmT" text="Greetings, traveller. Unless you wish your bones to be left in the sand to be gnawed upon by jackals, give us what we want." />
     <string id="ajZTZoXQ" text="Two Handed Mace" />
     <string id="AkgIYqHT" text="sultana" />
@@ -524,7 +524,7 @@
     <string id="eb0nLx5E" text="Aserai Sultanate" />
     <string id="EbB9y2zZ" text="Declare War" />
     <string id="eDVvDS1i" text="Villagers" />
-    <string id="EegxpPka" text="+{BONUS_AMOUNT} bonus to construction" />
+    <string id="EegxpPka" text="+{BONUS_AMOUNT}% bonus to construction" />
     <string id="eEmbb1MR" text="Production(s)" />
     <string id="EHkzaZBi" text="Tournament of {SETTLEMENT_NAME}" />
     <string id="eIws123Z" text="Leg Armor" />
@@ -569,6 +569,7 @@
     <string id="F5UPr9jh" text="Take All" />
     <string id="f6gSyvnC" text="Shoot enemies with a bow and arrows. Perform difficult shots from a long distance." />
     <string id="f6pjlKdz" text="Yesterday" />
+    <string id="F70rOpkK" text="Captain" />
     <string id="f7t4saJu" text="Value" />
     <string id="F8g1TzoX" text="You are outside {SETTLEMENT_NAME}. You see the banner of {LORD.LINK} flying over the castle gate." />
     <string id="Fa16r8MN" text="Execute Prisoner" />
@@ -592,7 +593,7 @@
     <string id="Fp68NbYO" text="Kingdoms" />
     <string id="fpdXZ0fl" text="Recruitment" />
     <string id="FpI5JMZq" text="Transactions have been reset" />
-    <string id="fpP2s7hX" text="+{BONUS_AMOUNT} bonus to village production" />
+    <string id="fpP2s7hX" text="+{BONUS_AMOUNT}% increase to village growth." />
     <string id="fQAGU9GW" text="Generosity:" />
     <string id="FqwHAxuM" text="Two Handed Polearm" />
     <string id="frBQ9mbP" text="Southern Empire" />
@@ -699,7 +700,7 @@
     <string id="hSsS5xAa" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} waiting for other siege machines to arrive." />
     <string id="HuCClZqT" text="Wage" />
     <string id="hVmamTJX" text="Gain party morale from food variety (Quartermaster). Improve settlement prosperity and build projects (Governor). Spend time in your settlements (Clan Leader)." />
-    <string id="HWSKCne0" text="Boosting a project adds +50 construction and costs 500&lt;img src=&quot;Icons\Coin@2x&quot;&gt; / day." />
+    <string id="HWSKCne0" text="Boosting a project adds +{BOOST} construction and costs {COST}&lt;img src=&quot;Icons\Coin@2x&quot;&gt; / day." />
     <string id="Hx47TGrA" text="Hard" />
     <string id="hYgmzZJX" text="Denars" />
     <string id="HYVQKIhh" text="Defender Army" />
@@ -840,6 +841,7 @@
     <string id="kHC5EjDJ" text="Town Bonus" />
     <string id="kHC5EjEJ" text="Minor Faction Bonus" />
     <string id="Khr5yETv" text="The Aserai are the inhabitants of the Nahasa desert, a mixture of nomadic bedouin and settled oasis farmers. They are famous for their horsemanship and their knowledge of the learning of many lands, especially medicine, gained from lying on some of the continent's most lucrative trade routes. Each clan is fiercely proud of its lineage and often jealous of the others, but when united by a charismatic leader, they become a major force in the south." />
+    <string id="ki5DqTtC" text="+{BONUS_AMOUNT} increase to settlement prosperity." />
     <string id="kIAsKjp1" text="Welcome to Mount&amp;Blade II: Bannerlord Gamescom demo!{newline}This demo showcases the mid-game features of Bannerlord!{newline}You are free to resolve issues, conquer settlements, govern cities, join tournaments, trade or just hang around in the game world. {newline}Have fun and don't hesitate to ask if you have any questions." />
     <string id="KiJd6Xik" text="Movement" />
     <string id="kiOst6DH" text="Empire" />
@@ -1399,6 +1401,7 @@
     <string id="VpKIzJxz" text="Well there, traveller. We've just made landfall in these lands, hoping for a bit of luck with the raiding and pillaging, and aren't you a sight for sore eyes?" />
     <string id="vpx7Pa7v" text="Offer" />
     <string id="VPYazFVH" text="Thrust Speed: " />
+    <string id="vqHDX6hf" text="+{BONUS_AMOUNT} increase to settlement loyalty" />
     <string id="VqpmXU1m" text="Shoot enemies with a crossbow." />
     <string id="VRdy76RQ" text="Skirmish" />
     <string id="VSZGbSEO" text="No matching items." />
@@ -1415,7 +1418,6 @@
     <string id="vy8jlHl4" text="h" />
     <string id="VyJMWO8a" text="{GOLD_AMOUNT}{GOLD_ICON} removed." />
     <string id="VyPwh1CT" text="Take Hero To Party" />
-    <string id="vZaL7fqv" text="+{BONUS_AMOUNT} bonus to morale" />
     <string id="vZzDCjDr" text="Currently nobody is willing to be recruited in this town." />
     <string id="W1seGc3t" text="Cartridge" />
     <string id="w2j9LGvZ" text="Target Size" />
@@ -1475,7 +1477,7 @@
     <string id="xgO3cCgR" text="Overburdened" />
     <string id="xgwjHi1p" text="Disavow" />
     <string id="xHc1xhG8" text="Eliminate enemy inside castle." />
-    <string id="XJ6EG3Pa" text="+{BONUS_AMOUNT} bonus to food stocks" />
+    <string id="XJ6EG3Pa" text="+{BONUS_AMOUNT} bonus to food reserve limit" />
     <string id="xKa6TwEX" text="Staying at {SETTLEMENT_NAME}" />
     <string id="xMwyMGtc" text="Former brother-in-law" />
     <string id="XnsAbUE3" text="Dismiss" />

@@ -4,14 +4,12 @@
     <tag language="English" />
   </tags>
   <strings>
-    <string id="0647tsif" text="Profile" />
     <string id="06V7fEV4" text="Press ESC to go back" />
     <string id="2Q6Mm9Jo" text="Gamepad Options" />
     <string id="2zcrC0h1" text="Gameplay" />
     <string id="3CpNUnVl" text="Cancel" />
     <string id="3CsACce8" text="Exit" />
     <string id="4Dd2xgPm" text="Weight" />
-    <string id="4NaOKslb" text="-" />
     <string id="4OGDnOVE" text="with {OPPONENT_NAME}" />
     <string id="5baU17n0" text="Matchmaking feature is currently disabled" />
     <string id="5k4dxUEJ" text="Troops" />
@@ -26,9 +24,11 @@
     <string id="74PKmRWJ" text="Flip Hair" />
     <string id="7qySRF2T" text="Ping" />
     <string id="8nJFaJio" text="Password" />
+    <string id="9jdHEa0N" text="Friend Requests" />
     <string id="AaAcmalE" text="You've been invited to join a party by" />
-    <string id="aalbxe7z" text="Army Size, when the game option of Number Of Bots Per Formation is set to {OPTION_VALUE}" />
+    <string id="aalbxe7z" text="Army Size" />
     <string id="aB4Md0if" text="Has players" />
+    <string id="abxndmIh" text="Social" />
     <string id="ahiBhAqU" text="Armor" />
     <string id="aO3avkK9" text="Matchmaking Disabled" />
     <string id="ApD0xQXT" text="{STR1}: {STR2}" />
@@ -112,6 +112,7 @@
     <string id="NJolh9ye" text="Recent Games" />
     <string id="NLKmdNbt" text="Search" />
     <string id="NqarFr4P" text="Options" />
+    <string id="nqYaiEo2" text="My Badges" />
     <string id="NUSH5bJu" text="{EXPERIENCE} xp to next level" />
     <string id="oBbiVeKE" text="Hit Points" />
     <string id="oHaWR73d" text="Ok" />
@@ -135,6 +136,7 @@
     <string id="RCuCoVgd" text="ROUND WON" />
     <string id="RfXJdNye" text="Players" />
     <string id="rg7OuWS2" text="Maneuver" />
+    <string id="rLozutts" text="Request Friendship" />
     <string id="RNgWFLIO" text="Swing Dmg." />
     <string id="Rzor6tbG" text="Skins" />
     <string id="S2bKbhTc" text="AUTO FIND GAME" />
@@ -164,6 +166,7 @@
     <string id="wGjQgQlY" text="Next Game begins in:" />
     <string id="WiNRdfsm" text="Done" />
     <string id="wkIVxzV6" text="Restart" />
+    <string id="wnMT7R0K" text="Pending Requests" />
     <string id="WOQZBmMx" text="Servers" />
     <string id="wTtyFa89" text="PLAY" />
     <string id="wuKqRvc3" text="Game: {GAME_TYPES}  |  Region: {REGIONS}" />

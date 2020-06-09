@@ -29,7 +29,9 @@
     <string id="axO6JCWt" text="If you please... Stop there. I would ask you for your name." />
     <string id="ay0tHozl" text="Aye? So who're you, then?" />
     <string id="AYeRBAxA" text="Now then. Come no closer. Forgive me, but one cannot be too cautious. I would ask you for your name." />
+    <string id="aZeMzNXf" text="Yeah? You want something from me? Who're you?" />
     <string id="B05S6Fw4" text="Who are you, and what do you want?" />
+    <string id="B0YYHX47" text="Yes? You need something from me? Who are you?" />
     <string id="b9DEXqta" text="Halt there. Right... So we can parley a bit. But try anything tricky, my boys will cut you down." />
     <string id="bI4IbX25" text="{STR_SALUTATION}... Well... Been a while since I last laid eyes on you. Can't say I minded much." />
     <string id="BXpMYumQ" text="Well... Forgive me if I cannot wish you 'peace,' old friend. Fate does what it will." />
@@ -37,6 +39,7 @@
     <string id="CdHlFmue" text="Tell me your name. Forgive me if I have met you before and do not remember the occasion, for I have seen many warriors come to this land and pass swiftly into shallow graves." />
     <string id="CEKlT71P" text="Well. Here we are. Give me a decent funeral if I fall to your sword, and I'll do the same for you. Do you have anything to say?" />
     <string id="CiquaIVy" text="It looks like your sins have yet to catch up with you. But they will, believe me they will.." />
+    <string id="cOEodlOB" text="You wanted to see me for something?" />
     <string id="cXQm4Wba" text="Halt... If you respect the terms of the parley, I will listen." />
     <string id="d6LHL0Fj" text="Looks like you're caught, and I'm glad I'm the one who caught you." />
     <string id="DwqTbXhg" text="Well... Unless I reckon the odds falsely, I'd say you have a very good chance of feasting with your ancestors before this day is through." />
@@ -48,11 +51,12 @@
     <string id="GCTtfyGS" text="I don't know what we have to say to each other." />
     <string id="GgERkyDL" text="My lady..." />
     <string id="gGjqzb5j" text="What is it, stranger? Who're you?" />
-    <string id="gLWgcDUN" text="Ah, the gods are kind. What kind of death do you want, dog?" />
+    <string id="gLWgcDUN" text="Ah, the Heavens are kind. What kind of death do you want, dog?" />
     <string id="gMyAYyEX" text="{STR_SALUTATION}... It's been a while." />
     <string id="h6g4OQqT" text="Halt right there. Now then... Tell me your name, before we cross swords." />
     <string id="hAbpAkIw" text="{STR_SALUTATION}... I think your luck has run out." />
     <string id="hbvuSLB0" text="Well. Here we are. I once thought friendship was sacred, but all sacred things are profaned in the end. Don't think I won't kill you if I need to." />
+    <string id="hW0ce7Nd" text="Welcome, stranger, to my little kingdom here. Who might you be?" />
     <string id="iNYLG9P1" text="I am very angry with you. Too much time has gone by since last you visited." />
     <string id="IU3KjVbT" text="That's close enough. Who are you?" />
     <string id="j6p0K0s6" text="{STR_SALUTATION}. I'm yours to command." />
@@ -69,12 +73,12 @@
     <string id="LNhUaIoB" text="Right, you. Prepare to get what's coming to you." />
     <string id="LRpsEe3F" text="{STR_SALUTATION}... Good to see you." />
     <string id="lvScVM9T" text="Please be brief. I am pressed for time." />
-    <string id="M5HVzG5S" text="{STR_SALUTATION}... Been a while." />
     <string id="mcNlccCF" text="Aye? I don't think I know you. Peace to you, stranger." />
     <string id="mHjnRrLk" text="Well, I'll not deny it. It'll be a real pleasure to watch you writhing and bleeding in the dust." />
     <string id="mkFfE4Pm" text="That's close enough, now. Who are you?" />
     <string id="n5Va4JVo" text="Ah, good. Justice seems to have appointed me her executioner today. Are you partial to the sword, or the noose?" />
     <string id="nESnaBbx" text="My lady... You are lovely as ever." />
+    <string id="nFPrHMdU" text="Eh. Wine here tastes like piss. Anyway, what do you want?" />
     <string id="nOMhLR63" text="{STR_SALUTATION}... You are lovely as ever." />
     <string id="Ny7o14yZ" text="Tell me your name. I always prefer to know whom I slay." />
     <string id="NZ9E0KVb" text="You know I don't care for you. What's it you want to say?" />
@@ -108,6 +112,7 @@
     <string id="UW9Pexaq" text="{STR_SALUTATION}. I'm yours to command. Allow me to write your will in the pages of history in letters of blood. Or whatever else you may need..." />
     <string id="vvkBHcAL" text="I don't know you. I suppose you should tell me your name." />
     <string id="vyeEx182" text="{STR_SALUTATION}... I don't want to have to fight you. But I will, friend, I will." />
+    <string id="wAAdnzKD" text="Peace to you, stranger, though if you come any closer I may stick a knife in your belly, as one cannot be too careful these days." />
     <string id="WAK8lSaW" text="Well, good day to you. So who might you be?" />
     <string id="wIXmtKa5" text="What a pleasant surprise! I believe I'm going to enjoy this. Do you have anything to say, before I give the order to attack?" />
     <string id="wzhYA3XN" text="{STR_SALUTATION}... I don't know what we have to say to each other." />
@@ -119,6 +124,7 @@
     <string id="YGAYp0pO" text="Aye? Sorry, I don't think I know you." />
     <string id="YJvvaeDq" text="{STR_SALUTATION}... You'd best pray to the Heavens for mercy, because I intend to show none to you." />
     <string id="YubrUiab" text="{STR_SALUTATION}... You still live, I see. Pity." />
+    <string id="YzBDQ8J3" text="So... Just so you know, this here is my turf. Now, who might you be?" />
     <string id="Z2bRJhTh" text="{STR_SALUTATION}... If you die well today, I'll be sure your courage is remembered." />
     <string id="z3zTyNru" text="Come any closer, stranger, and I'll stick a knife in your belly. But if you stay where you are, we may have a pleasant enough chat." />
     <string id="ZBjXh6cA" text="Stop there, stranger. I bid you peace. At least until I find out who you are, anyway." />

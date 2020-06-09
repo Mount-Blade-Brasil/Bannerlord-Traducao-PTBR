@@ -9,10 +9,12 @@
     <string id="2oLzxPGu" text="aggressive and asks much of people" />
     <string id="3ojhI49j" text="icy" />
     <string id="4Kb43rdf" text="loyal" />
+    <string id="52I465OW" text="ambitious and manipulative" />
     <string id="5L4ox55u" text="Always the first to put {?NOTABLE.GENDER}her{?}his{\?} neck on the line for the cause." />
     <string id="5ogR7oUW" text="noble and generous" />
     <string id="6okDQlyn" text="cautious" />
     <string id="6tOrCXWu" text="Looks out for those who've served {?NOTABLE.GENDER}her{?}him{\?} well." />
+    <string id="85SsQ1xA" text="untrustworthy" />
     <string id="8aAbnMIo" text="aloof" />
     <string id="8D5Lx2LY" text="softhearted" />
     <string id="9bUlUrVI" text="fierce and cruel" />
@@ -39,9 +41,8 @@
     <string id="jFLPNGdH" text="brave and honorable" />
     <string id="jqiKsw34" text="devious but soft-hearted" />
     <string id="JWTKNySw" text="tight-fisted" />
-    <string id="KFvms0sR" text="a man who enjoys taking calculated risks." />
+    <string id="KFvms0sR" text="a man who enjoys taking calculated risks" />
     <string id="kKFLfWbJ" text="moralistic" />
-    <string id="Ks88a8lp" text="a bit of a shirker" />
     <string id="KxjSILpL" text="the type who takes every advantage" />
     <string id="L3b9ZsLs" text="profligate" />
     <string id="LCs7NMyz" text="You won't find that one rushing into danger." />
@@ -62,7 +63,7 @@
     <string id="Q3TaYO39" text="the type who tries hard to be just and fair" />
     <string id="QtcN7aEk" text="daring and ambitious" />
     <string id="qXwYcJHa" text="decent and kind" />
-    <string id="QzNHs8Ch" text="passionate and brave, though sometimes without thinking things through." />
+    <string id="QzNHs8Ch" text="passionate and brave, though sometimes without thinking things through" />
     <string id="RaecCLdK" text="brave and generous, a good friend to have" />
     <string id="Raq3TcUa" text="considerate of others" />
     <string id="raQIsPly" text="sparing of enemies but thoughtless of friends" />
@@ -82,6 +83,7 @@
     <string id="xSbcea2l" text="unreliable" />
     <string id="Y8WpovVO" text="decent but cautious" />
     <string id="YeK2rAWJ" text="cruel" />
+    <string id="yl2q8dL8" text="ruthless" />
     <string id="Yyw81AGG" text="friendly but manipulative" />
     <string id="znOeRtlb" text="a schemer" />
   </strings>
