@@ -22,7 +22,6 @@
     <string id="345a87fcc69f626ae3916939ef2fc135" text="Swing Speed: " />
     <string id="3CpNUnVl" text="Cancel" />
     <string id="3F0y3ugx" text="Success!" />
-    <string id="3ORSs1nN" text="Current bonus: {BONUS}" />
     <string id="3sxtCWPe" text="Leaving Kingdom" />
     <string id="43HYUImy" text="{SETTLEMENT}'s Siege" />
     <string id="4cU98rkg" text="Smelting" />
@@ -48,6 +47,7 @@
     <string id="8SOh9bah" text="Choose Production" />
     <string id="92M0Pb5T" text="Scout" />
     <string id="94aHU6nD" text="Construction" />
+    <string id="9i0wnjJK" text="L-II : {BONUS}" />
     <string id="9slDj5wr" text="Change Production" />
     <string id="a241aacb1780599430c79fd9f667b67f" text="Party Morale: " />
     <string id="a8nRxITn" text="Prisoner of {PARTY_NAME}" />
@@ -60,7 +60,6 @@
     <string id="armorTier" text="Armor Tier: " />
     <string id="aROohsat" text="Already in another army." />
     <string id="aTdrjrEh" text="{SWING_DAMAGE_FACTOR}" />
-    <string id="aVH7pKnK" text="Next Bonus: {BONUS}" />
     <string id="AxRxT2Xj" text="Once a party is disbanded, it merges into a near clan party or goes to nearest map faction settlement and joins its garrison.\nYou will not be able to undo / cancel this action.\nAre you sure?" />
     <string id="B0pFBs5P" text="Running From {TARGET_PARTY}" />
     <string id="bAqDnkaT" text="Missile Speed" />
@@ -205,11 +204,13 @@
     <string id="PDdh1sBj" text="Name" />
     <string id="Pdo7PpS3" text="{TASK_NAME} {CURRENT_PROGRESS}/{TARGET_PROGRESS}" />
     <string id="PHkC8Gia" text="Sell" />
+    <string id="PJZ8QYgA" text="L-I : {BONUS}" />
     <string id="pkbUiKFJ" text="Currently fighting an enemy." />
     <string id="POjDNVW3" text="Forging" />
     <string id="PpbopMjT" text="Transfer All Main Prisoners" />
     <string id="pqfz386V" text="Clan Leader" />
     <string id="PRE5RKpp" text="You must rest and spend time before you can do this action." />
+    <string id="pRP2sOWP" text="L-III : {BONUS}" />
     <string id="PS02CqPu" text=" {PARTY_MEMBER.LINK} (Health: {MEMBER_HEALTH}%)" />
     <string id="Pvx4TU66" text="Transfer All Main Troops" />
     <string id="pWfadZg9" text="Parties In the Army" />

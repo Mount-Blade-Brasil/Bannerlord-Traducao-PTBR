@@ -7,6 +7,7 @@
     <string id="02FaqhzI" text="I've heard of you. They say good things about you. Let's talk, from time to time. A friendship with someone like me can be quite profitable for someone like you." />
     <string id="0etg1Q9l" text="I have asked many sacrifices of my men in {FIRST_NAME}'s service. I will not hear it said that their loyalty was misplaced." />
     <string id="1jUa8olQ" text="I don't expect you to surrender, but I'll give you the chance to do so.[ib:warrior][if:idle_angry]" />
+    <string id="1MPxKtue" text="Is this important? I'm rather busy right now." />
     <string id="22a9fyiQ" text="Father" />
     <string id="27KUtWGA" text="You came through on that task I gave you. I thank you." />
     <string id="2FWBCCw0" text="Sister" />
@@ -22,6 +23,7 @@
     <string id="5ZfjV7hS" text="Enough! You win today, you dog! Ach, the shame of it![rf:angry][rb:trivial]" />
     <string id="62vceTar" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}." />
     <string id="6acfbHiE" text="I shall mark down your name. But you shall have to earn my trust, stranger, for the world is a treacherous place, and these are treacherous times." />
+    <string id="6l8ty6Dr" text="Pleasure to meet you." />
     <string id="6LlDlGSb" text="high queen of the Battanians" />
     <string id="6UBdsXlo" text="Perhaps one day we shall see each other on a battlefield. You shall know the Ghilman by the splendor of our steeds and the shimmer of our steel. If we are on your side, you may rejoice. If we are your enemy, you may save yourself a great deal of trouble by running away before the fighting starts." />
     <string id="7lWtkqHv" text="I'll remember your name." />
@@ -33,6 +35,7 @@
     <string id="8WLSZRZc" text="Very well. What do you propose?" />
     <string id="8x8kVUGX" text="Uphold the rights of the poor and the meek, of the widow and the orphan, and the Heavens will take note." />
     <string id="99gE1ZoY" text="I am {CONVERSATION_CHARACTER.LINK}, of the {FACTION}." />
+    <string id="9uH1NdsT" text="You're a handsome devil, aren't you? Bet you're a load of trouble, though." />
     <string id="9ZHhYooG" text="Remember how I beat you, one-on-one? Are you back for more?" />
     <string id="a55SAS18" text="We have the advantage of you. Yield, and you will be well-treated.[ib:warrior][if:idle_angry]" />
     <string id="a5LChqbr" text="The common folk of these lands need someone looking after them. That's where our Brotherhood comes in. You'll hear us called bandits or robbers. Don't believe a word of it." />
@@ -128,6 +131,7 @@
     <string id="L2PFxbD3" text="So... Not long ago, you betrayed my trust. Do we really have anything to discuss?" />
     <string id="LBb7YgXU" text="rightful emperor of the Calradians" />
     <string id="LbpdzoRd" text="I am {CONVERSATION_CHARACTER.LINK}, of the house of {CLAN_NAME}. Our family has stood in the Senate and discharged its duties honorably since the first days of the Empire." />
+    <string id="lcPeNFTN" text="I am glad to meet you." />
     <string id="LEZKgNEm" text="I've never heard of you. No doubt another vulture come to this land to grow fat on the leftovers of war." />
     <string id="lI8rPjEd" text="What do you take me for? A plotter? Whatever you suggest had best be honorable." />
     <string id="LkVCTVMx" text="I thank you for what you did for me. You kept your word. Not everyone is so dependable these days." />
@@ -166,7 +170,7 @@
     <string id="qSF2z6Wa" text="I have not heard of you, but you have the look of a {?PLAYER.GENDER}woman{?}man{\?} who might make something of {?PLAYER.GENDER}herself{?}himself{\?}, some day." />
     <string id="qvwfev22" text="I've got you cornered. Yield or die.[ib:warrior][if:idle_angry]" />
     <string id="R6sTYEaz" text="You can't talk your way out of this." />
-    <string id="RajD4RC1" text="I've never heard of you." />
+    <string id="RajD4RC1" text="Never heard of you." />
     <string id="rCNUXFTN" text="I yield! Congratulations on your victory.[rf:angry][rb:trivial]" />
     <string id="reg1AUxr" text="My child" />
     <string id="rhTUDKhJ" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}. There's not a clan of the Battanians who hasn't contributed the skull of one of their champions to our collection of drinking cups." />
@@ -187,6 +191,7 @@
     <string id="tOanKs9o" text="I am {LIEGE_TITLE}." />
     <string id="tUa5WBpp" text="rightful empress of the Calradians" />
     <string id="TUwY7IKc" text="So... You really did me over. Not sure we have much to talk about now, after that." />
+    <string id="TvqjhDaQ" text="So, my young lion. You have the look of someone who may go far, if they don't wind up dead." />
     <string id="Tvy4UvJC" text="queen of the Vlandians" />
     <string id="TzPC5L5X" text="I'm always looking for good fighters. If you ask about me, I suspect you'll be told that I take good care of my men." />
     <string id="U4p70l9B" text="I am {CONVERSATION_CHARACTER.LINK}, a chieftain of the Khuzaits." />
@@ -205,6 +210,7 @@
     <string id="WbAAkcbw" text="It's an honor to meet you, my lady." />
     <string id="WFwoWAic" text="I give up! I give up! Call back your dogs![rf:angry][rb:trivial]" />
     <string id="WH8P3Y5F" text="I am {CONVERSATION_CHARACTER.LINK}, a loyal vassal of {LIEGE_TITLE}." />
+    <string id="WnxA6JQl" text="Good to meet you. Look, one thing I value is that people keep their word, so deal straight with me and I'll deal straight with you." />
     <string id="wrIYDx9V" text="I'm free? Well... Good bye, then.[if:happy][rb:very_positive]" />
     <string id="Wt4iJPcd" text="I've heard of you! It's very good to finally make your acquaintance." />
     <string id="WVeS3Lsb" text="Seek not the things of this world, but thirst after the divine truth." />
