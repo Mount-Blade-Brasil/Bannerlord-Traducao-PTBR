@@ -14,6 +14,7 @@
     <string id="e0KdfaNe" text="Salvar como" />
     <string id="EzeFJo65" text="Você foi desconectado do servidor!" />
     <string id="hvaDkG4w" text="Pressione qualquer tecla." />
+    <string id="HzWaGn3y" text="Nem todos os jogadores estão executando o jogo com o Anti-cheat" />
     <string id="InGwtrWt" text="Sair" />
     <string id="ivKntfNA" text="Já solicitado para ingressar, aguardando resposta do servidor" />
     <string id="IzJ7f5SQ" text="O servidor não possui mais vagas" />
@@ -30,6 +31,8 @@
     <string id="srAJw3Tg" text="O jogador foi banido do servidor" />
     <string id="T8IniCKU" text="O servidor de jogos não está disponível" />
     <string id="tKSxGy5p" text="O servidor não está respondendo" />
+    <string id="tlsmbvQX" text="Nem todos os jogadores estão prontos para participar" />
+    <string id="TR1B2RWB" text="Você foi kickado do jogo pelo anti-cheat" />
     <string id="vkpMgobZ" text="Erro no servidor de jogos" />
     <string id="wbFB3N72" text="Você é expulso da partida pela votação" />
     <string id="wLpJEkKY" text="Servidor de batalha travou" />
