@@ -70,6 +70,7 @@
     <string id="DCyOFcZI" text="Grants Billhook, a polearm." />
     <string id="Dj64aJKQ" text="Billhook" />
     <string id="dkSDZODz" text="Replaces Sword with Arming Sword, faster, effective at dueling and thrusting." />
+    <string id="DKsZqR8p" text="Replaces Pickaxe with Highland Two Handed Sword, effective at dueling and thrusting, two handed." />
     <string id="DlKYZgA3" text="Improved Armor" />
     <string id="dQEa2hZa" text="Long Spear" />
     <string id="DZ2g8IZr" text="Replaces Two Handed Axe with Two Handed Maul. Effective against armored opponents, two handed." />
@@ -96,22 +97,19 @@
     <string id="HQ20qb3g" text="Replaces mount with a faster but less durable horse." />
     <string id="hs39bbML" text="Stronger Bow" />
     <string id="Hy967JNj" text="Replaces Hunting Bow with Hunting Longbow, deals more damage but slower." />
-    <string id="HZgjTUoY" text="Replaces your axe with sword, faster, effective at dueling and thrusting." />
     <string id="i7OWTiQc" text="Stronger Shield" />
     <string id="iNJr5HOM" text="Awl Pike" />
     <string id="iSpXc3qQ" text="Grants Glaive, a Khuzait polearm, deadly on horseback." />
     <string id="IsVZwswB" text="Replaces Hunting Bow with Recurve Bow, deals more damage, accurate but slower." />
     <string id="IUsT27oV" text="Provides +9 armor." />
     <string id="iYauUX6r" text="Grants Throwing Spears, longer than spears, throwable, can be used in melee, low in quantity." />
-    <string id="JbODbx5i" text="Grants Shield, makes blocking easier, effective against ranged units." />
+    <string id="JbODbx5i" text="Grants a Small Shield, makes blocking easier, effective against ranged units." />
     <string id="JBVAeXx3" text="Pitchfork" />
     <string id="JbWbiO6O" text="Bow and Arrows" />
     <string id="Jd0Kq9lD" text="Shield" />
     <string id="JfnVaE9D" text="Grants Pilas, good for harrassing, can be used in melee, low in quantity." />
-    <string id="jhey75nZ" text="Replaces Pickaxe with Highland Bastard Sword, effective at dueling and thrusting, two handed." />
     <string id="JjRJs2Ue" text="Replaces Pickaxe with Two Handed Axe, extra effective against shields." />
     <string id="jKYWiUZA" text="Replaces mount with a tougher, more maneuverable but slower horse that deals more charge damage." />
-    <string id="K1t2X1YF" text="Replaces Shield with a stronger and a bigger shield, increases durability." />
     <string id="K1UFTirG" text="Light Crossbow" />
     <string id="KBrDpNxO" text="Long Bow" />
     <string id="KKWkfc2n" text="Grants Stronger Bolts." />
@@ -149,6 +147,7 @@
     <string id="QLcP8bIs" text="Falx" />
     <string id="QojyuDln" text="Grants Kontos, longer, deals more damage but slower." />
     <string id="QqWMflbr" text="Grants Kaskara, a one handed sword effective at dueling and thrusting." />
+    <string id="QR4bNj8H" text="Grants Cavalry version of Menavlion." />
     <string id="Qs4VOXgE" text="Short Spear" />
     <string id="R7TAImaC" text="Larger Shield" />
     <string id="RV6BCPvg" text="Replaces Axe with a longer and heavier axe. Extra effective against shields." />
@@ -182,7 +181,7 @@
     <string id="vjvklXQ3" text="Grants Javelins, good for harrassing, can be used in melee." />
     <string id="VL4olxdA" text="Grants Hunting Bow, enables to shoot from horseback." />
     <string id="VR2SwarS" text="Tougher Horse" />
-    <string id="W4iKIM2s" text="Small Shield" />
+    <string id="W4iKIM2s" text="Targe" />
     <string id="wAFiQYpt" text="Replaces Hunting Bow with Fast Short Bow, better in every way." />
     <string id="wdRsSuMN" text="Replaces Long Bow with Yeow Long Bow, deals more damage and accurate but slower." />
     <string id="wdSrwKFE" text="Extra Bolts" />

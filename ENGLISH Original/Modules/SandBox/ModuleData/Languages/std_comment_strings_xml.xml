@@ -37,6 +37,7 @@
     <string id="99gE1ZoY" text="I am {CONVERSATION_CHARACTER.LINK}, of the {FACTION}." />
     <string id="9uH1NdsT" text="You're a handsome devil, aren't you? Bet you're a load of trouble, though." />
     <string id="9ZHhYooG" text="Remember how I beat you, one-on-one? Are you back for more?" />
+    <string id="A40Z3egp" text="That job you did for me... Nice work." />
     <string id="a55SAS18" text="We have the advantage of you. Yield, and you will be well-treated.[ib:warrior][if:idle_angry]" />
     <string id="a5LChqbr" text="The common folk of these lands need someone looking after them. That's where our Brotherhood comes in. You'll hear us called bandits or robbers. Don't believe a word of it." />
     <string id="a8584KD0" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}. I am sure you have heard the name of our clan in the epics of the steppe. We carry the name of one the ten sons of the great she-wolf, mother of the Khuzaits." />
@@ -189,6 +190,7 @@
     <string id="tA4wDLt2" text="I shall have my scribes make a note of your name." />
     <string id="te2DSMtg" text="We're not putting up with it any more. We will spill the blood of the oppressors and anyone who stands in the way of our just wrath." />
     <string id="tOanKs9o" text="I am {LIEGE_TITLE}." />
+    <string id="tRSD2C3k" text="That task you took on for me. Very nicely done." />
     <string id="tUa5WBpp" text="rightful empress of the Calradians" />
     <string id="TUwY7IKc" text="So... You really did me over. Not sure we have much to talk about now, after that." />
     <string id="TvqjhDaQ" text="So, my young lion. You have the look of someone who may go far, if they don't wind up dead." />
@@ -199,6 +201,7 @@
     <string id="U9u8Qeu4" text="Perhaps you've heard of the Wolfskins, traveller. We are beasts. Know that so long as we eat no cooked meat, wear no woven cloth, and sleep under no roof, we cannot be touched by the laws of men. So tread carefully with us." />
     <string id="Ua0T0A7t" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}, one of the ancient lineages of the Battanians." />
     <string id="UB4sqrWx" text="Mother" />
+    <string id="UehvSvLD" text="That job I gave you... I'd say you let me down." />
     <string id="ufa20b2l" text="I'll deal with those who keep their oaths. If you're one of those who don't value their word, don't waste my time." />
     <string id="Ufn3916B" text="I've heard about you. So now we meet. I'm not one for talk, so if you have anything to tell me, say it." />
     <string id="v4nyY62z" text="queen of the Sturgians" />

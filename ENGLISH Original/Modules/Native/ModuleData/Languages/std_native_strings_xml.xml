@@ -40,6 +40,7 @@
     <string id="43L45sjx" text="Number of Bots Per Formation" />
     <string id="4DcNDein" text="Map Time Limit (minutes)" />
     <string id="4Dd2xgPm" text="Weight" />
+    <string id="4jv2sW4U" text="Trading Post" />
     <string id="4NaOKslb" text="-" />
     <string id="4PrfimcK" text="Badge" />
     <string id="4wLU6s4S" text="Abdomen" />
@@ -61,6 +62,8 @@
     <string id="7qySRF2T" text="Ping" />
     <string id="7snGCl6z" text="Face Ranged Siege Units" />
     <string id="880uOrte" text="Terrain" />
+    <string id="8bnYsGu6" text="Harbour of Ovsk (Winter)" />
+    <string id="8EsaVlSX" text="Isle of Deriad" />
     <string id="8o1lZcjR" text="Brow Outer Height" />
     <string id="8sG5bTtK" text="Respawn Period" />
     <string id="9aboazgu" text="Line" />
@@ -69,6 +72,7 @@
     <string id="a2xfNmqa" text="At Lobby" />
     <string id="a8nb5HVc" text="Brow Middle Height" />
     <string id="aAD1iOuH" text="Top Mouth Size" />
+    <string id="aALNy4Es" text="Streets of Syllianon" />
     <string id="AbEh2y8o" text="Save And Exit" />
     <string id="aDA9PWFT" text="Advance" />
     <string id="aDabgVpn" text="Character Customization" />
@@ -135,6 +139,7 @@
     <string id="f4ZeGAJi" text="Relative missile speed: {SPEED} m/s" />
     <string id="f5y9qyDb" text="Arm" />
     <string id="F6dUDgg3" text="Defeat" />
+    <string id="F6l8hFEA" text="Cliffs of Akkalat" />
     <string id="F70rOpkK" text="Captain" />
     <string id="fFLBT9wb" text="Chest" />
     <string id="FFNJTsDL" text="Kick a player" />
@@ -180,6 +185,7 @@
     <string id="Jd0Kq9lD" text="Shield" />
     <string id="jEh6EdF9" text="Best of {ROUND_COUNT}" />
     <string id="JetpbYv9" text="Taint" />
+    <string id="jpeq1gF0" text="Nord Town" />
     <string id="JPimShCw" text="Game Type" />
     <string id="jsqyGWGu" text="Gold Gain Percentage Defenders" />
     <string id="jukzZmBb" text="Earn gold and points by killing enemies and assisting your teammates as you race against the opposing team to victory." />
@@ -214,6 +220,7 @@
     <string id="MQqaKRtn" text="{SHORTCUT} Movement" />
     <string id="MS795wWa" text="First Assist" />
     <string id="MW8rlyfL" text="Thrown" />
+    <string id="NdQZWHIy" text="·   Lead your own detachment of troops{newline}·   Hold control points on the map to deplete enemy morale{newline}·   Kill the entire enemy team or exhaust their morale to win" />
     <string id="NE7PmH7n" text="Conditions" />
     <string id="NqarFr4P" text="Options" />
     <string id="nt5MOuwo" text="Dune" />
@@ -221,9 +228,11 @@
     <string id="nXE6eV8W" text="Lake" />
     <string id="NxeQasMb" text="{SHORTCUT} Fire" />
     <string id="o5Ead68n" text="Quit Without Saving" />
+    <string id="O5uDFhwu" text="Castle of fen Altai" />
     <string id="O9F9q1zx" text="Cheekbone Depth" />
     <string id="obB483C5" text="Body part hit: {BODY_PART}" />
     <string id="oBbiVeKE" text="Hit Points" />
+    <string id="oGAzC0Ob" text="Game Mode" />
     <string id="Oud3W58w" text="Hold ({KEY}) {ACTION}" />
     <string id="OVcoYxj1" text="Server Name" />
     <string id="ox8XcxfR" text="Ear Shape" />
@@ -243,6 +252,7 @@
     <string id="pQibMlbA" text="Nose Bump" />
     <string id="PuX1G0h3" text="Riding Skill Not Adequate To Mount" />
     <string id="PY6VznGu" text="Face Width" />
+    <string id="Pzvtcbk6" text="Xauna" />
     <string id="Q2EmU0TA" text="Team Point Limit" />
     <string id="Q2yjFlC9" text="Hold Fire" />
     <string id="q8lsn0U6" text="Lead your own detachment of troops into battle in this team-based PvP game mode. Control the battlefield to demoralize the enemy team or annihilate their forces to emerge victorious." />
@@ -259,6 +269,7 @@
     <string id="R4Gqskgq" text="Victory" />
     <string id="rbYITcao" text="Mouth" />
     <string id="rbz1Bwbv" text="Inventory" />
+    <string id="RJEHDWmu" text="·   Buy limited respawns using gold{newline}·   Hold control points on the map to deplete enemy morale{newline}·   Kill the entire enemy team or exhaust their morale to win" />
     <string id="RlDVtPpB" text="Eye Depth" />
     <string id="rTFaZCdY" text="Forest" />
     <string id="rTPnyeJ3" text="Shield Wall" />
@@ -267,15 +278,18 @@
     <string id="sBU9vyF1" text="Head shot!" />
     <string id="SdxEH6b1" text="Bottom Lip Shape" />
     <string id="SfJgnzdq" text="Mute" />
+    <string id="sisK3HPI" text="You are muted." />
     <string id="SN2ojCFr" text="Full Skin" />
     <string id="SNLShTzq" text="Score" />
     <string id="SVAmzGRM" text="Ban a player" />
     <string id="SVeIOaab" text="Minimum Score To Win Match" />
     <string id="SVnbZdJq" text="Hide Ears" />
     <string id="Svtb9MQv" text="Duel" />
+    <string id="sXAATSgd" text="Harbour of Ovsk" />
     <string id="sZxSeeXp" text="Numbers Of Players To End Warmup" />
     <string id="t2Oh6uty" text="Welcome Message" />
     <string id="t78atYqH" text="Two Handed" />
+    <string id="t8lAbdCk" text="Isle of Deriad (Winter)" />
     <string id="tAeflOpj" text="Received {DAMAGE} {DAMAGE_TYPE} damage." />
     <string id="tAyw51tM" text="Allow Individual Banners" />
     <string id="TDy1GZHv" text="Skirmish Battle" />
@@ -306,6 +320,7 @@
     <string id="umhwsoqb" text="Choose your desired troop at the start of the round and for the further respawns by using gold." />
     <string id="uPLRkTZr" text="Spawn with better troops by using gold depending on the success at the siege." />
     <string id="UQabkhbG" text="Mount charged for {DAMAGE} {DAMAGE_TYPE} damage." />
+    <string id="uqzA4Q4a" text="Imperial Villa" />
     <string id="UrZvjCfE" text="Your mount received {DAMAGE} {DAMAGE_TYPE} damage." />
     <string id="UUKzc88q" text="Spectator Camera" />
     <string id="UvIsHvrt" text="River" />
@@ -317,6 +332,7 @@
     <string id="VI4gQt8Q" text="Mace" />
     <string id="vkEzdL3k" text="Change game type or scene" />
     <string id="vLjgcdgB" text="Snow" />
+    <string id="vM7CssWE" text="Ruins of Jawwali" />
     <string id="vo5NpcUS" text="Top Lip Shape" />
     <string id="vqao3Z2N" text="Battering Ram Speed (percentage)" />
     <string id="VRdy76RQ" text="Skirmish" />
@@ -339,14 +355,17 @@
     <string id="WsmZzaOq" text="Column" />
     <string id="WXAaWZVf" text="Previous" />
     <string id="Wxlhg1f1" text="Boots" />
+    <string id="WxM16s2Y" text="Druimmor Forest" />
     <string id="wxzhtvZR" text="Defenders Respawn Period" />
     <string id="x1QEJna0" text="Wider" />
     <string id="xILeUbY3" text="Admin Panel" />
     <string id="Xj2FCkQl" text="Custom Server List" />
+    <string id="xoXWGYVI" text="·   Use various siege engines to attack or defend control points{newline}·   Spawn points advance as control points are captured{newline}·   Successfully assault and hold the keep flag or repel the enemy to win" />
     <string id="XpVARRTW" text="Deep" />
     <string id="xq9Vxpyc" text="&lt;a style=&quot;HeadshotTitle.Text&quot; &gt;&lt;b&gt;{TITLE}&lt;/b&gt;&lt;/a&gt;" />
     <string id="XQndveFG" text="Friendly Fire Melee Damage Self" />
     <string id="XUKRrgOr" text="Delivered {DAMAGE} {DAMAGE_TYPE} damage to mount." />
+    <string id="xuo8gmaL" text="·   Buy respawns using gold{newline}·   Earn gold by killing enemies and assisting teammates{newline}·   Outkill the enemy team to win the game" />
     <string id="xXQN7Go6" text="Monolid Eyes" />
     <string id="XZU9SyQW" text="Quick Play" />
     <string id="XzZFhRwr" text="Return To The Game" />
@@ -357,8 +376,10 @@
     <string id="YhDDXj0I" text="Canyon" />
     <string id="YoNYyLba" text="Spear" />
     <string id="yQtzabbe" text="Close" />
+    <string id="YRabuUqx" text="Baravenos Encirclement" />
     <string id="YRymCbaa" text="Got crushed through!" />
     <string id="Yvjap05b" text="Movement Speed" />
+    <string id="YvK6gI6q" text="Town Outskirts" />
     <string id="yyJejJbO" text="Chin Shape" />
     <string id="zatDiaEI" text="Delegate Command On" />
     <string id="Zc2f5bhh" text="Kill all enemies or deplete the enemy team's morale or have the most morale when the round time expires." />

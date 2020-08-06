@@ -13,7 +13,7 @@
     <string id="91cJB1tP" text="Player {INVITEDPLAYER} is already in party." />
     <string id="963x2S0a" text="Friend has been removed" />
     <string id="aFQa3pQt" text="You have to be in lobby to promote another player to party leader." />
-    <string id="ah4Pm8wU" text="You must be at lobby to disband your party![Temporary]" />
+    <string id="ah4Pm8wU" text="You must be at lobby to disband your party!" />
     <string id="AIgw3aFG" text="Cannot queue to battle because some of the players are blocked from matchmaking." />
     <string id="bcdU2DHW" text="Player {INVITEE} invited to your party by {INVITER}." />
     <string id="bivF3RXY" text="You cannot promote yourself" />
@@ -25,6 +25,7 @@
     <string id="E2ILp86t" text="Cannot queue to battle because region is not available." />
     <string id="efpifbtd" text="You must be at lobby to invite someone to your party!" />
     <string id="emx7txM9" text="Member promotion action can only be performed by the party leader." />
+    <string id="f4iavKkb" text="You are muted until {MUTEDUNTIL}, Reason: {MUTEREASON}" />
     <string id="fD2SyeA7" text="You cannot invite yourself to party." />
     <string id="GZXVxl3E" text="{PLAYERNAME} disconnected. Your party invitation is no longer valid." />
     <string id="i5ZTTTZw" text="Player {INVITEDPLAYER} is not at lobby." />

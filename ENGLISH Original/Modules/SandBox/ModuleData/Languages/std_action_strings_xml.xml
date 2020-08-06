@@ -31,7 +31,6 @@
     <string id="ExbVzTZA" text="{CLAN} have made a contract to fight alongside {KINGDOM}." />
     <string id="F3MPgmhR" text="{CLAIMANT.LINK} says that {SETTLEMENT_NAME} should be owned by the {CLAIMANT_CLAN}, not the {CURRENT_OWNER_CLAN}." />
     <string id="FZdiWaBs" text="{HERO}'s common area is captured." />
-    <string id="GRSAoy8H" text="Trading of {ITEM} is forbidden {FACTION_NAME_1}." />
     <string id="h5rkbVu3" text="New owner of {SETTLEMENT} is {LORD.LINK}." />
     <string id="h78oPYTs" text="{INSULTER.LINK} says {INSULTEE.LINK} is a heretic." />
     <string id="hJFCi1zu" text="{FACTION1} and {FACTION2} made peace." />
