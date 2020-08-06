@@ -42,6 +42,7 @@
     <string id="cOEodlOB" text="You wanted to see me for something?" />
     <string id="cXQm4Wba" text="Halt... If you respect the terms of the parley, I will listen." />
     <string id="d6LHL0Fj" text="Looks like you're caught, and I'm glad I'm the one who caught you." />
+    <string id="dHxX40H0" text="Well. So I guess you and me are fighting. That's how fate goes. Anything to say?" />
     <string id="DwqTbXhg" text="Well... Unless I reckon the odds falsely, I'd say you have a very good chance of feasting with your ancestors before this day is through." />
     <string id="DXYVZbcz" text="{STR_SALUTATION}... Ready to give me a good fight?" />
     <string id="F1KEe2XG" text="Please be brief. I am pressed for time." />
@@ -86,6 +87,7 @@
     <string id="oqSF8Ueu" text="Well now, stranger. Peace to you. What is your name?" />
     <string id="oYskGouF" text="{STR_SALUTATION}... My heart is glad to see you." />
     <string id="p1CHHIFb" text="Forgive me for what may seem an abundance of caution, but please keep your distance. Just beyond sword-length is fine. So, who might you be?" />
+    <string id="P3o4r7cB" text="What do you want, stranger? Who are you?" />
     <string id="PCLD3G3s" text="{STR_SALUTATION}... I'd wish you peace and prosperity, but of course I don't want that." />
     <string id="pf3LDFVp" text="Leave your sword in its scabbard for a moment longer, stranger. Who might you be?" />
     <string id="PiaaXapn" text="{STR_SALUTATION}... It's very good to see you." />
@@ -119,6 +121,7 @@
     <string id="xAaxpdb3" text="{STR_SALUTATION}... It's very, very good to see you." />
     <string id="xiFrtNGH" text="Ah... Fate smiles on me today. I can think of no sweeter music than your death-rattle." />
     <string id="XmwqrCLY" text="{STR_SALUTATION}... You know, puffed-up bandits such as yourself always get what they deserve, in the end." />
+    <string id="xtCrabo9" text="Don't know you. Want to tell me your name, before we fight?" />
     <string id="y41EYSBI" text="{STR_SALUTATION}. It's good to see you." />
     <string id="yd0sShGW" text="Halt there. Who are you? I would know whom I slay." />
     <string id="YGAYp0pO" text="Aye? Sorry, I don't think I know you." />

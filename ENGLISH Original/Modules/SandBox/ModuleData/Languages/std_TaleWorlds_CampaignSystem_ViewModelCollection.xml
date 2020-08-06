@@ -16,6 +16,7 @@
     <string id="2ckyCKR7" text="Reserve" />
     <string id="2Cq3tViJ" text="Party Troop Size Limit" />
     <string id="2GWR9Cba" text="Hearth" />
+    <string id="2htkK82b" text="Available cultures are limited to the clan’s culture as well as any owned settlements’ cultures." />
     <string id="2nN1QuxZ" text="This quest will be failed unless completed in this time." />
     <string id="3025020b83b218707499f0de3135ed0a" text="Maneuver: " />
     <string id="305cf7f98458b22e9af72b60a131714f" text="Horse Armor: " />
@@ -28,7 +29,6 @@
     <string id="4Dd2xgPm" text="Weight" />
     <string id="4U9EnZt5" text="Critical Success!" />
     <string id="4uMWNDoi" text="Thrust Speed" />
-    <string id="51ZgFP8d" text="Running From {TARGET_PARTY}." />
     <string id="5bzk75Ql" text="Engaging {TARGET_PARTY}." />
     <string id="5dCR9ixM" text="You can sell this workshop for {AMOUNT} denars." />
     <string id="5dec16fa0be433ade3c4cb0074ef366d" text="Accuracy: " />
@@ -52,7 +52,7 @@
     <string id="a241aacb1780599430c79fd9f667b67f" text="Party Morale: " />
     <string id="a8nRxITn" text="Prisoner of {PARTY_NAME}" />
     <string id="aadiCuDe" text="{COMPLETION_PERCENT} (Approximately {DAYS} day to complete)" />
-    <string id="AcMayd1p" text="Running from {TARGET_PARTY}" />
+    <string id="AcMayd1p" text="Running from {TARGET_PARTY}." />
     <string id="aE4ZRbB6" text=" {HEALTH}%" />
     <string id="aFYwbosi" text="This hero is already leading a party" />
     <string id="aGFxIvqx" text="Leave Member(s)" />
@@ -61,7 +61,6 @@
     <string id="aROohsat" text="Already in another army." />
     <string id="aTdrjrEh" text="{SWING_DAMAGE_FACTOR}" />
     <string id="AxRxT2Xj" text="Once a party is disbanded, it merges into a near clan party or goes to nearest map faction settlement and joins its garrison.\nYou will not be able to undo / cancel this action.\nAre you sure?" />
-    <string id="B0pFBs5P" text="Running From {TARGET_PARTY}" />
     <string id="bAqDnkaT" text="Missile Speed" />
     <string id="bd7oAQq6" text="Daily" />
     <string id="bdp65LWd" text="Clan Role" />
@@ -105,6 +104,7 @@
     <string id="EZxQHBF4" text="You can change the production type of this workshop for {AMOUNT} denars." />
     <string id="f2971dc587a9777223ad2d7be236fb05" text="Trade Rumors" />
     <string id="f4nc7FfE" text="Upgrade to {UPGRADE_NAME}" />
+    <string id="F6GhrriD" text="Create Kingdom" />
     <string id="f6vTzVar" text="Does not have a mobile party." />
     <string id="Fa2nKXxI" text="Governor" />
     <string id="FBYFcrWo" text="Leave in settlement" />
@@ -131,6 +131,7 @@
     <string id="hylxyNtU" text="You don't have enough." />
     <string id="Hz8XO8wk" text="Governors cannot lead a mobile party and be a governor at the same time" />
     <string id="IagYTD5O" text="Prosperity" />
+    <string id="IbqRyrKo" text="This will determine the initial active policies of the Kingdom. Choose Maximum 4 Policies." />
     <string id="IcgVKFxZ" text="Ruler" />
     <string id="idRXFzQ6" text="Already added to the army." />
     <string id="IJdjwXvn" text="Current Level: " />
@@ -177,6 +178,7 @@
     <string id="Mfbc4rQR" text="Charge Damage" />
     <string id="mg7id9om" text="Number of Consumable Items" />
     <string id="mGUSMpTX" text="Coffers" />
+    <string id="mHXujEVw" text="Choose Your Kingdom's Active Policies" />
     <string id="mp68RYnD" text="Party Size Limit" />
     <string id="MqCH7R4A" text="Security" />
     <string id="myMbtwXi" text="Morale Bonus" />
@@ -240,6 +242,7 @@
     <string id="Rkh2k1OA" text="Completion:" />
     <string id="rsHPaaYZ" text="Cohesion needs to be lower than {MINAMOUNT} to boost" />
     <string id="rThSy9ed" text="Required: {UPGRADE_ITEM} (You have none)" />
+    <string id="RuaA8t97" text="Kingdom Name" />
     <string id="RVPidk5a" text="Influence" />
     <string id="s31DnnAf" text="Damage" />
     <string id="s5b77f0H" text="Add +{BOOSTAMOUNT} cohesion to your army" />
@@ -264,6 +267,7 @@
     <string id="Te4xxzzK" text="Current Denars" />
     <string id="tf7301NC" text="Healing Rate" />
     <string id="tFGM0yav" text="This party is disbanding." />
+    <string id="tLh0VqN3" text="Choose Your Kingdom Culture" />
     <string id="twtbH1zv" text="Stack Amount" />
     <string id="TzLtVzdg" text="Wounded Troops" />
     <string id="UbZL2BJQ" text="Hitpoints" />

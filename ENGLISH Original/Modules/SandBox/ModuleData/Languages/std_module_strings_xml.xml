@@ -19,6 +19,8 @@
     <string id="F8TaKnjh" text="When you are in a town or village scene,  holding down the Alt key shows markers on important people and interest points." />
     <string id="fbaQp3ox" text="Enable auto allocation of perks for members in your clan." />
     <string id="hEYfasE1" text="Received damage ratio to your character." />
+    <string id="HMFb1gaq" text="Egalitarian" />
+    <string id="hR6Zo6pD" text="Oligarchic" />
     <string id="HVrobtL5" text="New kingdom name:{newline} - Cannot include digits.{newline} - Cannot be longer than {MAX_LETTER_COUNT} characters.{newline} - Cannot be shorter than {MIN_LETTER_COUNT} characters." />
     <string id="IgeL6qHr" text="Received damage ratio to your allies that are not under your command." />
     <string id="IWD56KMc" text="Map Movement Speed" />
@@ -31,6 +33,7 @@
     <string id="LfpteADn" text="Determine the difficulty of the combat AI" />
     <string id="mD89ih8N" text="Change Clan Name" />
     <string id="N6fz1efb" text="Skips tutorial at the beginning of the game." />
+    <string id="NaMPa4ML" text="Authoritarian" />
     <string id="Oea9a5nY" text="Friendly Troops Received Damage" />
     <string id="qc9Llr3x" text="Hero" />
     <string id="QGA2TilH" text="In game windows, you can right click on an item to open the encyclopedia entry for it. This works for troop portraits, town icons, and most other elements." />
