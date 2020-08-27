@@ -9,7 +9,6 @@
     <string id="0Xku0LQD" text="Sturgia Peasant" />
     <string id="1gAasy1t" text="Lake Rat Veteran" />
     <string id="1PsLlMaQ" text="Imperial Equite" />
-    <string id="1sJcKkVP" text="Guard" />
     <string id="1WfDVpya" text="Sturgian Archer" />
     <string id="1zObCG2o" text="Battanian Fian Champion" />
     <string id="275LD0Gh" text="Shop Worker" />
@@ -116,6 +115,7 @@
     <string id="GEnwDYp1" text="Vlandian Recruit" />
     <string id="GGVehOu9" text="Squire" />
     <string id="GopVkA1q" text="Outlaw" />
+    <string id="guardnoun" text="Guard" />
     <string id="GUQ3zfg2" text="Battanian Volunteer" />
     <string id="Gvy2b4fa" text="Aserai Youth" />
     <string id="gyvXsXs8" text="Battanian Wildling" />
@@ -127,7 +127,6 @@
     <string id="HMHzTNqJ" text="Battanian Trained Warrior" />
     <string id="HsboF2mR" text="Imperial Militia Veteran Archer" />
     <string id="HZRKBDyB" text="Beggar" />
-    <string id="i17zuvS4" text="Sturgian Hunter" />
     <string id="i5DfUz6D" text="Battanian Militia Veteran Archer" />
     <string id="i5QgQbRi" text="Imperial Soldier" />
     <string id="ieiqOaZp" text="Archer" />
@@ -234,6 +233,7 @@
     <string id="Si5ZCb1O" text="Vlandian Pikeman" />
     <string id="sMI3wMZu" text="disguise_equipment_set" />
     <string id="strAI" text="AI" />
+    <string id="sturgianhuntertroop" text="Sturgian Hunter" />
     <string id="SvAADOwm" text="Vlandian Levy Crossbowman" />
     <string id="ta34CxLs" text="Redshank" />
     <string id="TbBnWiao" text="Imperial Caravan Guard" />

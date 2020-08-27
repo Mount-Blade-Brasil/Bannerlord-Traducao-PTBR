@@ -60,7 +60,9 @@
     <string id="brGfaXyo" text="I'm not sure what to make of you, except you're either very brave or very rash, or both." />
     <string id="BRMngn5i" text="Enough! I am your prisoner. I can pay a ransom. I am worth more to you alive than dead.[rf:angry][rb:trivial]" />
     <string id="C5JaFsDZ" text="{FIRST_NAME} is my liege. That's all there is to say." />
+    <string id="c7hrnOUE" text="I guess that task I gave you didn't work out." />
     <string id="caKCwoPM" text="The Bani Zilal are the keepers of the secret. We watch from the shadows. Make foes of us at your peril." />
+    <string id="captainasleader" text="Captain" />
     <string id="cFiSjbf4" text="Hah! I want to fight with you" />
     <string id="cGuzIVlk" text="They say you have traveled quite widely. Tell me a bit about your journeys..." />
     <string id="cMO9JXvk" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}. We hold our lands in fief to {LIEGE_TITLE}, and we honor our oaths of fealty." />
@@ -85,7 +87,6 @@
     <string id="eyxfHmCU" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}. Our family has served the kings of the Vlandians for generations." />
     <string id="f2eZL7w5" text="Oh, I suppose I'm obligated to give you a chance to grovel for your life. Will you surrender, then?[ib:warrior][if:idle_angry]" />
     <string id="f3X79aDs" text="So... I've heard you've traveled around a fair bit. No doubt you've seen a lot of strange and awful things. Maybe you've done a few strange and awful things. Go on, tell me a bit about your journeys. I promise not to be shocked." />
-    <string id="F70rOpkK" text="Captain" />
     <string id="Fb7JxGKM" text="Yeah... I know your name. Right. I'm not one for chat, so let's skip the soup and go straight to the meat." />
     <string id="fbArcLAA" text="My lady, if you are skilled as arms as you are fair in countenance, then your enemies should indeed fear you!" />
     <string id="FbstpIYj" text="Don't say I didn't give you a chance." />

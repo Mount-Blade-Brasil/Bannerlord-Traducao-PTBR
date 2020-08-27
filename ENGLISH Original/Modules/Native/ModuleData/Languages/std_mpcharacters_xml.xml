@@ -5,7 +5,6 @@
   </tags>
   <strings>
     <string id="09gOOa0h" text="Ranger" />
-    <string id="1sJcKkVP" text="Guard" />
     <string id="4C4WiTb2" text="Varyag" />
     <string id="6aqDcMPr" text="Max Armor (55)" />
     <string id="8qg72H8Z" text="Tribal Warrior" />
@@ -13,6 +12,7 @@
     <string id="bHx8jaeI" text="Warrior" />
     <string id="CAYZDsAj" text="Legionary" />
     <string id="cbnvgVhH" text="Raider" />
+    <string id="coursercavalryman" text="Courser" />
     <string id="Cp7dI87a" text="Vanguard" />
     <string id="DMxJJWxt" text="Recruit" />
     <string id="Dq1sCO1y" text="Arbelist" />
@@ -24,9 +24,11 @@
     <string id="ft6QaIms" text="Cataphract" />
     <string id="g9VIbA9s" text="Sergeant" />
     <string id="gLlheMwd" text="Peasant Levy" />
+    <string id="guardnoun" text="Guard" />
     <string id="gytrdYMU" text="Mamluke" />
     <string id="hchDYAKL" text="Lancer" />
     <string id="HCzbW0hE" text="Clan Warrior" />
+    <string id="huntertroop" text="Hunter" />
     <string id="ieiqOaZp" text="Archer" />
     <string id="ixqTFMVA" text="Mounted Warrior" />
     <string id="j5I7tYSd" text="Fiann" />
@@ -38,17 +40,15 @@
     <string id="naBbiK9v" text="Rabble" />
     <string id="NJRUb0C1" text="Palatine Guard" />
     <string id="nt7wUxIa" text="Beduin" />
-    <string id="PoY2Vh7K" text="Steppe Bow" />
     <string id="q1tbZIR9" text="Higher Average Armor (37)" />
-    <string id="rdIGpLLh" text="Courser" />
-    <string id="RjjIbn4V" text="Veteran" />
     <string id="RssJTUpL" text="Berserker" />
     <string id="s9oED1IR" text="Skirmisher" />
+    <string id="steppebowtroop" text="Steppe Bow" />
     <string id="Tm3CY9tC" text="Lower Average Armor (12)" />
     <string id="TNQaD5p2" text="Archer Militia" />
+    <string id="veterantroop" text="Veteran" />
     <string id="WtEoXblx" text="Knight" />
     <string id="XeXJAB6a" text="Menavlion Infantry" />
-    <string id="xnDWqYKW" text="Hunter" />
     <string id="yDiWi6SO" text="Savage" />
     <string id="ZKdiaaFo" text="Brigand" />
   </strings>

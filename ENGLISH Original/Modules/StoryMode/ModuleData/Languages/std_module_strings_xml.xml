@@ -4,14 +4,15 @@
     <tag language="English" />
   </tags>
   <strings>
-    <string id="(" text="Baldimos" />
     <string id="3nilwlcM" text="You have arrived at {TUTORIAL_SETTLEMENT_NAME}. To explore the location, you can enter the settlement by pressing the highlighted button on the left." />
     <string id="3RqEmB15" text="Navigating Calradia" />
     <string id="3Y5dudW9" text="Alda" />
     <string id="3YkpC9Nf" text="You can filter Items through buttons at the top. Filter them to Misc." />
     <string id="4IZnbvlD" text="Baudein" />
+    <string id="4kBdT24F" text="Nathanos" />
     <string id="5bYwdRFs" text="Sword Training" />
     <string id="5M48atXU" text="You have an active quest! You can learn more about it by clicking on the quest log on the lower left of your screen." />
+    <string id="776J8Fng" text="Baldimos" />
     <string id="7xHMIZEP" text="Practice Target" />
     <string id="8UUV94Lq" text="Ranged Training" />
     <string id="8YvBapxl" text="Varic" />

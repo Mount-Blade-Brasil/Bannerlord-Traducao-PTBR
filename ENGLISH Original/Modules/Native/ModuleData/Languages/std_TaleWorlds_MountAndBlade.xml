@@ -4,7 +4,6 @@
     <tag language="English" />
   </tags>
   <strings>
-    <string id="0xC75dN6" text="Enemy Party" />
     <string id="1cnJtNTt" text="({KEY}) Pull" />
     <string id="1CPdu9K0" text="Stone" />
     <string id="3PP01vFv" text="Keep away from that weapon." />
@@ -37,7 +36,6 @@
     <string id="PNg2Rb4p" text="{PEER_NAME} will be kicked{IS_BANNED}" />
     <string id="pzfbPbWW" text="Boulder" />
     <string id="rwZAZSvX" text="({KEY}) Move" />
-    <string id="sSJSTe5p" text="Player Party" />
     <string id="TJj71hPO" text="({KEY}) Close" />
     <string id="wY1qP2qj" text="({KEY}) Select" />
   </strings>
