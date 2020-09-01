@@ -4,14 +4,15 @@
     <tag language="Português Brasileiro" />
   </tags>
   <strings>
-    <string id="(" text="Baldimos" />
     <string id="3nilwlcM" text="Você chegou à {TUTORIAL_SETTLEMENT_NAME}. Para explorar o local, você pode pressionar o botão destacado à esquerda." />
     <string id="3RqEmB15" text="Explorando Calradia" />
     <string id="3Y5dudW9" text="Alda" />
     <string id="3YkpC9Nf" text="Você pode filtrar itens através dos botões na parte superior. Filtros Diversos." />
     <string id="4IZnbvlD" text="Baudein" />
+    <string id="4kBdT24F" text="Natenhos" />
     <string id="5bYwdRFs" text="Treinamento de espadas" />
     <string id="5M48atXU" text="Você tem uma missão ativa! Você pode aprender mais sobre isso clicando no log de missões no canto inferior esquerdo da tela." />
+    <string id="776J8Fng" text="Baldimos" />
     <string id="7xHMIZEP" text="Alvo de prática" />
     <string id="8UUV94Lq" text="Treinamento à Distância" />
     <string id="8YvBapxl" text="Varic" />

@@ -5,13 +5,13 @@
   </tags>
   <strings>
     <string id="0m0IUnL1" text="fen Uvain" />
-    <string id="0u8ipbgn" text="As tribos conhecidas como Povo da Floresta praticam agricultura de corte e queima nas florestas profundas, fora do alcance dos boiardos sturgianos. Eles queimam áreas de árvores, plantam no solo virgem fertilizado por alguns anos até que a terra se esgote e siga em frente. É um uso ineficiente da terra, mas um uso muito eficiente do trabalho, adequado para uma população numericamente pequena em uma grande área. medida e imposto, é uma estratégia muito boa para as pessoas que não querem ser governadas." />
+    <string id="0u8ipbgn" text="As tribos conhecidas como Povo da Floresta praticam cultivos silvestres, corte de árvores e caça nas florestas densas, fora do alcance dos boiardos sturgianos. Eles queimam áreas de árvores, plantam no solo virgem fertilizado por alguns anos até que a terra se esgote e siguem em frente. É um uso ineficiente da terra, mas um uso muito eficiente do trabalho, adequado para uma população numericamente pequena em uma grande área. medida e imposto, é uma estratégia muito boa para as pessoas que não querem ser governadas." />
     <string id="1sbJQR4H" text="Saqueadores" />
     <string id="3o5s6L3y" text="dey Meroc" />
     <string id="3PzgpFGq" text="Jogador" />
     <string id="4Dbwdjbe" text="Hongeros" />
-    <string id="4rr3d8hY" text="Dolentor" />
-    <string id="4TiYXBqK" text="Os Ghilman são um bando de mercenários que recrutam das tribos do sul de Calradia e os são legalmente escravos e senhores: cada um 'se vende' à ordem e, nesse processo, torna-se proprietário de uma empresa. Eles são conhecidos por seus bons cavalos e roupas finas. Mas ninguém deve assumir de seus bloqueios oleados, perfumes e penas de pavão, eles passam mais tempo arrumando do que treinando. Suas habilidades como arqueiros montados são inigualáveis, e como lanceiros estão bem atrás dos vlandianos e das catacratas imperiais." />
+    <string id="4rr3d8hY" text="Dolentos" />
+    <string id="4TiYXBqK" text="Os Ghilman são um bando de mercenários que recrutam das tribos do sul de Calradia e os são legalmente escravos e senhores: cada um 'se vende' à ordem e, nesse processo, torna-se proprietário de uma companhia. Eles são conhecidos por seus bons cavalos e roupas finas. Mas ninguém deve assumir de seus bloqueios oleados, perfumes e penas de pavão, eles passam mais tempo arrumando-se do que treinando. Suas habilidades como arqueiros montados são inigualáveis, e como lanceiros estão bem atrás dos vlandianos e dos catafrats imperiais." />
     <string id="6BvGhzao" text="Karakhergit" />
     <string id="6OEQJV6k" text="Julios" />
     <string id="7bhNgOKd" text="Os Peles de Lobo são herdeiros de uma longa tradição das terras battanianas onde grandes guerreiros foram 'selvagens' por parte de sua juventude, aprendendo os caminhos da floresta e como sofrer dificuldades.Enquanto um Pele de Lobo não vestir roupas costuradas, não comer comida cozida e dormir sob o teto, ele são imunes às leis dos homens. De fato, os Peles de Lobo modernos tendem a ser filhos de famílias ricas levando alguns anos para satisfazer seu lado selvagem, roubando viajantes e fazendo atrocidades e não necessariamente seguindo o código antigo." />
@@ -22,7 +22,7 @@
     <string id="9NWQNInC" text="dey Molarn" />
     <string id="9ORFG9l4" text="Chonis" />
     <string id="9qAUWcfa" text="de Gunric" />
-    <string id="9qAWNBvA" text="Os Eleftheroi, o povo livre, vivem nos limites do Império. Originalmente descendentes de escravos fugitivos e devedores, logo se tornaram altamente valorizados pelos comandantes imperiais locais por seu conhecimento dessa zona fronteiriça e habilidades no campo de batalha. Seus líderes receberam títulos, seus jovens foram levados para as comitivas de arcontes e imperadores, mas, embora agora sejam muito leais à idéia do Império, permanecem bastante hostis à sua autoridade real." />
+    <string id="9qAWNBvA" text="Os Eleftheroi, são um povo livre, vivem nos limites do Império. Originalmente descendentes de escravos fugitivos e devedores, logo se tornaram altamente valorizados pelos comandantes imperiais locais por seu conhecimento dessa zona fronteiriça e habilidades no campo de batalha. Seus líderes receberam títulos, seus jovens foram levados para as comitivas de arcontes e imperadores, mas, embora agora sejam muito inclinados aos ideais do Império, permanecem bastante hostis a qualquer tipo de submissão." />
     <string id="9Y1u2onl" text="Banu Hulyan" />
     <string id="9ZEdEWmi" text="Os Ratos do Lago vivem nos pântanos nas margens do grande lago do norte, em barracas feitas de madeira. Eles vivem 'pescando navios' - isto é, atraindo navios para cardumes falsos de peixe. São desprezados pelo resto de Calradia - 'todos os criminosos cheiram a gás, lama e peixe podre' - eles desprezam todos os outros. Embora a maioria seja esturgiana, suas fileiras foram aumentadas por fugitivos, devedores e qualquer pessoa que preferisse viver segundo um código de ladrões do que pelas leis dos nobres." />
     <string id="a4GxTbPD" text="Varros" />
@@ -33,17 +33,17 @@
     <string id="AppNvfPv" text="Ormidoving" />
     <string id="as2TiAIJ" text="Irmandade da floresta" />
     <string id="b6SEM6Ab" text="Koltit" />
-    <string id="B8c2mNKj" text="As brasas da chama são descendentes de um movimento rebelde que surgiu há quase um século, depois o santo, mas ineficaz adolescente imperador Darusos foi derrubado por um de seus generais, que afirmam estar preparando o caminho para o Céu trazer de volta Darusos e inaugurar uma era de ouro, mas, como tantos outros movimentos rebeldes em Calradia, eles foram forçados a recorrer à extorsão para sobreviver." />
+    <string id="B8c2mNKj" text="As Brasas da Chama são descendentes de um movimento rebelde que surgiu há quase um século, depois que o santo adolescente imperador Darusos foi derrubado por um de seus generais, que afirmam estar preparando o caminho para os Céus trazerem de volta o jovem Darusos e inaugurar uma era de ouro, mas, como tantos outros movimentos rebeldes em Calradia, eles foram forçados a recorrer à extorsão para sobreviver." />
     <string id="bhxVA9w7" text="A Última Legião foi criada depois que o Imperador Arenicos decretou suas reformas após o desastre da batalha de Pendraic, abolindo o último dos exércitos permanentes do Império em favor dos séquitos privados do arconte mais barato e melhor no controle do território A Legião é composta por homens que detestavam essa mudança: eles amavam o antigo exército, seus padrões, suas histórias de unidades e sua vida no campo, e culpavam o novo sistema de destruição do império. não se mantém unido, a menos que seja pago regularmente, e eles aceitam contratos de senhores imperiais e estrangeiros." />
     <string id="bjemmmcF" text="Corenios" />
-    <string id="bsPd5zri" text="A Skolderbroda, ou Irmãos de Escudo, é uma compania mercenária para aqueles que levam muito a sério a luta e o treinamento. Eles são principalmente Nórdicos, mas permitem recrutas de outras culturas, desde que um Irmão de Escudo que já esteja servindo aprove suas habilidades. Suas regras são quase monásticas: nenhuma mulher em seus acampamentos e diversão, e nenhum Irmão pode passar a noite fora sem permissão. Em combate, eles lutam com lança e machado no estilo nórdico e são valorizados por todas as casas nobres do norte." />
+    <string id="bsPd5zri" text="A Skolderbroda, ou Irmãos de Escudo, é uma compania mercenária para aqueles que levam muito a sério a luta e o treinamento. Eles são principalmente Nórdicos, mas permitem recrutas de outras culturas, desde que um Irmão de Escudo que já esteja servindo aprove suas habilidades. Suas regras são quase monásticas: nenhuma mulher em seus acampamentos e diversão, e nenhum Irmão pode passar a noite fora sem permissão, todo irmão é seu irmão de sangue e honre-o como a você mesmo. Em combate, eles lutam com lança e machado no estilo nórdico e são valorizados por todas as casas nobres do norte." />
     <string id="BxCRDt5m" text="Vizartos" />
     <string id="cd0yDTM1" text="Lonalion" />
     <string id="CibaXzG8" text="Phalentes" />
     <string id="CRSFOSil" text="Urkhunait" />
     <string id="CS4rSk99" text="dey Cortain" />
     <string id="Ds2vQVwr" text="Avlonos" />
-    <string id="e6csp4ha" text="Steppe Bandits" />
+    <string id="e6csp4ha" text="Bandidos da Estepe" />
     <string id="eC6qIOzz" text="Eleftheroi" />
     <string id="EnZHNc2k" text="Isyaroving" />
     <string id="Eu932blQ" text="Kuloving" />
@@ -68,16 +68,16 @@
     <string id="LZVzzczs" text="dey Fortes" />
     <string id="m0teef5g" text="Tigrit" />
     <string id="mddbprXj" text="Vagiroving" />
-    <string id="mOa9CX13" text="Montanheiros" />
+    <string id="mOa9CX13" text="Clã das Montanhas" />
     <string id="mpjp1MT2" text="dey Arromanc" />
     <string id="mtZu1l2j" text="Brasas da Chama" />
     <string id="MVHawAEp" text="Mão oculta" />
     <string id="nh4Y3LOc" text="Peles de lobo" />
     <string id="NObV048p" text="Beni Zilal" />
-    <string id="nQOf27Rx" text="A Mão Escondida é uma máfia que domina as áreas rurais e, às vezes, as cidades, nas partes do sul do Império. Eles prosperam, tornando-se úteis para as autoridades: reprimindo agitações, silenciando pregadores problemáticos e roubando comerciantes que competem com seus clientes. Muitos deles andam de um lado para o outro entre uma vida respeitável nas cidades e uma vida criminosa no campo, passando dois ou três meses por ano como bandido e executor e o restante como 'comerciante' em bens roubados, sabendo muito bem que não alguém vai incomodá-los." />
+    <string id="nQOf27Rx" text="A Mão Oculta é uma companhia que domina as áreas rurais e, às vezes, as cidades, nas partes do sul do Império. Eles prosperam, tornando-se úteis para as autoridades: reprimindo agitações, silenciando pregadores problemáticos e roubando comerciantes que competem com seus clientes. Muitos deles andam de um lado para o outro entre uma vida respeitável nas cidades e uma vida criminosa no campo, passando dois ou três meses por ano como bandido e executor e o restante como 'comerciante' de bens roubados, sabendo muito bem que ninguém vai incomodá-los." />
     <string id="o0Xm5Rqk" text="Terra do jogador" />
     <string id="o4wKMT9x" text="Banu Habbab" />
-    <string id="o7ud4X2X" text="Pessoas da floresta" />
+    <string id="o7ud4X2X" text="Clã da floresta" />
     <string id="ObBvcDhJ" text="fen Giall" />
     <string id="OVQoC9fn" text="Comnos" />
     <string id="pBUc2pL8" text="Piratas e Corsários" />
@@ -85,12 +85,12 @@
     <string id="Q1nAHnV7" text="Khergit" />
     <string id="qFntgcGy" text="dey Tihr" />
     <string id="qoLWSdRE" text="fen Eingal" />
-    <string id="RWOYui01" text="Os Jawwal, ou 'Roamers', são a principal confederação beduína no deserto de Nahhas. Eles vagam das terras altas às áreas de pastagem das terras baixas, declarando enormes extensões do deserto como seu “território” no qual qualquer caravana deve oferecer dinheiro de proteção. Eles compõem poemas de suas ações e zombam de outros clãs do Banu Asera por terem desistido da 'liberdade' de tendas de lã preta para casas de pedra nos oásis. Os outros clãs os consideram incômodos, embora respeitosamente os respeitem como protetores dos velhos modos de Aserai." />
+    <string id="RWOYui01" text="Os Jawwal, ou 'Roamers', são o principal clã beduína no deserto de Nahhas. Eles vagam das terras altas às áreas de pastagem das terras baixas, declarando enormes extensões do deserto como seu 'território' no qual qualquer caravana deve oferecer dinheiro para ter proteção. Eles compõem poemas de suas ações e zombam de outros clãs de Banu Asera por terem desistido da 'liberdade' das tendas de lã e da mãe planície em troca de casas de pedra nos oásis. Os outros clãs os consideram incômodos, embora os respeitem como guardiões dos velhos modos de Aserai." />
     <string id="s0AVQCbJ" text="Togaroving" />
     <string id="sAbjtZbB" text="Bandidos da Floresta" />
     <string id="Ssl38GEF" text="Legião" />
     <string id="tA3IRBgv" text="Impestores" />
-    <string id="tae3lhXh" text="A empresa são vlandianos, principalmente taxas locais que não ajusta-se bem ao tempo de paz e optou por uma vida de guerra constante. Eles são provavelmente os mercenários menos disciplinados e mais arrogantes de Calradia, e são um flagelo para qualquer parte do campo em que possam se soltar. Ainda assim, como todos os mercenários, eles sabem que seus ganhos futuros dependem de sua reputação" />
+    <string id="tae3lhXh" text="A Companhia dos Vlandians, oriundos principalmente locais que não ajustam-se bem ao tempo de paz e optam por uma vida de guerra constante. Eles são provavelmente os mercenários menos disciplinados e mais arrogantes de Calradia, e são um flagelo para qualquer parte do campo em que possam ser soltor. Ainda assim, como todos os mercenários, eles sabem que seus ganhos futuros dependem de sua reputação em respeitar o seu senhor atual." />
     <string id="tdGvElSy" text="Dionicos" />
     <string id="txCNVmSV" text="Neretzes" />
     <string id="UmVjzPI4" text="Companhia do Javali Dourado" />
@@ -101,8 +101,8 @@
     <string id="W2HkbCeX" text="Ubroving" />
     <string id="W9n5iPbB" text="Yanserit" />
     <string id="wFR1ukg9" text="Banu Qild" />
-    <string id="xahrUc5n" text="A Irmandade dos Bosques começou como um movimento camponês vlandiano, escondido nas florestas, roubando dos ricos e dando aos pobres. No entanto, encontrou os problemas que qualquer movimento rebelde de longa data poderia - precisava garantir um suprimento constante de alimentos e também garantir que nenhum dos pobres ousaria ganhar um saco de moedas informando sobre eles. Lenta mas seguramente, começou a fazer uso de extorsão, terror e acordos corruptos com as autoridades locais para sobreviver, tornando-se um pouco diferente de qualquer outro grupo de bandidos organizado em Calradia." />
-    <string id="XJbDRBfd" text="Os Karakhergit são um clã nômade que resistiu a todos os esforços dos khans centralizadores de Urkhunid para mantê-los em um só lugar, dar terras e servos a eles e forçá-los a ceder impostos e taxas militares. Eles são tratados pelos outros clãs com uma combinação de inveja e desprezo. Eles trocam e às vezes até se casam com seus irmãos estabelecidos, mas também fazem uma quantidade limitada de seqüestros por resgate e invasão de rebanhos, e zombam daqueles que os culpariam por continuar com os velhos modos heróicos." />
+    <string id="xahrUc5n" text="A Irmandade dos Bosques começou como um movimento camponês Vlandiano, escondidos nas florestas, roubando dos ricos e dando aos pobres. No entanto, encontrou problemas que qualquer movimento rebelde de longa data poderia - precisava garantir suprimentos constantes de alimentos e também garantir que nenhum dos pobres ousaria ganhar um saco de moedas com informações sobre eles. Lentamente, começaram a fazer uso de extorsão, terror e acordos corruptos com as autoridades locais para sobreviver, tornando-se um pouco diferente de qualquer outro grupo de bandidos organizados em Calradia." />
+    <string id="XJbDRBfd" text="Os Karakhergit são um clã nômade que resistiu a todos os esforços dos khans centralizadores de Urkhunid para mantê-los em um só lugar, dar terras e servos a eles e forçá-los a ceder impostos e taxas militares. Eles são tratados pelos outros clãs com uma combinação de inveja e desprezo. Eles comercializam as mãos de suas filhas e às vezes até casam-se com seus irmãos de sangue, mas também prezam a família e dificilmente causam sequestros para obter resgates e invasão de rebanhos, a família e seu rebanho são os maiores bens de um Karakherjit, e zombam daqueles que não seguem os velhos costumes dos primeiros herois." />
     <string id="xqkKtWqa" text="Elaches" />
     <string id="xw0eTkkb" text="Vezhoving" />
     <string id="yQcZrUYi" text="dey Folcun" />

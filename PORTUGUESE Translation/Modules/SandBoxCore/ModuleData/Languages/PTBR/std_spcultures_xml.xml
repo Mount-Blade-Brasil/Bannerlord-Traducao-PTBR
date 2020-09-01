@@ -147,6 +147,7 @@
     <string id="AMmJVlrt" text="Kyraslava" />
     <string id="Ao69q2aY" text="Pera" />
     <string id="aqd6QHES" text="Janab" />
+    <string id="aseraifaction" text="Aserai" />
     <string id="aSNUtnbH" text="Temun" />
     <string id="aTcSQ7MY" text="Oto" />
     <string id="AWM3jbaZ" text="Ajin" />
@@ -238,7 +239,7 @@
     <string id="E1NWbOR8" text="Buchul" />
     <string id="E4WhEvu7" text="Sotherys" />
     <string id="e52LPp57" text="Udris" />
-    <string id="e6csp4ha" text="Steppe Bandits" />
+    <string id="e6csp4ha" text="Bandidos da Estepe" />
     <string id="e6goEM5b" text="Valdym" />
     <string id="eAro6IVf" text="Shalar" />
     <string id="eCCuztOS" text="Moera" />
@@ -250,6 +251,7 @@
     <string id="EKUSZBBj" text="Wusur" />
     <string id="ELpRLYQt" text="Jalin" />
     <string id="eMcQ35QA" text="Radul" />
+    <string id="empirefaction" text="Império" />
     <string id="Emsd1xmS" text="Dhashwal" />
     <string id="eoF4TEr2" text="Daliset" />
     <string id="epxmhQav" text="Daria" />
@@ -377,7 +379,6 @@
     <string id="kEw7yody" text="Volg" />
     <string id="kfNW01y5" text="Tynops" />
     <string id="kFYtFka8" text="Echa" />
-    <string id="kiOst6DH" text="Império" />
     <string id="kIrWyLut" text="Undgar" />
     <string id="KjzJjj5n" text="Eronys" />
     <string id="kkUQObZn" text="Bandidos do Deserto" />
@@ -425,7 +426,7 @@
     <string id="Ml5KBonI" text="Tosui" />
     <string id="MN8aE2yP" text="Caroger" />
     <string id="MNFMqV3n" text="Lyfris" />
-    <string id="mOa9CX13" text="Montanheiros" />
+    <string id="mOa9CX13" text="Clã das Montanhas" />
     <string id="MpZCQ0z1" text="Breadan" />
     <string id="mQStUNPe" text="Kazam" />
     <string id="MRTWZuF4" text="Khilam" />
@@ -434,7 +435,6 @@
     <string id="N0cNsII3" text="Safiya" />
     <string id="n2FdWOtE" text="Adram" />
     <string id="N4y8hPX9" text="Asgerta" />
-    <string id="NaNMRPv4" text="Aserai" />
     <string id="NAVXhanI" text="Yarli" />
     <string id="NBAGX54b" text="Avigos" />
     <string id="ncEWiljT" text="Rhia" />

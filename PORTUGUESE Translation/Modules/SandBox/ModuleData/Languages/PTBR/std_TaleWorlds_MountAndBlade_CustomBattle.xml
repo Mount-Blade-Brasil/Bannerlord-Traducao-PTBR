@@ -4,12 +4,34 @@
     <tag language="Português Brasileiro" />
   </tags>
   <strings>
+    <string id="0s52GQJt" text="Nível de cena" />
+    <string id="0xC75dN6" text="Equipe inimiga" />
     <string id="35IHscBa" text="INIMIGO" />
     <string id="4gOGGbeQ" text="Batalha customizada" />
+    <string id="4IuXGSdc" text="Resistência do muro" />
+    <string id="7i1vmgQ9" text="Selecione um mapa" />
     <string id="BC7n6qxk" text="JOGADOR" />
-    <string id="fXhblsky" text="MAPA" />
+    <string id="bKg8Mmwb" text="Tipo de jogador" />
+    <string id="bLXleed8" text="Personagem do jogador" />
+    <string id="cZzfNlxd" text="Cair" />
+    <string id="EcKMGoFv" text="Sallyout" />
+    <string id="f7vOVQb7" text="verão" />
+    <string id="fj2z2Ywz" text="Máquinas de cerco atacantes" />
+    <string id="g9VIbA9s" text="Sergento" />
+    <string id="JPimShCw" text="Tipo de jogo" />
+    <string id="KASD0tnO" text="Atacante" />
+    <string id="kx9ix1XK" text="Defender as Máquinas de cerco" />
     <string id="MVOWsP48" text="Selecione uma máquina corpo a corpo" />
     <string id="mxbq3InD" text="{ARMY_SIZE} mas" />
+    <string id="nWbp3o3H" text="Primavera" />
+    <string id="nwqUFaU8" text="Inverno" />
+    <string id="P3rMg4uZ" text="Lado do jogador" />
+    <string id="QAYngoNQ" text="Personagem inimigo" />
     <string id="SLZzfNPr" text="Selecione uma máquina à distância" />
+    <string id="sSJSTe5p" text="Jogador do grupo" />
+    <string id="Ua6CNLBZ" text="Aldeia" />
+    <string id="w9m11T1y" text="Mapa" />
+    <string id="XEVFUaFj" text="Defensor" />
+    <string id="xTzDM5XE" text="Estação" />
   </strings>
 </base>

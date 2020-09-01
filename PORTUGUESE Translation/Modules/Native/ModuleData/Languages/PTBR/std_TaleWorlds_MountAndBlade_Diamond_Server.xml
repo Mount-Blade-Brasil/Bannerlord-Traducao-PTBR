@@ -5,46 +5,64 @@
   </tags>
   <strings>
     <string id="0W4dgUho" text="Banido do jogo até {BANNEDUNTIL}, Razão:{BANREASON}" />
+    <string id="0y5Noakb" text="Você aceitou o pedido de amizade." />
     <string id="2xOyWxIo" text="O jogador não é um membro do grupo." />
-    <string id="3EOP6yhO" text="Você foi chutado pelo anti-cheat. Motivo: {KICKREASON}" />
+    <string id="3EOP6yhO" text="Você foi expulso pelo anti-cheat. Motivo: {KICKREASON}" />
     <string id="4XDu4Qcd" text="Somente o líder do grupo pode expulsar jogadores do grupo." />
     <string id="5kgkZo2o" text="O jogador que você tentou chutar não está no seu grupo!" />
+    <string id="6cMSAe2Z" text="Não foi possível reportar o jogador. O jogador não pode ser encontrado." />
     <string id="91cJB1tP" text="O jogador {INVITEDPLAYER} já está participando." />
+    <string id="963x2S0a" text="Amigo foi removido." />
     <string id="aFQa3pQt" text="Você precisa estar no lobby para promover outro jogador a líder da partida." />
-    <string id="ah4Pm8wU" text="Você deve estar no lobby para dissolver sua equipe! [Temporário]" />
-    <string id="AIgw3aFG" text="Não é possível fazer fila para a batalha porque alguns dos jogadores estão impedidos de fazer matchmaking." />
+    <string id="ah4Pm8wU" text="Você deve estar no lobby para dissolver sua equipe!" />
+    <string id="AIgw3aFG" text="Não é possível entrar na fila de batalha porque alguns dos jogadores estão impedidos de fazer partidas." />
     <string id="bcdU2DHW" text="Jogador {INVITEE} convidado para sua equipe por {INVITER}." />
     <string id="bivF3RXY" text="Você não pode se promover" />
     <string id="BwBR7TJB" text="Equipe dissolvido, não restou ninguém!" />
     <string id="caMylVF7" text="Não é possível entrar na fila pois nenhum tipo de jogo foi selecionado." />
+    <string id="cBY4Mymw" text="O jogador foi denunciado." />
+    <string id="d4eShU5x" text="{PLAYER} aceitou sua solicitação de amizade." />
+    <string id="dabogDDj" text="Vocês já são amigos." />
+    <string id="dDF2wZGu" text="{PLAYER} recusou sua solicitação de amizade." />
     <string id="E2ILp86t" text="Não é possível entrar na fila pois a região não está disponível." />
     <string id="efpifbtd" text="Você deve estar no lobby para convidar alguém para sua equipe!" />
     <string id="emx7txM9" text="A ação de promoção de membro só pode ser executada pelo líder da partida." />
+    <string id="f4iavKkb" text="Você fica sem som até {MUTEDUNTIL}" />
     <string id="fD2SyeA7" text="Você não pode se convidar para uma equipe." />
     <string id="GZXVxl3E" text="{PLAYERNAME} desconectado. Seu convite para equipe não é mais válido." />
     <string id="i5ZTTTZw" text="O jogador {INVITEDPLAYER} não está no lobby." />
+    <string id="jl8MYbLR" text="Sua solicitação de amizade fi enviada para {PLAYER}." />
     <string id="jP2hUg7H" text="Você não está em uma equipe!" />
+    <string id="KCtYUaag" text="Você já enviou uma solicitação para esse jogador." />
     <string id="kY2oXMng" text="Não foi possível fazer o login." />
     <string id="l6a9vI9z" text="Somente o líder da partida pode convidar outros jogadores." />
     <string id="mcAG0eHJ" text="Você deve estar no lobby para expulsar alguém da sua equipe! [Temporário]" />
     <string id="MepGBJMQ" text="O player que você tentou promover não foi encontrado" />
     <string id="mvQKpHXH" text="Sua equipe está cheia." />
+    <string id="n1MdWtck" text="Agora você é amigo de {PLAYER}." />
     <string id="nJ7aEkRt" text="Você foi convidado para uma equipe por {PLAYERNAME}." />
+    <string id="nQWwqDmn" text="Você recebeu uma solicitação de amizade de {PLAYER}." />
     <string id="nw7r2S5z" text="Tipo de jogo selecionado desativado:{GAMETYPES}." />
     <string id="OByu0fjQ" text="Não é possível entrar na fila para a batalha porque nem todos os jogadores estão prontos no seu grupo." />
+    <string id="oFfMEy1S" text="Não foi possível encontrar a solicitação de amizade" />
     <string id="olLwOWf8" text="Não é possível entrar na fila para a batalha, porque nem todos os jogadores estão usando anti-cheat." />
-    <string id="P0aRStg4" text="Não é possível fazer fila para a batalha porque você está impedido de fazer matchmaking." />
+    <string id="P0aRStg4" text="Não é possível entrar na fila de batalha porque você está impedido de fazer partidas." />
     <string id="p5K0ATtZ" text="Não foi possível finalizar sua sessão anterior." />
     <string id="pehfmZvM" text="O jogador {PLAYERNAME} foi promovido a líder da equipe." />
     <string id="Pn13ZKwI" text="Sua equipe foi dissolvida!" />
+    <string id="qoto9N7y" text="Não foi possível encontrar esse amigo" />
     <string id="Rj8RhD7F" text="Falha" />
+    <string id="SIT1tREw" text="Você não pode se adicionar como amigo" />
     <string id="Tauk2JzA" text="Incompatibilidade de versão, versão do servidor:{SERVERVERSION} - Sua versão:{CLIENTVERSION}." />
     <string id="TpBDiSBp" text="{PLAYERNAME} foi designado como líder da equipe." />
-    <string id="UMNzrvvJ" text="Você está impedido do matchmaking por {PUNISHMENTDURATION} segundos." />
+    <string id="UMNzrvvJ" text="Você está impedido de iniciar partidas por {PUNISHMENTDURATION} segundos." />
     <string id="VDDm5bqb" text="Você só pode convidar jogadores executando o jogo com o Anti-cheat." />
     <string id="w8WiqZT3" text="Você deve executar o jogo com o Anti-cheat para ingressar ou criar uma equipe!" />
     <string id="wNubP2BF" text="Somente o líder do grupo pode confirmar a entrada na fila de partidas." />
+    <string id="Xb6TEi3o" text="Você recusou a solicitação de amizade" />
+    <string id="xHqjCamt" text="Não foi possível reportar o jogador. O jogo não pode ser encontrado." />
     <string id="xMa4QqvL" text="Jogadores atuais no grupo:{PLAYERS}" />
+    <string id="YF0irfDl" text="O jogador não pode ser encontrado" />
     <string id="ysfEQO6c" text="Player não encontrado" />
     <string id="zyDyPr4I" text="O jogador que você tentou promover não está no seu grupo." />
   </strings>

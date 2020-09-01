@@ -70,6 +70,7 @@
     <string id="DCyOFcZI" text="Concede Billhook, uma arma de fogo." />
     <string id="Dj64aJKQ" text="Billhook" />
     <string id="dkSDZODz" text="Substitui a espada pela armadura, mais rápida, eficaz em duelos e investidas." />
+    <string id="DKsZqR8p" text="Substitui Picareta por Espada de Duas Mãos das Terras Altas" />
     <string id="DlKYZgA3" text="Armadura aprimorada" />
     <string id="dQEa2hZa" text="Lança longa" />
     <string id="DZ2g8IZr" text="Substitui o machado de duas mãos por um maul de duas mãos. Eficaz contra oponentes blindados de duas mãos." />
@@ -96,22 +97,19 @@
     <string id="HQ20qb3g" text="Substituir a montagem por um cavalo mais rápido, mas menos durável." />
     <string id="hs39bbML" text="Arco mais forte" />
     <string id="Hy967JNj" text="Substituir o arco de caça por arco longo, causando mais dano e mais lento." />
-    <string id="HZgjTUoY" text="Substituir machado por espada, mais rápido, eficaz em duelos e estocadas." />
     <string id="i7OWTiQc" text="Blindagem mais forte" />
     <string id="iNJr5HOM" text="Pike de perfuração" />
     <string id="iSpXc3qQ" text="Concede Glaive, uma arma Khuzait, mortal a cavalo." />
     <string id="IsVZwswB" text="Substitui o arco de caça por um arco recurvo, causa mais dano, mais preciso e mais lento." />
     <string id="IUsT27oV" text="Fornece +9 de armadura." />
     <string id="iYauUX6r" text="Concede lanças de arremesso, mais longas que lanças, que podem ser usadas em combate corpo a corpo, em pequenas quantidades." />
-    <string id="JbODbx5i" text="Concede escudo, torna o bloqueio mais fácil e mais eficaz contra unidades de longo alcance." />
+    <string id="JbODbx5i" text="Concede um bônus de escudo pequeno, torna o bloqueio mais fácil e mais eficaz contra unidades de longo alcance." />
     <string id="JBVAeXx3" text="Forquilha" />
     <string id="JbWbiO6O" text="Arco e flecha" />
     <string id="Jd0Kq9lD" text="Escudo" />
     <string id="JfnVaE9D" text="Concede baterias, boas para assédio, podem ser usadas em combate corpo a corpo, com pouca quantidade." />
-    <string id="jhey75nZ" text="Substituir a maças por espadas bastardas das terras altas, eficaz em corpo-a-corpo e empurrão com as duas mãos." />
     <string id="JjRJs2Ue" text="Substitui a maça por um machado de duas mãos, mais eficaz contra escudos." />
     <string id="jKYWiUZA" text="Substitui a montaria por um cavalo mais lento, mais manobrável, mas mais lento, que causa mais danos por carga." />
-    <string id="K1t2X1YF" text="Substitui a blindagem por uma blindagem maior e mais forte, aumenta a durabilidade." />
     <string id="K1UFTirG" text="Besta leve" />
     <string id="KBrDpNxO" text="Arco longo" />
     <string id="KKWkfc2n" text="Concede dardos mais fortes." />
@@ -149,6 +147,7 @@
     <string id="QLcP8bIs" text="Falx" />
     <string id="QojyuDln" text="Concede Kontos, por mais tempo, causa mais dano e mais lento." />
     <string id="QqWMflbr" text="Concede Kaskara, uma espada eficaz de uma mão em duelo e estocada." />
+    <string id="QR4bNj8H" text="Concede a versão Cavalaria de Menavlion." />
     <string id="Qs4VOXgE" text="Lança curta" />
     <string id="R7TAImaC" text="Maior proteção" />
     <string id="RV6BCPvg" text="Substitui o machado por um machado mais longo e mais pesado. Extra eficaz contra escudos." />
@@ -182,7 +181,7 @@
     <string id="vjvklXQ3" text="As concessões de dardo, boas para cerco, podem ser usadas em combate corpo a corpo." />
     <string id="VL4olxdA" text="Concede arco de caça, permite disparar a cavalo." />
     <string id="VR2SwarS" text="Cavalo mais duro" />
-    <string id="W4iKIM2s" text="Escudo Pequeno" />
+    <string id="W4iKIM2s" text="Targe" />
     <string id="wAFiQYpt" text="Substituir o arco de caça por um arco curto rápido, melhor em todos os aspectos." />
     <string id="wdRsSuMN" text="Substitui o arco longo por arco longo de Yeow, causa mais dano e mais preciso, porém mais lento." />
     <string id="wdSrwKFE" text="Dardos adicionais" />

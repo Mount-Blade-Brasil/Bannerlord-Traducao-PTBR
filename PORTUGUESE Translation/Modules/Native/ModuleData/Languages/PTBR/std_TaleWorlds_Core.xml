@@ -11,7 +11,6 @@
     <string id="81YLbLok" text="Experimente o lado sombrio da vida humana. Você sabe o que dizer quando um guarda quer suborno, sabe como intimidar alguém e tem uma boa noção do como se safar." />
     <string id="8w0aaDbn" text="Ferro" />
     <string id="97EmbcHQ" text="A capacidade de inspirar. Você pode preencher as pessoas com confiança e despertar entusiasmo e coragem em grupos maiores." />
-    <string id="abxndmIh" text="Social" />
     <string id="Aj3zqQq4" text="Não está disponível" />
     <string id="azjMBa86" text="Aço fino" />
     <string id="Bn7IsMpu" text="INT" />
@@ -53,6 +52,8 @@
     <string id="PiHpR4QL" text="Uma mão" />
     <string id="qwEJSBaH" text="Seu conhecimento sobre o que faz um assentamento prosperar. Isso ajuda você a gerenciar uma propriedade ou administrar uma cidade." />
     <string id="skZS2UlW" text="Atletismo" />
+    <string id="smithingskill" text="Ferraria" />
+    <string id="socialskill" text="Social" />
     <string id="sOrJoxiC" text="Inteligência" />
     <string id="t78atYqH" text="Duas mãos" />
     <string id="TeUtEGV0" text="Inteligência representa aptidão para leitura e aprendizado teórico." />
@@ -66,13 +67,13 @@
     <string id="Ve8xoa3i" text="VIG" />
     <string id="vLVAfcta" text="Thamaskene de aço" />
     <string id="vx0OCvaj" text="O controle representa a capacidade de usar força sem sacrificar a precisão. É necessário usar armas à distância." />
-    <string id="XMDTt96y" text="Social é a capacidade de entender as motivações das pessoas e influenciá-las da melhor forma possível." />
-    <string id="xs0MpdCM" text="Ferreiro" />
+    <string id="XMDTt96y" text="Social é a capacidade de entender as motivações das pessoas e influenciá-las da melhor forma possível. " />
     <string id="xWbkjccP" text="O conhecimento de como forjar metal, balancear uma boa lâmina, costurar bainhas e outras habilidades, curtir e moldar couros úteis na montagem de armas e armaduras" />
     <string id="yEkSSqIm" text="Domínio da luta com armas de uma mão, com ou sem escudo." />
     <string id="Ymw2PKBo" text="Administração" />
     <string id="YO5LUfiO" text="Astúcia é a capacidade de prever o que as outras pessoas farão e superar seus planos." />
     <string id="YWkdD7Ki" text="Vigor" />
+    <string id="ZBmz4niK" text="e" />
     <string id="zfRqM4mr" text="Controle" />
   </strings>
 </base>

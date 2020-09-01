@@ -47,11 +47,11 @@
     <string id="a6Yqb6nY" text="Eu sou." />
     <string id="A7ToDPfN" text="Esplêndido. Esse é o espírito. Reúna seus pertences." />
     <string id="Ac8dPtH8" text="Eu não sei, nem me importo." />
-    <string id="AGBkVF4G" text="Não há mal nisso, suponho. Então, conte-me sobre você." />
+    <string id="AGBkVF4G" text="Não há mal nisso, suponho. Então, conte-me sobre você..." />
     <string id="aGRXxufp" text="Como você pode imaginar, sou contrabandista. E bom nisso." />
     <string id="APKQ8HuA" text="Não, não estou, estou com medo. Tenha um bom dia!" />
     <string id="Auq79Hap" text="É um ditado educado entre o meu povo, mas também é verdade. O mundo seria um lugar melhor se os homens pudessem viajar à vontade, trazendo sabedoria e riqueza de um lugar distante para o outro. outro." />
-    <string id="awCIaqxG" text="Lá. Você se juntará a mim em uma xícara de cerveja?" />
+    <string id="awCIaqxG" text="Lá você se juntará a mim em um copo de cerveja?" />
     <string id="AXy281gD" text="Que tipo de maldição?" />
     <string id="BIXQz5yS" text="Se esse é seu último 'último pedido', suponho que sim. Aqui está {NPCPAYMENT}{GOLD_ICON}." />
     <string id="bKFWqaxQ" text="Não sei se posso pagar como ele pagou..." />
@@ -109,7 +109,7 @@
     <string id="H7Y4lTjl" text="Acho que ouvi falar desse costume. Os battanianos não dizem que os ensina os caminhos da floresta?" />
     <string id="hcMJen3F" text="Não, não posso dizer que sim. Então, quem é você?" />
     <string id="Ho8MFOOi" text="Vou garantir que seus homens temam mais meu desprezo do que as lanças do inimigo." />
-    <string id="hR7mKQPs" text="O desprezo por si só não torna os homens corajosos, madame. Acho melhor você encontrar outro capitão." />
+    <string id="hR7mKQPs" text="O desprezo por si só não torna os homens corajosos. Acho melhor você encontrar outra pessoa." />
     <string id="hyhYcrFp" text="Muito bem. Considere-se contratado." />
     <string id="i53bBgar" text="Então, então... eu tive trabalhos estranhos nos últimos anos. Principalmente, fico em mercados gritando as virtudes das selas ou dos melões dessa pessoa..." />
     <string id="iBHDCIwV" text="Não aceito recrutas que me imponham condições. Tenha um bom dia!" />
@@ -133,7 +133,7 @@
     <string id="jW6UlCAi" text="Conversando com espíritos, não é? Não vou interromper sua conversa." />
     <string id="jxZSkF76" text="Você duelou com seu marido? Os céus evitam todo o mal. Já ouvi o suficiente." />
     <string id="JZU9vtFg" text="Se você deseja passar rapidamente pelo deserto, encontrar abrigos para se esconder de seus inimigos, encontrar água onde outros encontram apenas poeira e morte, então eu sou o seu homem." />
-    <string id="K0Eh3eYs" text="Esplêndido. Preciso de uma pequena quantia de dinheiro adiantado - {NPCPAYMENT}{GOLD_ICON}. Tenho vários funcionários, que estão na nossa família há anos, que não podem me acompanhar A honra e a humanidade básica exigem que eu lhes dê uma pequena quantia de dinheiro para que elas se levantem." />
+    <string id="K0Eh3eYs" text="Esplêndido. Preciso de uma pequena quantia de dinheiro adiantado - {NPCPAYMENT}{GOLD_ICON} denares. Tenho vários funcionários, que estão na nossa família há anos, que não podem me acompanhar. A honra e a humanidade básica exigem que eu lhes dê uma pequena quantia de dinheiro para que sigam por um novo caminho." />
     <string id="k767XKYO" text="Minha família me implorou que não. O mesmo aconteceu com a maioria dos outros. Mas os anciãos. disse que, embora não houvesse precedente para o marido e a esposa duelarem, não havia nada na lei para detê-lo. Eu senti tanta raiva. Era como se houvesse outra pessoa, um demônio, habitando meu corpo em meu lugar. todas as ofertas de mediação e exigiu que a luta avançasse." />
     <string id="kcQQS5OF" text="Depois que meu pai morreu - de luto, acredito -, resolvi assumir a profissão de armas, para que todos os homens soubessem que eu não sou do tipo que se casa. E digo a todos os outros da maldição sobre mim, assim que eu os encontrar." />
     <string id="kn76Y4yi" text="Não tenho pratos dourados para você jantar. Duvido que você dure muito tempo conosco. Tenho um bom dia!" />
@@ -160,7 +160,7 @@
     <string id="nbbn0HaV" text="Por quê? Vou lhe dizer o porquê." />
     <string id="nEHOUdf8" text="Confesso que esta não é a primeira vez que algo assim acontece comigo. Os hosts podem ser tão exigentes em suas listas de convidados. Mas isso me deixou um pouco impasse , como eu provavelmente deveria sair desta cidade mais cedo ou mais tarde" />
     <string id="NLLnv7WH" text="Eu já estive por aí. Ainda estou entediado. Ainda estou bebendo mais do que deveria." />
-    <string id="NMTS37x2" text="I tive a oportunidade de comprar pimenta de outro comerciante que vendia com desconto e precisava de dinheiro. É claro que inspecionei a pimenta e seu armazenamento. Entrevistei os vigias do armazém. Você pode confiar em nós, madame ', disseram eles. garantiu que sua pimenta está em boas mãos. Mas um deles mantinha um braseiro aceso à noite, pelo calor, e um camelo o chutou em uma cama de palha quando ele estava se aliviando. Quando ele voltou, o armazém estava em chamas." />
+    <string id="NMTS37x2" text="Tive a oportunidade de comprar pimenta de outro comerciante que vendia com desconto e precisava de dinheiro. É claro que inspecionei a pimenta e seu armazenamento. Entrevistei os vigias do armazém. que disseram - 'Você pode confiar em nós'. Garantiu que a pimenta estava em boas mãos. Mas um deles mantinha um braseiro aceso à noite, um camelo esbarrou e derrubou em uma cama de palha quando ele estava se aliviando. Quando ele voltou, o armazém estava em chamas." />
     <string id="nNFSLJ2A" text="Essa é uma habilidade muito especializada, minha senhora. Adeus." />
     <string id="nYAU0zNC" text="Um rei sábio disse uma vez: peço apenas aos meus generais que tenham sorte. Bom dia." />
     <string id="o7gJN0Kk" text="Você não vai se arrepender de sua decisão. Uma coisa que devo perguntar - antes de sair, preciso de um novo freio e sela. Um avanço de {NPCPAYMENT}{GOLD_ICON} deve ser suficiente." />
@@ -212,7 +212,7 @@
     <string id="TMLpc1mq" text="Então, você vive entrando nos jantares de outros homens, pelo que entendi. Mas parece que você tem um conjunto de habilidades úteis." />
     <string id="TnVIWrof" text="Você parece ter a atitude certa. Conte-me mais sobre você." />
     <string id="u8N37fgb" text="Uma história trágica, minha senhora. Por favor, continue." />
-    <string id="UhEt737M" text="Sim. Bem, era um risco - mas calculado. Se você estiver disposto a ouvir minha história, eu gostaria de ter a chance de aliviar minhas mágoas." />
+    <string id="UhEt737M" text="Sim. Bem, era um risco - mas calculado - Se você estiver disposto a ouvir minha história, gostaria de ter a chance de aliviar minhas mágoas." />
     <string id="UlsvDHLV" text="Ah, que pena. Se você era natural de Calradia, eu ficaria muito interessado em saber sobre seus ancestrais e alguns detalhes do seu local de nascimento. Estou coletando notas sobre o linhagens desta terra, tanto das grandes famílias imperiais quanto de nossos irmãos bárbaros" />
     <string id="unbf7266" text="Estou aqui para beber, não para falar, então, o que quer que você tenha a dizer, eu o aconselho a dizê-lo a outra pessoa. A menos que você tenha uma luta que precisa de luta." />
     <string id="UpEItRrJ" text="Olá? Olá? Você parece estar olhando através de mim." />

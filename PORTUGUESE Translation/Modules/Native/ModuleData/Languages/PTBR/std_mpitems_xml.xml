@@ -69,7 +69,7 @@
     <string id="4SXHklRU" text="Escudo de corsário" />
     <string id="4wdgiTta" text="Foice" />
     <string id="4xUR2kAj" text="Maça pesada imperial" />
-    <string id="4YxbZlbi" text="Sapatos embrulhados" />
+    <string id="4YxbZlbi" text="Botas de couro" />
     <string id="5bEHZ2z1" text="Elmo com viseira do império" />
     <string id="5DVBFbLV" text="Espada grande de nobre" />
     <string id="5h1qpdoa" text="Gabardina imperial com correias" />
@@ -107,14 +107,14 @@
     <string id="8ulJswRY" text="Casaco de couro revestido" />
     <string id="8UMQ8ocB" text="Escudo de cavalaria oriental" />
     <string id="927d3urB" text="Escudo oval de madeira" />
-    <string id="9BENgwRK" text="Roundkettle com pano atado" />
+    <string id="9BENgwRK" text="Elmo aberto com coifa" />
     <string id="9cHyHQ7a" text="Botas Lamelares" />
     <string id="9dlab6XF" text="Armadura robusta oriental" />
     <string id="9DpvaA9n" text="Flecha imperial" />
     <string id="9Eyd2qGo" text="Botas de camurça reforçada" />
     <string id="9FgxK9se" text="Elmo alto" />
     <string id="9Gsusawm" text="Machado ocidental" />
-    <string id="9Hr4oEvw" text="Roundkettle emcouro imperial" />
+    <string id="9Hr4oEvw" text="Elmo em couro imperial" />
     <string id="9NW9y1ll" text="Mp Teste maça" />
     <string id="9pD32UdV" text="Maça das terras altas" />
     <string id="9rJ9KpJV" text="Caneleira emplumada em couro" />
@@ -188,6 +188,7 @@
     <string id="CgG2aRyh" text="Barreira de meia escala" />
     <string id="CJCatm7j" text="Escudo de carvalho mais leve" />
     <string id="CLYcnUra" text="Couraça de couro com cinto" />
+    <string id="courserhorse" text="Corsel" />
     <string id="Cp5aIHqR" text="Colete lamelar do norte" />
     <string id="cQMDVJnE" text="Machado de batalha imperial" />
     <string id="CtJPuRDa" text="Sobretudo de couro acolchoado" />
@@ -198,7 +199,7 @@
     <string id="D4aYU0md" text="Espada da armada ocidental" />
     <string id="d8DrtmwP" text="Elmo Visored" />
     <string id="dacwWKE2" text="Escudo envelhecido" />
-    <string id="Dc4ia4m9" text="Capa acolchoada" />
+    <string id="Dc4ia4m9" text="Elmo acolchoada" />
     <string id="dIdtdMFN" text="Escudo de explorador das terras altas" />
     <string id="Dj64aJKQ" text="Billhook" />
     <string id="DJjCCQ59" text="Armadura de selvagem de battanian" />
@@ -289,6 +290,7 @@
     <string id="ho4bsI3Q" text="Armadura de escama do império" />
     <string id="hRHPPQQP" text="Túnica enlaçada" />
     <string id="hTRaPvRa" text="Botas de couro das montanhas" />
+    <string id="hunterhorse" text="Caçador" />
     <string id="hXijcZyp" text="Casaco de malha áspera" />
     <string id="I1faIdpc" text="Brawler" />
     <string id="i4CfsNGd" text="Colete Imperial" />
@@ -395,9 +397,9 @@
     <string id="mFbFEOVz" text="Capuz de pele do norte" />
     <string id="mkoMUmLh" text="Colete de serapilheira" />
     <string id="MKT5IzWm" text="Robe de mangas grossas" />
-    <string id="mlJKNbbn" text="Capa de couro" />
+    <string id="mlJKNbbn" text="Coifa de couro" />
     <string id="mMGfhc3M" text="Armadura de nobre das terras altas" />
-    <string id="MnJvp0Tq" text="Armadura básica" />
+    <string id="MnmUBlbL" text="Targe" />
     <string id="MPyugmha" text="Maça cravejada das montanhas" />
     <string id="MQ8LCvCE" text="Túnica amarrada" />
     <string id="Mr06Juj5" text="Casaco de couro costurado oriental" />
@@ -443,7 +445,7 @@
     <string id="OrEgjXZ1" text="Roughspun Kefiyyeh" />
     <string id="OzUsuoDO" text="Elmo do norte" />
     <string id="p2EYQDBl" text="Maça da cavalaria do sul" />
-    <string id="p6NIgRpk" text="Capa de couro áspero" />
+    <string id="p6NIgRpk" text="Elmo de couro áspero" />
     <string id="P8GrNSkF" text="Elmo craniano segmentado" />
     <string id="p949oNWk" text="Placa com camadas" />
     <string id="pEaYQqG9" text="Escudo quadrado de Vime" />
@@ -487,7 +489,6 @@
     <string id="rabNzmeh" text="Lança longa oriental" />
     <string id="radJHwRW" text="Escudo pesado" />
     <string id="RCq6DcvS" text="Lança longa do norte" />
-    <string id="rdIGpLLh" text="Corsário" />
     <string id="RF7uVEGp" text="Lança de bambu" />
     <string id="rifv0h0H" text="Escudo da cavalaria do norte" />
     <string id="rOpxDHXL" text="Armadura lamelar de couro oriental" />
@@ -495,7 +496,7 @@
     <string id="RTIzskq1" text="Elmo completo" />
     <string id="RtlqkbZ9" text="Machado tribal" />
     <string id="RWKafLdU" text="Botas curvas orientais" />
-    <string id="rzhIJ8Yh" text="Capa do Peregrino" />
+    <string id="rzhIJ8Yh" text="Elmo do Peregrino" />
     <string id="S0IkfoDo" text="couro banhado no leste" />
     <string id="S9htzkbe" text="Chapéu do comerciante" />
     <string id="Se3La8Aq" text="Mace pesado do sul" />
@@ -510,19 +511,20 @@
     <string id="SqbWZS5a" text="Flechas da estepe" />
     <string id="SRZzySbP" text="Botas das montanhas" />
     <string id="SYvBTD0p" text="Elmo completo em tecido" />
+    <string id="sZsOeSQ4" text="Cavalaria Menavlion" />
     <string id="Szuxa9Bs" text="Botas leves" />
     <string id="t1HEYuSD" text="Adaga" />
     <string id="TbbFLhmu" text="Pike do sul" />
     <string id="TDCn5dar" text="Ombreiras acolchoados do império" />
     <string id="TfDFlmpb" text="Armadura de pele" />
-    <string id="TFT2Xapz" text="Elmo com viseira com tecido acolchoado" />
+    <string id="TFT2Xapz" text="Elmo com viseira acolchoado" />
     <string id="TGpFbISX" text="Elmo cravejado de couro" />
-    <string id="tiSffNik" text="Roudana de ferro com penas de ferro em couro" />
+    <string id="tiSffNik" text="Roudana penas de ferro em couro" />
     <string id="tiTTWhpW" text="Camisa de couro acolchoada" />
     <string id="Tj1Zb47Q" text="Botas de couro da estepe" />
     <string id="TjoKgbV6" text="Elmo fechado com viseira" />
     <string id="tKODIU0F" text="Ombreiras em couro" />
-    <string id="TmJubG8W" text="Capa de alça de ombrreiras da battania" />
+    <string id="TmJubG8W" text="Capa com ombreiras da battania" />
     <string id="tMLH04n4" text="Elmo" />
     <string id="tMwsE9IR" text="Botas de couro amarradas" />
     <string id="TpjbgasA" text="Elmo de general de guerra do norte" />
@@ -548,12 +550,12 @@
     <string id="UG8aeEQH" text="Cavalo de guerra imperial" />
     <string id="UHcXARc6" text="Ild" />
     <string id="ukQCN90m" text="Botas de couro orientais" />
-    <string id="uLpnmNkZ" text="Capa de couro" />
+    <string id="uLpnmNkZ" text="Chapéu de couro" />
     <string id="umnHnAqH" text="Lança do oriente" />
     <string id="UoHZGyZa" text="Elmo com proteção facial" />
     <string id="uqO6e6vN" text="Escudo" />
     <string id="uUGAMReu" text="Botas finas da cidade" />
-    <string id="UvJDlhMq" text="Capa do leste" />
+    <string id="UvJDlhMq" text="Chapéu do leste" />
     <string id="uvmmBd41" text="Escudo redondo do deserto" />
     <string id="UvOa4elc" text="Capuz Verde" />
     <string id="UWPEu577" text="Braçadeiras de latão do norte" />
@@ -622,7 +624,6 @@
     <string id="XH9f3yOX" text="Colete de couro sobre a túnica" />
     <string id="xjrQHxnO" text="Lança do norte" />
     <string id="xl5MgK49" text="Elmo de cavalaria pesado de Sturgia" />
-    <string id="xnDWqYKW" text="Caçador" />
     <string id="XOC81pVz" text="Elmo do deserto fechado com correio" />
     <string id="xODbCO6k" text="Arco composto" />
     <string id="XoISdMVx" text="Elmo nobre oriental com pelo" />
@@ -648,7 +649,7 @@
     <string id="yFjmkALW" text="Manto de couro do norte" />
     <string id="ygfhbfr0" text="Elmo" />
     <string id="Yh7Dorsr" text="Arreio de couro listrado" />
-    <string id="yMi4ijgI" text="Capa nômade acolchoada" />
+    <string id="yMi4ijgI" text="Capuz nômade acolchoada" />
     <string id="Yms2FQ7g" text="Armadura equestre" />
     <string id="YMtHkAUj" text="Casaco oriental grosso" />
     <string id="YNkPRmSj" text="Maça do norte" />
@@ -666,7 +667,7 @@
     <string id="zcDjjqjB" text="Espada bastarda das montanhas" />
     <string id="ZFde57gC" text="Sela acidentada das montanhas" />
     <string id="ZFETxZKP" text="Kefiyyeh com elástico" />
-    <string id="zGXZJFOb" text="Saia laminar" />
+    <string id="zGXZJFOb" text="Armadura de saia laminar" />
     <string id="ZjAZNjvu" text="Armadura equestre do norte" />
     <string id="zKJtr0MV" text="Cavalo Makeb" />
     <string id="zmEnxUpL" text="Armadura equestre de escamas imperial" />
