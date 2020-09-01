@@ -9,10 +9,12 @@
     <string id="2oLzxPGu" text="agressivo" />
     <string id="3ojhI49j" text="frio" />
     <string id="4Kb43rdf" text="fiel" />
+    <string id="52I465OW" text="ambicioso e manipulador" />
     <string id="5L4ox55u" text="Sempre foi {?NOTABLE.GENDER}a primeira{?}o primeiro{\?} a colocar a corda no pesço para defender suas causas." />
     <string id="5ogR7oUW" text="nobre e generoso" />
     <string id="6okDQlyn" text="cauteloso" />
     <string id="6tOrCXWu" text="Procura por aqueles que {?NOTABLE.GENDER}a{?}o{\?} serviram bem." />
+    <string id="85SsQ1xA" text="indigno de confiança" />
     <string id="8aAbnMIo" text="distante" />
     <string id="8D5Lx2LY" text="amável" />
     <string id="9bUlUrVI" text="feroz e cruel" />
@@ -38,10 +40,9 @@
     <string id="isnEHNXl" text="Defende o que {?NOTABLE.GENDER}ela{?}ele{\?} acredita." />
     <string id="jFLPNGdH" text="corajoso e honrado" />
     <string id="jqiKsw34" text="desonesto, mas de coração mole" />
-    <string id="JWTKNySw" text="apertado" />
+    <string id="JWTKNySw" text="avarento" />
     <string id="KFvms0sR" text="um homem que gosta de correr riscos calculados." />
     <string id="kKFLfWbJ" text="moralista" />
-    <string id="Ks88a8lp" text="um pouco mais" />
     <string id="KxjSILpL" text="o tipo que aproveita todas as vantagens" />
     <string id="L3b9ZsLs" text="desonesto" />
     <string id="LCs7NMyz" text="Você não encontrará aquele correndo em perigo." />
@@ -82,6 +83,7 @@
     <string id="xSbcea2l" text="não confiável" />
     <string id="Y8WpovVO" text="decente, mas cauteloso" />
     <string id="YeK2rAWJ" text="cruel" />
+    <string id="yl2q8dL8" text="cruel" />
     <string id="Yyw81AGG" text="amigável, mas manipulador" />
     <string id="znOeRtlb" text="um planejador" />
   </strings>

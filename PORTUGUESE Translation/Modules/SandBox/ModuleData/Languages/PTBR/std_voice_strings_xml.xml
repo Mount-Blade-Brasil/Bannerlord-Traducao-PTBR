@@ -29,7 +29,9 @@
     <string id="axO6JCWt" text="Pare por aí. Quero saber seu nome. Diga-me!" />
     <string id="ay0tHozl" text="Sim? Diga-me seu nome?" />
     <string id="AYeRBAxA" text="Alto! Não chegue mais perto. Perdoe-me, mas preciso ser cautelosa. Diga-me seu nome." />
+    <string id="aZeMzNXf" text="Sim? Você quer algo de mim? Quem é você?" />
     <string id="B05S6Fw4" text="Quem é você e o que você quer?" />
+    <string id="B0YYHX47" text="Sim? Você precisa de algo de mim? Quem é Você?" />
     <string id="b9DEXqta" text="Pare lá. Certo... Então podemos conversar um pouco. Mas tente qualquer coisa, e meus meninos vão te derrubar." />
     <string id="bI4IbX25" text="{STR_SALUTATION}... Bem... Faz um tempo desde a última vez que te vi. Não posso dizer que me importo." />
     <string id="BXpMYumQ" text="Bem... Perdoe-me se não posso lhe desejar 'paz', velho amigo. O destino faz o que quiser." />
@@ -37,8 +39,10 @@
     <string id="CdHlFmue" text="Diga-me seu nome. Perdoe-me se já o conheci antes e não me lembro da ocasião, pois vi muitos guerreiros chegarem a esta terra e passarem rapidamente para sepulturas rasas." />
     <string id="CEKlT71P" text="Bem. Aqui estamos. Dê-me um funeral decente se eu cair pela sua espada, e farei o mesmo por você. Você tem algo a dizer?" />
     <string id="CiquaIVy" text="Parece que seus pecados ainda não o alcançaram. Mas eles vão, acredite, eles vão." />
+    <string id="cOEodlOB" text="O que deseja de mim?" />
     <string id="cXQm4Wba" text="Pare... Se você respeitar os termos do acordo, eu vou ouvi-lo." />
     <string id="d6LHL0Fj" text="Parece que você foi pego, e estou feliz por ter sido eu quem o pegou." />
+    <string id="dHxX40H0" text="Bem. Então eu acho que você e eu estamos brigando. É assim que o destino vai. Algo a dizer?" />
     <string id="DwqTbXhg" text="Bem... A menos que eu esteja errado, eu diria que você tem uma chance muito boa de se encontrar com seus ancestrais ao final deste dia." />
     <string id="DXYVZbcz" text="{STR_SALUTATION}... Pronto para me dar uma boa luta?" />
     <string id="F1KEe2XG" text="Por favor, seja breve. Estou com pressa." />
@@ -53,6 +57,7 @@
     <string id="h6g4OQqT" text="Pare aí mesmo. Diga-me seu nome, antes de cruzarmos as espadas." />
     <string id="hAbpAkIw" text="{STR_SALUTATION}... Eu acho que sua sorte acabou." />
     <string id="hbvuSLB0" text="Bem. Aqui estamos. Certa vez, pensei que a nossa amizade era sagrada, mas todas as coisas sagradas são profanadas no final. Não pense que não vou te matar, se for preciso." />
+    <string id="hW0ce7Nd" text="Bem-vindo, ao meu pequeno reino. Quem é você?" />
     <string id="iNYLG9P1" text="Estou muito zangada contigo. Muito tempo se passou desde a última vez que você me visitou." />
     <string id="IU3KjVbT" text="Está perto o suficiente. Quem é Você?" />
     <string id="j6p0K0s6" text="{STR_SALUTATION}. Eu sou seu para comandar." />
@@ -61,7 +66,7 @@
     <string id="KJsVOyUE" text="{STR_SALUTATION}... Que prazer em vê-lo." />
     <string id="KnJoVOEk" text="{STR_SALUTATION}... Estou ao seu comando." />
     <string id="Kp0Mc35d" text="Pare. Quem é você?" />
-    <string id="l03Kxell" text="Pare... Antes de lutarmos, eu gostaria de saber seu nome." />
+    <string id="l03Kxell" text="Pare... Antes de lutarmos, gostaria de saber seu nome." />
     <string id="l0Bmbgqg" text="Não chegue mais perto. Antes de começarmos, quero saber seu nome." />
     <string id="laroTh3e" text="Você tem algo a dizer antes de eu que dê a ordem para atacá-lo?" />
     <string id="lbH0Fw9s" text="Eu esperei muito tempo por este dia. Dê uma boa olhada ao seu redor, pois em breve seus olhos terão pouco para ver, exceto o interior da barriga de um corvo." />
@@ -69,12 +74,12 @@
     <string id="LNhUaIoB" text="Estou de acordo!  Prepare-se para lutar." />
     <string id="LRpsEe3F" text="{STR_SALUTATION}... É bom te ver." />
     <string id="lvScVM9T" text="Por favor, seja breve. Estou com pressa." />
-    <string id="M5HVzG5S" text="{STR_SALUTATION}... Faz um tempo." />
     <string id="mcNlccCF" text="Sim? Eu acho que não te conheço. Acalme-se, estranho." />
     <string id="mHjnRrLk" text="Bem, não vou negar. Será um verdadeiro prazer vê-lo se contorcendo e sangrando no chão." />
     <string id="mkFfE4Pm" text="Está perto o suficiente, pare. Quem é Você?" />
     <string id="n5Va4JVo" text="Muito bom, haha, a justiça dos céus me encarregou de ser seu carrasco hoje. Você prefere a espada ou uma forca?" />
     <string id="nESnaBbx" text="Minha senhora... Você está adorável como sempre." />
+    <string id="nFPrHMdU" text="Urgh. O vinho aqui tem gosto de mijo. Enfim, o que você quer?" />
     <string id="nOMhLR63" text="{STR_SALUTATION}... Você está adorável como sempre." />
     <string id="Ny7o14yZ" text="Diga-me seu nome. Eu gosta de saber o nome de quem vou matar." />
     <string id="NZ9E0KVb" text="Você sabe que eu não ligo para você. O que você quer dizer?" />
@@ -82,6 +87,7 @@
     <string id="oqSF8Ueu" text="Bem, agora, estranho. Acalme-se. Qual é o seu nome?" />
     <string id="oYskGouF" text="{STR_SALUTATION}... Meu coração está feliz em vê-lo." />
     <string id="p1CHHIFb" text="Perdoe-me pelo que possa parecer cautela em abundância, mas, por favor, mantenha distância. Um pouco além do comprimento da espada está bom. Então, quem é você?" />
+    <string id="P3o4r7cB" text="O que você quer" />
     <string id="PCLD3G3s" text="{STR_SALUTATION}... Desejo-lhe paz e prosperidade, mas é claro que não quero isso." />
     <string id="pf3LDFVp" text="Mantenha sua espada na bainha, estranho. Quem é você?" />
     <string id="PiaaXapn" text="{STR_SALUTATION}... É muito bom te ver." />
@@ -108,17 +114,20 @@
     <string id="UW9Pexaq" text="{STR_SALUTATION}. Eu sou seu para comandar. Permita-me escrever sua vontade nas páginas da história em cartas de sangue. Ou o que mais você precisar..." />
     <string id="vvkBHcAL" text="Eu não te conheço. Eu suponho que você deveria me dizer seu nome." />
     <string id="vyeEx182" text="{STR_SALUTATION}... Eu não quero ter que lutar com você. Mas eu irei, amigo, irei." />
+    <string id="wAAdnzKD" text="as graças do Céus para você, embora, não se aproxime, pois posso enfiar uma faca na sua barriga, pois hoje em dia não se pode ter muito cuidado." />
     <string id="WAK8lSaW" text="Bom dia para você. Então, quem é você?" />
     <string id="wIXmtKa5" text="Que surpresa agradável! Eu acredito que vou gostar disso. Você tem algo a dizer antes de eu dar a ordem para atacar?" />
     <string id="wzhYA3XN" text="{STR_SALUTATION}... Não sei o que temos a dizer um ao outro." />
     <string id="xAaxpdb3" text="{STR_SALUTATION}... É muito, muito bom te ver." />
     <string id="xiFrtNGH" text="Ah... o destino sorri para mim hoje. Não consigo pensar em música mais doce do que seu chocalho da morte." />
     <string id="XmwqrCLY" text="{STR_SALUTATION}... Você sabe, bandidos inchados como você sempre conseguem o que merecem, no final." />
+    <string id="xtCrabo9" text="Não te conheço. Quer me dizer seu nome" />
     <string id="y41EYSBI" text="{STR_SALUTATION}. É bom te ver." />
     <string id="yd0sShGW" text="Pare lá. Quem é Você? Eu gosto de saber o nome de quem irei matar." />
     <string id="YGAYp0pO" text="Sim? Desculpe-me, acho que não te conheço." />
     <string id="YJvvaeDq" text="{STR_SALUTATION}... É melhor você rezar aos céus por misericórdia, pois eu não vou ter por você!" />
     <string id="YubrUiab" text="{STR_SALUTATION}... Ora... você ainda está vivo. Que pena." />
+    <string id="YzBDQ8J3" text="Então... Só para você saber, esse aqui é meu território. Agora, quem é você?" />
     <string id="Z2bRJhTh" text="{STR_SALUTATION}... Se você morrer bem hoje, vou ter certeza de que sua coragem será lembrada." />
     <string id="z3zTyNru" text="Chegue mais perto, estranho, e eu enfio uma faca na sua barriga. Mas se você ficar onde está, podemos ter uma conversa suficientemente agradável." />
     <string id="ZBjXh6cA" text="Pare por aí, estranho. Eu lhe ofereço paz. Pelo menos até eu descobrir quem você é." />

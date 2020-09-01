@@ -4,7 +4,7 @@
     <tag language="Português Brasileiro" />
   </tags>
   <strings>
-    <string id="dnKQbXIZ" text="Não foi possível reportar o jogador: o jogo não existe." />
-    <string id="ivKntfNA" text="Já solicitado para ingressar, aguardando resposta do servidor" />
+    <string id="0xC75dN6" text="Equipe inimiga" />
+    <string id="sSJSTe5p" text="Jogador do grupo" />
   </strings>
 </base>

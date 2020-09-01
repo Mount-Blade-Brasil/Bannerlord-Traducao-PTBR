@@ -5,7 +5,6 @@
   </tags>
   <strings>
     <string id="09gOOa0h" text="Soldado" />
-    <string id="1sJcKkVP" text="Guarda" />
     <string id="4C4WiTb2" text="Sentinela" />
     <string id="6aqDcMPr" text="Armadura Máxima (55)" />
     <string id="8qg72H8Z" text="Guerreiro tribal" />
@@ -13,6 +12,7 @@
     <string id="bHx8jaeI" text="Guerreiro" />
     <string id="CAYZDsAj" text="Legionário" />
     <string id="cbnvgVhH" text="Saqueador" />
+    <string id="coursercavalryman" text="Corsel" />
     <string id="Cp7dI87a" text="Vanguarda" />
     <string id="DMxJJWxt" text="Recrutador" />
     <string id="Dq1sCO1y" text="Arbelist" />
@@ -24,9 +24,11 @@
     <string id="ft6QaIms" text="Cataphract" />
     <string id="g9VIbA9s" text="Sergento" />
     <string id="gLlheMwd" text="Recruta leve" />
+    <string id="guardnoun" text="Guarda" />
     <string id="gytrdYMU" text="Mameluko" />
     <string id="hchDYAKL" text="Lanceiro" />
     <string id="HCzbW0hE" text="Guerreiro do Clã" />
+    <string id="huntertroop" text="Caçador" />
     <string id="ieiqOaZp" text="Arqueiro" />
     <string id="ixqTFMVA" text="Guereiro Montado" />
     <string id="j5I7tYSd" text="Guerreiro Fiann" />
@@ -38,17 +40,15 @@
     <string id="naBbiK9v" text="Plebeu" />
     <string id="NJRUb0C1" text="Guarda Paladino" />
     <string id="nt7wUxIa" text="Beduino" />
-    <string id="PoY2Vh7K" text="Arqueiro da Estepe" />
     <string id="q1tbZIR9" text="Armadura Mediana (37)" />
-    <string id="rdIGpLLh" text="Corsário" />
-    <string id="RjjIbn4V" text="Veterano" />
     <string id="RssJTUpL" text="Berserker" />
     <string id="s9oED1IR" text="Escaramuçadores" />
+    <string id="steppebowtroop" text="Arco da estepe" />
     <string id="Tm3CY9tC" text="Armadura Baixa (12)" />
     <string id="TNQaD5p2" text="Arqueiro Miliciano" />
+    <string id="veterantroop" text="Veterano" />
     <string id="WtEoXblx" text="Cavaleiro" />
     <string id="XeXJAB6a" text="Infantaria Menavlion" />
-    <string id="xnDWqYKW" text="Caçador" />
     <string id="yDiWi6SO" text="Selvagem" />
     <string id="ZKdiaaFo" text="Brigadista" />
   </strings>

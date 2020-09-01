@@ -19,6 +19,8 @@
     <string id="F8TaKnjh" text="Quando você está caminhando por uma cidade ou vila, mantenha pressionada a tecla Alt parar marcar as pessoas importantes e pontos de interesse." />
     <string id="fbaQp3ox" text="Ative a alocação automática de vantagens para os membros do seu clã." />
     <string id="hEYfasE1" text="Recebeu taxa de dano ao seu personagem." />
+    <string id="HMFb1gaq" text="Igualitário" />
+    <string id="hR6Zo6pD" text="Oligárquico" />
     <string id="HVrobtL5" text="Novo nome do reino:{newline}- Não pode incluir dígitos.{newline}- Não pode ter mais que {MAX_LETTER_COUNT} caracteres.{newline}- Não pode ter menos que {MIN_LETTER_COUNT} caracteres." />
     <string id="IgeL6qHr" text="Taxa de dano recebida por seus aliados que não estão sob seu comando." />
     <string id="IWD56KMc" text="Velocidade de movimento" />
@@ -31,6 +33,7 @@
     <string id="LfpteADn" text="Determine a dificuldade da IA ​​de combate" />
     <string id="mD89ih8N" text="Alterar nome do clã" />
     <string id="N6fz1efb" text="Ignora o tutorial no início do jogo." />
+    <string id="NaMPa4ML" text="Autoritário" />
     <string id="Oea9a5nY" text="Tropas amigáveis receberão dano" />
     <string id="qc9Llr3x" text="Herói" />
     <string id="QGA2TilH" text="Nas janelas do jogo, você pode clicar com o botão direito do mouse em um item para abrir a enciclopédia. Isso funciona nos retratos dos personagens, ícones de cidades e a maioria dos outros elementos." />
@@ -38,13 +41,13 @@
     <string id="QzmJL5I7" text="Fácil (+1 extra)" />
     <string id="raD9MK3O" text="Dificuldade" />
     <string id="ReNnVfEn" text="Alterar nome do reino" />
-    <string id="RjjIbn4V" text="Veterano" />
     <string id="RZFAxCMp" text="Muito fácil (+bônus de 10%)" />
     <string id="sp8Kred0" text="O membro precisa estar no grupo do jogador para executar esta ação." />
     <string id="sYVFg9ai" text="Dificuldade de Combate da IA" />
     <string id="TZ9ugd1p" text="Alocar automaticamente vantagens de membros do clã" />
     <string id="UcgNVM0P" text="Muito fácil (+2 extras)" />
     <string id="UfQotsfo" text="Classificação #" />
+    <string id="veterandifficulty" text="Veterano" />
     <string id="vGF5S2hE" text="Tabela de classificação" />
     <string id="wip6jLEM" text="Taxa de dano recebido por suas tropas." />
     <string id="ZcyJePFm" text="Danos recebidos por unidades aliadas" />

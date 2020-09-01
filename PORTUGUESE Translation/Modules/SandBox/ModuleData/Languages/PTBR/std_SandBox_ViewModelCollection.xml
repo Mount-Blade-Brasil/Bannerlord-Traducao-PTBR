@@ -15,10 +15,10 @@
     <string id="azJulvrp" text="{?IS_BETTING} Você perderá {BET_AMOUNT}{GOLD_ICON} se perder.{newline}{?}{\?}Deseja realmente perder?" />
     <string id="bV75iwKa" text="Salvar" />
     <string id="CiIWjF3f" text="+ {PRISONERAMOUNT}p" />
+    <string id="deleteaction" text="Excluir" />
     <string id="eiWQoW9j" text="Você ganhou {A0} de renome." />
     <string id="eL8nhkhQ" text="Criar novo slot de salvamento" />
     <string id="eTw2aNV5" text="+" />
-    <string id="GAWxyVgq" text="Excluir" />
     <string id="GZWPHmAw" text="Dia: {DAY}" />
     <string id="HH2mZq8J" text="Tem certeza de que deseja excluir este jogo salvo?" />
     <string id="hiCxFj4E" text="Campanhas salvas" />
