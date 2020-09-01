@@ -11,7 +11,6 @@
     <string id="81YLbLok" text="Experience with the darker side of human life. You can tell when a guard wants a bribe, you know how to intimidate someone, and have a good sense of what you can and can't get away with." />
     <string id="8w0aaDbn" text="Iron" />
     <string id="97EmbcHQ" text="The ability to inspire. You can fill individuals with confidence and stir up enthusiasm and courage in larger groups." />
-    <string id="abxndmIh" text="Social" />
     <string id="Aj3zqQq4" text="Not available" />
     <string id="azjMBa86" text="Fine Steel" />
     <string id="Bn7IsMpu" text="INT" />
@@ -53,6 +52,8 @@
     <string id="PiHpR4QL" text="One Handed" />
     <string id="qwEJSBaH" text="Your knowledge of what makes a settlement prosper. This helps you to manage an estate or administer a town." />
     <string id="skZS2UlW" text="Athletics" />
+    <string id="smithingskill" text="Smithing" />
+    <string id="socialskill" text="Social" />
     <string id="sOrJoxiC" text="Intelligence" />
     <string id="t78atYqH" text="Two Handed" />
     <string id="TeUtEGV0" text="Intelligence represents aptitude for reading and theoretical learning." />
@@ -67,12 +68,12 @@
     <string id="vLVAfcta" text="Thamaskene Steel" />
     <string id="vx0OCvaj" text="Control represents the ability to use strength without sacrificing precision. It's necessary for using ranged weapons." />
     <string id="XMDTt96y" text="Social is the ability to understand people's motivations and to sway them." />
-    <string id="xs0MpdCM" text="Smithing" />
     <string id="xWbkjccP" text="The knowledge of how to forge metal, match handle to blade, turn poles, sew scales, and other skills useful in the assembly of weapons and armor" />
     <string id="yEkSSqIm" text="Mastery of fighting with one-handed weapons either with a shield or without." />
     <string id="Ymw2PKBo" text="Steward" />
     <string id="YO5LUfiO" text="Cunning is the ability to predict what other people will do, and to outwit their plans." />
     <string id="YWkdD7Ki" text="Vigor" />
+    <string id="ZBmz4niK" text="and" />
     <string id="zfRqM4mr" text="Control" />
   </strings>
 </base>

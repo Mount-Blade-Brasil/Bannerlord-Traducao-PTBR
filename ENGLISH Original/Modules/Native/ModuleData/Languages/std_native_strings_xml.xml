@@ -6,6 +6,7 @@
   <strings>
     <string id="01zQKaF3" text="Eye Shape" />
     <string id="034LYlKi" text="Face Walls" />
+    <string id="05loYcST" text="Hit shield on back" />
     <string id="05w8Tl7n" text="Steppe" />
     <string id="0cpbEvsG" text="Old Face" />
     <string id="0DBQGaka" text="Delivered couched lance damage!" />
@@ -53,6 +54,7 @@
     <string id="621DbiOw" text="Nose Asymetry" />
     <string id="64n3piBf" text="Total Games" />
     <string id="6DBVzw9r" text="Build" />
+    <string id="6usZYAVm" text="Communication Abuse" />
     <string id="6yZnboe6" text="Eye Socket Size" />
     <string id="74tYdiOb" text="Select your troops wisely according to your team's needs. Troop counts are determined by troop strength." />
     <string id="77arWi0m" text="Eye Inner Height" />
@@ -235,6 +237,7 @@
     <string id="oGAzC0Ob" text="Game Mode" />
     <string id="Oud3W58w" text="Hold ({KEY}) {ACTION}" />
     <string id="OVcoYxj1" text="Server Name" />
+    <string id="OviaJ1tA" text="Other" />
     <string id="ox8XcxfR" text="Ear Shape" />
     <string id="OZHFucP5" text="Frown/Smile" />
     <string id="pa4yXyDa" text="{PLAYER_COUNT} vs {PLAYER_COUNT}" />
@@ -248,6 +251,7 @@
     <string id="PiHpR4QL" text="One Handed" />
     <string id="PiLml6Nl" text="Attackers hold the keep flag for 90 seconds before morale or time runs out. Capturing flags will increase morale.{newline}Defenders defend the castle until enemy morale runs out." />
     <string id="Pkw17hO0" text="Combat Speed" />
+    <string id="pMmmfvkN" text="Inappropriate Play" />
     <string id="pnUSAxzf" text="Add Official Game Server List" />
     <string id="pQibMlbA" text="Nose Bump" />
     <string id="PuX1G0h3" text="Riding Skill Not Adequate To Mount" />
@@ -271,6 +275,7 @@
     <string id="rbz1Bwbv" text="Inventory" />
     <string id="RJEHDWmu" text="·   Buy limited respawns using gold{newline}·   Hold control points on the map to deplete enemy morale{newline}·   Kill the entire enemy team or exhaust their morale to win" />
     <string id="RlDVtPpB" text="Eye Depth" />
+    <string id="rLozutts" text="Request Friendship" />
     <string id="rTFaZCdY" text="Forest" />
     <string id="rTPnyeJ3" text="Shield Wall" />
     <string id="Rvr1bcu8" text="Next" />
@@ -329,6 +334,7 @@
     <string id="V4iU0wRv" text="Gold" />
     <string id="V6BAHTnv" text="Culture Team 2" />
     <string id="VbeHEAsa" text="Retreat" />
+    <string id="VecPWliR" text="Excessive reporting of a player may result in a ban." />
     <string id="VI4gQt8Q" text="Mace" />
     <string id="vkEzdL3k" text="Change game type or scene" />
     <string id="vLjgcdgB" text="Snow" />
@@ -388,6 +394,7 @@
     <string id="zmlCRb1M" text="Max Number Of Players" />
     <string id="ZMmrpMPk" text="Neck" />
     <string id="zpNSyauI" text="Spawn with better troops by using gold depending on your kills on the battlefield." />
+    <string id="ztGHtRNf" text="Cheating" />
     <string id="ZYChhMrO" text="Draw" />
     <string id="ZZMbAjSU" text="Crushed through!" />
   </strings>

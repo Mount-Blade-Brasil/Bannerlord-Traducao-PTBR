@@ -11,12 +11,12 @@
     <string id="13wo3QQB" text="Secondary" />
     <string id="154a34f8caccfc833238cc89d38861e8" text="Requires: " />
     <string id="1CXlqb2U" text="Pick:" />
-    <string id="1oeak0OC" text="Forge" />
     <string id="2abtb4xu" text="Independent" />
     <string id="2ckyCKR7" text="Reserve" />
     <string id="2Cq3tViJ" text="Party Troop Size Limit" />
     <string id="2GWR9Cba" text="Hearth" />
     <string id="2htkK82b" text="Available cultures are limited to the clan’s culture as well as any owned settlements’ cultures." />
+    <string id="2lFwF07j" text="Change Name" />
     <string id="2nN1QuxZ" text="This quest will be failed unless completed in this time." />
     <string id="3025020b83b218707499f0de3135ed0a" text="Maneuver: " />
     <string id="305cf7f98458b22e9af72b60a131714f" text="Horse Armor: " />
@@ -47,6 +47,7 @@
     <string id="8SOh9bah" text="Choose Production" />
     <string id="92M0Pb5T" text="Scout" />
     <string id="94aHU6nD" text="Construction" />
+    <string id="9huJZblF" text="Last Run" />
     <string id="9i0wnjJK" text="L-II : {BONUS}" />
     <string id="9slDj5wr" text="Change Production" />
     <string id="a241aacb1780599430c79fd9f667b67f" text="Party Morale: " />
@@ -63,7 +64,6 @@
     <string id="AxRxT2Xj" text="Once a party is disbanded, it merges into a near clan party or goes to nearest map faction settlement and joins its garrison.\nYou will not be able to undo / cancel this action.\nAre you sure?" />
     <string id="bAqDnkaT" text="Missile Speed" />
     <string id="bd7oAQq6" text="Daily" />
-    <string id="bdp65LWd" text="Clan Role" />
     <string id="bfQLwMUp" text="Clans" />
     <string id="BgqZWbga" text="The nobles of the realm will dislike you for abandoning your fealty. Are you sure you want to leave the Kingdom?" />
     <string id="BifGz0h4" text="Patrolling" />
@@ -72,29 +72,30 @@
     <string id="BrY8itaf" text="Your dispatched parties for issues / quests will show up here. They don't count towards your clan's party limit." />
     <string id="C2qpwFq5" text="Owner of {SETTLEMENTS}" />
     <string id="c5eYzHaM" text="{DAYS} {?DAY_IS_PLURAL}Days{?}Day{\?} (%{PERCENTAGE})" />
+    <string id="c6BtCIrX" text="{DAYS} days ago" />
     <string id="c6e4c8588ca9e42f6e1b47b11f0f367b" text="Length: " />
     <string id="c7638a0869219ae845de0f660fd57a9d" text="Charge Damage: " />
     <string id="c9c5dfed2ca6bcb7a73d905004c97b23" text="Damage: " />
     <string id="ca8b1e8956057b831dfc665f54bae4b0" text="Handling: " />
-    <string id="CaRbMaZY" text="Daily Wage:" />
+    <string id="CaRbMaZY" text="Daily Wage" />
     <string id="cbbUzYX3" text="Difficulty: {DIFFICULTY}" />
     <string id="CExQ40Ux" text="{PARTY_1S_MEMBERS}   " />
     <string id="cf61cce254c7dca65be9bebac7fb9bf5" text="Arm Armor: " />
+    <string id="cJmI2poS" text="Info" />
     <string id="cnmRwV4s" text="Ammo Limit" />
     <string id="CnsIzaWo" text="Field Battle" />
     <string id="cUUI8u2G" text="Smithy Stamina" />
     <string id="d2K6gMsZ" text="Leave members. Need at least 1 companion." />
     <string id="DAmdTxuC" text="Army Manage" />
-    <string id="DbHLHwkX" text="Smelt" />
     <string id="DNq9bdvV" text="{THRUST_DAMAGE_FACTOR}" />
     <string id="dO95yR9b" text="Thrust Damage" />
     <string id="Dqydb21E" text=" {PARTY_SIZE}" />
     <string id="dWYm9GsC" text="Requires" />
-    <string id="DzviXC3W" text="Level:" />
+    <string id="DXczLzml" text="Status" />
+    <string id="DzviXC3W" text="Level" />
     <string id="e8390c3480028e34c370c7b60ebc41e2" text="Horse Type: " />
     <string id="ebbyLN2i" text="Towns" />
     <string id="eHVq6yDa" text="Item Properties" />
-    <string id="eikN2SUN" text="Last run {DAYS} days ago." />
     <string id="eIws123Z" text="Leg Armor" />
     <string id="EQHq3bHM" text="Travelling to {TARGET_PARTY}" />
     <string id="ErnykQEH" text="Outputs" />
@@ -111,18 +112,17 @@
     <string id="fI7a7RoE" text="Inventory Capacity" />
     <string id="FjJi1DJb" text="This hero is already a part of an another party" />
     <string id="fOSGakix" text="You cannot manage an army while you're a prisoner." />
+    <string id="g4XqKGUr" text="Party already has a member with this role." />
     <string id="G6cCjixe" text="{COMPLETION_PERCENT} (Approximately {DAYS} days to complete)" />
     <string id="g9VIbA9s" text="Sergeant" />
     <string id="GCaYjA5W" text="You need to be the leader of the clan to change it's name." />
     <string id="gduqxfck" text="You don't have all required materials!" />
-    <string id="GgfucQ86" text="Expel" />
     <string id="ggpRTQQl" text="Party Leader" />
     <string id="gsVtO9A7" text="Militia" />
     <string id="HAaElX8X" text="{PARTY_OWNERS_FACTION}" />
     <string id="HcAV8x7p" text="Party Member" />
     <string id="HFZdseH9" text="Only the ruler of the kingdom can change it's name." />
     <string id="HHTQVp52" text="Heroes Healing Rate" />
-    <string id="hJypvWMR" text="Refine" />
     <string id="HkfY3Ds5" text="Body Armor" />
     <string id="hn9TPqhK" text="Weapon Tier" />
     <string id="horseTier" text="Horse Tier: " />
@@ -232,7 +232,7 @@
     <string id="QyVbwGLp" text="{PARTY_SIZE}" />
     <string id="qZvNIVGV" text="There is no one available in your clan who can lead a party right now." />
     <string id="R2AaCaPJ" text="Expected Change" />
-    <string id="Ra17aK4e" text="Capital:" />
+    <string id="Ra17aK4e" text="Current Capital" />
     <string id="Raa4j4rF" text="Required: {UPGRADE_ITEM}" />
     <string id="RClxLG6N" text="Holding" />
     <string id="redwEIlW" text="Quartermaster" />
@@ -249,6 +249,7 @@
     <string id="s6koeapc" text="{MAP_FACTION}" />
     <string id="S9tmCkHz" text="This hero is clearing a common area" />
     <string id="sa2TQu1G" text="This hero is busy with an issue." />
+    <string id="ScDj827c" text="Initial Capital" />
     <string id="Sls0KQVn" text="Elections" />
     <string id="slzfQzl3" text="This hero is lost" />
     <string id="sqdzHOPe" text="Class" />

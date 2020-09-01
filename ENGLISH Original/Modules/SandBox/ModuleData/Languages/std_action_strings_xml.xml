@@ -5,10 +5,10 @@
   </tags>
   <strings>
     <string id="1B57e3WC" text="{HERO} overruled the will of the council of {FACTION}" />
+    <string id="3aYSoETE" text="{MOTHER.LINK} has given birth to a healthy baby." />
     <string id="6q9sb18u" text="{HERO_2.LINK} is murdered." />
     <string id="7SHqWNzE" text="{COMMON_AREA} in {SETTLEMENT} is now cleared of thugs." />
     <string id="7tx9sch3" text="Hideout spotted" />
-    <string id="8jQVL5sv" text="{MOTHER.LINK} has given birth to {CHILD.LINK}, but a twin was stillborn." />
     <string id="8Klpa7Xa" text="{INSULTER.LINK} has sworn vengeance against {INSULTEE.LINK}." />
     <string id="8wlvxzuP" text="{HERO_1.LINK} has met {HERO_2.LINK}." />
     <string id="a0qduLNq" text="{SETTLEMENT} is safe now." />
@@ -46,7 +46,6 @@
     <string id="MoYYusXJ" text="{INSULTER.LINK} has said {INSULTEE.LINK} caused a setback on the battlefield by failing to follow orders." />
     <string id="nPF738Cb" text="{INSULTER.LINK} has accused {INSULTEE.LINK} of stirring up trouble among the people." />
     <string id="orDGbYZE" text="{INSULTER.LINK} has quarreled with {INSULTEE.LINK}." />
-    <string id="P6wGNIb6" text="{MOTHER.LINK} has given birth to {CHILD.LINK}." />
     <string id="P9RGAGFC" text="{MOTHER.LINK} has died in childbirth." />
     <string id="pBMMXwVa" text="{INSULTER.LINK} claims {INSULTEE.LINK} has been trying to fraudulently acquire land." />
     <string id="pHyqL3bw" text="{HERO.LINK} has been born to {MOTHER.LINK} and {FATHER.LINK}." />
@@ -55,13 +54,11 @@
     <string id="RpVrqXOU" text="{INSULTER.LINK} has quarreled with {INSULTEE.LINK} over a fief." />
     <string id="S0oFKYfB" text="{CLAN} no longer serves {KINGDOM}." />
     <string id="TsYCa2fZ" text="{FACTION1} has made peace with {FACTION2}" />
-    <string id="uXLDudpa" text="{MOTHER.LINK} has given birth to twins, but they were stillborn." />
     <string id="WiiRaLyK" text="{INSULTER.LINK} has said {INSULTEE.LINK} caused a setback on the battlefield by behaving rashly." />
     <string id="XRTcnnR2" text="{HERO.LINK} is fugitive." />
     <string id="xss7eP0f" text="{PARTY} is raiding {SETTLEMENT}" />
     <string id="y8WlfdqZ" text="{LORD.LINK}" />
     <string id="yUaE3eeX" text="{SETTLEMENT} is cleaned." />
-    <string id="z6tHRStO" text="{MOTHER.LINK} has given birth to twins, {CHILD1.LINK} and {CHILD2.LINK}." />
     <string id="ZQ0bn7l7" text="{HERO_1} is responsible for the death of {HERO_2}" />
   </strings>
 </base>

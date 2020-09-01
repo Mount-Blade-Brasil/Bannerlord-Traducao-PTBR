@@ -5,11 +5,13 @@
   </tags>
   <strings>
     <string id="06V7fEV4" text="Press ESC to go back" />
+    <string id="0B27RrYJ" text="Battania" />
     <string id="2Q6Mm9Jo" text="Gamepad Options" />
     <string id="2zcrC0h1" text="Gameplay" />
     <string id="3CpNUnVl" text="Cancel" />
     <string id="3CsACce8" text="Exit" />
     <string id="4Dd2xgPm" text="Weight" />
+    <string id="4NaOKslb" text="-" />
     <string id="4OGDnOVE" text="with {OPPONENT_NAME}" />
     <string id="5baU17n0" text="Matchmaking feature is currently disabled" />
     <string id="5k4dxUEJ" text="Troops" />
@@ -28,11 +30,11 @@
     <string id="AaAcmalE" text="You've been invited to join a party by" />
     <string id="aalbxe7z" text="Army Size" />
     <string id="aB4Md0if" text="Has players" />
-    <string id="abxndmIh" text="Social" />
     <string id="ahiBhAqU" text="Armor" />
     <string id="aO3avkK9" text="Matchmaking Disabled" />
     <string id="ApD0xQXT" text="{STR1}: {STR2}" />
     <string id="aRzlp5XH" text="CREATE" />
+    <string id="aseraifaction" text="Aserai" />
     <string id="aVixswW5" text="Team Selection" />
     <string id="b31ITmm0" text="Stack Amnt." />
     <string id="b9PT1Yxc" text="Select a game type" />
@@ -45,11 +47,11 @@
     <string id="chfTxqZg" text="Invalid command." />
     <string id="cK5DE88I" text="N/A" />
     <string id="cLJdeUWz" text="Height:" />
+    <string id="cw5QyeRU" text="Report Reason" />
     <string id="D0TbQm4r" text="BREACHED" />
     <string id="d5SNB0HV" text="Pick {ITEM_NAME}" />
     <string id="DAVb2Pzg" text="Charge Dmg." />
     <string id="Dbkx4v90" text="ROUND LOST" />
-    <string id="DdOgvhsV" text="Kick" />
     <string id="DKqLY1aJ" text="Equip" />
     <string id="DmaP2qaR" text="Skin Type" />
     <string id="dMdmyb3Y" text="Password Protected" />
@@ -57,16 +59,19 @@
     <string id="DQvGNQ0g" text="There isn't any unit under command." />
     <string id="eCOJSSUH" text="({BOT_COUNT} Bots)" />
     <string id="eGuQKRhb" text="You are leaving the area!" />
+    <string id="empirefaction" text="Empire" />
     <string id="Etjqamlh" text="{PLAYER_COUNT} Players" />
     <string id="EUAKPHek" text="Build:" />
     <string id="F7dBjl83" text="Custom Battle feature is currently disabled" />
     <string id="FD7EQDmW" text="Looking for game" />
     <string id="ffjTMejn" text="Stats" />
+    <string id="FjwRsf1C" text="Vlandia" />
     <string id="fM9E7frB" text="Performance" />
     <string id="FRSGOfUJ" text="Toggle include Combat Log" />
     <string id="ftoSCQ0x" text="Length" />
     <string id="g1lgiwn1" text="Not Logged In" />
     <string id="G6hYIR5k" text="Voice Pitch:" />
+    <string id="gamevideo" text="Video" />
     <string id="gcl2duJH" text="Reset your badge" />
     <string id="GGseMDd3" text="Durability" />
     <string id="GMhOZGnb" text="Cannot issue order while dead." />
@@ -77,10 +82,10 @@
     <string id="H1emUb6k" text="Age:" />
     <string id="hazebV8x" text="Customize Character" />
     <string id="hbwp3g3k" text="+{FRIEND_COUNT}\n{?PLURAL}friends{?}friend{\?}" />
+    <string id="hometab" text="Home" />
     <string id="Hp2wp3et" text="Accept (F1)" />
     <string id="HXxNfncd" text="End of Battle" />
     <string id="i0OEsfLt" text="Custom Battle Disabled" />
-    <string id="IBEJPlEj" text="Home" />
     <string id="Ie9I2Bha" text="Thrust Dmg." />
     <string id="iKtIhlbo" text="Rounds" />
     <string id="IlQnJsUp" text="Flags Captured:" />
@@ -88,7 +93,6 @@
     <string id="iNqucBor" text="Logging In" />
     <string id="J0vjDOFO" text="Thrust Spd." />
     <string id="Jd44GGJW" text="{TEAM} team had the upper hand at timeout" />
-    <string id="JKCounzE" text="Video" />
     <string id="JPimShCw" text="Game Type" />
     <string id="jy9orOJz" text="Play" />
     <string id="jZ6GblZu" text="Favorite" />
@@ -121,7 +125,9 @@
     <string id="OVcoYxj1" text="Server Name" />
     <string id="OwqFpPwa" text="Filters" />
     <string id="P7moPm3F" text="Set as party leader" />
+    <string id="partykick" text="Kick" />
     <string id="pguhTmXw" text="Battle Results" />
+    <string id="PjO7oY16" text="Sturgia" />
     <string id="pSheKLB4" text="Spectator" />
     <string id="Q50X65NB" text="Classes" />
     <string id="qaycA9YY" text="Total Commendations:" />
@@ -143,9 +149,11 @@
     <string id="s31DnnAf" text="Damage" />
     <string id="saZ1OvPt" text="You can press the login button to establish connection" />
     <string id="SKjI2a8V" text="Leave from party" />
+    <string id="socialtab" text="Social" />
     <string id="SoQcsslF" text="CURRENT TEAM" />
     <string id="sPmQz21k" text="Enemy" />
     <string id="SxxxusWS" text="Select a player to kick" />
+    <string id="sZLd6VHi" text="Khuzait" />
     <string id="TAnabTdy" text="Accuracy" />
     <string id="tFLLx4J4" text="Most Played Classes" />
     <string id="tjioq56N" text="Friend List" />

@@ -188,6 +188,7 @@
     <string id="CgG2aRyh" text="Half Scale Barding" />
     <string id="CJCatm7j" text="Lighter Oaken Kite Shield" />
     <string id="CLYcnUra" text="Belted Leather Cuirass" />
+    <string id="courserhorse" text="Courser" />
     <string id="Cp5aIHqR" text="Northern Lamellar Vest" />
     <string id="cQMDVJnE" text="Imperial Battle Axe" />
     <string id="CtJPuRDa" text="Padded Leather Overcoat" />
@@ -289,6 +290,7 @@
     <string id="ho4bsI3Q" text="Imperial Scale Armor" />
     <string id="hRHPPQQP" text="Wrapped Headcloth" />
     <string id="hTRaPvRa" text="Highland Leather Boots" />
+    <string id="hunterhorse" text="Hunter" />
     <string id="hXijcZyp" text="Roughcloth Shortcoat" />
     <string id="I1faIdpc" text="Brawler" />
     <string id="i4CfsNGd" text="Imperial Mail Vest" />
@@ -487,7 +489,6 @@
     <string id="rabNzmeh" text="Eastern Long Spear" />
     <string id="radJHwRW" text="Heavy Horseman's Kite Shield" />
     <string id="RCq6DcvS" text="Northern Long Spear" />
-    <string id="rdIGpLLh" text="Courser" />
     <string id="RF7uVEGp" text="Bamboo Spear" />
     <string id="rifv0h0H" text="Northern Cavalry Kite Shield" />
     <string id="rOpxDHXL" text="Eastern Leather Lamellar Armor" />
@@ -623,7 +624,6 @@
     <string id="XH9f3yOX" text="Fur Waistcoat Over Tunic" />
     <string id="xjrQHxnO" text="Northern Lance" />
     <string id="xl5MgK49" text="Sturgia Heavy Cavalry Helmet" />
-    <string id="xnDWqYKW" text="Hunter" />
     <string id="XOC81pVz" text="Closed Desert Helmet With Mail" />
     <string id="xODbCO6k" text="Composite Bow" />
     <string id="XoISdMVx" text="Eastern Noble Helmet with Fur" />

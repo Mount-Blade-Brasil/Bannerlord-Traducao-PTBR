@@ -10,6 +10,7 @@
     <string id="3EOP6yhO" text="You have been kicked by anti-cheat. Reason: {KICKREASON}" />
     <string id="4XDu4Qcd" text="Only party leader can kick players from the party." />
     <string id="5kgkZo2o" text="Player you tried to kick is not in your party!" />
+    <string id="6cMSAe2Z" text="Could not report player. Player cannot be found." />
     <string id="91cJB1tP" text="Player {INVITEDPLAYER} is already in party." />
     <string id="963x2S0a" text="Friend has been removed" />
     <string id="aFQa3pQt" text="You have to be in lobby to promote another player to party leader." />
@@ -19,6 +20,7 @@
     <string id="bivF3RXY" text="You cannot promote yourself" />
     <string id="BwBR7TJB" text="No one left in your party and it has been disbanded!" />
     <string id="caMylVF7" text="Cannot queue to battle because no enabled game types are selected." />
+    <string id="cBY4Mymw" text="Player has been reported." />
     <string id="d4eShU5x" text="{PLAYER} accepted your friend request" />
     <string id="dabogDDj" text="You are already friends" />
     <string id="dDF2wZGu" text="{PLAYER} declined your friend request" />
@@ -58,6 +60,7 @@
     <string id="w8WiqZT3" text="You must run the game with Anti-cheat to join or create a party!" />
     <string id="wNubP2BF" text="Only party leader can queue for games." />
     <string id="Xb6TEi3o" text="You have declined the friend request" />
+    <string id="xHqjCamt" text="Could not report player. Game cannot be found." />
     <string id="xMa4QqvL" text="Current players in party: {PLAYERS}" />
     <string id="YF0irfDl" text="Player cannot be found" />
     <string id="ysfEQO6c" text="Player not found" />

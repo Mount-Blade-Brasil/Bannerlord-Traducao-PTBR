@@ -4,6 +4,7 @@
     <tag language="English" />
   </tags>
   <strings>
+    <string id="dnKQbXIZ" text="Could not report player: Game does not exist." />
     <string id="ivKntfNA" text="Already requested to join, waiting for server response" />
   </strings>
 </base>
